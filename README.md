@@ -37,3 +37,5 @@ The Bekker citation units are inadequate for modern research: (1) the precise lo
 2. The Perseus Digital Library includes the 1932 English translation by William Hamilton Fyfe, which is based on the 1885 (3rd) Leipzig edition by Johannes Vahlen (a full scan of which is [available at the Hathi Trust](https://hdl.handle.net/2027/uc1.aa0015641178)).
 
 The TEI XML version of this translation is now compliant with the Canonical Text Services guidelines. The file is [available on Github](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0086/tlg034/tlg0086.tlg034.perseus-eng2.xml) and in both [Perseus 4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0056%3Asection%3D1447a) and the [Scaife Viewer](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2:1.1-1.5/). The Perseus 4 version will not change. Any improvements will be based upon the newer TEI XML and in newer versions of Perseus. 
+
+The updated XML uses the chapter and section breaks as the dominant citation scheme. Bekker page citations are encoded with the \<milestone> tag.
