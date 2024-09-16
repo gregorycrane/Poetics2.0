@@ -28,4 +28,12 @@ e)/ti de\ e)k po/swn kai\ poi/wn e)sti\ mori/wn,
 ....
 
 ```
+The Kassel edition simpoly does not contain the chapter and section breaks that other editors use -- not even as an alternate citation scheme. 
 
+The 1831 Bekker page breaks regularly appear in the middle of sentences and do not define logical units of the text. Bekker citations are coded as TEI XML \<milestone/> markers -- points in, rather than chunks of, the text.
+
+The Bekker citation units are inadequate for modern research: (1) the precise location of a citation such as 1447a10 is an approximate marker and will vary from edition to edition; (2) digital prose texts should always have editorially vetted sentence breaks with persistent citations so that they can work with sentence-based Natural Language Processing systems. 
+
+2. The Perseus Digital Library includes the 1932 English translation by William Hamilton Fyfe, which is based on the 1885 (3rd) Leipzig edition by Johannes Vahlen (a full scan of which is [available at the Hathi Trust](https://hdl.handle.net/2027/uc1.aa0015641178)).
+
+The TEI XML version of this translation is now compliant with the Canonical Text Services guidelines. The file is [available on Github](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0086/tlg034/tlg0086.tlg034.perseus-eng2.xml) and in both [Perseus 4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0056%3Asection%3D1447a) and the [Scaife Viewer](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2:1.1-1.5/). The Perseus 4 version will not change. Any improvements will be based upon the newer TEI XML and in newer versions of Perseus. 
