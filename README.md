@@ -34,7 +34,21 @@ The 1831 Bekker page breaks regularly appear in the middle of sentences and do n
 
 The Bekker citation units are inadequate for modern research: (1) the precise location of a citation such as 1447a10 is an approximate marker and will vary from edition to edition; (2) digital prose texts should always have editorially vetted sentence breaks with persistent citations so that they can work with sentence-based Natural Language Processing systems. 
 
-2. The Perseus Digital Library includes the 1932 English translation by William Hamilton Fyfe, which is based on the 1885 (3rd) Leipzig edition by Johannes Vahlen (a full scan of which is [available at the Hathi Trust](https://hdl.handle.net/2027/uc1.aa0015641178)).
+2. The [Harvard/Tufts Digital Corpus for Graeco-Arabic Studies](https://www.graeco-arabic-studies.org/) published an [XML version of the Bekker edition the Poetics](https://www.graeco-arabic-studies.org/fileadmin/user_upload/texts.xml/Arist-Gr_004.xml). Open Greek and Latin published [an updated XML version that is compliant with the Capitains CTS library](https://github.com/gregorycrane/First1KGreek/blob/master/data/tlg0086/tlg034/tlg0086.tlg034.1st1K-grc1.xml).
+
+Although this ditital version uses the Bekker edition, the source for this image was [an 1837 Oxford version](https://hdl.handle.net/2027/uc1.31158006467772?urlappend=%3Bseq=248%3Bownerid=13510798902191406-256) that does not contain the same page and line breaks as the 1831 edition. This Bekker edition does not contain Bekker page citations but it **does** contain the chapter and section breaks that Kassel left out of his Oxford Classical Text.
+
+*To do*: We can align the Bekker and Kassel editions:
+
+* We can add the Berlin Bekker citations from Kassel back to the Oxford Bekker edition, so that it has both citation schemes.
+
+* We can add the chapter/section citations from the Oxford Bekker to the Kassel edition, so it has both citation schemes.
+
+* We can align the readings from both editions so that readers of one can see where and how it differs from the other edition.
+
+## Available English Translations
+
+1. The Perseus Digital Library includes the 1932 English translation by William Hamilton Fyfe, which is based on the 1885 (3rd) Leipzig edition by Johannes Vahlen (a full scan of which is [available at the Hathi Trust](https://hdl.handle.net/2027/uc1.aa0015641178)).
 
 The TEI XML version of this translation is now compliant with the Canonical Text Services guidelines. The file is [available on Github](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0086/tlg034/tlg0086.tlg034.perseus-eng2.xml) and in both [Perseus 4](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0056%3Asection%3D1447a) and the [Scaife Viewer](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2:1.1-1.5/). The Perseus 4 version will not change. Any improvements will be based upon the newer TEI XML and in newer versions of Perseus. 
 
