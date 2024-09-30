@@ -113,3 +113,14 @@ The Bohn Translation series provided literal translations that frequently offere
 * The primary source citations need to be converted to machine actionable, CTS-compliant references.
 
 * The back of the book index does not contain exhaustive information about people and places.
+
+## Greek Music 
+
+It can be very difficult to conceptualize the artistic and performance background that the Poetics assume. For an example, see [
+
+
+0:03 / 15:39
+OFF
+
+
+Rediscovering Ancient Greek Music (2017)](https://www.youtube.com/watch?v=4hOK7bU0S1Y)
