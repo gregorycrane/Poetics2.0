@@ -114,13 +114,16 @@ The Bohn Translation series provided literal translations that frequently offere
 
 * The back of the book index does not contain exhaustive information about people and places.
 
+Greg Nagy translation of chapters 1-4:
+
+Aristotle’s Poetics, translation and commentary in progress, Chapter 1: https://classical-inquiries.chs.harvard.edu/aristotles-poetics-translation-and-commentary-in-progress-part-1/
+
+Aristotle’s Poetics, translation and commentary in progress, Chapter 2: https://classical-inquiries.chs.harvard.edu/aristotles-poetics-translation-and-commentary-in-progress-part-2/
+Aristotle’s Poetics, translation and commentary in progress, Chapter 3: https://classical-inquiries.chs.harvard.edu/aristotles-poetics-translation-and-commentary-in-progress-part-3/
+Aristotle’s Poetics, translation and commentary in progress, Chapter 4: https://classical-inquiries.chs.harvard.edu/aristotles-poetics-translation-and-commentary-in-progress-part-4/
+
 ## Greek Music 
 
-It can be very difficult to conceptualize the artistic and performance background that the Poetics assume. For an example, see [
+It can be very difficult to conceptualize the artistic and performance background that the Poetics assume. For an example, see [Rediscovering Ancient Greek Music (2017)](https://www.youtube.com/watch?v=4hOK7bU0S1Y).
 
-
-0:03 / 15:39
-OFF
-
-
-Rediscovering Ancient Greek Music (2017)](https://www.youtube.com/watch?v=4hOK7bU0S1Y)
+Paging through the Poetics by chapter/section [here](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2:1.1?right=perseus-eng2) -- easier for aligning the translation.
