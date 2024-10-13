@@ -33,7 +33,6 @@
                   <imprint>
                      <publisher>Oxford University Press</publisher>
                      <pubPlace>Oxford</pubPlace>
-                     <biblScope unit="volume">11</biblScope>
 
                      <date>1966</date>
                   </imprint>
@@ -79,7 +78,7 @@
 
 
         </change>
-        <change><date>10/11/2024</date><name>GRC</name> updates to unicode and to TEI XML</change>
+        <change><date>10/11/2024</date><name>GRC</name>. (1) updates to unicode (with pargraphs etc. properly encoded) and to updated epiDoc compliant TEI XML; (2) square brackets and angle brackets have been converted to TEI add and del markup (which may not work in our current CSS); (3) imported the chapter/section breaks from the Bekker edition--these should now be the dominant citation scheme with Bekker pages being accesible from a secondary table of contents in Perseus 6; (4) used the same apostraphe character as in the digicorpus-grc2 version.  The addition of chapters and sections to Kassel should be noted prominently.</change>
     </revisionDesc>
  </teiHeader>
 <text>
