@@ -1,0 +1,593 @@
+{
+  "ويشبه": {
+    "translation": "and it resembles",
+    "transliteration": "wa-yashbahu",
+    "grammar": {
+      "type": "verb",
+      "root": "ش ب ه",
+      "form": "IV",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "أن": {
+    "translation": "that",
+    "transliteration": "ʾanna",
+    "grammar": {
+      "type": "particle",
+      "function": "subordinating conjunction",
+      "mood": "subjunctive"
+    }
+  },
+  "تكون": {
+    "translation": "to be",
+    "transliteration": "takūnu",
+    "grammar": {
+      "type": "verb",
+      "root": "ك و ن",
+      "form": "I",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "feminine",
+      "mood": "subjunctive"
+    }
+  },
+  "العلل": {
+    "translation": "the causes",
+    "transliteration": "al-ʿilal",
+    "grammar": {
+      "type": "noun",
+      "root": "ع ل ل",
+      "number": "plural",
+      "gender": "feminine",
+      "definite": true
+    }
+  },
+  "المولدة": {
+    "translation": "generative",
+    "transliteration": "al-mūlida",
+    "grammar": {
+      "type": "adjective",
+      "root": "و ل د",
+      "number": "singular",
+      "gender": "feminine",
+      "state": "definite"
+    }
+  },
+  "لصناعة": {
+    "translation": "for the craft",
+    "transliteration": "li-ṣināʿat",
+    "grammar": {
+      "type": "noun",
+      "root": "ص ن ع",
+      "number": "singular",
+      "gender": "feminine",
+      "case": "genitive",
+      "definite": true,
+      "preposition": "ل"
+    }
+  },
+  "الشعر": {
+    "translation": "of poetry",
+    "transliteration": "al-shiʿr",
+    "grammar": {
+      "type": "noun",
+      "root": "ش ع ر",
+      "number": "singular",
+      "gender": "masculine",
+      "case": "genitive",
+      "definite": true
+    }
+  },
+  "التى": {
+    "translation": "which",
+    "transliteration": "allatī",
+    "grammar": {
+      "type": "relative pronoun",
+      "gender": "feminine",
+      "number": "singular"
+    }
+  },
+  "هى": {
+    "translation": "are",
+    "transliteration": "hiya",
+    "grammar": {
+      "type": "pronoun",
+      "person": "third",
+      "number": "singular",
+      "gender": "feminine"
+    }
+  },
+  "بالطبع": {
+    "translation": "by nature",
+    "transliteration": "bi-l-ṭabʿ",
+    "grammar": {
+      "type": "prepositional phrase",
+      "preposition": "ب",
+      "noun": {
+        "root": "ط ب ع",
+        "number": "singular",
+        "gender": "masculine",
+        "case": "genitive"
+      }
+    }
+  },
+  "علتان": {
+    "translation": "two causes",
+    "transliteration": "ʿillatān",
+    "grammar": {
+      "type": "noun",
+      "root": "ع ل ل",
+      "number": "dual",
+      "gender": "feminine",
+      "case": "nominative",
+      "definite": false
+    }
+  },
+  "والتشبيه": {
+    "translation": "and resemblance",
+    "transliteration": "wa-al-tashbīh",
+    "grammar": {
+      "type": "noun",
+      "root": "ش ب ه",
+      "number": "singular",
+      "gender": "masculine",
+      "definite": true,
+      "coordinating_conjunction": "و"
+    }
+  },
+  "والمحاكاة": {
+    "translation": "and imitation",
+    "transliteration": "wa-al-muḥākāh",
+    "grammar": {
+      "type": "noun",
+      "root": "ح ك ي",
+      "number": "singular",
+      "gender": "feminine",
+      "definite": true,
+      "coordinating_conjunction": "و"
+    }
+  },
+  "مما": {
+    "translation": "that of which",
+    "transliteration": "mimmā",
+    "grammar": {
+      "type": "compound relative pronoun",
+      "preposition": "مِن",
+      "relative pronoun": "ما"
+    }
+  },
+  "ينشأ": {
+    "translation": "arises",
+    "transliteration": "yanšaʾu",
+    "grammar": {
+      "type": "verb",
+      "root": "ن ش أ",
+      "form": "I",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "مع": {
+    "translation": "with",
+    "transliteration": "maʿa",
+    "grammar": {
+      "type": "preposition"
+    }
+  },
+  "الناس": {
+    "translation": "people",
+    "transliteration": "al-nās",
+    "grammar": {
+      "type": "noun",
+      "root": "ن و س",
+      "number": "plural",
+      "gender": "masculine",
+      "definite": true
+    }
+  },
+  "منذ": {
+    "translation": "since",
+    "transliteration": "munḏu",
+    "grammar": {
+      "type": "preposition"
+    }
+  },
+  "أول": {
+    "translation": "the beginning",
+    "transliteration": "ʾawwal",
+    "grammar": {
+      "type": "noun",
+      "root": "أ و ل",
+      "number": "singular",
+      "gender": "masculine",
+      "definite": true
+    }
+  },
+  "الأمر": {
+    "translation": "matter",
+    "transliteration": "al-amr",
+    "grammar": {
+      "type": "noun",
+      "root": "أ م ر",
+      "number": "singular",
+      "gender": "masculine",
+      "definite": true
+    }
+  },
+  "وهم": {
+    "translation": "and they are",
+    "transliteration": "wa-hum",
+    "grammar": {
+      "type": "conjunction + pronoun",
+      "conjunction": "و",
+      "pronoun": {
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine"
+      }
+    }
+  },
+  "أطفال": {
+    "translation": "children",
+    "transliteration": "aṭfāl",
+    "grammar": {
+      "type": "noun",
+      "root": "ط ف ل",
+      "number": "plural",
+      "gender": "masculine",
+      "definite": false
+    }
+  },
+  "وهذا": {
+    "translation": "and this",
+    "transliteration": "wa-hādhā",
+    "grammar": {
+      "type": "demonstrative pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    }
+  },
+  "يخالف": {
+    "translation": "differs",
+    "transliteration": "yukhālif",
+    "grammar": {
+      "type": "verb",
+      "root": "خ ل ف",
+      "form": "III",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+
+  "بها": {
+    "translation": "in it",
+    "transliteration": "bihā",
+    "grammar": {
+      "type": "prepositional phrase",
+      "preposition": "ب",
+      "pronoun": {
+        "person": "third",
+        "number": "singular",
+        "gender": "feminine"
+      }
+    }
+  },
+  "الناس": {
+    "translation": "people",
+    "transliteration": "al-nās",
+    "grammar": {
+      "type": "noun",
+      "root": "ن و س",
+      "number": "plural",
+      "gender": "masculine",
+      "definite": true
+    }
+  },
+  "الحيوانات": {
+    "translation": "animals",
+    "transliteration": "al-ḥayawānāt",
+    "grammar": {
+      "type": "noun",
+      "root": "ح ي و ن",
+      "number": "plural",
+      "gender": "feminine",
+      "definite": true
+    }
+  },
+  "الأخر": {
+    "translation": "other",
+    "transliteration": "al-ʾukhar",
+    "grammar": {
+      "type": "adjective",
+      "root": "أ خ ر",
+      "number": "plural",
+      "gender": "feminine",
+      "state": "definite"
+    }
+  },
+  "من": {
+    "translation": "from",
+    "transliteration": "min",
+    "grammar": {
+      "type": "preposition"
+    }
+  },
+  "قبل": {
+    "translation": "before",
+    "transliteration": "qabl",
+    "grammar": {
+      "type": "noun",
+      "root": "ق ب ل",
+      "number": "singular",
+      "gender": "masculine",
+      "case": "genitive"
+    }
+  },
+  "أن": {
+    "translation": "that",
+    "transliteration": "ʾan",
+    "grammar": {
+      "type": "particle",
+      "function": "subordinating conjunction",
+      "mood": "subjunctive"
+    }
+  },
+  "الإنسان": {
+    "translation": "the human",
+    "transliteration": "al-insān",
+    "grammar": {
+      "type": "noun",
+      "root": "أ ن س",
+      "number": "singular",
+      "gender": "masculine",
+      "definite": true
+    }
+  },
+  "يشبه": {
+    "translation": "resembles",
+    "transliteration": "yushabbih",
+    "grammar": {
+      "type": "verb",
+      "root": "ش ب ه",
+      "form": "II",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "ويستعمل": {
+    "translation": "and uses",
+    "transliteration": "wa-yastaʿmil",
+    "grammar": {
+      "type": "verb",
+      "root": "ع م ل",
+      "form": "X",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "المحاكاة": {
+    "translation": "imitation",
+    "transliteration": "al-muḥākāh",
+    "grammar": {
+      "type": "noun",
+      "root": "ح ك ي",
+      "number": "singular",
+      "gender": "feminine",
+      "definite": true
+    }
+  },
+  "أكثر": {
+    "translation": "more",
+    "transliteration": "akthar",
+    "grammar": {
+      "type": "adjective",
+      "root": "ك ث ر",
+      "comparative": true
+    }
+  },
+  "ويتتلمذ": {
+    "translation": "and learns",
+    "transliteration": "wa-yatatalamadh",
+    "grammar": {
+      "type": "verb",
+      "root": "ت ل م ذ",
+      "form": "V",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "ويجعل": {
+    "translation": "and makes",
+    "transliteration": "wa-yajʿal",
+    "grammar": {
+      "type": "verb",
+      "root": "ج ع ل",
+      "form": "I",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "التلمذات": {
+    "translation": "apprenticeships",
+    "transliteration": "al-talmadhāt",
+    "grammar": {
+      "type": "noun",
+      "root": "ت ل م ذ",
+      "number": "plural",
+      "gender": "feminine",
+      "definite": true
+    }
+  },
+  "بالتشبيه": {
+    "translation": "through resemblance",
+    "transliteration": "bi-l-tashbīh",
+    "grammar": {
+      "type": "prepositional phrase",
+      "preposition": "ب",
+      "noun": {
+        "root": "ش ب ه",
+        "number": "singular",
+        "gender": "masculine",
+        "definite": true
+      }
+    }
+  },
+  "والمحاكاة": {
+    "translation": "and imitation",
+    "transliteration": "wa-al-muḥākāh",
+    "grammar": {
+      "type": "noun",
+      "root": "ح ك ي",
+      "number": "singular",
+      "gender": "feminine",
+      "definite": true,
+      "coordinating_conjunction": "و"
+    }
+  },
+  "للأشياء": {
+    "translation": "of things",
+    "transliteration": "li-l-ashyāʾ",
+    "grammar": {
+      "type": "noun",
+      "root": "ش ي ء",
+      "number": "plural",
+      "gender": "feminine",
+      "case": "genitive",
+      "definite": true,
+      "preposition": "ل"
+    }
+  },
+  "المتقدمة": {
+    "translation": "preceding",
+    "transliteration": "al-mutaqaddima",
+    "grammar": {
+      "type": "adjective",
+      "root": "ق د م",
+      "number": "plural",
+      "gender": "feminine",
+      "state": "definite"
+    }
+  },
+  "والأوائل": {
+    "translation": "and the forefathers",
+    "transliteration": "wa-al-awāʾil",
+    "grammar": {
+      "type": "noun",
+      "root": "أ و ل",
+      "number": "plural",
+      "gender": "masculine",
+      "definite": true,
+      "coordinating_conjunction": "و"
+    }
+  },
+  "وذلك": {
+    "translation": "and that",
+    "transliteration": "wa-dhālika",
+    "grammar": {
+      "type": "demonstrative pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    }
+  },
+  "أن": {
+    "translation": "that",
+    "transliteration": "ʾanna",
+    "grammar": {
+      "type": "particle",
+      "function": "subordinating conjunction",
+      "mood": "subjunctive"
+    }
+  },
+  "جميعهم": {
+    "translation": "all of them",
+    "transliteration": "jamīʿuhum",
+    "grammar": {
+      "type": "noun + pronoun",
+      "root": "ج م ع",
+      "number": "singular",
+      "gender": "masculine",
+      "possessive_pronoun": {
+        "person": "third",
+        "number": "plural",
+        "gender": "masculine"
+      }
+    }
+  },
+  "يسر": {
+    "translation": "finds joy",
+    "transliteration": "yasurr",
+    "grammar": {
+      "type": "verb",
+      "root": "س ر ر",
+      "form": "I",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "ويفرح": {
+    "translation": "and rejoices",
+    "transliteration": "wa-yafraḥ",
+    "grammar": {
+      "type": "verb",
+      "root": "ف ر ح",
+      "form": "I",
+      "tense": "present",
+      "person": "third",
+      "number": "singular",
+      "gender": "masculine",
+      "mood": "indicative"
+    }
+  },
+  "بالتشبيه": {
+    "translation": "in resemblance",
+    "transliteration": "bi-l-tashbīh",
+    "grammar": {
+      "type": "prepositional phrase",
+      "preposition": "ب",
+      "noun": {
+        "root": "ش ب ه",
+        "number": "singular",
+        "gender": "masculine",
+        "definite": true
+      }
+    }
+  },
+  "والمحاكاة": {
+    "translation": "and imitation",
+    "transliteration": "wa-al-muḥākāh",
+    "grammar": {
+      "type": "noun",
+      "root": "ح ك ي",
+      "number": "singular",
+      "gender": "feminine",
+      "definite": true,
+      "coordinating_conjunction": "و"
+    }
+  }
+}

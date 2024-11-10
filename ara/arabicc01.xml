@@ -1,0 +1,2805 @@
+<text>
+    <ref>Opening Arabic aligned to Latin from Tkatsch https://hdl.handle.net/2027/inu.30000063821007?urlappend=%3Bseq=229%3Bownerid=13510798896061940-241</ref>
+    <word>
+        <original>إنا</original>
+        <translation>we are</translation>
+        <latin>nos? in []?</latin>
+        <transliteration>ʾinnā</transliteration>
+        <grammar>
+            <type>particle + pronoun</type>
+            <particle>ʾinna</particle>
+            <pronoun>
+                <person>first</person>
+                <number>plural</number>
+            </pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>متكلمون</original>
+        <translation>speaking</translation>
+        <latin>dicturi2</latin>
+        <transliteration>mutakallimūn</transliteration>
+        <grammar>
+            <type>noun (active participle)</type>
+            <root>ك ل م</root>
+            <form>V</form>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>الآن</original>
+        <translation>now</translation>
+        <latin>nunc</latin>
+        <transliteration>al-ʾān</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ء ن ن</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>فى</original>
+        <translation>in</translation>
+        <latin>de</latin>
+        <transliteration>fī</transliteration>
+        <grammar>
+            <type>preposition</type>
+        </grammar>
+    </word>
+    <word>
+        <original>صناعة</original>
+        <translation>the craft</translation>
+        <latin>arte</latin>
+        <transliteration>ṣināʿat</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ص ن ع</root>
+            <number>singular</number>
+            <wright>323a</wright>
+            <gender>feminine</gender>
+            <definite>false</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>الشعراء</original>
+        <translation>of poets</translation>
+        <latin>poesis</latin>
+        <transliteration>al-shuʿarāʾ</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ش ع ر</root>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>وأنواعها</original>
+        <translation>and its types</translation>
+        <latin>et speciebus eius</latin>
+        <transliteration>wa-ʾanwāʿuhā</transliteration>
+        <grammar>
+            <type>noun + pronoun</type>
+            <root>ن و ع</root>
+            <number>plural</number>
+            <gender>feminine</gender>
+            <possessive_pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+            </possessive_pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>ومخبرون</original>
+        <translation>and informing</translation>
+        <latin>et enarraturi</latin>
+        <transliteration>wa-mukhbirūn</transliteration>
+        <grammar>
+            <type>noun (active participle)</type>
+            <root>خ ب ر</root>
+            <form>IV</form>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+            <coordinating_conjunction>و</coordinating_conjunction>
+        </grammar>
+    </word>
+    <word>
+        <original>أى</original>
+        <translation>which</translation>
+        <latin>quae</latin>
+        <transliteration>ʾayy</transliteration>
+        <grammar>
+            <type>interrogative noun</type>
+            <gender>masculine</gender>
+            <number>singular</number>
+        </grammar>
+    </word>
+    <word>
+        <original>قوة</original>
+        <translation>strength</translation>
+        <latin>vis</latin>
+        <transliteration>quwwa</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ق و ي</root>
+            <number>singular</number>
+            <gender>feminine</gender>
+            <definite>false</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>لكل</original>
+        <translation>for each</translation>
+        <latin>unicuique</latin>
+        <transliteration>li-kull</transliteration>
+        <grammar>
+            <type>prepositional phrase</type>
+            <preposition>ل</preposition>
+            <noun>
+                <root>ك ل ل</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </noun>
+        </grammar>
+    </word>
+    <word>
+        <original>واحد</original>
+        <translation>one</translation>
+        <latin>unicuique</latin>
+        <transliteration>wāḥid</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>و ح د</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <definite>false</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>منها</original>
+        <translation>of them</translation>
+        <latin>ex iis</latin>
+        <transliteration>minhā</transliteration>
+        <grammar>
+            <type>prepositional phrase</type>
+            <preposition>مِن</preposition>
+            <pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+            </pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>وعلى</original>
+        <translation>and on</translation>
+        <latin>et quo modo</latin>
+        <transliteration>wa-ʿalā</transliteration>
+        <grammar>
+            <type>prepositional phrase</type>
+            <preposition>عَلَى</preposition>
+            <coordinating_conjunction>و</coordinating_conjunction>
+        </grammar>
+    </word>
+
+    
+    <word>
+        <original>أى</original>
+        <translation>which</translation>
+        <latin>et quo modo</latin>
+        <transliteration>ʾayy</transliteration>
+        <grammar>
+            <type>interrogative noun</type>
+            <gender>masculine</gender>
+            <number>singular</number>
+        </grammar>
+    </word>
+    <word>
+        <original>سبيل</original>
+        <translation>way</translation>
+        <latin>et quo modo</latin>
+        <transliteration>sabīl</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>س ب ل</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <definite>false</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>ينبغى</original>
+        <translation>it is proper</translation>
+        <latin>oporteat</latin>
+        <transliteration>yanbaghī</transliteration>
+        <grammar>
+            <type>verb</type>
+            <root>ن ب غ</root>
+            <form>VII</form>
+            <tense>present</tense>
+            <person>third</person>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <mood>indicative</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>أن</original>
+        <translation>that</translation>
+        <latin>ut</latin>
+        <transliteration>ʾan</transliteration>
+        <grammar>
+            <type>particle</type>
+            <function>subordinating conjunction</function>
+            <mood>subjunctive</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>تتقوم</original>
+        <translation>to be established</translation>
+        <latin>constituantur</latin>
+        <transliteration>tataqawwama</transliteration>
+        <grammar>
+            <type>verb</type>
+            <root>ق و م</root>
+            <form>V</form>
+            <tense>present</tense>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+            <mood>subjunctive</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>الأسمار</original>
+        <translation>the tales</translation>
+        <latin>fabulationes</latin>
+        <transliteration>al-asmār</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>س م ر</root>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>والأشعار</original>
+        <translation>and poetry</translation>
+        <latin>et poemata</latin>
+        <transliteration>wa-al-ashʿār</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ش ع ر</root>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <definite>true</definite>
+            <coordinating_conjunction>و</coordinating_conjunction>
+        </grammar>
+    </word>
+    <word>
+        <original>إن</original>
+        <translation>if</translation>
+        <latin>si</latin>
+        <transliteration>ʾinna</transliteration>
+        <grammar>
+            <type>particle</type>
+            <function>conditional</function>
+        </grammar>
+    </word>
+    <word>
+        <original>كانت</original>
+        <translation>were</translation>
+        <latin></latin>
+        <transliteration>kānat</transliteration>
+        <grammar>
+            <type>verb</type>
+            <root>ك و ن</root>
+            <tense>past</tense>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+            <mood>indicative</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>الفواسيس</original>
+        <translation>the poets</translation>
+        <latin>poesis [Tk text differs]</latin>
+        <transliteration>al-fawāsīs</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ف و س</root>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>مزمعة</original>
+        <translation>determined</translation>
+        <latin>tendit</latin>
+        <transliteration>muzmiʿa</transliteration>
+        <grammar>
+            <type>noun (active participle)</type>
+            <root>ز م ع</root>
+            <number>singular</number>
+            <gender>feminine</gender>
+            <state>definite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>بأن</original>
+        <translation>that</translation>
+        <latin>eo ut</latin>
+        <transliteration>bi-ʾanna</transliteration>
+        <grammar>
+            <type>prepositional phrase</type>
+            <preposition>ب</preposition>
+            <particle>ʾanna</particle>
+        </grammar>
+    </word>
+    <word>
+        <original>يجرى</original>
+        <translation>proceeds</translation>
+        <latin>procedat</latin>
+        <transliteration>yajrī</transliteration>
+        <grammar>
+            <type>verb</type>
+            <root>ج ر ي</root>
+            <form>I</form>
+            <tense>present</tense>
+            <person>third</person>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <mood>subjunctive</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>أمرها</original>
+        <translation>its matter</translation>
+        <latin>negotium eius</latin>
+        <transliteration>ʾamruhā</transliteration>
+        <grammar>
+            <type>noun + pronoun</type>
+            <root>أ م ر</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <possessive_pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+            </possessive_pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>مجرى</original>
+        <translation>the course</translation>
+        <latin>excellenter</latin>
+        <transliteration>majrā</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ج ر ي</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>الجودة</original>
+        <translation>excellence</translation>
+        <latin>excellenter</latin>
+        <transliteration>al-jawda</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ج و د</root>
+            <number>singular</number>
+            <gender>feminine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>وأيضاً</original>
+        <translation>and also</translation>
+        <latin>et porro</latin>
+        <transliteration>wa-ʾayḍan</transliteration>
+        <grammar>
+            <type>conjunction + adverb</type>
+            <coordinating_conjunction>و</coordinating_conjunction>
+            <adverb>ʾayḍan</adverb>
+        </grammar>
+    </word>
+
+
+    
+
+    <word>
+        <original>من</original>
+        <translation>from</translation>
+        <latin>ex</latin>
+        <transliteration>min</transliteration>
+        <grammar>
+            <type>preposition</type>
+        </grammar>
+    </word>
+    <word>
+        <original>كم</original>
+        <translation>how many</translation>
+        <latin>quot</latin>
+        <transliteration>kam</transliteration>
+        <grammar>
+            <type>interrogative noun</type>
+        </grammar>
+    </word>
+    <word>
+        <original>جزء</original>
+        <translation>part</translation>
+        <latin>partibus</latin>
+        <transliteration>juzʾ</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ج ز ء</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>هى</original>
+        <translation>it is</translation>
+        <latin>sit</latin>
+        <transliteration>hiya</transliteration>
+        <grammar>
+            <type>pronoun</type>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </grammar>
+    </word>
+    <word>
+        <original>وأيما</original>
+        <translation>and which</translation>
+        <latin>et quaenam</latin>
+        <transliteration>wa-ʾayyumā</transliteration>
+        <grammar>
+            <type>interrogative noun + conjunction</type>
+            <coordinating_conjunction>و</coordinating_conjunction>
+        </grammar>
+    </word>
+    <word>
+        <original>هى</original>
+        <translation>they are</translation>
+        <latin></latin>
+        <transliteration>sint</transliteration>
+        <grammar>
+            <type>pronoun</type>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </grammar>
+    </word>
+    <word>
+        <original>أجزاؤها</original>
+        <translation>its parts</translation>
+        <latin>partes eius</latin>
+        <transliteration>ajzāʾuhā</transliteration>
+        <grammar>
+            <type>noun + pronoun</type>
+            <root>ج ز ء</root>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <possessive_pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+            </possessive_pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>وكذلك</original>
+        <translation>and likewise</translation>
+        <latin>et 16 sic</latin>
+        <transliteration>wa-kadhālika</transliteration>
+        <grammar>
+            <type>conjunction + adverb</type>
+            <coordinating_conjunction>و</coordinating_conjunction>
+            <adverb>kadhālika</adverb>
+        </grammar>
+    </word>
+    <word>
+        <original>نتكلم</original>
+        <translation>we speak</translation>
+        <latin>dicimus alia</latin>
+        <transliteration>natakallam</transliteration>
+        <grammar>
+            <type>verb</type>
+            <root>ك ل م</root>
+            <form>V</form>
+            <tense>present</tense>
+            <person>first</person>
+            <number>plural</number>
+            <mood>indicative</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>من</original>
+        <translation>about</translation>
+        <latin>quot</latin>
+        <transliteration>min</transliteration>
+        <grammar>
+            <type>preposition</type>
+        </grammar>
+    </word>
+    <word>
+        <original>أجل</original>
+        <translation>the purpose of</translation>
+        <latin>quot</latin>
+        <transliteration>ʾajl</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ء ج ل</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>كم</original>
+        <translation>how many</translation>
+        <latin>quot</latin>
+        <transliteration>kam</transliteration>
+        <grammar>
+            <type>interrogative noun</type>
+        </grammar>
+    </word>
+    <word>
+        <original>التى</original>
+        <translation>that</translation>
+        <latin>quot</latin>
+        <transliteration>allatī</transliteration>
+        <grammar>
+            <type>relative pronoun</type>
+            <gender>feminine</gender>
+            <number>singular</number>
+        </grammar>
+    </word>
+    <word>
+        <original>هى</original>
+        <translation>it is</translation>
+        <latin>exstent</latin>
+        <transliteration>hiya</transliteration>
+        <grammar>
+            <type>pronoun</type>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </grammar>
+    </word>
+    <word>
+        <original>موجودة</original>
+        <translation>existing</translation>
+        <latin>exstent</latin>
+        <transliteration>mawjūda</transliteration>
+        <grammar>
+            <type>noun (passive participle)</type>
+            <root>و ج د</root>
+            <form>I</form>
+            <number>singular</number>
+            <gender>feminine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>التى</original>
+        <translation>that</translation>
+        <latin>quae</latin>
+        <transliteration>allatī</transliteration>
+        <grammar>
+            <type>relative pronoun</type>
+            <gender>feminine</gender>
+            <number>singular</number>
+        </grammar>
+    </word>
+    <word>
+        <original>هى</original>
+        <translation>it is</translation>
+        <latin>sunt</latin>
+        <transliteration>hiya</transliteration>
+        <grammar>
+            <type>pronoun</type>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </grammar>
+    </word>
+    <word>
+        <original>لها</original>
+        <translation>for it</translation>
+        <latin>ei ipsi</latin>
+        <transliteration>lahā</transliteration>
+        <grammar>
+            <type>prepositional phrase</type>
+            <preposition>ل</preposition>
+            <pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+            </pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>بعينها</original>
+        <translation>itself</translation>
+        <latin>ei ipsi</latin>
+        <transliteration>bi-ʿaynihā</transliteration>
+        <grammar>
+            <type>prepositional phrase</type>
+            <preposition>ب</preposition>
+            <noun>
+                <root>ع ي ن</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <state>indefinite</state>
+            </noun>
+            <possessive_pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+            </possessive_pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>ونحن</original>
+        <translation>and we</translation>
+        <latin>et [ nos ]</latin>
+        <transliteration>wa-naḥnu</transliteration>
+        <grammar>
+            <type>conjunction + pronoun</type>
+            <coordinating_conjunction>و</coordinating_conjunction>
+            <pronoun>
+                <person>first</person>
+                <number>plural</number>
+            </pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>متكلمون</original>
+        <translation>speaking</translation>
+        <latin>dicturi ( sumus )</latin>
+        <transliteration>mutakallimūn</transliteration>
+        <grammar>
+            <type>noun (active participle)</type>
+            <root>ك ل م</root>
+            <form>V</form>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>فى</original>
+        <translation>in</translation>
+        <latin>de</latin>
+        <transliteration>fī</transliteration>
+        <grammar>
+            <type>preposition</type>
+        </grammar>
+    </word>
+
+    <word>
+        <original>هذا</original>
+        <translation>this</translation>
+        <latin>eo</latin>
+        <transliteration>hādhā</transliteration>
+        <grammar>
+            <type>demonstrative pronoun</type>
+            <gender>masculine</gender>
+            <number>singular</number>
+        </grammar>
+    </word>
+    <word>
+        <original>كله</original>
+        <translation>all of it</translation>
+        <latin>omni</latin>
+        <transliteration>kulluhu</transliteration>
+        <grammar>
+            <type>noun + pronoun</type>
+            <root>ك ل ل</root>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <possessive_pronoun>
+                <person>third</person>
+                <number>singular</number>
+                <gender>masculine</gender>
+            </possessive_pronoun>
+        </grammar>
+    </word>
+    <word>
+        <original>من</original>
+        <translation>from</translation>
+        <latin>dum</latin>
+        <transliteration>min</transliteration>
+        <grammar>
+            <type>preposition</type>
+        </grammar>
+    </word>
+    <word>
+        <original>حيث</original>
+        <translation>where</translation>
+        <latin>dum</latin>
+        <transliteration>ḥaythu</transliteration>
+        <grammar>
+            <type>noun</type>
+            <function>adverbial</function>
+            <number>singular</number>
+            <gender>masculine</gender>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>نبتدئ</original>
+        <translation>we begin</translation>
+        <latin>incipimus</latin>
+        <transliteration>nabtadiʾ</transliteration>
+        <grammar>
+            <type>verb</type>
+            <root>ب د ء</root>
+            <form>VIII</form>
+            <tense>present</tense>
+            <person>first</person>
+            <number>plural</number>
+            <mood>indicative</mood>
+        </grammar>
+    </word>
+    <word>
+        <original>أولا</original>
+        <translation>first</translation>
+        <latin>primum</latin>
+        <transliteration>ʾawwalan</transliteration>
+        <grammar>
+            <type>adverb</type>
+            <function>adverb of time</function>
+            <state>indefinite</state>
+        </grammar>
+    </word>
+    <word>
+        <original>من</original>
+        <translation>from</translation>
+        <latin>a</latin>
+        <transliteration>min</transliteration>
+        <grammar>
+            <type>preposition</type>
+        </grammar>
+    </word>
+    <word>
+        <original>الأشياء</original>
+        <translation>things</translation>
+        <latin>rebus</latin>
+        <transliteration>al-ashyāʾ</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>ش ي ء</root>
+            <number>plural</number>
+            <gender>feminine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+    <word>
+        <original>الأوائل</original>
+        <translation>the first ones</translation>
+        <latin>primis</latin>
+        <transliteration>al-awāʾil</transliteration>
+        <grammar>
+            <type>noun</type>
+            <root>أ و ل</root>
+            <number>plural</number>
+            <gender>masculine</gender>
+            <definite>true</definite>
+        </grammar>
+    </word>
+<word>
+    <original>فكل</original>
+    <translation>so all</translation>
+    <latin>ergo omnes</latin>
+    <transliteration>fa-kullu</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ك ل ل</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+        <particle>ف</particle>
+    </grammar>
+</word>
+
+<word>
+    <original>شعر</original>
+    <translation>poetry</translation>
+    <latin>poesis</latin>
+    <transliteration>shiʿr</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ع ر</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>نشيد</original>
+    <translation>song</translation>
+    <latin>carmen</latin>
+    <transliteration>nashīd</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ن ش د</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>الشعرى</original>
+    <translation>poetic</translation>
+    <latin>poetica</latin>
+    <transliteration>al-shiʿrī</transliteration>
+    <grammar>
+        <type>adjective</type>
+        <root>ش ع ر</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>مديحا</original>
+    <translation>praise</translation>
+    <latin>laudes</latin>
+    <transliteration>madīḥan</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>م د ح</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>هجاا</original>
+    <translation>satire</translation>
+    <latin>satira</latin>
+    <transliteration>hijāʾ</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ه ج و</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>دثيرمبو</original>
+    <translation>dirge</translation>
+    <latin>threnodia</latin>
+    <transliteration>dīthīrambū</transliteration>
+    <grammar>
+        <type>noun</type>
+        <origin>loanword</origin>
+        <root>د ث ر م ب و</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>اوليثيقس</original>
+    <translation>lyric</translation>
+    <latin>lyricum</latin>
+    <transliteration>awlīṭīqis</transliteration>
+    <grammar>
+        <type>noun</type>
+        <origin>loanword</origin>
+        <root>ا و ل ي ط ق س</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>محاكاة</original>
+    <translation>imitation</translation>
+    <latin>imitatio</latin>
+    <transliteration>muḥākāt</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ح ك ي</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>التشبه</original>
+    <translation>resemblance</translation>
+    <latin>similitudo</latin>
+    <transliteration>al-tashabbuh</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ب ه</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>فكل</original>
+    <translation>so all</translation>
+    <latin>ergo omnes</latin>
+    <transliteration>fa-kullu</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ك ل ل</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+        <particle>ف</particle>
+    </grammar>
+</word>
+
+<word>
+    <original>شعر</original>
+    <translation>poetry</translation>
+    <latin>poesis</latin>
+    <transliteration>shiʿr</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ع ر</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>نشيد</original>
+    <translation>song</translation>
+    <latin>carmen</latin>
+    <transliteration>nashīd</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ن ش د</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>الشعرى</original>
+    <translation>poetic</translation>
+    <latin>poetica</latin>
+    <transliteration>al-shiʿrī</transliteration>
+    <grammar>
+        <type>adjective</type>
+        <root>ش ع ر</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>مديحا</original>
+    <translation>praise</translation>
+    <latin>laudes</latin>
+    <transliteration>madīḥan</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>م د ح</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>هجاا</original>
+    <translation>satire</translation>
+    <latin>satira</latin>
+    <transliteration>hijāʾ</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ه ج و</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>دثيرمبو</original>
+    <translation>dirge</translation>
+    <latin>threnodia</latin>
+    <transliteration>dīthīrambū</transliteration>
+    <grammar>
+        <type>noun</type>
+        <origin>loanword</origin>
+        <root>د ث ر م ب و</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>اوليثيقس</original>
+    <translation>lyric</translation>
+    <latin>lyricum</latin>
+    <transliteration>awlīṭīqis</transliteration>
+    <grammar>
+        <type>noun</type>
+        <origin>loanword</origin>
+        <root>ا و ل ي ط ق س</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>محاكاة</original>
+    <translation>imitation</translation>
+    <latin>imitatio</latin>
+    <transliteration>muḥākāt</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ح ك ي</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>التشبه</original>
+    <translation>resemblance</translation>
+    <latin>similitudo</latin>
+    <transliteration>al-tashabbuh</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ب ه</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+<word>NEW</word>
+<word>
+    <original>صناعة</original>
+    <translation>craft</translation>
+    <latin>ars</latin>
+    <transliteration>ṣināʿa</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ص ن ع</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>الملاهى</original>
+    <translation>entertainment</translation>
+    <latin>ludi</latin>
+    <transliteration>al-malāhī</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ل ه و</root>
+        <number>plural</number>
+        <gender>feminine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>الزمر</original>
+    <translation>musical instruments</translation>
+    <latin>tibiae</latin>
+    <transliteration>al-zumr</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ز م ر</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>العود</original>
+    <translation>lute</translation>
+    <latin>luteum</latin>
+    <transliteration>al-ʿūd</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ع و د</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>اصنافها</original>
+    <translation>its types</translation>
+    <latin>species eius</latin>
+    <transliteration>aṣnāfuhā</transliteration>
+    <grammar>
+        <type>noun + pronoun</type>
+        <root>ص ن ف</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>ثلثة</original>
+    <translation>three</translation>
+    <latin>tres</latin>
+    <transliteration>thalātha</transliteration>
+    <grammar>
+        <type>numeral</type>
+        <number>plural</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>تشبه</original>
+    <translation>resembles</translation>
+    <latin>similis est</latin>
+    <transliteration>tashbah</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ش ب ه</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>تحاكى</original>
+    <translation>imitates</translation>
+    <latin>imitatur</latin>
+    <transliteration>tuḥākī</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ح ك ي</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>احوال</original>
+    <translation>states</translation>
+    <latin>status</latin>
+    <transliteration>aḥwāl</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ح و ل</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>مختلفة</original>
+    <translation>different</translation>
+    <latin>diversa</latin>
+    <transliteration>mukhtalifa</transliteration>
+    <grammar>
+        <type>adjective</type>
+        <root>خ ل ف</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>جهة</original>
+    <translation>direction</translation>
+    <latin>directio</latin>
+    <transliteration>jihah</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ج ه ت</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>الناس</original>
+    <translation>people</translation>
+    <latin>homines</latin>
+    <transliteration>al-nās</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ن س س</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>يشبهون</original>
+    <translation>resemble</translation>
+    <latin>similes sunt</latin>
+    <transliteration>yushbihūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ش ب ه</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>plural</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>اشكال</original>
+    <translation>forms</translation>
+    <latin>formae</latin>
+    <transliteration>ashkāl</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ك ل</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>كثيرا</original>
+    <translation>many</translation>
+    <latin>multum</latin>
+    <transliteration>kathīran</transliteration>
+    <grammar>
+        <type>adverb</type>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>NEW</word>
+
+<word>
+    <original>اما</original>
+    <translation>either</translation>
+    <latin>aut</latin>
+    <transliteration>ʾammā</transliteration>
+    <grammar>
+        <type>conjunction</type>
+    </grammar>
+</word>
+
+<word>
+    <original>و</original>
+    <translation>and</translation>
+    <latin>et</latin>
+    <transliteration>wa</transliteration>
+    <grammar>
+        <type>coordinating conjunction</type>
+    </grammar>
+</word>
+
+<word>
+    <original>به</original>
+    <translation>by it</translation>
+    <latin>eo</latin>
+    <transliteration>bihi</transliteration>
+    <grammar>
+        <type>preposition + pronoun</type>
+        <preposition>ب</preposition>
+        <pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>masculine</gender>
+        </pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>تكون</original>
+    <translation>it is</translation>
+    <latin>est</latin>
+    <transliteration>takūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ك و ن</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>عكس</original>
+    <translation>opposite</translation>
+    <latin>contrarium</latin>
+    <transliteration>ʿaks</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ع ك س</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>هذا</original>
+    <translation>this</translation>
+    <latin>hoc</latin>
+    <transliteration>hādhā</transliteration>
+    <grammar>
+        <type>demonstrative pronoun</type>
+        <number>singular</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>عينها</original>
+    <translation>its essence</translation>
+    <latin>ipsa essentia</latin>
+    <transliteration>ʿaynuhā</transliteration>
+    <grammar>
+        <type>noun + pronoun</type>
+        <root>ع ي ن</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>قد</original>
+    <translation>may</translation>
+    <latin>potest</latin>
+    <transliteration>qad</transliteration>
+    <grammar>
+        <type>particle</type>
+        <function>emphasis/probability</function>
+    </grammar>
+</word>
+
+<word>
+    <original>يشبهون</original>
+    <translation>they resemble</translation>
+    <latin>similes sunt</latin>
+    <transliteration>yushbihūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ش ب ه</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>plural</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>بالوان</original>
+    <translation>with colors</translation>
+    <latin>coloribus</latin>
+    <transliteration>bi-alwān</transliteration>
+    <grammar>
+        <type>noun + preposition</type>
+        <root>ل و ن</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <preposition>ب</preposition>
+    </grammar>
+</word>
+
+<word>
+    <original>واشكال</original>
+    <translation>and forms</translation>
+    <latin>et formae</latin>
+    <transliteration>wa-ashkāl</transliteration>
+    <grammar>
+        <type>noun + conjunction</type>
+        <root>ش ك ل</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <coordinating_conjunction>و</coordinating_conjunction>
+    </grammar>
+</word>
+
+<word>
+    <original>كثيرا</original>
+    <translation>many</translation>
+    <latin>multum</latin>
+    <transliteration>kathīran</transliteration>
+    <grammar>
+        <type>adverb</type>
+        <state>indefinite</state>
+    </grammar>
+</word>
+<word>NEW</word>
+<word>
+    <original>ما</original>
+    <translation>what</translation>
+    <latin>quid</latin>
+    <transliteration>mā</transliteration>
+    <grammar>
+        <type>interrogative pronoun</type>
+    </grammar>
+</word>
+
+<word>
+    <original>داخلا</original>
+    <translation>included</translation>
+    <latin>inclusum</latin>
+    <transliteration>dākhilan</transliteration>
+    <grammar>
+        <type>adjective</type>
+        <root>د خ ل</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>accusative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>فى</original>
+    <translation>in</translation>
+    <latin>in</latin>
+    <transliteration>fī</transliteration>
+    <grammar>
+        <type>preposition</type>
+    </grammar>
+</word>
+
+<word>
+    <original>التشبه</original>
+    <translation>resemblance</translation>
+    <latin>similitudo</latin>
+    <transliteration>al-tashabbuh</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ب ه</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>نحو</original>
+    <translation>toward</translation>
+    <latin>versus</latin>
+    <transliteration>nahw</transliteration>
+    <grammar>
+        <type>preposition</type>
+    </grammar>
+</word>
+
+<word>
+    <original>اكثر</original>
+    <translation>more</translation>
+    <latin>plus</latin>
+    <transliteration>akthar</transliteration>
+    <grammar>
+        <type>adjective</type>
+        <state>comparative</state>
+    </grammar>
+</word>
+
+<word>
+    <original>اشياء</original>
+    <translation>things</translation>
+    <latin>res</latin>
+    <transliteration>ashyāʾ</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ي أ</root>
+        <number>plural</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>ان</original>
+    <translation>that</translation>
+    <latin>quod</latin>
+    <transliteration>ʾan</transliteration>
+    <grammar>
+        <type>particle</type>
+        <function>subordinating conjunction</function>
+    </grammar>
+</word>
+
+<word>
+    <original>تكون</original>
+    <translation>it is</translation>
+    <latin>est</latin>
+    <transliteration>takūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ك و ن</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>لا</original>
+    <translation>not</translation>
+    <latin>non</latin>
+    <transliteration>lā</transliteration>
+    <grammar>
+        <type>particle</type>
+        <function>negation</function>
+    </grammar>
+</word>
+
+<word>
+    <original>بعينها</original>
+    <translation>specifically</translation>
+    <latin>specifice</latin>
+    <transliteration>bi-ʿaynihā</transliteration>
+    <grammar>
+        <type>noun + pronoun</type>
+        <root>ع ي ن</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>possessive</state>
+        <preposition>ب</preposition>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>كثيرا</original>
+    <translation>many</translation>
+    <latin>multum</latin>
+    <transliteration>kathīran</transliteration>
+    <grammar>
+        <type>adverb</type>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>يشبهون</original>
+    <translation>they resemble</translation>
+    <latin>similes sunt</latin>
+    <transliteration>yushbihūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ش ب ه</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>plural</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+<word>NEW</word>
+<word>
+    <original>كما</original>
+    <translation>as</translation>
+    <latin>sicut</latin>
+    <transliteration>kamā</transliteration>
+    <grammar>
+        <type>conjunction</type>
+        <function>comparison</function>
+    </grammar>
+</word>
+
+<word>
+    <original>ان</original>
+    <translation>that</translation>
+    <latin>quod</latin>
+    <transliteration>ʾan</transliteration>
+    <grammar>
+        <type>particle</type>
+        <function>subordinating conjunction</function>
+    </grammar>
+</word>
+
+<word>
+    <original>قد</original>
+    <translation>may</translation>
+    <latin>potest</latin>
+    <transliteration>qad</transliteration>
+    <grammar>
+        <type>particle</type>
+        <function>emphasis/probability</function>
+    </grammar>
+</word>
+
+<word>
+    <original>يكون</original>
+    <translation>it is</translation>
+    <latin>est</latin>
+    <transliteration>yakūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ك و ن</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>الاشكال</original>
+    <translation>forms</translation>
+    <latin>figurae</latin>
+    <transliteration>al-ashkāl</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ك ل</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>الوان</original>
+    <translation>colors</translation>
+    <latin>colores</latin>
+    <transliteration>alwān</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ل و ن</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>بها</original>
+    <translation>with it</translation>
+    <latin>cum eo</latin>
+    <transliteration>bihā</transliteration>
+    <grammar>
+        <type>preposition + pronoun</type>
+        <preposition>ب</preposition>
+        <pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>اشكال</original>
+    <translation>shapes/forms</translation>
+    <latin>figurae</latin>
+    <transliteration>ashkāl</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ش ك ل</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>كثيرا</original>
+    <translation>often/many</translation>
+    <latin>frequenter</latin>
+    <transliteration>kathīran</transliteration>
+    <grammar>
+        <type>adverb</type>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>والوان</original>
+    <translation>and colors</translation>
+    <latin>et colores</latin>
+    <transliteration>wa-alwān</transliteration>
+    <grammar>
+        <type>noun + conjunction</type>
+        <root>ل و ن</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <coordinating_conjunction>و</coordinating_conjunction>
+    </grammar>
+</word>
+
+<word>
+    <original>كثيرا</original>
+    <translation>often</translation>
+    <latin>saepe</latin>
+    <transliteration>kathīran</transliteration>
+    <grammar>
+        <type>adverb</type>
+        <state>indefinite</state>
+    </grammar>
+</word>
+<word>NEW</word>
+<word>
+    <original>ويحاكون</original>
+    <translation>and they imitate</translation>
+    <latin>imitantur</latin>
+    <transliteration>wa-yuḥākūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ح ك ي</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <coordinating_conjunction>و</coordinating_conjunction>
+    </grammar>
+</word>
+
+<word>
+    <original>ذلك</original>
+    <translation>that</translation>
+    <latin>illud</latin>
+    <transliteration>dhālika</transliteration>
+    <grammar>
+        <type>demonstrative pronoun</type>
+        <number>singular</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>حيث</original>
+    <translation>where</translation>
+    <latin>ubi</latin>
+    <transliteration>ḥaythu</transliteration>
+    <grammar>
+        <type>conjunction</type>
+    </grammar>
+</word>
+
+<word>
+    <original>بعضهم</original>
+    <translation>some of them</translation>
+    <latin>nonnulli ex eis</latin>
+    <transliteration>baʿḍuhum</transliteration>
+    <grammar>
+        <type>noun + pronoun</type>
+        <root>ب ع ض</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>plural</number>
+            <gender>masculine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>يشبه</original>
+    <translation>resembles</translation>
+    <latin>similis est</latin>
+    <transliteration>yushbih</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ش ب ه</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>بالصناعات</original>
+    <translation>with crafts</translation>
+    <latin>artibus</latin>
+    <transliteration>bi-l-ṣināʿāt</transliteration>
+    <grammar>
+        <type>noun + preposition</type>
+        <root>ص ن ع</root>
+        <number>plural</number>
+        <gender>feminine</gender>
+        <preposition>ب</preposition>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>يحاكيها</original>
+    <translation>he imitates it</translation>
+    <latin>imitatur eam</latin>
+    <transliteration>yuḥākīhā</transliteration>
+    <grammar>
+        <type>verb + pronoun</type>
+        <root>ح ك ي</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <object_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </object_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>بالعادات</original>
+    <translation>with customs</translation>
+    <latin>moris</latin>
+    <transliteration>bi-l-ʿādāt</transliteration>
+    <grammar>
+        <type>noun + preposition</type>
+        <root>ع و د</root>
+        <number>plural</number>
+        <gender>feminine</gender>
+        <preposition>ب</preposition>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>قوم</original>
+    <translation>people</translation>
+    <latin>populus</latin>
+    <transliteration>qawm</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ق و م</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>اخر</original>
+    <translation>other</translation>
+    <latin>alii</latin>
+    <transliteration>ākhar</transliteration>
+    <grammar>
+        <type>adjective</type>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>بالاصوات</original>
+    <translation>with sounds</translation>
+    <latin>sonis</latin>
+    <transliteration>bi-l-aṣwāt</transliteration>
+    <grammar>
+        <type>noun + preposition</type>
+        <root>ص و ت</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <preposition>ب</preposition>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>كذلك</original>
+    <translation>likewise</translation>
+    <latin>item</latin>
+    <transliteration>ka-dhālika</transliteration>
+    <grammar>
+        <type>adverb</type>
+    </grammar>
+</word>
+
+<word>
+    <original>وصفنا</original>
+    <translation>we described</translation>
+    <latin>descripsimus</latin>
+    <transliteration>waṣafnā</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>و ص ف</root>
+        <tense>perfect</tense>
+        <voice>active</voice>
+        <person>first</person>
+        <number>plural</number>
+    </grammar>
+</word>
+
+<word>
+    <original>جميعها</original>
+    <translation>all of them</translation>
+    <latin>omnes</latin>
+    <transliteration>jamīʿuhā</transliteration>
+    <grammar>
+        <type>noun + pronoun</type>
+        <root>ج م ع</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>possessive</state>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>ياتى</original>
+    <translation>it comes</translation>
+    <latin>venit</latin>
+    <transliteration>yātī</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>أ ت ي</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>بالتشبه</original>
+    <translation>with resemblance</translation>
+    <latin>cum similitudine</latin>
+    <transliteration>bi-tashabbuh</transliteration>
+    <grammar>
+        <type>noun + preposition</type>
+        <root>ش ب ه</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <preposition>ب</preposition>
+    </grammar>
+</word>
+
+<word>
+    <original>الحكاية</original>
+    <translation>imitation</translation>
+    <latin>imitatio</latin>
+    <transliteration>al-ḥikāya</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ح ك ي</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+<word>NEW</word>
+<word>
+    <original>باللحن</original>
+    <translation>with melody</translation>
+    <latin>melodia</latin>
+    <transliteration>bi-l-laḥn</transliteration>
+    <grammar>
+        <type>noun + preposition</type>
+        <root>ل ح ن</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <preposition>ب</preposition>
+    </grammar>
+</word>
+
+<word>
+    <original>القول</original>
+    <translation>speech</translation>
+    <latin>oratio</latin>
+    <transliteration>al-qawl</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ق و ل</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>النظم</original>
+    <translation>composition</translation>
+    <latin>compositio</latin>
+    <transliteration>al-naẓm</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ن ظ م</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>يكون</original>
+    <translation>it is</translation>
+    <latin>est</latin>
+    <transliteration>yakūn</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ك و ن</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>masculine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>الانفراد</original>
+    <translation>solitude</translation>
+    <latin>solitudo</latin>
+    <transliteration>al-infirād</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ف ر د</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>جهة</original>
+    <translation>aspect</translation>
+    <latin>aspectus</latin>
+    <transliteration>jihah</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ج ه ت</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>الاختلاط</original>
+    <translation>mixing</translation>
+    <latin>mixtio</latin>
+    <transliteration>al-ikhtilāṭ</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>خ ل ط</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>صناعة</original>
+    <translation>craft</translation>
+    <latin>ars</latin>
+    <transliteration>ṣināʿa</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ص ن ع</root>
+        <number>singular</number>
+        <gender>feminine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>العيدان</original>
+    <translation>musical instruments</translation>
+    <latin>instrumenta musica</latin>
+    <transliteration>al-ʿīdān</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ع و د</root>
+        <number>plural</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>اللحن</original>
+    <translation>melody</translation>
+    <latin>melodia</latin>
+    <transliteration>al-laḥn</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ل ح ن</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>توجد</original>
+    <translation>exists</translation>
+    <latin>exsistit</latin>
+    <transliteration>tūjad</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>و ج د</root>
+        <tense>present</tense>
+        <voice>passive</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>فى قوتها</original>
+    <translation>in its strength</translation>
+    <latin>in sua vi</latin>
+    <transliteration>fī quwwatihā</transliteration>
+    <grammar>
+        <type>phrase</type>
+        <preposition>فى</preposition>
+        <noun>
+            <root>ق و ي</root>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </noun>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>feminine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>مثل</original>
+    <translation>like</translation>
+    <latin>similis</latin>
+    <transliteration>mithl</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>م ث ل</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>indefinite</state>
+    </grammar>
+</word>
+
+<word>
+    <original>الصفر</original>
+    <translation>cymbals</translation>
+    <latin>cymbala</latin>
+    <transliteration>al-ṣifr</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>ص ف ر</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+<word>
+    <original>تستعمل</original>
+    <translation>it uses</translation>
+    <latin>utitur</latin>
+    <transliteration>tastaʿmil</transliteration>
+    <grammar>
+        <type>verb</type>
+        <root>ع م ل</root>
+        <tense>present</tense>
+        <voice>active</voice>
+        <person>third</person>
+        <number>singular</number>
+        <gender>feminine</gender>
+    </grammar>
+</word>
+
+<word>
+    <original>عينه</original>
+    <translation>itself</translation>
+    <latin>ipse</latin>
+    <transliteration>ʿaynahu</transliteration>
+    <grammar>
+        <type>noun + pronoun</type>
+        <root>ع ي ن</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <state>possessive</state>
+        <possessive_pronoun>
+            <person>third</person>
+            <number>singular</number>
+            <gender>masculine</gender>
+        </possessive_pronoun>
+    </grammar>
+</word>
+
+<word>
+    <original>بغير</original>
+    <translation>without</translation>
+    <latin>sine</latin>
+    <transliteration>bi-ghayr</transliteration>
+    <grammar>
+        <type>preposition</type>
+    </grammar>
+</word>
+
+<word>
+    <original>التاليف</original>
+    <translation>composition</translation>
+    <latin>compositio</latin>
+    <transliteration>al-taʾlīf</transliteration>
+    <grammar>
+        <type>noun</type>
+        <root>أ ل ف</root>
+        <number>singular</number>
+        <gender>masculine</gender>
+        <definite>true</definite>
+    </grammar>
+</word>
+
+
+        <word>NEW</word>
+        <word>
+            <original>التاليف</original>
+            <translation>composition</translation>
+            <latin>compositio</latin>
+            <transliteration>al-taʾlīf</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>أ ل ف</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>اداة</original>
+            <translation>instrument</translation>
+            <latin>instrumentum</latin>
+            <transliteration>ādāh</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>أ د و</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <state>indefinite</state>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الرقص</original>
+            <translation>dancing</translation>
+            <latin>saltatio</latin>
+            <transliteration>al-raqṣ</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ر ق ص</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>اللحون</original>
+            <translation>melodies</translation>
+            <latin>melodiae</latin>
+            <transliteration>al-luḥūn</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ل ح ن</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>المتشكلة</original>
+            <translation>varied</translation>
+            <latin>variae</latin>
+            <transliteration>al-mutashakkila</transliteration>
+            <grammar>
+                <type>adjective</type>
+                <root>ش ك ل</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>بالعادات</original>
+            <translation>with customs</translation>
+            <latin>cum moribus</latin>
+            <transliteration>bi-l-ʿādāt</transliteration>
+            <grammar>
+                <type>noun + preposition</type>
+                <root>ع و د</root>
+                <number>plural</number>
+                <gender>feminine</gender>
+                <preposition>ب</preposition>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>وبالانفعالات</original>
+            <translation>and emotions</translation>
+            <latin>et affectus</latin>
+            <transliteration>wa-bi-l-infiʿālāt</transliteration>
+            <grammar>
+                <type>noun + conjunction + preposition</type>
+                <root>ف ع ل</root>
+                <number>plural</number>
+                <gender>feminine</gender>
+                <coordinating_conjunction>و</coordinating_conjunction>
+                <preposition>ب</preposition>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>بالاعمال</original>
+            <translation>with actions</translation>
+            <latin>cum actionibus</latin>
+            <transliteration>bi-l-aʿmāl</transliteration>
+            <grammar>
+                <type>noun + preposition</type>
+                <root>ع م ل</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <preposition>ب</preposition>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>تحاكيها</original>
+            <translation>it imitates them</translation>
+            <latin>imitatur eos</latin>
+            <transliteration>tuḥākīhā</transliteration>
+            <grammar>
+                <type>verb + pronoun</type>
+                <root>ح ك ي</root>
+                <tense>present</tense>
+                <voice>active</voice>
+                <person>third</person>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <object_pronoun>
+                    <person>third</person>
+                    <number>plural</number>
+                    <gender>feminine</gender>
+                </object_pronoun>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>بالكلام</original>
+            <translation>with speech</translation>
+            <latin>cum oratione</latin>
+            <transliteration>bi-l-kalām</transliteration>
+            <grammar>
+                <type>noun + preposition</type>
+                <root>ك ل م</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <preposition>ب</preposition>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>المنثور</original>
+            <translation>prose</translation>
+            <latin>prosa</latin>
+            <transliteration>al-manthūr</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ن ث ر</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>السارح</original>
+            <translation>free-flowing</translation>
+            <latin>liber</latin>
+            <transliteration>al-sāriḥ</transliteration>
+            <grammar>
+                <type>adjective</type>
+                <root>س ر ح</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الاوزان</original>
+            <translation>meters</translation>
+            <latin>metra</latin>
+            <transliteration>al-awzān</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>و ز ن</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>تسمية</original>
+            <translation>naming</translation>
+            <latin>nominatio</latin>
+            <transliteration>tasmiyya</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>س م ي</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <state>indefinite</state>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الغاز</original>
+            <translation>riddles</translation>
+            <latin>aenigmata</latin>
+            <transliteration>al-ʾalghāz</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ل غ ز</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>غير</original>
+            <translation>other</translation>
+            <latin>alius</latin>
+            <transliteration>ghayr</transliteration>
+            <grammar>
+                <type>adjective</type>
+                <state>indefinite</state>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الاقاويل</original>
+            <translation>sayings</translation>
+            <latin>dicta</latin>
+            <transliteration>al-aqāwīl</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ق و ل</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>المنسوبة</original>
+            <translation>attributed</translation>
+            <latin>atributa</latin>
+            <transliteration>al-mansūba</transliteration>
+            <grammar>
+                <type>adjective</type>
+                <root>ن س ب</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+
+        <word>NEW</word>
+        <word>
+            <original>سقراط</original>
+            <translation>Socrates</translation>
+            <latin>Socrates</latin>
+            <transliteration>Suqrāṭ</transliteration>
+            <grammar>
+                <type>proper noun</type>
+                <number>singular</number>
+                <gender>masculine</gender>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الانسان</original>
+            <translation>human</translation>
+            <latin>homo</latin>
+            <transliteration>al-insān</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ن س ن</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>تشبيهه</original>
+            <translation>his resemblance</translation>
+            <latin>similitudo eius</latin>
+            <transliteration>tashbīhuhu</transliteration>
+            <grammar>
+                <type>noun + pronoun</type>
+                <root>ش ب ه</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <possessive_pronoun>
+                    <person>third</person>
+                    <number>singular</number>
+                    <gender>masculine</gender>
+                </possessive_pronoun>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>وحكايته</original>
+            <translation>and his imitation</translation>
+            <latin>imitatio eius</latin>
+            <transliteration>wa-ḥikāyatuhu</transliteration>
+            <grammar>
+                <type>noun + pronoun + conjunction</type>
+                <root>ح ك ي</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <coordinating_conjunction>و</coordinating_conjunction>
+                <possessive_pronoun>
+                    <person>third</person>
+                    <number>singular</number>
+                    <gender>masculine</gender>
+                </possessive_pronoun>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>ثلاثيه</original>
+            <translation>triple</translation>
+            <latin>triplex</latin>
+            <transliteration>thalāthiyya</transliteration>
+            <grammar>
+                <type>adjective</type>
+                <root>ث ل ث</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <state>indefinite</state>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الغاز</original>
+            <translation>riddles</translation>
+            <latin>aenigmata</latin>
+            <transliteration>al-ʾalghāz</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ل غ ز</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>غير</original>
+            <translation>other</translation>
+            <latin>alius</latin>
+            <transliteration>ghayr</transliteration>
+            <grammar>
+                <type>adjective</type>
+                <state>indefinite</state>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>تشبيهه</original>
+            <translation>his resemblance</translation>
+            <latin>similitudo eius</latin>
+            <transliteration>tashbīhuhu</transliteration>
+            <grammar>
+                <type>noun + pronoun</type>
+                <root>ش ب ه</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <possessive_pronoun>
+                    <person>third</person>
+                    <number>singular</number>
+                    <gender>masculine</gender>
+                </possessive_pronoun>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>يوصلون</original>
+            <translation>they apply</translation>
+            <latin>applicant</latin>
+            <transliteration>yuwṣilūn</transliteration>
+            <grammar>
+                <type>verb</type>
+                <root>و ص ل</root>
+                <tense>present</tense>
+                <voice>active</voice>
+                <person>third</person>
+                <number>plural</number>
+                <gender>masculine</gender>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>صناعة</original>
+            <translation>craft</translation>
+            <latin>ars</latin>
+            <transliteration>ṣināʿa</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ص ن ع</root>
+                <number>singular</number>
+                <gender>feminine</gender>
+                <state>indefinite</state>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الشعر</original>
+            <translation>poetry</translation>
+            <latin>poesis</latin>
+            <transliteration>al-shiʿr</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>ش ع ر</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>الاوزان</original>
+            <translation>meters</translation>
+            <latin>metra</latin>
+            <transliteration>al-awzān</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>و ز ن</root>
+                <number>plural</number>
+                <gender>masculine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>يسمون</original>
+            <translation>they name</translation>
+            <latin>nominant</latin>
+            <transliteration>yusammūn</transliteration>
+            <grammar>
+                <type>verb</type>
+                <root>س م ي</root>
+                <tense>present</tense>
+                <voice>active</voice>
+                <person>third</person>
+                <number>plural</number>
+                <gender>masculine</gender>
+            </grammar>
+        </word>
+        
+        <word>
+            <original>بعضها</original>
+            <translation>some of it</translation>
+            <latin>nonnulli ex eo</latin>
+            <transliteration>baʿḍuhā</transliteration>
+            <grammar>
+                <type>noun + pronoun</type>
+                <root>ب ع ض</root>
+                <number>singular</number>
+                <gender>masculine</gender>
+                <possessive_pronoun>
+                    <person>third</person>
+                    <number>singular</number>
+                    <gender>feminine</gender>
+                </possessive_pronoun>
+            </grammar>
+        </word>
+        <word>
+            <original>فمن</original>
+            <translation>so from</translation>
+            <latin>itaque ex</latin>
+            <transliteration>fa-min</transliteration>
+            <grammar>
+                <type>preposition + particle</type>
+                <preposition>من</preposition>
+                <particle>ف</particle>
+            </grammar>
+        </word>
+        <word>
+            <original>الغايا</original>
+            <translation>purposes</translation>
+            <latin>fines</latin>
+            <transliteration>al-ghāyā</transliteration>
+            <grammar>
+                <type>noun</type>
+                <root>غ و ي</root>
+                <number>plural</number>
+                <gender>feminine</gender>
+                <definite>true</definite>
+            </grammar>
+        </word>
+        <word>NEW</word>
+        <word>NEW</word>
+    </text>
