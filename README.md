@@ -127,3 +127,8 @@ Aristotle’s Poetics, translation and commentary in progress, Chapter 4: https
 It can be very difficult to conceptualize the artistic and performance background that the Poetics assume. For an example, see [Rediscovering Ancient Greek Music (2017)](https://www.youtube.com/watch?v=4hOK7bU0S1Y).
 
 Paging through the Poetics by chapter/section [here](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2:1.1?right=perseus-eng2) -- easier for aligning the translation.
+
+
+## Arabic Grammar
+
+For now we use the abridged Wright grammar [here](https://babel.hathitrust.org/cgi/pt?id=uc1.32106001616553&seq=9). A transcription is available [here](https://github.com/gregorycrane/wright-arabic/blob/main/elementaryarabic01thoruoft.txt)
