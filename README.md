@@ -50,7 +50,7 @@ Although this ditital version uses the Bekker edition, the source for this image
 
 We need to check for manuscripts available via IIIF.
 
-## The 13th century Moerbek Latin translation
+## The 13th century Moerbeke Latin translation
 
 This Latin translation contains evidence about an earlier stage of the text than our manuscripts preserve. It can be quickly OCRd. There are multiple editions that we can start with. 
 
