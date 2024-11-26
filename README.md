@@ -136,3 +136,5 @@ For now we use the abridged Wright grammar [here](https://babel.hathitrust.org/c
 ## 1508 Editio Princeps
 
 In [Europeana](https://www.europeana.eu/en/item/794/ark__12148_bpt6k319048q) pp. [269](https://gallica.bnf.fr/ark:/12148/bpt6k319048q/f293.item)-[286](https://gallica.bnf.fr/ark:/12148/bpt6k319048q/f310.item)
+
+[detail](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k319048q/f293/888.7304942716966,1928.9602334501897,318.46316856551346,74.57681795521489/158,37/0/native.jpg)
