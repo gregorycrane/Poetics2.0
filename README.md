@@ -132,3 +132,7 @@ Paging through the Poetics by chapter/section [here](https://scaife.perseus.org/
 ## Arabic Grammar
 
 For now we use the abridged Wright grammar [here](https://babel.hathitrust.org/cgi/pt?id=uc1.32106001616553&seq=9). A transcription is available [here](https://github.com/gregorycrane/wright-arabic/blob/main/elementaryarabic01thoruoft.txt)
+
+## 1508 Editio Princeps
+
+In [Europeana](https://www.europeana.eu/en/item/794/ark__12148_bpt6k319048q) pp. [269](https://gallica.bnf.fr/ark:/12148/bpt6k319048q/f293.item)-[286](https://gallica.bnf.fr/ark:/12148/bpt6k319048q/f310.item)
