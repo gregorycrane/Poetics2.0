@@ -84,9 +84,9 @@ target="http://hdl.handle.net/2027/uva.x001000005" >HathiTrust</ref>
 </head>
 <p>IN this third edition, the translation of Aristotle'is Rhetoric has been again carefully compared with the Greek, and revised and corrected throughout. Numerous explanatory and illustrative notes have also been added; as well as a marginal analysis, which it is presumed will be found of much service to the reader.</p>
 <p>The famous Thomas Hobbes' Brief of the Art of Rhetorick, "containing in substance all that Aristotle hath written in his three books on that subject," and forming the best summary of this noble science, has been again reprinted from the scarce edition published at London in 1681. A body of Analytical Questions, for self-examination, has also been appended.</p>
-<p>With these improvements, the Editor confidently hopes that the present volume will be found to contain, not only the most faithful version of the Rhetoric of Aristotle, but the best helps for the due understanding and retaining the sense thereo.
+<p>With these improvements, the Editor confidently hopes that the present volume will be found to contain, not only the most faithful version of the Rhetoric of Aristotle, but the best helps for the due understanding and retaining the sense thereo.</p>
 
-<note type="footnote">Oxford, November, 1846. </note> </p>
+<p>Oxford, November, 1846.  </p>
 <p>IN the present new edition of the Oxford version of. the Rhetoric, it has been thought advisable not to interfere either with the text, notes, or Questions, all being of acknowledged excellence. But, as Hobbes, by the
 <pb n="iv"/>
 quaintness of his Analysis, at times lost sight of the precise character of the original definitions, an Appendix has been added, containing the very words of Aristotle, connected by such remarks as were necessary to preserve clearness, and furnishing such passages as should be almost learnt by heart.</p>
@@ -95,7 +95,7 @@ quaintness of his Analysis, at times lost sight of the precise character of the 
 <p>CHRIST CHURCH.</p>
 <pb n="-"/>
 </div>
-<div type="textpart" subtype="chapter">
+<div xml:lang="eng" type="translation" n="urn:cts:greekLit:tlg0086.tlg038.buckley-eng1">
 <head>
 <title type="main">ARISTOTLE'S TREATISE ON RHETORIC.</title>
 </head>
@@ -8236,7 +8236,7 @@ produce a science distinct from the Dialectic and Rhetoric.</p>
 </div>
 <pb n="404"/>
 <pb n="405"/>
-<div type="textpart" subtype="chapter">
+<div xml:lang="eng" type="translation" n="urn:cts:greekLit:tlg0086.tlg038.buckley-eng1">
 <head>
 <title type="main">THE POETIC OF ARISTOTLE, LITERALLY TRANSLATED, WITH A SELECTION OF NOTES, AN ANALYSIS, AND QUESTIONS. BY THEODORE BUCKLEY, B. A. OF CHRIST CHURCH.</title>
 </head>

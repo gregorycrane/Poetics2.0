@@ -1,0 +1,103 @@
+<div type="biography">
+  <head>THE LIFE OF OVID </head>
+  <epigraph>
+    <p>FATVM NECESSITATIS LEX </p>
+  </epigraph>
+
+  <lg type="epitaph">
+    <l>Here lies that living Poet, by the rage </l>
+    <l>Of great Augustus banished from Rome: </l>
+    <l>Who in his countrie sought t'interre his Age</l>
+    <l>But vainly, Fate hath lodg'd him in this tombe:</l>
+  </lg>
+
+  <p>
+    ISABELLA Queene of Hungarie in the yeare MDXL shewed to BAR- 
+    Gaeus a pen of siluer, found not long before vnder certaine ruines, with
+    this inscription; <hi rend="italic">OVIDII NASONIS CALAMVS:</hi> which she high- 
+    ly esteemed, and preserved as a sacred relique.
+  </p>
+
+  <p>
+    Of the bookes which hee 
+    writ, since most of them are extant among vs, I will onely recite these fol-
+    lowing verses of ANGELVS POLITIANVS,
+  </p>
+
+  <lg xml:id="politianus_verses">
+    <l n="1">From times first birth he chants the change of things, 
+      <note place="right" target="#l1">Metamorphosis. </note>
+    </l>
+    <l n="2">The flames of Love in Elegiacks sings, 
+      <note place="right" target="#l2">De Arte, &amp; Amorum </note>
+    </l>
+    <l n="3">With curses doubtfull Ibis he insnares,</l>
+    <l n="4">Epistles dictates fraught with Lovers cares, 
+      <note place="right" target="#l4">Epist, Heroidum. </note>
+    </l>
+    <l n="5">In Swan-like tunes deplores his sad exile, 
+      <note place="right" target="#l5">Trist, &amp; de Ponto, </note>
+    </l>
+    <l n="6">His verse the Roman Festivals compile,
+      <note place="right" target="#l6">Fasti, </note>
+    </l>
+    <l n="7">Of fishes sings unknowne to Latin eares,
+      <note place="right" target="#l7">Halicutica, </note>
+    </l>
+    <l n="8">Computes the stars that glide in heavenly spheres,
+      <note place="right" target="#l8">Phænomena, </note>
+    </l>
+    <l n="9">His paper fils with Epigrammick rimes,
+      <note place="right" target="#l9">Epigrammata. </note>
+    </l>
+    <l n="10">The tragick stage on high cothurnals climes,
+      <note place="right" target="#l10">Medeæ trag, </note>
+    </l>
+    <l n="11">Whips Poetasters that abuse the times.
+      <note place="right" target="#l11">In malos Poetas, </note>
+    </l>
+  </lg>
+
+  <p>
+    Yet leaves he out the Remedie of Love, a legitimate Poem (except he make it 
+    an appendix to the Art) and his Consolation to LIVIA for the death of
+    DRVSVS: which SENECA hath excerped and sprinkled among his seve-
+    rall Consolations.
+  </p>
+
+  <p>
+    Among such a multiplicitie of arguments our gentle Poet 
+    did neuer write a virulent verse, but onely against CORNIFICVS; 
+    (maskt vnder the name of IBIS) who solicited his wife in his absence, and labou-
+    red against the repeale of his banishment.
+  </p>
+
+  <p>
+    Concerning his Metamorphosis, 
+    it should seeme that he therein imitated PARTHENIVS of Chios, who writ
+    on the same argument: as the Latin Poets even generally borrowed their in-
+    ventions from the Grecian Magazins.
+  </p>
+
+  <p>
+    I will conclude with what himselfe 
+    hath written of this Poem, wherein I haue imployed my vacant houres:
+    with what successe, I leave to the censure of others, which perhaps may
+    prove lesse rigid then my owne.
+  </p>
+
+  <lg>
+    <l>I thanke your love: my verse farre livelier then </l>
+    <l>My picture shew me;</l>
+    <l>wherefore those peruse </l>
+    <l>My verse, which sing the changed shapes of men;</l>
+    <l>Though left unperfect by my banisht Muse.</l>
+    <l>Departing, these I sadly with my hand </l>
+    <l>Into the fire, with other riches, threw. </l>
+    <l>Her sonne Althea burning in his brand,</l>
+    <l>A better sister then a mother grew:</l>
+    <l>So I, what should not perish with me, cast</l>
+    <l>Those bookes, my issue, in the funerall flame:</l>
+    <note place="bottom">Trist.lib.s. Elegia.6. </note>
+  </lg>
+</div>

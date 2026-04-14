@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>Aristotle's Treatise on Rhetoric</title>
+        <author>Aristotle</author>
+        <editor role="translator">Theodore Buckley</editor>
+        <sponsor>University of Leipzig</sponsor>
+        <principal>Gregory Crane</principal>
+        <funder>European Social Fund Saxony</funder>
+        <respStmt>
+          <persName xml:id="Jouve">Jouve</persName>
+          <resp>OCR-ed, corrected and encoded the text</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Greta Franzini</persName>
+          <resp>Project Manager (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Simona Stoyanova</persName>
+          <resp>Project Assistant (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bruce Robertson</persName>
+          <resp>Technical Advisor (Mount Allison University)</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Leipzig</publisher>
+        <pubPlace>Germany</pubPlace>
+        <authority>University of Leipzig</authority>
+        <date type="release" when="2014">2014</date>
+        <idno type="filename">aristotle_1850.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a
+            Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Rhetoric</title>
+            <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0086">Aristotle</author>
+            <editor role="translator">Theodore Buckley</editor>
+            <imprint>
+              <publisher>Henry G. Bohn</publisher>
+              <pubPlace>London</pubPlace>
+              <date>1850</date>
+            </imprint>
+          </monogr>
+          <ref target="http://hdl.handle.net/2027/uva.x001000005">HathiTrust</ref>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern n="section" matchPattern="(\w+).(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+          <p>This pointer pattern extracts chapter and section.</p>
+        </cRefPattern>
+        <cRefPattern n="chapter" matchPattern="(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+          <p>This pointer pattern extracts chapter.</p>
+        </cRefPattern>
+      </refsDecl>
+      <editorialDecl>
+        <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
+      </editorialDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+    </profileDesc>
+    
+    <revisionDesc>
+      <change when="2026-04-10" who="Gemini">Updated header structure to be compatible with standard template</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+    </body>
+  </text>
+</TEI>
