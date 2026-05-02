@@ -1,0 +1,378 @@
+# sentence_id = 1
+# document_id = Poetics_Ar_01
+# translation_lang = en
+# prose_translation = We shall speak now of the poetic art and its kinds, and of the capacity each one possesses, and how the plots and poems must be structured if the composition is to result in excellence.
+# literal_translation = Verily we [are] speaking now in the art of the poets and its types, and [we are] informing which power [is] to each one of them, and upon which way it is necessary that be established the stories and the poems, if were the plots (fawasis) intended that proceed their matter [in] the course of excellence.
+1	إنا	إِنَّ	PART	F-	_	3	mark	_	gloss=verily|translit='in-nā|Ref=1.1.1
+2	_	نحن	PRON	SP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	gloss=we|translit=nā|Ref=1.1.1
+3	متكلمون	مُتَكَلِّم	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	gloss=speaking|translit=mutakallimūn|Ref=1.1.1
+4	الآن	الآنَ	ADV	D-	_	3	advmod	_	gloss=now|translit=al-'āna|Ref=1.1.1
+5	فى	فِي	ADP	P-	_	6	case	_	gloss=in|translit=fī|Ref=1.1.1
+6	صناعة	صِنَاعَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	gloss=art|translit=ṣināʿati|Ref=1.1.1
+7	الشعراء	شَاعِر	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	gloss=poets|translit=al-šuʿarā'i|Ref=1.1.1
+8	و	وَ	CCONJ	C-	_	9	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+9	أنواع	نَوْع	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	6	conj	_	gloss=types|translit='anwāʿi|Ref=1.1.1
+10	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	gloss=its|translit=hā|Ref=1.1.1
+11	،	،	PUNCT	_	_	13	punct	_	_
+12	و	وَ	CCONJ	C-	_	13	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+13	مخبرون	مُخْبِر	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	gloss=informing|translit=mukhbirūn|Ref=1.1.1
+14	أى	أَيّ	DET	I-	Case=Nom	15	det	_	gloss=which|translit='ayya|Ref=1.1.1
+15	قوة	قُوَّة	NOUN	N-	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	gloss=power|translit=quwwatin|Ref=1.1.1
+16	ل	لِ	ADP	P-	_	17	case	_	gloss=to|translit=li-|Ref=1.1.1
+17	كل	كُلّ	NOUN	N-	Case=Gen	13	obl	_	gloss=each|translit=kulli|Ref=1.1.1
+18	واحد	وَاحِد	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	gloss=one|translit=wāḥidin|Ref=1.1.1
+19	من	مِنْ	ADP	P-	_	20	case	_	gloss=from|translit=min|Ref=1.1.1
+20	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	_	gloss=them|translit=hā|Ref=1.1.1
+21	،	،	PUNCT	_	_	25	punct	_	_
+22	و	وَ	CCONJ	C-	_	25	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+23	على	عَلَى	ADP	P-	_	25	case	_	gloss=upon|translit=ʿalā|Ref=1.1.1
+24	أى	أَيّ	DET	I-	Case=Gen	25	det	_	gloss=which|translit='ayyi|Ref=1.1.1
+25	سبيل	سَبِيل	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	gloss=way|translit=sabīlin|Ref=1.1.1
+26	ينبغى	نَبَغَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	25	acl	_	gloss=is-necessary|translit=yanbaghī|Ref=1.1.1
+27	أن	أَنْ	SCONJ	P-	_	28	mark	_	gloss=that|translit='an|Ref=1.1.1
+28	تتقوم	تَقَوَّمَ	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3	26	csubj	_	gloss=be-established|translit=tataqawwama|Ref=1.1.1
+29	الأسمار	سَمَر	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	gloss=stories|translit=al-'asmāru|Ref=1.1.1
+30	و	وَ	CCONJ	C-	_	31	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+31	الأشعار	شِعْر	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	29	conj	_	gloss=poems|translit=al-'ašʿāru|Ref=1.1.1
+32	،	،	PUNCT	_	_	36	punct	_	_
+33	إن	إِنْ	SCONJ	P-	_	36	mark	_	gloss=if|translit='in|Ref=1.1.1
+34	كانت	كَانَ	AUX	V-	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	36	cop	_	gloss=were|translit=kānat|Ref=1.1.1
+35	الفواسيس	فَوَاسِيس	NOUN	N-	Case=Nom|Gender=Fem|Number=Plur	36	nsubj	_	gloss=plots/myths|translit=al-fawāsīsu|Ref=1.1.1
+36	مزمعة	مُزْمَعَة	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	28	advcl	_	gloss=intended|translit=muzmaʿatan|Ref=1.1.1
+37	ب	بِ	ADP	P-	_	39	mark	_	gloss=with|translit=bi-|Ref=1.1.1
+38	أن	أَنْ	SCONJ	P-	_	39	mark	_	gloss=that|translit='an|Ref=1.1.1
+39	يجرى	جَرَى	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3	36	advcl	_	gloss=proceed|translit=yajriya|Ref=1.1.1
+40	أمر	أَمْر	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	gloss=matter|translit='amru|Ref=1.1.1
+41	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	nmod	_	gloss=its|translit=hā|Ref=1.1.1
+42	مجرى	مَجْرَى	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	39	obl	_	gloss=course|translit=majrā|Ref=1.1.1
+43	الجودة	جَوْدَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	gloss=excellence|translit=al-jawdati|Ref=1.1.1
+
+# sentence_id = 2
+# document_id = Poetics_Ar_01
+# translation_lang = en
+# prose_translation = Furthermore, we shall discuss how many parts it has and what their nature is.
+# literal_translation = And also from how many parts it [is], and which they [are] its parts.
+1	و	وَ	CCONJ	C-	_	2	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+2	أيضاً	أَيْضًا	ADV	D-	_	4	advmod	_	gloss=also|translit='ayḍan|Ref=1.1.1
+3	من	مِنْ	ADP	P-	_	4	case	_	gloss=from|translit=min|Ref=1.1.1
+4	كم	كَمْ	DET	I-	_	0	root	_	gloss=how-many|translit=kam|Ref=1.1.1
+5	جزء	جُزْء	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	gloss=part|translit=juz'in|Ref=1.1.1
+6	هى	هُوَ	PRON	SP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	gloss=it|translit=hiya|Ref=1.1.1
+7	،	،	PUNCT	_	_	9	punct	_	_
+8	و	وَ	CCONJ	C-	_	9	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+9	أيما	أَيُّمَا	PRON	I-	_	4	conj	_	gloss=which-ever|translit='ayyumā|Ref=1.1.1
+10	هى	هُوَ	PRON	SP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	gloss=they|translit=hiya|Ref=1.1.1
+11	أجزاؤ	جُزْء	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	gloss=parts|translit='ajzā'u|Ref=1.1.1
+12	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	gloss=its|translit=hā|Ref=1.1.1
+
+# sentence_id = 3
+# document_id = Poetics_Ar_01
+# translation_lang = en
+# prose_translation = Likewise, we will speak concerning the number of elements that exist and are specific to it.
+# literal_translation = And likewise we speak for the sake of how many which are existing which are for it specifically.
+1	و	وَ	CCONJ	C-	_	3	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+2	كذلك	كَذَلِكَ	ADV	D-	_	3	advmod	_	gloss=likewise|translit=ka-dhālika|Ref=1.1.1
+3	نتكلم	تَكَلَّمَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1	0	root	_	gloss=we-speak|translit=natakallamu|Ref=1.1.1
+4	من	مِنْ	ADP	P-	_	5	case	_	gloss=from|translit=min|Ref=1.1.1
+5	أجل	أَجْل	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	gloss=sake|translit='ajli|Ref=1.1.1
+6	كم	كَمْ	DET	I-	_	5	nmod	_	gloss=how-many|translit=kam|Ref=1.1.1
+7	التى	الَّتِي	PRON	S-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	gloss=which|translit=al-latī|Ref=1.1.1
+8	هى	هُوَ	PRON	SP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	acl:relcl	_	gloss=they|translit=hiya|Ref=1.1.1
+9	موجودة	مَوْجُود	ADJ	A-	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	gloss=existing|translit=mawjūdatun|Ref=1.1.1
+10	التى	الَّتِي	PRON	S-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	gloss=which|translit=al-latī|Ref=1.1.1
+11	هى	هُوَ	PRON	SP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	conj	_	gloss=they|translit=hiya|Ref=1.1.1
+12	لها	لِـ	ADP	P-	_	11	obl	_	gloss=for-it|translit=la-hā|Ref=1.1.1
+13	بعينها	بِعَيْنِهِ	ADV	D-	_	11	advmod	_	gloss=specifically|translit=bi-ʿaynihā|Ref=1.1.1
+
+# sentence_id = 4
+# document_id = Poetics_Ar_01
+# translation_lang = en
+# prose_translation = We shall speak on all these matters, beginning in the natural order with the primary things.
+# literal_translation = And we [are] speaking in this all from where we begin first from the things primary.
+1	و	وَ	CCONJ	C-	_	4	cc	_	gloss=and|translit=wa-|Ref=1.1.1
+2	نحن	نَحْنُ	PRON	SP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	gloss=we|translit=naḥnu|Ref=1.1.1
+3	متكلمون	مُتَكَلِّم	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	4	root	_	gloss=speaking|translit=mutakallimūn|Ref=1.1.1
+4	فى	فِي	ADP	P-	_	5	case	_	gloss=in|translit=fī|Ref=1.1.1
+5	هذا	هَذَا	PRON	D-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	gloss=this|translit=hādhā|Ref=1.1.1
+6	كله	كُلّ	DET	_	Case=Gen	5	det	_	gloss=all|translit=kullihī|Ref=1.1.1
+7	من	مِنْ	ADP	P-	_	9	mark	_	gloss=from|translit=min|Ref=1.1.1
+8	حيث	حَيْثُ	ADV	D-	_	7	fixed	_	gloss=where|translit=ḥaythu|Ref=1.1.1
+9	نبتدئ	اِبْتَدَأَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1	3	advcl	_	gloss=we-begin|translit=nabtadi'u|Ref=1.1.1
+10	أولا	أَوَّلًا	ADV	D-	_	9	advmod	_	gloss=first|translit='awwalan|Ref=1.1.1
+11	من	مِنْ	ADP	P-	_	12	case	_	gloss=from|translit=min|Ref=1.1.1
+12	الأشياء	شَيْء	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	9	obl	_	gloss=things|translit=al-'ašyā'i|Ref=1.1.1
+13	الأوائل	أَوَّل	ADJ	A-	Case=Gen|Gender=Masc|Number=Plur	12	amod	_	gloss=primary|translit=al-'awā'ili|Ref=1.1.1
+
+
+
+# sentence_id = 5
+# document_id = Poetics_Ar_02
+# translation_lang = en
+# prose_translation = Thus, every kind of poetry and every poetic song is directed towards either praise, or satire, or the poetic dithyramb, and the like of most flute-playing, and everything that is part of the imitation and mimesis of the craft of musical entertainment, such as the flute, the lute, and others.
+# literal_translation = For every poetry, and every song poetic is directed by it: either praise, and either satire, and either dithyramb poetic, and towards most [of] auletics, and every what was entering in the imitation and mimesis [of] craft [of] entertainment from the flute and the lute and other [of] it.
+1	ف	وَ	CCONJ	C-	_	8	cc	_	gloss=for/so|translit=fa-|Ref=1.1.2
+2	كل	كُلّ	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	gloss=every|translit=kullu|Ref=1.1.2
+3	شعر	شِعْر	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	gloss=poetry|translit=šiʿrin|Ref=1.1.2
+4	،	،	PUNCT	_	_	6	punct	_	_
+5	و	وَ	CCONJ	C-	_	6	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+6	كل	كُلّ	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	gloss=every|translit=kullu|Ref=1.1.2
+7	نشيد	نَشِيد	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	gloss=song|translit=našīdin|Ref=1.1.2
+8	شعرى	شِعْرِيّ	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	gloss=poetic|translit=šiʿriyyin|Ref=1.1.2
+9	ينحى	نَحَا	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	gloss=is-directed|translit=yunḥā|Ref=1.1.2
+10	ب	بِ	ADP	P-	_	11	case	_	gloss=with/by|translit=bi-|Ref=1.1.2
+11	ه	هُوَ	PRON	SP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	gloss=it|translit=-hi|Ref=1.1.2
+12	:	:	PUNCT	_	_	13	punct	_	_
+13	إما	إِمَّا	CCONJ	C-	_	14	cc	_	gloss=either|translit='immā|Ref=1.1.2
+14	مديحاً	مَدِيح	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	9	advcl	_	gloss=praise|translit=madīḥan|Ref=1.1.2
+15	،	،	PUNCT	_	_	17	punct	_	_
+16	و	وَ	CCONJ	C-	_	17	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+17	إما	إِمَّا	CCONJ	C-	_	18	cc	_	gloss=either|translit='immā|Ref=1.1.2
+18	هجاء	هِجَاء	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	14	conj	_	gloss=satire|translit=hijā'an|Ref=1.1.2
+19	،	،	PUNCT	_	_	22	punct	_	_
+20	و	وَ	CCONJ	C-	_	22	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+21	إما	إِمَّا	CCONJ	C-	_	22	cc	_	gloss=either|translit='immā|Ref=1.1.2
+22	ديثرمبو	ديثرمبو	PROPN	N-	_	14	conj	_	gloss=dithyramb|translit=dīṯurambū|Ref=1.1.2
+23	الشعرى	شِعْرِيّ	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	22	amod	_	gloss=poetic|translit=al-šiʿriyyu|Ref=1.1.2
+24	،	،	PUNCT	_	_	25	punct	_	_
+25	و	وَ	CCONJ	C-	_	26	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+26	نحو	نَحْو	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	14	conj	_	gloss=like/towards|translit=naḥwa|Ref=1.1.2
+27	أكثر	أَكْثَر	ADJ	A-	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	gloss=most|translit='akṯari|Ref=1.1.2
+28	أوليطيقس	أوليطيقس	PROPN	N-	_	27	nmod	_	gloss=auletics|translit='awlīṭīqus|Ref=1.1.2
+29	،	،	PUNCT	_	_	31	punct	_	_
+30	و	وَ	CCONJ	C-	_	31	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+31	كل	كُلّ	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	gloss=every|translit=kullu|Ref=1.1.2
+32	ما	مَا	PRON	S-	_	31	nmod	_	gloss=what|translit=mā|Ref=1.1.2
+33	كان	كَانَ	AUX	V-	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	34	cop	_	gloss=was|translit=kāna|Ref=1.1.2
+34	داخلا	دَاخِل	ADJ	A-	Case=Acc|Gender=Masc|Number=Sing	32	acl	_	gloss=entering/included|translit=dākhilan|Ref=1.1.2
+35	فى	فِي	ADP	P-	_	36	case	_	gloss=in|translit=fī|Ref=1.1.2
+36	التشبيه	تَشْبِيه	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	34	obl	_	gloss=imitation|translit=al-tašbīhi|Ref=1.1.2
+37	و	وَ	CCONJ	C-	_	38	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+38	محاكاة	مُحَاكَاة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	36	conj	_	gloss=mimesis|translit=muḥākāti|Ref=1.1.2
+39	صناعة	صِنَاعَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	gloss=craft|translit=ṣināʿati|Ref=1.1.2
+40	الملاهى	مَلْهَاة	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	39	nmod	_	gloss=entertainments|translit=al-malāhī|Ref=1.1.2
+41	من	مِنْ	ADP	P-	_	42	case	_	gloss=from|translit=min|Ref=1.1.2
+42	الزمر	زَمْر	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	34	obl	_	gloss=flute|translit=al-zumri|Ref=1.1.2
+43	و	وَ	CCONJ	C-	_	44	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+44	العود	عُود	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	42	conj	_	gloss=lute|translit=al-ʿūdi|Ref=1.1.2
+45	و	وَ	CCONJ	C-	_	46	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+46	غير	غَيْر	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	42	conj	_	gloss=other|translit=ghayri|Ref=1.1.2
+47	ه	هُوَ	PRON	SP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	nmod	_	gloss=it|translit=-hi|Ref=1.1.2
+
+# sentence_id = 6
+# document_id = Poetics_Ar_02
+# translation_lang = en
+# prose_translation = Their kinds are three: either they imitate by other things and the narrative within them, or it is the opposite of this: which is that other things are imitated and mimicked, or they proceed in different states, not in one specific way.
+# literal_translation = And its kinds [are] three: and that either that it be imitating by things other and the story by them, and either that it be upon reverse [of] this: and it [is] that it be things other imitating and mimicking, and either that it proceed upon states different not upon way one specific.
+1	و	وَ	CCONJ	C-	_	3	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+2	أصناف	صِنْف	NOUN	N-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	gloss=kinds|translit='aṣnāfu|Ref=1.1.2
+3	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	gloss=their|translit=-hā|Ref=1.1.2
+4	ثلاثة	ثَلَاثَة	NUM	M-	Case=Nom|Gender=Fem|Number=Sing	2	nummod	_	gloss=three|translit=ṯalāṯatun|Ref=1.1.2
+5	:	:	PUNCT	_	_	6	punct	_	_
+6	و	وَ	CCONJ	C-	_	7	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+7	ذلك	ذَلِكَ	PRON	D-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	gloss=that|translit=ḏālika|Ref=1.1.2
+8	إما	إِمَّا	CCONJ	C-	_	11	mark	_	gloss=either|translit='immā|Ref=1.1.2
+9	أن	أَنْ	SCONJ	P-	_	11	mark	_	gloss=that|translit='an|Ref=1.1.2
+10	يكون	كَانَ	AUX	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3	11	aux	_	gloss=be|translit=yakūna|Ref=1.1.2
+11	يشبه	شَبَّهَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	7	ccomp	_	gloss=imitates|translit=yušabbihu|Ref=1.1.2
+12	ب	بِ	ADP	P-	_	13	case	_	gloss=by/with|translit=bi-|Ref=1.1.2
+13	أشياء	شَيْء	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	11	obl	_	gloss=things|translit='ašyā'a|Ref=1.1.2
+14	أخر	آخَر	ADJ	A-	Case=Gen|Gender=Fem|Number=Plur	13	amod	_	gloss=other|translit='ukhara|Ref=1.1.2
+15	و	وَ	CCONJ	C-	_	16	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+16	الحكاية	حِكَايَة	NOUN	N-	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	gloss=story/narrative|translit=al-ḥikāyatu|Ref=1.1.2
+17	ب	بِ	ADP	P-	_	18	case	_	gloss=by|translit=bi-|Ref=1.1.2
+18	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nmod	_	gloss=them|translit=-hā|Ref=1.1.2
+19	،	،	PUNCT	_	_	22	punct	_	_
+20	و	وَ	CCONJ	C-	_	22	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+21	إما	إِمَّا	CCONJ	C-	_	23	mark	_	gloss=either|translit='immā|Ref=1.1.2
+22	أن	أَنْ	SCONJ	P-	_	23	mark	_	gloss=that|translit='an|Ref=1.1.2
+23	تكون	كَانَ	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3	11	conj	_	gloss=be|translit=takūna|Ref=1.1.2
+24	على	عَلَى	ADP	P-	_	25	case	_	gloss=upon|translit=ʿalā|Ref=1.1.2
+25	عكس	عَكْس	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	23	obl	_	gloss=reverse|translit=ʿaksi|Ref=1.1.2
+26	هذا	هَذَا	PRON	D-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	25	nmod	_	gloss=this|translit=hāḏā|Ref=1.1.2
+27	:	:	PUNCT	_	_	28	punct	_	_
+28	و	وَ	CCONJ	C-	_	29	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+29	هو	هُوَ	PRON	SP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	conj	_	gloss=it|translit=huwa|Ref=1.1.2
+30	أن	أَنْ	SCONJ	P-	_	31	mark	_	gloss=that|translit='an|Ref=1.1.2
+31	تكون	كَانَ	AUX	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3	29	ccomp	_	gloss=be|translit=takūna|Ref=1.1.2
+32	أشياء	شَيْء	NOUN	N-	Case=Nom|Gender=Fem|Number=Plur	31	nsubj	_	gloss=things|translit='ašyā'u|Ref=1.1.2
+33	أخر	آخَر	ADJ	A-	Case=Nom|Gender=Fem|Number=Plur	32	amod	_	gloss=other|translit='ukhara|Ref=1.1.2
+34	تشبه	شَبَّهَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	31	xcomp	_	gloss=imitating|translit=tušabbihu|Ref=1.1.2
+35	و	وَ	CCONJ	C-	_	36	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+36	تحاكى	حَاكَى	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	34	conj	_	gloss=mimicked|translit=tuḥākā|Ref=1.1.2
+37	،	،	PUNCT	_	_	40	punct	_	_
+38	و	وَ	CCONJ	C-	_	40	cc	_	gloss=and|translit=wa-|Ref=1.1.2
+39	إما	إِمَّا	CCONJ	C-	_	41	mark	_	gloss=either|translit='immā|Ref=1.1.2
+40	أن	أَنْ	SCONJ	P-	_	41	mark	_	gloss=that|translit='an|Ref=1.1.2
+41	تجرى	جَرَى	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3	34	conj	_	gloss=proceed|translit=tajriya|Ref=1.1.2
+42	على	عَلَى	ADP	P-	_	43	case	_	gloss=upon|translit=ʿalā|Ref=1.1.2
+43	أحوال	حَال	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	41	obl	_	gloss=states|translit='aḥwālin|Ref=1.1.2
+44	مختلفة	مُخْتَلِف	ADJ	A-	Case=Gen|Gender=Fem|Number=Sing	43	amod	_	gloss=different|translit=mukhtalifatin|Ref=1.1.2
+45	لا	لَا	PART	F-	_	47	advmod	_	gloss=not|translit=lā|Ref=1.1.2
+46	على	عَلَى	ADP	P-	_	47	case	_	gloss=upon|translit=ʿalā|Ref=1.1.2
+47	جهة	جِهَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	41	obl	_	gloss=way/direction|translit=jihatin|Ref=1.1.2
+48	واحدة	وَاحِد	ADJ	A-	Case=Gen|Gender=Fem|Number=Sing	47	amod	_	gloss=one|translit=wāḥidatin|Ref=1.1.2
+49	بعينها	بِعَيْنِهِ	ADV	D-	_	47	advmod	_	gloss=specific|translit=bi-ʿaynihā|Ref=1.1.2
+
+
+# sentence_id = 7
+# document_id = Poetics_Ar_03
+# translation_lang = en
+# prose_translation = Just as people may resemble many colors and shapes, or imitate them—some through crafts and others through habits, and another group through voices—so also all the crafts we have established produce imitation and mimesis through melody, speech, and rhythm.
+# literal_translation = And as that the people may resemble with colors and shapes many or they imitate that from where that some of them resemble by the crafts and imitate them, and some of them by the habits, and a folk other from them by the voices: likewise the crafts which we established: all of them bring by the imitation and the mimesis by the melody and the speech and the rhythm.
+1	و	وَ	CCONJ	C-	_	8	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+2	كما	كَمَا	SCONJ	P-	_	8	mark	_	gloss=as|translit=ka-mā|Ref=1.1.3
+3	أن	أَنَّ	SCONJ	P-	_	8	mark	_	gloss=that|translit='anna|Ref=1.1.3
+4	الناس	إِنْسَان	NOUN	N-	Case=Acc|Gender=Masc|Number=Plur	8	nsubj	_	gloss=the-people|translit=al-nāsa|Ref=1.1.3
+5	قد	قَدْ	PART	F-	_	8	advmod	_	gloss=may|translit=qad|Ref=1.1.3
+6	يشبهون	شَبَّهَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3	8	advcl	_	gloss=resemble|translit=yušabbihūna|Ref=1.1.3
+7	ب	بِ	ADP	P-	_	8	case	_	gloss=with|translit=bi-|Ref=1.1.3
+8	ألوان	لَوْن	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	30	advcl	_	gloss=colors|translit='alwānin|Ref=1.1.3
+9	و	وَ	CCONJ	C-	_	10	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+10	أشكال	شَكْل	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	8	conj	_	gloss=shapes|translit='aškālin|Ref=1.1.3
+11	كثير〈ة〉	كَثِير	ADJ	A-	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	gloss=many|translit=kaṯīratin|Ref=1.1.3
+12	أو	أَوْ	CCONJ	C-	_	13	cc	_	gloss=or|translit='aw|Ref=1.1.3
+13	يحاكون	حَاكَى	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3	8	conj	_	gloss=imitate|translit=yuḥākūna|Ref=1.1.3
+14	ذلك	ذَلِكَ	PRON	D-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	13	obj	_	gloss=that|translit=ḏālika|Ref=1.1.3
+15	من	مِنْ	ADP	P-	_	19	mark	_	gloss=from|translit=min|Ref=1.1.3
+16	حيث	حَيْثُ	ADV	D-	_	15	fixed	_	gloss=where|translit=ḥayṯu|Ref=1.1.3
+17	أن	أَنَّ	SCONJ	P-	_	19	mark	_	gloss=that|translit='anna|Ref=1.1.3
+18	بعض	بَعْض	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	19	nsubj	_	gloss=some|translit=baʿḍa|Ref=1.1.3
+19	هم	هُوَ	PRON	SP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	advcl	_	gloss=of-them|translit=-hum|Ref=1.1.3
+20	يشبه	شَبَّهَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	19	acl	_	gloss=resembles|translit=yušabbihu|Ref=1.1.3
+21	ب	بِ	ADP	P-	_	22	case	_	gloss=by|translit=bi-|Ref=1.1.3
+22	الصناعات	صِنَاعَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	20	obl	_	gloss=the-crafts|translit=al-ṣināʿāti|Ref=1.1.3
+23	و	وَ	CCONJ	C-	_	24	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+24	يحاكي	حَاكَى	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	20	conj	_	gloss=imitates|translit=yuḥākī|Ref=1.1.3
+25	ها	هُوَ	PRON	SP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obj	_	gloss=them|translit=-hā|Ref=1.1.3
+26	،	،	PUNCT	_	_	27	punct	_	_
+27	و	وَ	CCONJ	C-	_	28	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+28	بعض	بَعْض	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	gloss=some|translit=baʿḍu|Ref=1.1.3
+29	هم	هُوَ	PRON	SP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	nmod	_	gloss=of-them|translit=-hum|Ref=1.1.3
+30	ب	بِ	ADP	P-	_	31	case	_	gloss=by|translit=bi-|Ref=1.1.3
+31	العادات	عَادَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	gloss=the-habits|translit=al-ʿādāti|Ref=1.1.3
+32	،	،	PUNCT	_	_	33	punct	_	_
+33	و	وَ	CCONJ	C-	_	34	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+34	قوم	قَوْم	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	gloss=folk/group|translit=qawmun|Ref=1.1.3
+35	أخر	آخَر	ADJ	A-	Case=Nom|Gender=Masc|Number=Plur	34	amod	_	gloss=other|translit='ukharu|Ref=1.1.3
+36	من	مِنْ	ADP	P-	_	37	case	_	gloss=from|translit=min|Ref=1.1.3
+37	هم	هُوَ	PRON	SP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	34	nmod	_	gloss=them|translit=-hum|Ref=1.1.3
+38	ب	بِ	ADP	P-	_	39	case	_	gloss=by|translit=bi-|Ref=1.1.3
+39	الأصوات	صَوْت	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	34	nmod	_	gloss=the-voices|translit=al-'aṣwāti|Ref=1.1.3
+40	:	:	PUNCT	_	_	41	punct	_	_
+41	كذلك	كَذَلِكَ	ADV	D-	_	30	advmod	_	gloss=likewise|translit=ka-ḏālika|Ref=1.1.3
+42	الصناعات	صِنَاعَة	NOUN	N-	Case=Nom|Gender=Fem|Number=Plur	30	root	_	gloss=the-crafts|translit=al-ṣināʿātu|Ref=1.1.3
+43	التى	الَّتِي	PRON	S-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	44	obj	_	gloss=which|translit=al-latī|Ref=1.1.3
+44	وضعنا	وَضَعَ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1	42	acl:relcl	_	gloss=we-established|translit=waḍaʿnā|Ref=1.1.3
+45	:	:	PUNCT	_	_	48	punct	_	_
+46	جميع	جَمِيع	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	48	nsubj	_	gloss=all|translit=jamīʿu|Ref=1.1.3
+47	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	46	nmod	_	gloss=of-them|translit=-hā|Ref=1.1.3
+48	تأتى	أَتَى	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	42	acl	_	gloss=bring|translit=ta'tī|Ref=1.1.3
+49	ب	بِ	ADP	P-	_	50	case	_	gloss=by|translit=bi-|Ref=1.1.3
+50	التشبيه	تَشْبِيه	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	48	obl	_	gloss=imitation|translit=al-tašbīhi|Ref=1.1.3
+51	و	وَ	CCONJ	C-	_	52	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+52	الحكاية	حِكَايَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	50	conj	_	gloss=mimesis|translit=al-ḥikāyati|Ref=1.1.3
+53	ب	بِ	ADP	P-	_	54	case	_	gloss=by|translit=bi-|Ref=1.1.3
+54	اللحن	لَحْن	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	52	nmod	_	gloss=melody|translit=al-laḥni|Ref=1.1.3
+55	و	وَ	CCONJ	C-	_	56	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+56	القول	قَوْل	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	54	conj	_	gloss=speech|translit=al-qawli|Ref=1.1.3
+57	و	وَ	CCONJ	C-	_	58	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+58	النظم	نَظْم	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	54	conj	_	gloss=rhythm|translit=al-naẓmi|Ref=1.1.3
+
+# sentence_id = 8
+# document_id = Poetics_Ar_03
+# translation_lang = en
+# prose_translation = This occurs either separately or in combination.
+# literal_translation = And that is: either upon the separation, and either upon way of the mixture.
+1	و	وَ	CCONJ	C-	_	3	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+2	ذلك	ذَلِكَ	PRON	D-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	gloss=that|translit=ḏālika|Ref=1.1.3
+3	يكون	كَانَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	0	root	_	gloss=is|translit=yakūnu|Ref=1.1.3
+4	:	:	PUNCT	_	_	7	punct	_	_
+5	إما	إِمَّا	CCONJ	C-	_	7	cc	_	gloss=either|translit='immā|Ref=1.1.3
+6	على	عَلَى	ADP	P-	_	7	case	_	gloss=upon|translit=ʿalā|Ref=1.1.3
+7	الانفراد	اِنْفِرَاد	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	gloss=separation|translit=al-infirādi|Ref=1.1.3
+8	،	،	PUNCT	_	_	10	punct	_	_
+9	و	وَ	CCONJ	C-	_	10	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+10	إما	إِمَّا	CCONJ	C-	_	12	cc	_	gloss=either|translit='immā|Ref=1.1.3
+11	على	عَلَى	ADP	P-	_	12	case	_	gloss=upon|translit=ʿalā|Ref=1.1.3
+12	جهة	جِهَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	7	conj	_	gloss=way|translit=jihati|Ref=1.1.3
+13	الاختلاط	اِخْتِلَاط	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	gloss=mixture|translit=al-ihtilāṭi|Ref=1.1.3
+
+# sentence_id = 9
+# document_id = Poetics_Ar_03
+# translation_lang = en
+# prose_translation = For example, auletics and the craft of lutes use only melody and harmony.
+# literal_translation = Example [of] that: Auletics and craft of lutes for they two use the melody and the harmony only.
+1	مثال	مِثَال	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	gloss=example|translit=miṯālu|Ref=1.1.3
+2	ذلك	ذَلِكَ	PRON	D-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	gloss=that|translit=ḏālika|Ref=1.1.3
+3	:	:	PUNCT	_	_	4	punct	_	_
+4	أوليطيقى	أوليطيقى	PROPN	N-	_	1	appos	_	gloss=auletics|translit='awlīṭīqā|Ref=1.1.3
+5	و	وَ	CCONJ	C-	_	6	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+6	صناعة	صِنَاعَة	NOUN	N-	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	gloss=craft|translit=ṣināʿatu|Ref=1.1.3
+7	العيدان	عُود	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	gloss=lutes|translit=al-ʿīdāni|Ref=1.1.3
+8	ف	فَ	PART	F-	_	11	mark	_	gloss=for|translit=fa-|Ref=1.1.3
+9	إنهما	إِنَّ	PART	F-	_	11	mark	_	gloss=verily-they-two|translit='innahumā|Ref=1.1.3
+10	_	هُمَا	PRON	SP	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	11	nsubj	_	gloss=they-two|translit=humā|Ref=1.1.3
+11	يستعملان	اِسْتَعْمَلَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Dual|Person=3	4	acl	_	gloss=use|translit=yastaʿmilāni|Ref=1.1.3
+12	اللحن	لَحْن	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	gloss=melody|translit=al-laḥna|Ref=1.1.3
+13	و	وَ	CCONJ	C-	_	15	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+14	〈الـ〉ـتأليف	تَأْلِيف	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	12	conj	_	gloss=harmony/composition|translit=al-ta'līfa|Ref=1.1.3
+15	فقط	فَقَطْ	ADV	D-	_	11	advmod	_	gloss=only|translit=faqaṭ|Ref=1.1.3
+
+# sentence_id = 10
+# document_id = Poetics_Ar_03
+# translation_lang = en
+# prose_translation = Though other crafts exist with similar power, such as the craft of piping which uses melody alone without harmony, and the craft of dancing tools likewise; for these imitate habits, passions, and actions through patterned rhythms.
+# literal_translation = And if were there are found crafts other they are in their power like these two: example [of] that craft [of] whistling uses the melody one specific from without harmony, and craft [of] tool [of] dancing also, and that that these two by the melodies formed resemble by the habits and by the passions also and by the actions also and they imitate them.
+1	و	وَ	CCONJ	C-	_	4	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+2	إن	إِنْ	SCONJ	P-	_	4	mark	_	gloss=if|translit='in|Ref=1.1.3
+3	كان	كَانَ	AUX	V-	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	4	aux	_	gloss=were|translit=kāna|Ref=1.1.3
+4	توجد	وَجَدَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	gloss=found|translit=tūjadu|Ref=1.1.3
+5	صناعات	صِنَاعَة	NOUN	N-	Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	gloss=crafts|translit=ṣināʿātun|Ref=1.1.3
+6	أخر	آخَر	ADJ	A-	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	gloss=other|translit='ukharu|Ref=1.1.3
+7	هى	هُوَ	PRON	SP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	gloss=they|translit=hiya|Ref=1.1.3
+8	فى	فِي	ADP	P-	_	9	case	_	gloss=in|translit=fī|Ref=1.1.3
+9	قوت	قُوَّة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	5	acl	_	gloss=power|translit=quwwati|Ref=1.1.3
+10	ها	هُوَ	PRON	SP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	gloss=their|translit=-hā|Ref=1.1.3
+11	مثل	مِثْل	ADP	P-	_	12	case	_	gloss=like|translit=miṯla|Ref=1.1.3
+12	هاتين	هَذَا	PRON	D-	Case=Gen|Gender=Fem|Number=Dual|PronType=Dem	9	nmod	_	gloss=these-two|translit=hātayni|Ref=1.1.3
+13	:	:	PUNCT	_	_	14	punct	_	_
+14	مثال	مِثَال	NOUN	N-	Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	gloss=example|translit=miṯālu|Ref=1.1.3
+15	ذلك	ذَلِكَ	PRON	D-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	nmod	_	gloss=that|translit=ḏālika|Ref=1.1.3
+16	صناعة	صِنَاعَة	NOUN	N-	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	gloss=craft|translit=ṣināʿatu|Ref=1.1.3
+17	الصفر	صَفْر	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	gloss=whistling/piping|translit=al-ṣufri|Ref=1.1.3
+18	تستعمل	اِسْتَعْمَلَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	16	acl	_	gloss=uses|translit=tastaʿmilu|Ref=1.1.3
+19	اللحن	لَحْن	NOUN	N-	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	gloss=melody|translit=al-laḥna|Ref=1.1.3
+20	الواحد	وَاحِد	ADJ	A-	Case=Acc|Gender=Masc|Number=Sing	19	amod	_	gloss=one|translit=al-wāḥida|Ref=1.1.3
+21	بعينه	بِعَيْنِهِ	ADV	D-	_	19	advmod	_	gloss=specific|translit=bi-ʿaynihī|Ref=1.1.3
+22	من	مِنْ	ADP	P-	_	24	case	_	gloss=from|translit=min|Ref=1.1.3
+23	غير	غَيْر	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	22	fixed	_	gloss=without|translit=ghayri|Ref=1.1.3
+24	تأليف	تَأْلِيف	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	18	obl	_	gloss=harmony|translit=ta'līfin|Ref=1.1.3
+25	،	،	PUNCT	_	_	26	punct	_	_
+26	و	وَ	CCONJ	C-	_	27	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+27	صناعة	صِنَاعَة	NOUN	N-	Case=Nom|Gender=Fem|Number=Sing	14	conj	_	gloss=craft|translit=ṣināʿatu|Ref=1.1.3
+28	أداة	أَدَاة	NOUN	N-	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	gloss=tool|translit='adāti|Ref=1.1.3
+29	الرقص	رَقْص	NOUN	N-	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	gloss=dancing|translit=al-raqṣi|Ref=1.1.3
+30	أيضاً	أَيْضًا	ADV	D-	_	27	advmod	_	gloss=also|translit='ayḍan|Ref=1.1.3
+31	،	،	PUNCT	_	_	33	punct	_	_
+32	و	وَ	CCONJ	C-	_	33	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+33	ذلك	ذَلِكَ	PRON	D-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	parataxis	_	gloss=that|translit=ḏālika|Ref=1.1.3
+34	أن	أَنَّ	SCONJ	P-	_	40	mark	_	gloss=that|translit='anna|Ref=1.1.3
+35	هاتين	هَذَا	PRON	D-	Case=Acc|Gender=Fem|Number=Dual|PronType=Dem	40	nsubj	_	gloss=these-two|translit=hātayni|Ref=1.1.3
+36	ب	بِ	ADP	P-	_	37	case	_	gloss=by|translit=bi-|Ref=1.1.3
+37	اللحون	لَحْن	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	40	obl	_	gloss=melodies/rhythms|translit=al-luḥūni|Ref=1.1.3
+38	المتشكلة	مُتَشَكِّل	ADJ	A-	Case=Gen|Gender=Fem|Number=Sing	37	amod	_	gloss=formed/patterned|translit=al-mutašakkilati|Ref=1.1.3
+39	تشبه	شَبَّهَ	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	40	advcl	_	gloss=resemble|translit=tušabbihu|Ref=1.1.3
+40	ب	بِ	ADP	P-	_	41	case	_	gloss=by|translit=bi-|Ref=1.1.3
+41	العادات	عَادَة	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	33	ccomp	_	gloss=the-habits|translit=al-ʿādāti|Ref=1.1.3
+42	و	وَ	CCONJ	C-	_	44	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+43	ب	بِ	ADP	P-	_	44	case	_	gloss=by|translit=bi-|Ref=1.1.3
+44	الانفعالات	اِنْفِعَال	NOUN	N-	Case=Gen|Gender=Fem|Number=Plur	41	conj	_	gloss=the-passions|translit=al-infiʿālāti|Ref=1.1.3
+45	أيضاً	أَيْضًا	ADV	D-	_	44	advmod	_	gloss=also|translit='ayḍan|Ref=1.1.3
+46	و	وَ	CCONJ	C-	_	48	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+47	ب	بِ	ADP	P-	_	48	case	_	gloss=by|translit=bi-|Ref=1.1.3
+48	الأعمال	عَمَل	NOUN	N-	Case=Gen|Gender=Masc|Number=Plur	41	conj	_	gloss=the-actions|translit=al-'aʿmāli|Ref=1.1.3
+49	أيضاً	أَيْضًا	ADV	D-	_	48	advmod	_	gloss=also|translit='ayḍan|Ref=1.1.3
+50	و	وَ	CCONJ	C-	_	51	cc	_	gloss=and|translit=wa-|Ref=1.1.3
+51	تحاكي	حَاكَى	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3	33	conj	_	gloss=imitate|translit=tuḥākī|Ref=1.1.3
+52	ها	هُوَ	PRON	SP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	obj	_	gloss=them|translit=-hā|Ref=1.1.3
+

@@ -2079,7 +2079,7 @@
 12	.	.	PUNCT	u--------	_	11	punct	_	Ref=5.4|gloss=.
 
 # sentence_id = 71
-# Ref = 5.4
+# subdoc = 5.4
 1	τίς	τίς	PRON	a-s---cn-	Case=Nom|Number=Sing|PronType=Int	4	nsubj	_	gloss=who|Ref=5.4
 2	δὲ	δέ	CCONJ	b--------	_	14	cc	_	gloss=but|Ref=5.4
 3	πρόσωπα	πρόσωπον	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	gloss=masks|Ref=5.4
@@ -2097,7 +2097,7 @@
 15	.	.	PUNCT	u--------	_	14	punct	_	Ref=5.4
 
 # sentence_id = 72
-# Ref = 5.5
+# subdoc = 5.5
 1	τὸ	ὁ	DET	l-s---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	gloss=the|Ref=5.5
 2	δὲ	δέ	CCONJ	b--------	_	4	cc	_	gloss=but|Ref=5.5
 3	μύθους	μῦθος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	gloss=plots|Ref=5.5
@@ -2108,7 +2108,7 @@
 8	.	.	PUNCT	u--------	_	4	punct	_	Ref=5.5
 
 # sentence_id = 73
-# Ref = 5.6
+# subdoc = 5.6
 1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nsubj	_	gloss=it|Ref=5.6
 2	μὲν	μέν	ADV	d--------	_	8	advmod	_	gloss=indeed|Ref=5.6
 3	οὖν	οὖν	ADV	d--------	_	8	advmod	_	gloss=therefore|Ref=5.6
@@ -2136,7 +2136,7 @@
 25	.	.	PUNCT	u--------	_	8	punct	_	Ref=5.6
 
 # sentence_id = 74
-# Ref = 5.7
+# subdoc = 5.7
 1	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	gloss=the|Ref=5.7
 2	μὲν	μέν	ADV	d--------	_	15	advmod	_	gloss=indeed|Ref=5.7
 3	οὖν	οὖν	ADV	d--------	_	15	advmod	_	gloss=therefore|Ref=5.7
@@ -2155,7 +2155,7 @@
 16	·	·	PUNCT	u--------	_	15	punct	_	Ref=5.7
 
 # sentence_id = 75
-# Ref = 5.7
+# subdoc = 5.7
 1	τῷ	ὁ	DET	l-s---md-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	obl	_	gloss=by-the|Ref=5.7
 2	δὲ	δέ	CCONJ	b--------	_	12	cc	_	gloss=but|Ref=5.7
 3	τὸ	ὁ	DET	l-s---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	gloss=the|Ref=5.7
@@ -11814,7 +11814,7 @@
 # sentence_id = 451
 # document_id = 0086-034
 # subdoc = 22.17
-# Ref = 22.17
+# subdoc = 22.17
 # translation_lang = en
 # prose_translation = For to make metaphors well is to perceive likeness.
 # literal_translation = The for well to-metaphorize the the like to-perceive is.
@@ -11832,7 +11832,7 @@
 # sentence_id = 452
 # document_id = 0086-034
 # subdoc = 22.18
-# Ref = 22.18
+# subdoc = 22.18
 # translation_lang = en
 # prose_translation = Of words, compound forms are best suited to dithyrambs, rare words to heroic verse, and metaphors to iambic verse.
 # literal_translation = Of-the but words the on-one-hand double-words most fits the dithyrambs, the but strange-words the heroic-verses, the but metaphors the iambic-verses.
@@ -11863,7 +11863,7 @@
 # sentence_id = 453
 # document_id = 0086-034
 # subdoc = 22.19
-# Ref = 22.19
+# subdoc = 22.19
 # translation_lang = en
 # prose_translation = In heroic verse, all the aforementioned types are useful.
 # literal_translation = And in on-one-hand the heroic-verses all useful the aforementioned.
@@ -11881,7 +11881,7 @@
 # sentence_id = 454
 # document_id = 0086-034
 # subdoc = 22.19
-# Ref = 22.19
+# subdoc = 22.19
 # translation_lang = en
 # prose_translation = But in iambic verse, since it mimics speech as closely as possible, those words are suitable which one would use in prose.
 # literal_translation = in but the iambic-verses, because the that most speech to-imitate, these fits of-the words as-many-as even in speeches someone should-use.
@@ -11912,7 +11912,7 @@
 # sentence_id = 455
 # document_id = 0086-034
 # subdoc = 22.19
-# Ref = 22.19
+# subdoc = 22.19
 # translation_lang = en
 # prose_translation = These are the standard word, metaphor, and ornament.
 # literal_translation = is but the such-things the standard-word and metaphor and ornament.
@@ -11931,7 +11931,7 @@
 # sentence_id = 456
 # document_id = 0086-034
 # subdoc = 22.20
-# Ref = 22.20
+# subdoc = 22.20
 # translation_lang = en
 # prose_translation = Let this be enough on tragedy and imitation in action.
 # literal_translation = about on-one-hand therefore tragedy and of-the in the to-act imitation let-be for-us enough the aforementioned.
@@ -12046,7 +12046,7 @@
 # sentence_id = 458
 # document_id = 0086-034
 # subdoc = 23.3
-# Ref = 23.3
+# subdoc = 23.3
 # translation_lang = en
 # prose_translation = For just as the sea-battle at Salamis and the battle with the Carthaginians in Sicily took place at the same time, without tending toward the same end, so too in successive periods of time one thing sometimes follows another, from which no single end is produced.
 # literal_translation = Just-as for according-to the same times the and in Salamis took-place sea-battle and the in Sicily of-Carthaginians battle, nothing toward the same tending end, so and in the successive times sometimes happens one after the-other, from which one nothing happens end.
@@ -12099,7 +12099,7 @@
 # sentence_id = 459
 # document_id = 0086-034
 # subdoc = 23.4
-# Ref = 23.4
+# subdoc = 23.4
 # translation_lang = en
 # prose_translation = Most of the poets do nearly this.
 # literal_translation = Nearly but the many of-the poets this do.
@@ -12116,7 +12116,7 @@
 # sentence_id = 460
 # document_id = 0086-034
 # subdoc = 23.5
-# Ref = 23.5
+# subdoc = 23.5
 # translation_lang = en
 # prose_translation = Therefore, as we have already said, Homer would appear divine compared to the others in that he did not attempt to make the whole war the subject of his poem, even though it has a beginning and an end.
 # literal_translation = Therefore, just-as we-said already, and in-this divine would appear Homer beside the others, by-the not-even the war, even-though having beginning and end, to-undertake to-make whole.
@@ -12394,7 +12394,7 @@
 # sentence_id = 471
 # document_id = 0086-034
 # subdoc = 24.3
-# Ref = 24.3
+# subdoc = 24.3
 # translation_lang = en
 # prose_translation = All of these elements Homer has used both first and in a sufficient manner.
 # literal_translation = Which all Homer has-used both first and sufficiently.
@@ -12411,7 +12411,7 @@
 # sentence_id = 472
 # document_id = 0086-034
 # subdoc = 24.3
-# Ref = 24.3
+# subdoc = 24.3
 # translation_lang = en
 # prose_translation = For indeed each of his poems has been constructed accordingly: the Iliad as simple and pathetic, the Odyssey as complex.
 # literal_translation = and for even of-the poems each has-been-constructed: the on-one-hand Iliad simple and pathetic, the on-the-other-hand Odyssey complex;
@@ -12438,7 +12438,7 @@
 # sentence_id = 473
 # document_id = 0086-034
 # subdoc = 24.3
-# Ref = 24.3
+# subdoc = 24.3
 # translation_lang = en
 # prose_translation = For the Odyssey is discovery throughout and moral.
 # literal_translation = discovery for throughout and moral.
@@ -12452,7 +12452,7 @@
 # sentence_id = 474
 # document_id = 0086-034
 # subdoc = 24.3
-# Ref = 24.3
+# subdoc = 24.3
 # translation_lang = en
 # prose_translation = In addition to these, he has surpassed all others in diction and thought.
 # literal_translation = toward but these in-diction and in-thought all he-has-surpassed.
@@ -12469,7 +12469,7 @@
 # sentence_id = 475
 # document_id = 0086-034
 # subdoc = 24.4
-# Ref = 24.4
+# subdoc = 24.4
 # translation_lang = en
 # prose_translation = Epic differs from tragedy in the length of its structure and in its meter.
 # literal_translation = differs but according-to both the of-structure the length the epic-poetry and the meter.
@@ -12491,7 +12491,7 @@
 # sentence_id = 476
 # document_id = 0086-034
 # subdoc = 24.5
-# Ref = 24.5
+# subdoc = 24.5
 # translation_lang = en
 # prose_translation = Now, of its length, the limit already mentioned is sufficient.
 # literal_translation = of-the on-one-hand therefore length limit sufficient the mentioned;
@@ -12508,7 +12508,7 @@
 # sentence_id = 477
 # document_id = 0086-034
 # subdoc = 24.5
-# Ref = 24.5
+# subdoc = 24.5
 # translation_lang = en
 # prose_translation = For it must be possible for the beginning and the end to be seen as a whole.
 # literal_translation = to-be-able for it-is-necessary to-be-seen-together the beginning and the end.
@@ -12526,7 +12526,7 @@
 # sentence_id = 478
 # document_id = 0086-034
 # subdoc = 24.5
-# Ref = 24.5
+# subdoc = 24.5
 # translation_lang = en
 # prose_translation = And this would be the case if the compositions were shorter than those of the ancient epics and corresponded to the total length of the tragedies performed for a single hearing.
 # literal_translation = it-would-be and would this, if of-the on-one-hand ancients smaller the compositions were, toward but the quantity of-the tragedies of-the for one hearing being-set-forth they-should-extend.
@@ -12561,7 +12561,7 @@
 # sentence_id = 479
 # document_id = 0086-034
 # subdoc = 24.6
-# Ref = 24.6
+# subdoc = 24.6
 # translation_lang = en
 # prose_translation = Epic has a great peculiar advantage in respect to extending its scale, because in tragedy it is not possible to imitate many parts being acted at once, but only the part on the stage and performed by the actors.
 # literal_translation = has but toward the to-be-extended the scale much some the epic-poetry peculiar-advantage because-of the in on-one-hand the tragedy not to-be-possible at-once being-acted many parts to-imitate, but the on the stage and of-the actors part only;
@@ -12606,7 +12606,7 @@
 # sentence_id = 480
 # document_id = 0086-034
 # subdoc = 24.6
-# Ref = 24.6
+# subdoc = 24.6
 # translation_lang = en
 # prose_translation = But in Epic, because it is narrative, it is possible to represent many parts being completed at once, by which, being appropriate, the mass of the poem is increased.
 # literal_translation = in but the epic-poetry, because-of the narrative to-be, it-is many parts at-once to-make being-completed, by which appropriate being increases the of-the poem mass.
