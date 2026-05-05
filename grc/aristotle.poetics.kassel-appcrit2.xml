@@ -1,0 +1,3228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Apparatus Criticus to Aristotle's Poetics (1447a–1448b)</title>
+        <respStmt>
+          <resp>Encoded based on the edition by</resp>
+          <name>Rudolf Kassel (1965)</name>
+        </respStmt>
+      </titleStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">cod. Parisinus 1741, saec. X/XI</witness>
+          <witness xml:id="Arec">manus recentior quae codicem A correxit</witness>
+          <witness xml:id="B">cod. Riccardianus 46, saec. XIV</witness>
+          <witness xml:id="Lat">translatio latina a Guilelmo de Moerbeke (1278)</witness>
+          <witness xml:id="Ar">translatio arabica ab Abū Bišr (saec. X)</witness>
+          <witness xml:id="rec">codices graeci saec. XV-XVI</witness>
+          <witness xml:id="Phi">Guilelmi codex graecus deperditus</witness>
+          <witness xml:id="Sigma">Syri codex graecus deperditus</witness>
+          <witness xml:id="Pi">consensus codicis A et codicis Phi</witness>
+          <witness xml:id="Paris2038">cod. Parisinus 2038 (saec. XV/XVI)</witness>
+          <witness xml:id="Xi">consensus codicum A et B</witness>
+          <witness xml:id="Lambda">codices A, B, et Phi</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="apparatus">
+        <app loc="1447a12">
+          <lem>λέγωμεν</lem>
+          <rdg wit="#Phi">λέγωμεν</rdg>
+          <rdg wit="#A">λέγομεν</rdg>
+        </app>
+        <app loc="1447a17">
+          <lem>ἐν</lem>
+          <rdg resp="#Forchhammer">ἐν</rdg>
+          <rdg wit="#Pi">γένει</rdg>
+          <note>quod non vertit Ar (cf. 1451a17)</note>
+        </app>
+        <app loc="1447a21">
+          <lem>κἀν</lem>
+          <rdg wit="#Paris2038">κἀν</rdg>
+          <rdg wit="#Pi">καὶ</rdg>
+        </app>
+        <app loc="1447a25">
+          <lem>τυγχάνωσιν</lem>
+          <rdg wit="#A">τυγχάνωσιν</rdg>
+          <rdg wit="#rec">τυγχάνουσιν</rdg>
+          <note>prob. Vahlen</note>
+        </app>
+        <app loc="1447a25">
+          <lem>οὖσαι τοιαῦται</lem>
+          <rdg wit="#Paris2038 #Ar">οὖσαι τοιαῦται</rdg>
+          <rdg wit="#Lat">habentes talem</rdg>
+          <rdg wit="#A">οὖσαι</rdg>
+        </app>
+        <app loc="1447a26">
+          <lem resp="#Spengel">del.</lem>
+          <rdg wit="#Pi">μιμοῦνται</rdg>
+          <rdg wit="#Paris2038">μιμεῖται</rdg>
+          <note>non habuisse videtur Sigma</note>
+        </app>
+        <app loc="1447a26">
+          <lem>ἡ</lem>
+          <rdg wit="#Paris2038 #Ar">ἡ</rdg>
+          <rdg wit="#Pi">οἱ</rdg>
+        </app>
+        <app loc="1447a28">
+          <lem resp="#Ueberweg">del.</lem>
+          <rdg wit="#Pi">ἐποποιία</rdg>
+          <note>non vertit Ar</note>
+        </app>
+        <app loc="1447a29">
+          <lem>καὶ ἡ</lem>
+          <rdg resp="#Lobel">καὶ ἡ</rdg>
+          <rdg wit="#Pi #Ar">ἢ</rdg>
+          <note>idem mendum in codd. Metaph. 992a32</note>
+        </app>
+
+        <app loc="1447b9">
+          <lem resp="#Lobel">ἀνώνυμοι τυγχάνουσιν οὖσαι</lem>
+          <rdg wit="#Pi">τυγχάνουσα</rdg>
+          <rdg resp="#Bernays">(ἀνώνυμος) τυγχάνουσα</rdg>
+          <note>Lobel notes participio nil opus (cf. De cael. 294a11). Bernays proposed his reading before Arabis 'quae est (sive sunt) sine appellatione' was known.</note>
+        </app>
+        <app loc="1447b14">
+          <lem>οὐχ ὡς</lem>
+          <rdg wit="#Pi">οὐχ ὡς</rdg>
+          <note>fort. οὐ χωρὶς, opp. ἀλλὰ κοινῇ line 15 (cf. οὐδὲν δὲ κοινόν line 17)</note>
+        </app>
+        <app loc="1447b15">
+          <lem>κατὰ τὴν</lem>
+          <rdg wit="#rec">κατὰ τὴν</rdg>
+          <rdg wit="#A">τὴν κατὰ</rdg>
+        </app>
+        <app loc="1447b16">
+          <lem>φυσικόν</lem>
+          <rdg wit="#Sigma" resp="#Heinsius">φυσικόν</rdg>
+          <rdg wit="#Pi">μουσικόν</rdg>
+        </app>
+        <app loc="1447b22">
+          <lem>καὶ</lem>
+          <rdg wit="#Pi">καὶ</rdg>
+          <note>nil mutandum (vid. Denniston, Greek Part. p. 585)</note>
+        </app>
+        <app loc="1447b24">
+          <lem>αἳ</lem>
+          <rdg wit="#rec">αἳ</rdg>
+          <rdg wit="#Ar">οἳ</rdg>
+        </app>
+        <app loc="1447b28">
+          <lem>οὖν</lem>
+          <rdg wit="#Phi #Ar">οὖν</rdg>
+          <rdg wit="#A">οὐ</rdg>
+        </app>
+        <app loc="1447b29">
+          <lem>οἷς</lem>
+          <rdg resp="#Victorius">οἷς</rdg>
+          <rdg wit="#Pi #Ar">αἷς</rdg>
+        </app>
+
+        <app loc="1448a3-4">
+          <lem resp="#Gudeman">secl.</lem>
+          <rdg wit="#Pi #Ar">κακίᾳ...πάντες</rdg>
+        </app>
+        <app loc="1448a8">
+          <lem wit="#rec #Lat">τῷ</lem>
+          <rdg wit="#A">τὸ</rdg>
+        </app>
+        <app loc="1448a10">
+          <lem wit="#Paris2038">καὶ</lem>
+          <rdg wit="#A">καὶ τὸ</rdg>
+        </app>
+        <app loc="1448a12">
+          <lem>ὁ τὰς</lem>
+          <rdg wit="#A">τὰς</rdg>
+          <rdg wit="#Paris2038">ὁ τὰς</rdg>
+        </app>
+        <app loc="1448a13">
+          <lem wit="#A">δειλιάδα</lem>
+          <rdg wit="#Arec">δηλιάδα</rdg>
+          <note>η super ει scr. m. rec. in A</note>
+        </app>
+        <app loc="1448a15">
+          <lem resp="#Vahlen">ὥσπερ γὰρ Κύκλωπας</lem>
+          <rdg wit="#A">γᾶσ κυκλωπᾶσ</rdg>
+          <rdg wit="#Lat">sicut kyclopas</rdg>
+          <note>Holland susp. 'γᾶσ' esse fragmentum nominis Οἰνώπας sive Οίνωνᾶς</note>
+        </app>
+        <app loc="1448a16">
+          <lem wit="#Pi">αὐτῇ δὲ τῇ</lem>
+          <rdg resp="#Victorius">τῇ αὐτῇ δὲ</rdg>
+          <rdg resp="#Casaubonus">ταύτῃ δὲ τῇ</rdg>
+          <note>fort. αὐτῇ δὲ (ταύτῃ) τῇ (non obstat Ar)</note>
+        </app>
+        <app loc="1448a23">
+          <lem wit="#Pi">πάντας</lem>
+          <rdg resp="#Casaubonus">πάντα</rdg>
+        </app>
+        <app loc="1448a25">
+          <lem>καὶ ἃ</lem>
+          <rdg wit="#Paris2038">καὶ ἃ</rdg>
+          <rdg wit="#Pi">om.</rdg>
+        </app>
+        <app loc="1448a27-28">
+          <lem>πράττοντας δρῶντας</lem>
+          <rdg resp="#Casaubonus">πράττοντες δρῶντες</rdg>
+        </app>
+        <app loc="1448a29">
+          <lem>τινες</lem>
+          <note>a voce τινες incipit B</note>
+        </app>
+
+        <app loc="1448a31">
+          <lem wit="#Pi">γὰρ</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1448a33-34">
+          <lem>ἐκεῖθεν... μάγνητος</lem>
+          <rdg resp="#Else">secl.</rdg>
+          <note>Gudeman del. 'ὁ ποιητὴς'</note>
+        </app>
+        <app loc="1448a34">
+          <lem resp="#Robortellus #Ar">Χιωνίδου</lem>
+          <rdg wit="#Xi">χωνίδου</rdg>
+        </app>
+        <app loc="1448a35">
+          <lem resp="#Spengel">αὐτοὶ</lem>
+          <rdg wit="#Xi">οὗτοι</rdg>
+        </app>
+        <app loc="1448a36">
+          <lem resp="#Spengel">Ἀθηναίους</lem>
+          <rdg wit="#Xi">ἀθηναῖοι</rdg>
+          <note>etiam anon. in ed. Oxon. a. 1760</note>
+        </app>
+        <app loc="1448b1">
+          <lem wit="#Xi">καὶ... προσαγορεύειν</lem>
+          <rdg resp="#Gudeman">del.</rdg>
+          <rdg wit="#Ar">om.</rdg>
+          <note>sunt sane inepta, sed ad rationem concludendam necessaria (cf. 1448a29)</note>
+        </app>
+        <app loc="1448b4">
+          <lem resp="#Spengel">γεννῆσαι μὲν</lem>
+          <rdg wit="#A">ὅλως</rdg>
+          <rdg wit="#B">ὅλως γενῆσαι μὲν</rdg>
+        </app>
+        <app loc="1448b5">
+          <lem wit="#rec">αὗται</lem>
+          <rdg wit="#Xi">αὐταὶ</rdg>
+        </app>
+        <app loc="1448b6">
+          <lem wit="#Pi">διαφέρουσι</lem>
+          <rdg wit="#B">διαφέρει</rdg>
+        </app>
+        <app loc="1448b7">
+          <lem wit="#Pi">ἐστι</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1448b10">
+          <lem wit="#Pi">αὐτὰ</lem>
+          <rdg wit="#B">αὐτῶν</rdg>
+        </app>
+        <app loc="1448b13">
+          <lem wit="#Phi">καὶ τούτου</lem>
+          <rdg wit="#Xi">καὶ τοῦτο</rdg>
+          <rdg wit="#B">τούτων</rdg>
+        </app>
+        <app loc="1448b17">
+          <lem wit="#Xi">οὗτος ἐκεῖνος</lem>
+          <rdg resp="#Gudeman">τοῦτο ἐκεῖνο</rdg>
+        </app>
+
+
+  <!-- PAGE 7 (1448b) -->
+        <app loc="1448b18">
+          <lem resp="#Ellebodius #Hermann">οὐχ</lem>
+          <rdg wit="#Xi">οὐχὶ</rdg>
+        </app>
+        <app loc="1448b20">
+          <lem wit="#Xi">δὲ</lem>
+          <rdg resp="#Vahlen">δὴ</rdg>
+        </app>
+        <app loc="1448b22">
+          <lem wit="#B">οἱ</lem>
+          <rdg wit="#A">om.</rdg>
+        </app>
+        <app loc="1448b22">
+          <lem wit="#B #Ar">πρὸς</lem>
+          <rdg wit="#Pi">καὶ</rdg>
+        </app>
+        <app loc="1448b25">
+          <lem wit="#Pi">σεμνότεροι</lem>
+          <rdg wit="#B">σεμνότερον</rdg>
+        </app>
+        <app loc="1448b26">
+          <lem wit="#A">τῶν</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1448b26">
+          <lem wit="#Pi">εὐτελέστεροι</lem>
+          <rdg wit="#B">εὐτελέστερον</rdg>
+        </app>
+        <app loc="1448b27">
+          <lem wit="#Pi">ποιοῦντες</lem>
+          <rdg wit="#B">ποιοῦνται</rdg>
+        </app>
+        <app loc="1448b27">
+          <lem wit="#A #B">ἕτεροι</lem>
+          <rdg resp="#Sophianus">ἅτεροι</rdg>
+          <note>et alii</note>
+        </app>
+        <app loc="1448b29">
+          <lem wit="#Pi">εἶναι</lem>
+          <rdg wit="#B">εἰδέναι</rdg>
+        </app>
+        <app loc="1448b30">
+          <lem wit="#A">ἀρξαμένοις</lem>
+          <rdg wit="#B">ἀρξάμενος</rdg>
+          <note>incipiens Lat</note>
+        </app>
+        <app loc="1448b30">
+          <lem wit="#Pi">ἐν οἷς</lem>
+          <rdg wit="#B">ἑνὸς</rdg>
+        </app>
+        <app loc="1448b31">
+          <lem wit="#B">καὶ τὸ</lem>
+          <rdg wit="#Pi">om.</rdg>
+        </app>
+        <app loc="1448b35">
+          <lem wit="#B">ἀλλὰ</lem>
+          <rdg wit="#Pi">ἀλλ᾽ ὅτι</rdg>
+        </app>
+        <app loc="1448b36">
+          <lem wit="#B">τὸ ... σχῆμα</lem>
+          <rdg wit="#Pi">τὰ . σχήματα</rdg>
+        </app>
+        <app loc="1448b37">
+          <lem wit="#A">ὑπέδειξεν</lem>
+          <rdg wit="#B">ἀπέδειξεν</rdg>
+        </app>
+        <app loc="1448b38">
+          <lem wit="#B">ὁ</lem>
+          <rdg wit="#A">τὸ</rdg>
+        </app>
+        <app loc="1449a1">
+          <lem wit="#Pi #Ar">πρὸς τὰς τραγῳδίας</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>omitted at the end of the page in B</note>
+        </app>
+
+        <!-- PAGE 8 (1449a) -->
+        <app loc="1449a6">
+          <lem wit="#Lat">maiora et honorabiliora</lem>
+          <rdg wit="#A">μεῖζον καὶ ἐντιμότερα</rdg>
+          <rdg wit="#B">μείζω καὶ ἐντιμότερον</rdg>
+        </app>
+        <app loc="1449a6">
+          <lem wit="#A">εἶναι ταῦτα ἐκείνων</lem>
+          <rdg wit="#B">ταῦτα ἐκείνων εἶναι</rdg>
+        </app>
+        <app loc="1449a7">
+          <lem wit="#rec #Lat">εἰ ἄρα ἔχει</lem>
+          <rdg wit="#B">ἄρα ἔχει</rdg>
+          <rdg wit="#A">παρέχει</rdg>
+          <note>si habet Lat</note>
+        </app>
+        <app loc="1449a8">
+          <lem wit="#Pi #Ar">εἴδεσιν</lem>
+          <rdg wit="#B">ἡδέσι</rdg>
+        </app>
+        <app loc="1449a8">
+          <lem resp="#Forchhammer">κρῖναι</lem>
+          <rdg wit="#A">κρίνεται ἢ ναί</rdg>
+          <rdg wit="#B #Lat">κρίνεται εἶναι</rdg>
+        </app>
+        <app loc="1449a9">
+          <lem wit="#A #B">γενομένης</lem>
+          <note>corr. recentiores quidam (qui et αὐτοσχεδιαστικὴ pro -ῆς, falso)</note>
+        </app>
+        <app loc="1449a11">
+          <lem wit="#rec">φαλλικά</lem>
+          <rdg wit="#Xi">φαυλ(λ)ικά</rdg>
+        </app>
+        <app loc="1449a18">
+          <lem resp="#Sophianus">πρωταγωνιστεῖν</lem>
+          <rdg wit="#Xi">πρωταγωνιστὴν</rdg>
+          <note>cf. Rhein. Mus. 1962, 177 sq.; πρῶτος ἀγωνιστικὸν ex Ar eliciebat Immisch</note>
+        </app>
+        <app loc="1449a19-20">
+          <lem resp="#Christ">μέγεθος ἐκ μικρῶν μύθων, καὶ ἡ λέξις ἐκ) λέξεως</lem>
+          <note>decurtata; plura videtur habuisse Sigma, sed omnia turbata in Ar</note>
+        </app>
+
+        <!-- PAGE 9 (1449b) -->
+        <app loc="1449b1">
+          <lem wit="#Pi #Ar">ἔλαθεν</lem>
+          <rdg wit="#B">ἔλαχε</rdg>
+        </app>
+        <app loc="1449b1">
+          <lem wit="#Pi #Ar">χορὸν</lem>
+          <rdg wit="#B">χρόνον</rdg>
+        </app>
+        <app loc="1449b6">
+          <lem wit="#Xi">ἐπίχαρμος καὶ φόρμις</lem>
+          <rdg resp="#Susemihl">secl.</rdg>
+          <note>om. Ar, cuius obscura verba 'ut relinquatur omnis sermo qui est per compendium' ad notam criticam quae fuerit in Sigma incertissima coniectura refert Else</note>
+        </app>
+        <app loc="1449b10">
+          <lem resp="#Kassel">μετὰ μέτρου λόγῳ</lem>
+          <rdg wit="#B">μέτρου μετὰ λόγου</rdg>
+          <rdg wit="#A">μέτρου μεγάλου</rdg>
+          <note>excidit in Lat; non obstat Ar</note>
+        </app>
+
+        <!-- PAGE 10 (1449b-1450a) -->
+        <app loc="1449b28">
+          <lem wit="#B #Sigma">παθημάτων</lem>
+          <rdg wit="#Pi">μαθημάτων</rdg>
+          <note>'dolores' fr Syr, 'passiones et impressiones' Ar; also supported by tract. Coisl. in def. com.</note>
+        </app>
+        <app loc="1449b31">
+          <note>post μέλους lacuna haustam esse καθάρσεως explicationem censent multi</note>
+        </app>
+        <app loc="1450a1-2">
+          <lem wit="#Xi #Ar">πέφυκεν ... ἦθος</lem>
+          <rdg resp="#Else">secl.</rdg>
+          <note>transposuerant alii alio</note>
+        </app>
+
+        <!-- PAGE 11 (1450a) -->
+        <app loc="1450a17-20">
+          <lem resp="#Kassel">seclusi</lem>
+          <rdg wit="#Xi">καὶ εὐδαιμονία ... τουναντίον</rdg>
+          <note>1450a17-18 καὶ βίου... ποιότης secluserat Ritter</note>
+        </app>
+        <app loc="1450a27">
+          <lem wit="#B #Ar">πολύγνωτον</lem>
+          <rdg wit="#Pi">πολύγνωστον</rdg>
+        </app>
+        <app loc="1450a28">
+          <lem wit="#Pi">πολύγνωστος</lem>
+          <rdg wit="#B #Ar">om.</rdg>
+          <note>cf. Tkatsch, i. 178</note>
+        </app>
+
+        <app loc="1450a29-30">
+          <lem resp="#Vahlen">ῥήσεις ἠθικὰς καὶ λέξει</lem>
+          <rdg wit="#Xi #Ar">λέξεις καὶ διανοίας</rdg>
+          <note>Vahlen corrected the reading found in the manuscripts and the Arabic translation </note>
+        </app>
+
+        <app loc="1450a30">
+          <lem wit="#B #Ar">οὐ</lem>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1450a31">
+          <lem wit="#rec">ἡ</lem>
+          <rdg wit="#A #B">ἢ</rdg>
+          <note xml:lang="lat">que Lat</note> 
+        </app>
+        <app loc="1450a34">
+          <lem wit="#A">ἐστίν</lem>
+          <rdg wit="#B">εἰσίν</rdg> 
+        </app>
+        <app loc="1450a35">
+          <lem wit="#Pi">ὅτι καὶ</lem>
+          <rdg wit="#B">ὅτι</rdg> 
+        </app>
+        <app loc="1450a39-1450b3">
+          <lem>παραπλήσιον ... εἰκόνα</lem>
+          <note resp="#Castelvetro">hic Π: post πραγμάτων (1447a33) transp. Castelvetro</note> 
+        </app>
+
+        <app loc="1450b1">
+          <lem wit="#Pi">τις ἐναλείψειε</lem>
+          <rdg wit="#B">τι ἐναλείψει</rdg> 
+        </app>
+        <app loc="1450b5">
+          <lem wit="#Pi">καὶ τὰ</lem>
+          <rdg wit="#B">καὶ</rdg> 
+        </app>
+        <app loc="1450b9">
+          <lem wit="#Phi">ὁποία τις</lem>
+          <rdg wit="#A #B">ὁποῖά τις</rdg>
+          <note>cf. 1462a12</note> 
+        </app>
+        <app loc="1450b9-10">
+          <lem resp="#Bekker">del.</lem>
+          <rdg>ἐν οἷς οὐκ ἔστι δῆλον ἢ προαιρεῖται ἢ φεύγει</rdg>
+          <note>om. Ar</note> 
+        </app>
+        <app loc="1450b10-11">
+          <lem wit="#Pi #Ar">διόπερ ... φεύγει</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1450b10">
+          <lem wit="#Pi">μηδ᾽ ὅλως</lem>
+          <rdg resp="#Lobel">μὴ δῆλος</rdg>
+          <note>Lobel ex Ar eliciebat</note> 
+        </app>
+        <app loc="1450b12">
+          <lem resp="#rec">τι</lem>
+          <rdg wit="#Pi">τις</rdg> 
+        </app>
+        <app loc="1450b12">
+          <lem wit="#Xi">τῶν μὲν λόγων</lem>
+          <rdg wit="#Ar">om.</rdg>
+          <note>videntur fuisse interpolata (calamo notavit nescio quis in editionis Oxon. a. 1760 exemplari Bodleiano)</note> 
+        </app>
+        <app loc="1450b15">
+          <lem wit="#B #Ar">λοιπῶν</lem>
+          <rdg wit="#Pi">λοιπῶν πέντε</rdg>
+          <rdg wit="#rec">λοιπῶν πέμπτον</rdg>
+          <note>et v.l. in manuscriptis</note> 
+        </app>
+        <app loc="1450b16">
+          <lem wit="#A">ἡ... ὄψις</lem>
+          <rdg wit="#B">αἱ ... ὄψεις</rdg> 
+        </app>
+        <app loc="1450b18">
+          <lem wit="#B">ἡ</lem>
+          <rdg wit="#Pi">ὡς</rdg> 
+        </app>
+        <app loc="1450b22">
+          <lem wit="#A">τὴν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1450b23">
+          <lem resp="#Bywater">δὴ</lem>
+          <rdg wit="#Xi">δὲ</rdg> 
+        </app>
+        <app loc="1450b28">
+          <lem wit="#Pi">γίνεσθαι</lem>
+          <rdg wit="#B">γενέσθαι</rdg> 
+        </app>
+        <app loc="1450b29">
+          <lem wit="#B">αὐτὸ μὲν</lem>
+          <rdg wit="#A">αὐτὸ</rdg>
+          <note xml:lang="lat">et ipsum Lat</note> 
+        </app>
+        <app loc="1450b31">
+          <lem wit="#Pi">καὶ αὐτὸ</lem>
+          <rdg wit="#B">καὶ αὐτὸ καὶ</rdg>
+          <note>prius καὶ supra αὐτὸ in B</note> 
+        </app>
+        <app loc="1450b33">
+          <lem wit="#Pi">ὅπου</lem>
+          <rdg wit="#B">ὅποι</rdg> 
+        </app>
+        <app loc="1450b37">
+          <lem resp="#rec">πάμμικρον</lem>
+          <rdg wit="#A #B">πᾶν μικρὸν</rdg>
+          <note xml:lang="lat">omnino parvum Lat</note> 
+        </app>
+        <app loc="1450b39">
+          <lem wit="#Pi #Ar">ἀναισθήτου</lem>
+          <rdg wit="#B">αἰσθητοῦ</rdg> 
+        </app>
+        <app loc="1450b37, 39">
+          <lem resp="#Bonitz">del.</lem>
+          <rdg>πᾶν ... χρόνου</rdg> 
+        </app>
+
+        <app loc="1451a3-4">
+          <lem wit="#Xi #Ar">καὶ ἐπὶ τῶν ζῴων</lem>
+          <rdg resp="#Christ">fort. delenda</rdg> 
+        </app>
+        <app loc="1451a5">
+          <lem wit="#Pi #Ar">εὐμνημόνευτον</lem>
+          <rdg wit="#B">ἀμνημόνευτον</rdg> 
+        </app>
+        <app loc="1451a6">
+          <lem wit="#B">δὲ</lem>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1451a7">
+          <lem resp="#Ellebodius #Bursian">ὁ μὲν</lem>
+          <rdg wit="#A #B">μὲν</rdg> 
+        </app>
+        <app loc="1451a8">
+          <lem wit="#Xi">κλεψύδρας</lem>
+          <rdg resp="#rec">κλεψύδραν</rdg> 
+        </app>
+        <app loc="1451a9">
+          <lem wit="#Xi">φασιν</lem>
+          <note xml:lang="lat">'est consuetudo nostra ut dicamus' Ar</note> 
+        </app>
+        <app loc="1451a10">
+          <lem wit="#A">τὴν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1451a10">
+          <lem wit="#Pi">φύσιν τοῦ πράγματος</lem>
+          <rdg wit="#B">τοῦ πράγματος φύσιν</rdg> 
+        </app>
+        <app loc="1451a12">
+          <lem wit="#Pi">διορίσαντας</lem>
+          <rdg wit="#B">διορίσαντα</rdg> 
+        </app>
+        <app loc="1451a14">
+          <lem wit="#Pi">ἐξ εὐτυχίας εἰς δυστυχίαν μεταβάλλειν</lem>
+          <rdg wit="#B">ἐξ εὐτύχων εἰς δυστυχήματα βάλλειν</rdg> 
+        </app>
+        <app loc="1451a17">
+          <lem wit="#B">ἑνὶ</lem>
+          <rdg wit="#Pi">γένει</rdg>
+          <note>cf. 1447a17</note> 
+        </app>
+        <app loc="1451a18">
+          <lem wit="#Pi">ἐνίων</lem>
+          <rdg wit="#B">ἔνι</rdg>
+          <rdg resp="#Bywater">fort. (ἔξω) ἐνίων</rdg> 
+        </app>
+        <app loc="1451a20">
+          <lem wit="#Pi">Θησηίδα</lem>
+          <rdg wit="#B">καὶ Θησηίδα</rdg> 
+        </app>
+        <app loc="1451a27">
+          <lem wit="#Xi">οὐδὲν</lem>
+          <rdg resp="#Bywater">οὐδὲ</rdg> 
+        </app>
+        <app loc="1451a27-28">
+          <lem wit="#B">ἦν ἢ</lem>
+          <rdg wit="#A">ἦν</rdg>
+          <note xml:lang="lat">aut Lat</note> 
+        </app>
+        <app loc="1451a28">
+          <lem wit="#Pi">μίαν</lem>
+          <rdg wit="#B">μὲν μίαν</rdg> 
+        </app>
+        <app loc="1451a29">
+          <lem wit="#B">λέγομεν</lem>
+          <rdg wit="#A">λέγοιμεν</rdg>
+          <note xml:lang="lat">Lat</note> 
+        </app>
+        <app loc="1451a32">
+          <lem wit="#Xi">καὶ ταύτης</lem>
+          <rdg resp="#Susemihl">ταύτης καὶ</rdg>
+          <note>Susemihl olim</note> 
+        </app>
+        <app loc="1451a34">
+          <lem wit="#Xi">διαφέρεσθαι</lem>
+          <rdg wit="#Laur">διαφθείρεσθαι</rdg>
+          <rdg resp="#Butcher">διαφορεῖσθαι</rdg>
+          <note>Laur. 60. 21 in marg. (Ar?)</note> 
+        </app>
+        <app loc="1451a36">
+          <lem wit="#B #Lat #Ar">οὐ τὸ</lem>
+          <rdg wit="#A">οὕτω</rdg> 
+        </app>
+
+        <app loc="1451b1">
+          <lem wit="#Pi">λέγειν ἢ ἄμετρα</lem>
+          <rdg wit="#B">ἢ ἄμετρα λέγειν</rdg> 
+        </app>
+        <app loc="1451b2">
+          <lem wit="#Pi">γὰρ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1451b3">
+          <lem wit="#Pi">καὶ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1451b4">
+          <lem wit="#B">τούτῳ</lem>
+          <rdg wit="#A">τοῦτο</rdg> 
+        </app>
+        <app loc="1451b8">
+          <lem wit="#Lambda">καθόλου</lem>
+          <rdg wit="#B">τὰ καθόλου</rdg> 
+        </app>
+        <app loc="1451b9">
+          <lem wit="#Pi">οὗ</lem>
+          <rdg wit="#B">οὐ</rdg> 
+        </app>
+        <app loc="1451b10">
+          <lem wit="#B #Lat">τὸ</lem>
+          <rdg wit="#A">τὸν</rdg> 
+        </app>
+        <app loc="1451b13">
+          <lem wit="#Xi">οὕτω</lem>
+          <note xml:lang="lat">οὔπω videtur vertere Ar</note> 
+        </app>
+        <app loc="1451b13">
+          <lem wit="#Pi #Ar">τυχόντα</lem>
+          <rdg wit="#B">τιθέντα</rdg> 
+        </app>
+        <app loc="1451b13">
+          <lem wit="#Pi">ὑποτιθέασι</lem>
+          <rdg wit="#B">τιθέασι</rdg> 
+        </app>
+        <app loc="1451b14">
+          <lem wit="#A">τὸν</lem>
+          <rdg wit="#Phi">τὸ</rdg>
+          <rdg wit="#B">τῶν</rdg> 
+        </app>
+        <app loc="1451b19">
+          <lem wit="#B">ἐν ἐνίαις</lem>
+          <rdg wit="#Pi">ἐνίαις</rdg> 
+        </app>
+        <app loc="1451b21">
+          <lem resp="#Welcker">Ἀνθεῖ</lem>
+          <rdg wit="#A #B">ἄνθει</rdg>
+          <rdg resp="#Gudeman">Ἄνθῃ</rdg>
+          <note xml:lang="lat">anthe Lat; Gudeman (Ar?)</note> 
+        </app>
+        <app loc="1451b26">
+          <lem wit="#Xi">ὅμως</lem>
+          <rdg resp="#Else">ὁμοίως</rdg> 
+        </app>
+        <app loc="1451b28">
+          <lem wit="#A">τὴν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1451b32">
+          <lem wit="#Xi">καὶ δυνατὰ γενέσθαι</lem>
+          <rdg resp="#Vorlaender">secl.</rdg>
+          <rdg resp="#Hatzfeld-Dufour">γενέσθαι del.</rdg>
+          <note>om. Ar</note> 
+        </app>
+        <app loc="1451b33">
+          <lem wit="#Xi">ἁπλῶν</lem>
+          <rdg resp="#Essen">ἀτελῶν</rdg>
+          <rdg wit="#Ar">om.</rdg>
+          <note>sed in sententia turbata</note> 
+        </app>
+        <app loc="1451b34">
+          <lem wit="#Pi">τὰ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1451b34">
+          <lem wit="#Pi">ἐπεισοδιώδεις</lem>
+          <rdg wit="#B">ἐπιδόσεις</rdg> 
+        </app>
+        <app loc="1451b38">
+          <lem wit="#B">παρατείνοντες</lem>
+          <rdg wit="#A">παρατείναντες</rdg> 
+        </app>
+        <app loc="1451b38">
+          <lem wit="#B">τὸν</lem>
+          <rdg wit="#A">om.</rdg> 
+        </app>
+
+        <app loc="1452a3">
+          <lem wit="#Pi">καὶ μάλιστα</lem>
+          <rdg wit="#B">μάλιστα</rdg> 
+        </app>
+        <app loc="1452a3">
+          <lem wit="#Xi">καὶ μᾶλλον</lem>
+          <rdg resp="#Ellebodius #Spengel">del.</rdg> 
+        </app>
+<app loc="1452a5">
+          <lem wit="#Pi">οὕτως</lem>
+          <rdg wit="#B">οὔτε</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452a6">
+          <lem wit="#A">τῶν ἀπὸ τύχης</lem>
+          <rdg wit="#B">ἀπὸ τῆς τύχης</rdg> 
+        </app>
+        <app loc="1452a7">
+          <lem wit="#A">ὁ</lem>
+          <rdg wit="#B">ὥσπερ ὁ</rdg> 
+        </app>
+        <app loc="1452a10">
+          <lem wit="#B">γίνεσθαι</lem>
+          <rdg wit="#Pi">γενέσθαι</rdg> 
+        </app>
+        <app loc="1452a12">
+          <lem wit="#Pi">πεπλεγμένοι</lem>
+          <rdg wit="#B">πεπλασμένοι</rdg> 
+        </app>
+        <app loc="1452a16">
+          <lem wit="#B">πεπλεγμένην</lem>
+          <rdg wit="#Pi">πεπλεγμένη</rdg> 
+        </app>
+        <app loc="1452a17">
+          <lem wit="#B">ἐξ ἧς</lem>
+          <rdg resp="#Else">(ἧς) ἑξῆς</rdg>
+          <note xml:lang="lat">'in qua' Ar </note>
+        </app>
+        <app loc="1452a17">
+          <lem wit="#Pi">ἢ ἀμφοῖν</lem>
+          <rdg wit="#B">ἢ om.</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452a20">
+          <lem wit="#Xi">ταῦτα</lem> 
+        </app>
+        <app loc="1452a22">
+          <lem wit="#Pi">πραττομένων</lem>
+          <rdg wit="#B">πραττόντων</rdg> 
+        </app>
+        <app loc="1452a23">
+          <lem resp="#Bonitz">τἀναντία</lem> 
+        </app>
+        <app loc="1452a24">
+          <lem wit="#B">οἷον</lem>
+          <rdg wit="#Pi">ὥσπερ</rdg>
+          <note>ὥσπερ ex line 23 in Π </note>
+        </app>
+        <app loc="1452a24">
+          <lem wit="#Pi">λυγκεῖ</lem>
+          <rdg wit="#B">γλυκεῖ</rdg> 
+        </app>
+        <app loc="1452a25">
+          <lem wit="#Pi">ἀπαλλάξων</lem>
+          <rdg wit="#B">ἀπαλλάσσων</rdg> 
+        </app>
+        <app loc="1452a28-29">
+          <lem wit="#Pi">τὸν ... τὸν</lem>
+          <rdg wit="#B">τῷ ... τῷ</rdg> 
+        </app>
+        <app loc="1452a31">
+          <lem wit="#Pi">ἢ εἰς φιλίαν</lem>
+          <rdg wit="#B">ἢ om.</rdg> 
+        </app>
+
+        <app loc="1452a33">
+          <lem resp="#Gomperz">περιπετείᾳ</lem>
+          <rdg wit="#Pi">περιπέτειαι</rdg>
+          <rdg wit="#B">περιπέτεια</rdg> 
+        </app>
+        <app loc="1452a33">
+          <lem wit="#B">γένηται</lem>
+          <rdg wit="#A">γίνονται</rdg>
+          <note>aut hoc aut γίνωνται Φ </note>
+        </app>
+        <app loc="1452a33">
+          <lem wit="#Xi">οἷον</lem>
+          <rdg resp="#Bywater">οΐαν</rdg> 
+        </app>
+        <app loc="1452a33">
+          <lem wit="#Pi">ἡ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1452a34-36">
+          <lem wit="#Pi">καὶ γὰρ ... ἀναγνωρίσαι</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>καὶ τὰ τυχόντα συμβαίνει omitted in Ar </note>
+        </app>
+        <app loc="1452a34-35">
+          <lem wit="#A">καὶ τὰ τυχόντα ἐστὶν</lem>
+          <note xml:lang="lat">et ad quaecumque adhuc et Lat (reflecting καὶ πρὸς τὰ τυχόντα, ἔτι δὲ καὶ?) </note>
+        </app>
+        <app loc="1452a36">
+          <lem resp="#rec">ἢ</lem>
+          <rdg wit="#A">εἰ</rdg>
+          <note xml:lang="lat">et si Lat </note>
+        </app>
+
+        <app loc="1452b1">
+          <lem wit="#B #Φ">οΐων</lem>
+          <rdg wit="#A">οἷον</rdg> 
+        </app>
+        <app loc="1452b2">
+          <lem resp="#Susemihl">ἐπειδὴ</lem>
+          <rdg wit="#Xi">ἔτι δὲ</rdg>
+          <note>Susemihl following Vahlen </note>
+        </app>
+        <app loc="1452b3">
+          <lem wit="#Pi">ἐπειδὴ ἡ ἀναγνώρισις</lem>
+          <rdg wit="#B">ἔτι δὲ ἀναγνωρίσεις</rdg> 
+        </app>
+        <app loc="1452b3">
+          <lem wit="#Pi">τινῶν ἐστιν ἀναγνώρισις</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452b4">
+          <lem wit="#B">εἰσι</lem>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1452b4">
+          <lem wit="#B">ἄτερος</lem>
+          <rdg wit="#A">ἕτερος</rdg> 
+        </app>
+        <app loc="1452b7">
+          <lem resp="#Bywater">ἐκείνου</lem>
+          <rdg wit="#Xi">ἐκείνῳ</rdg> 
+        </app>
+        <app loc="1452b7">
+          <lem wit="#Pi">ἔδει</lem>
+          <rdg wit="#B">ἔφη</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452b9">
+          <lem wit="#B">ταῦτα</lem>
+          <rdg wit="#A">περὶ ταῦτ᾽</rdg>
+          <note xml:lang="lat">supported by Lat and Ar </note>
+        </app>
+        <app loc="1452b10">
+          <lem wit="#Pi">καὶ</lem>
+          <rdg wit="#B">μὲν καὶ</rdg> 
+        </app>
+        <app loc="1452b10-11">
+          <lem>τούτων ... εἴρηται</lem>
+          <note>exciderunt in Ar </note>
+        </app>
+        <app loc="1452b12">
+          <lem wit="#B">οἵ τε</lem>
+          <rdg wit="#A">ὅτε</rdg>
+          <note xml:lang="lat">que Lat </note>
+        </app>
+        <app loc="1452b13">
+          <lem wit="#A">τρώσεις</lem>
+          <rdg wit="#B">αἱ τρώσεις</rdg> 
+        </app>
+        <app loc="1452b14-27">
+          <note>proscripsit Ritter </note>
+        </app>
+        <app loc="1452b17">
+          <lem wit="#Pi">τούτου</lem>
+          <rdg wit="#B">τοῦτο</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452b18">
+          <lem wit="#A">ἀπὸ</lem>
+          <rdg wit="#B">ὑπὸ</rdg> 
+        </app>
+        <app loc="1452b18">
+          <lem wit="#A #B">κόμμοι</lem> 
+        </app>
+        <app loc="1452b20">
+          <lem wit="#Pi">παρόδου</lem>
+          <rdg wit="#B">γὰρ ὁδοῦ</rdg> 
+        </app>
+        <app loc="1452b21">
+          <lem wit="#Pi">μέρος</lem>
+          <rdg wit="#B">μέλος</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452b22">
+          <lem wit="#Pi">μεθ'</lem>
+          <rdg wit="#B">καθ'</rdg> 
+        </app>
+        <app loc="1452b22">
+          <lem wit="#Pi">μέλος</lem>
+          <rdg wit="#B">μέρος</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1452b22">
+          <lem wit="#Pi">χορικοῦ</lem>
+          <rdg wit="#B">-ὸς</rdg> 
+        </app>
+        <app loc="1452b23">
+          <lem resp="#Susemihl">ὅλη</lem>
+          <rdg wit="#Xi">ὅλου</rdg>
+          <note>ὅλου in ἄλλου corruptum apud Tzetz. </note>
+        </app>
+        <app loc="1452b23">
+          <lem wit="#Pi">στάσιμον</lem>
+          <rdg wit="#B">-ος</rdg> 
+        </app>
+        <app loc="1452b24">
+          <lem wit="#A #B">κόμμος</lem> 
+        </app>
+        <app loc="1452b25">
+          <lem resp="#rec">ὡς εἴδεσι</lem>
+          <rdg wit="#A">om.</rdg>
+          <note>cf. line 14 </note>
+        </app>
+        <app loc="1452b26">
+          <lem wit="#A">εἴπαμεν</lem>
+          <rdg wit="#B">εἴπομεν</rdg> 
+        </app>
+        <app loc="1452b27">
+          <lem wit="#Pi">ταῦτα</lem>
+          <rdg wit="#B">ταῦτα κεχωρισμένα</rdg> 
+        </app>
+        <app loc="1452b28">
+          <lem resp="#rec">ὧν</lem>
+          <rdg wit="#A #B">ὡς</rdg>
+          <note xml:lang="lat">Ar supports rec; que Lat </note>
+        </app>
+        <app loc="1452b31">
+          <lem resp="#Twining">del.</lem>
+          <rdg wit="#Xi">σύστασις</rdg> 
+        </app>
+        <app loc="1452b31">
+          <lem wit="#B">ἡ</lem>
+          <rdg wit="#A">ἢ</rdg>
+          <note xml:lang="lat">que Lat </note>
+        </app>
+        <app loc="1452b31">
+          <lem wit="#A">τε τὴν</lem>
+          <rdg wit="#B">τὴν</rdg> 
+        </app>
+        <app loc="1452b32">
+          <lem wit="#Pi">πεπλεγμένην</lem>
+          <rdg wit="#B">πεπλασμένην</rdg> 
+        </app>
+        <app loc="1452b32">
+          <lem wit="#Pi">καὶ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1452b32">
+          <lem wit="#Pi">ἐξ ἐναντίας</lem>
+          <rdg wit="#B">εἰς τουναντίον</rdg> 
+        </app>
+        <app loc="1452b34">
+          <lem wit="#A">τῶν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1452b35">
+          <lem wit="#Xi">αὕτη</lem>
+          <rdg resp="#Vahlen">αὕτη ἡ</rdg> 
+        </app>
+        <app loc="1452b35-37">
+          <lem wit="#Pi">οὐ γὰρ ... εὐτυχίαν</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>Ar supports Π; irrepsit in vicem τοὺς ἐν τῇ ἀρετῇ, glossema ad τοὺς ἐπιεικεῖς </note>
+        </app>
+        <app loc="1452b37">
+          <lem wit="#A">ἀτραγῳδότατον</lem>
+          <rdg wit="#B">-δητότατον</rdg> 
+        </app>
+
+        <app loc="1453a1">
+          <lem resp="#rec">αὐ τὸν ἄνδρας</lem>
+          <rdg wit="#B">αὐτὸν</rdg>
+          <rdg wit="#A">αὐτὸ</rdg> 
+        </app>
+        <app loc="1453a4">
+          <lem wit="#Pi">περὶ</lem>
+          <rdg wit="#B">παρὰ</rdg> 
+        </app>
+        <app loc="1453a5-6">
+          <lem wit="#Pi">ἔλεος ... ὅμοιον</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>Ar supports Π </note>
+        </app>
+        <app loc="1453a11">
+          <lem wit="#B">οἰδίπους</lem>
+          <rdg wit="#Pi">δίπους</rdg>
+          <note>Ar supports B </note>
+        </app>
+        <app loc="1453a13">
+          <lem wit="#Pi">τινές φασι</lem>
+          <rdg wit="#B">φασὶ τινὲς</rdg> 
+        </app>
+        <app loc="1453a15">
+          <lem>μοχθηρίαν</lem>
+          <note>saepius in Ar </note>
+        </app>
+        <app loc="1453a16">
+          <lem wit="#Pi">οἷου</lem>
+          <rdg wit="#B">οἷου ὡς</rdg> 
+        </app>
+        <app loc="1453a17">
+          <lem wit="#Pi">πρῶτον</lem>
+          <rdg wit="#B">πρὸ τοῦ</rdg> 
+        </app>
+        <app loc="1453a19">
+          <lem wit="#Xi">κάλλισται</lem>
+          <rdg resp="#Christ">del.</rdg>
+          <note>omitted in Ar; cf. Tkatsch, i. 194 </note>
+        </app>
+        <app loc="1453a20">
+          <lem wit="#A">ἀλκμαίωνα</lem>
+          <rdg wit="#B">-ας</rdg> 
+        </app>
+        <app loc="1453a22">
+          <lem wit="#A">τὴν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1453a24">
+          <lem wit="#Xi">τὸ αὐτὸ</lem>
+          <rdg resp="#Reiz">αὐτοὶ</rdg>
+          <note>excidit in Ar, ut saepius </note>
+        </app>
+        <app loc="1453a25">
+          <lem resp="#Knebel">καὶ αἱ</lem>
+          <rdg wit="#Pi">καὶ</rdg>
+          <rdg wit="#B">αἱ</rdg> 
+        </app>
+        <app loc="1453a31">
+          <lem wit="#Xi">σύστασιν</lem>
+          <rdg resp="#Ueberweg">μετάβασιν</rdg> 
+        </app>
+        <app loc="1453a36-39">
+          <lem>ἐκεῖ ... οὐδενός</lem>
+          <note>ineptum sane exemplum secl. Else </note>
+        </app>
+
+        <app loc="1453b1">
+          <lem resp="#Bonitz">οἳ ἂν</lem>
+          <rdg wit="#Xi">ἂν οἱ</rdg> 
+        </app>
+        <app loc="1453b3">
+          <lem wit="#Pi">πρότερον</lem>
+          <rdg wit="#B">καὶ πρότερον</rdg> 
+        </app>
+        <app loc="1453b4">
+          <lem wit="#Pi">οὕτω συνεστάναι</lem>
+          <rdg wit="#B">τοῦ συνιστάναι</rdg> 
+        </app>
+        <app loc="1453b6">
+          <lem wit="#Pi">ἅπερ ἂν πάθοι τις</lem>
+          <note>post ἅπερ ἂν in Β καὶ χορηγίας δεόμενον ἐστὶ (ex line 8), tum post unius vel duarum litt. spatium πάθοι τις </note>
+        </app>
+        <app loc="1453b6-7">
+          <lem wit="#A">ἀκούων τὸν τοῦ οἰδίπου μῦθον</lem>
+          <rdg wit="#B">τὸν οἰδίπου μῦθον ἀκούων</rdg> 
+        </app>
+        <app loc="1453b7">
+          <lem wit="#Pi">δὲ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1453b10">
+          <lem wit="#A">πᾶσαν</lem>
+          <rdg wit="#B">ἅπασαν</rdg> 
+        </app>
+        <app loc="1453b15">
+          <lem resp="#Spengel">δὴ</lem>
+          <rdg wit="#Xi">δὲ</rdg> 
+        </app>
+
+
+  <app loc="1453b17">
+          <lem wit="#Pi">οὐδὲν ἐλεεινὸν</lem>
+          <rdg wit="#B">ἐλεεινὸν οὐδὲν</rdg>
+        </app>
+        <app loc="1453b19">
+          <lem wit="#A">ἐγγένηται</lem>
+          <rdg wit="#B">ἐγγίγνεται</rdg>
+        </app>
+        <app loc="1453b21">
+          <lem wit="#B">ἀποκτείνῃ ... μέλλῃ</lem>
+          <rdg wit="#A">-ει . . . -ει</rdg>
+        </app>
+        <app loc="1453b22">
+          <lem wit="#rec #Lat">δρᾷ</lem>
+          <rdg wit="#A #B">δρᾶν</rdg>
+        </app>
+        <app loc="1453b23">
+          <lem wit="#Pi">λύειν</lem>
+          <rdg wit="#B">λύειν δὲ</rdg>
+          <note>κλυταιμνήστραν Ξ</note>
+        </app>
+        <app loc="1453b24">
+          <lem wit="#A #B">ἀλκμαίωνος</lem>
+        </app>
+        <app loc="1453b26">
+          <lem wit="#Phi">εἴπωμεν</lem>
+          <rdg wit="#A">εἴπομεν</rdg>
+          <note>Barrosus</note>
+        </app>
+        <app loc="1453b29">
+          <note resp="#Gudeman">post Μήδειαν lacunam statuit explendam (cf. Ar: 'quod non faciat... ubi cognoscunt')</note>
+        </app>
+        <app loc="1453b33">
+          <lem resp="#Victorius">Ἀλκμαίων ὁ</lem>
+          <rdg wit="#Xi">ἀλκμαίωνος</rdg>
+        </app>
+        <app loc="1453b34">
+          <lem wit="#A">τρίτον</lem>
+          <rdg wit="#B">τὸ τρίτον</rdg>
+          <note>numerum ternarium habuerunt et Σ</note>
+        </app>
+        <app loc="1453b35">
+          <lem wit="#Pi">ποιεῖν τι τῶν ἀνηκέστων δι'</lem>
+          <rdg wit="#B">τι ποιεῖν δι᾽ ἀνήκεστον δι</rdg>
+          <note>τι incertum in B, prius δι' inductum</note>
+        </app>
+        <app loc="1453b36, 38">
+          <note resp="#Vahlen">post ταῦτα vel post ποιῆσαι (36) lacunam statuit</note>
+        </app>
+
+        <app loc="1454a2-3">
+          <lem wit="#Pi #Ar">βέλτιον... πρᾶξαι</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1454a6">
+          <lem wit="#A #B">μέλλει ... ἀποκτείνει</lem>
+          <rdg wit="#Lat">debebat... interfecit</rdg>
+        </app>
+        <app loc="1454a6">
+          <lem wit="#Pi">ἀνεγνώρισε</lem>
+          <rdg wit="#B">ἐγνώρισε</rdg>
+        </app>
+        <app loc="1454a9">
+          <lem wit="#Pi">ὅπερ</lem>
+          <rdg wit="#B">δ</rdg>
+        </app>
+        <app loc="1454a14">
+          <lem wit="#Pi #Ar">συστάσεως</lem>
+          <rdg wit="#B">στάσεως</rdg>
+        </app>
+        <app loc="1454a16">
+          <lem wit="#A">ἐστιν</lem>
+          <rdg wit="#B">εἰσιν</rdg>
+        </app>
+        <app loc="1454a17">
+          <lem wit="#Pi">καὶ</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1454a18">
+          <lem wit="#Pi">προαίρεσιν</lem>
+          <rdg wit="#B">πρὸς αἵρεσιν</rdg>
+        </app>
+        <app loc="1454a19">
+          <lem resp="#Vahlen">τις ἂν</lem>
+          <rdg wit="#A #B">τινα</rdg>
+          <note xml:lang="lat">que sit (... bona, pro χρηστὴν ΑΒ) Lat</note>
+        </app>
+        <app loc="1454a22">
+          <lem wit="#B">τὸ</lem>
+          <rdg wit="#A">τὰ</rdg>
+        </app>
+        <app loc="1454a23">
+          <lem resp="#Kassel">ἀνδρείαν</lem>
+          <rdg wit="#Xi">ἀνδρεῖον</rdg>
+          <note>sc. εἶναι γυναῖκα</note>
+        </app>
+        <app loc="1454a23">
+          <lem resp="#Vahlen">οὕτως</lem>
+          <rdg wit="#B">οὐ τῷ</rdg>
+          <rdg wit="#A">**τῶι</rdg>
+          <note xml:lang="lat">aut Lat</note>
+        </app>
+        <app loc="1454a25">
+          <lem wit="#B #Ar">ὡς προείρηται</lem>
+          <rdg wit="#Pi">ὥσπερ εἴρηται</rdg>
+          <note>προ ex περ corr. in B</note>
+        </app>
+        <app loc="1454a27">
+          <lem wit="#B">ὑποτεθῇ</lem>
+          <rdg wit="#Pi">ὑποτιθεὶς</rdg>
+        </app>
+
+        <app loc="1454a29">
+          <lem resp="#Thurot">ἀναγκαίας</lem>
+          <rdg wit="#Xi #Ar">ἀναγκαῖον</rdg>
+        </app>
+        <app loc="1454a29">
+          <lem wit="#Pi">ὁ ἐν</lem>
+          <rdg wit="#B">ἐν</rdg>
+        </app>
+        <app loc="1454a31">
+          <note resp="#Victorius">τοῦ δὲ ἀνομοίου cum exemplo ante τοῦ δὲ ἀνωμάλου perisse suspicatus est</note>
+        </app>
+        <app loc="1454a33">
+          <lem wit="#B">ὁμοίως</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <note>cf. Phys. 208a27</note>
+        </app>
+        <app loc="1454a34">
+          <lem wit="#Pi #Ar">ἀεὶ</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1454a35">
+          <lem wit="#Xi">ὥστε... ἀναγκαῖον</lem>
+          <rdg wit="#Ar">om.</rdg>
+        </app>
+        <app loc="1454a35">
+          <lem wit="#A #B">ἢ ἀναγκαῖον</lem>
+          <rdg resp="#Hermann">ἀναγκαῖον (et hic et 36)</rdg>
+          <note xml:lang="lat">sit ( ) necessarium Lat</note>
+        </app>
+        <app loc="1454a36">
+          <lem wit="#Pi #Ar">καὶ... εἰκός</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1454b1">
+          <lem wit="#Xi">μύθου</lem>
+          <rdg wit="#Sigma #Ueberweg">ἤθους</rdg>
+          <note>cf. Porphyrius ap. schol. B Hom. Il. 2. 73</note>
+        </app>
+        <app loc="1454b2">
+          <lem wit="#Lambda">Ιλιάδι</lem>
+          <rdg resp="#Hermann">Ιφιγενείᾳ (sc. Taurica)</rdg>
+          <rdg resp="#Sykutris">Αὐλίδι (debuit ᾿Ιφιγενείᾳ τῇ ἐν Αὐλίδι)</rdg>
+        </app>
+        <app loc="1454b2">
+          <lem wit="#rec">ἀπόπλουν</lem>
+          <rdg wit="#Ar">'inversionem (?) navium'</rdg>
+          <rdg wit="#Xi">ἁπλοῦν</rdg>
+        </app>
+        <app loc="1454b3">
+          <lem wit="#B #Ar">ἐπὶ τὰ</lem>
+          <rdg wit="#Pi">ἔπειτα</rdg>
+        </app>
+        <app loc="1454b4">
+          <lem wit="#Pi">ἃ οὐχ</lem>
+          <rdg wit="#B">ἢ ὅσα οὐχ</rdg>
+        </app>
+        <app loc="1454b5">
+          <lem wit="#A">ἅπαντα</lem>
+          <rdg wit="#B">πάντα</rdg>
+        </app>
+        <app loc="1454b7">
+          <lem wit="#Pi">τὸ</lem>
+          <rdg wit="#B">τὸν</rdg>
+        </app>
+        <app loc="1454b9">
+          <lem wit="#B">ἡμεῖς</lem>
+          <rdg wit="#Pi">ἡμᾶς</rdg>
+          <rdg resp="#Stahr">ἢ καθ ἡμᾶς</rdg>
+          <note>ἡ habuit Σ; Π def. Vahlen</note>
+        </app>
+        <app loc="1454b10">
+          <lem wit="#A">ἰδίαν</lem>
+          <rdg wit="#B">οἰκείαν</rdg>
+          <note>cf. 1456a6</note>
+        </app>
+        <app loc="1454b12">
+          <lem wit="#Pi">τοιαῦτα</lem>
+          <rdg wit="#B">τοιαῦτα ἤθη</rdg>
+        </app>
+
+        <app loc="1454b14">
+          <lem wit="#Pi">παράδειγμα σκληρότητος</lem>
+          <note resp="#Lobel">post ἀγαθὸν καὶ transp. Lobel; secl. Ritter, prob. Else qui post καὶ add. ὅμοιον</note>
+        </app>
+        <app loc="1454b14">
+          <lem wit="#Pi">ἀχιλλέα</lem>
+          <rdg wit="#B">ἀχιλλέα μὲν</rdg>
+        </app>
+        <app loc="1454b14">
+          <lem wit="#B #Ar">ἀγαθὸν καὶ</lem>
+          <rdg wit="#A">-ῶν</rdg>
+          <note xml:lang="lat">agathon Lat</note>
+        </app>
+        <app loc="1454b15">
+          <lem wit="#Pi">δὴ διατηρεῖν</lem>
+          <rdg wit="#B">δὲ δεῖ τηρεῖν</rdg>
+        </app>
+        <app loc="1454b15-16">
+          <lem wit="#rec">τὰ παρὰ τὰς</lem>
+          <rdg wit="#Pi">τὰς παρὰ τὰς</rdg>
+          <rdg wit="#B">τὰς πάντας</rdg>
+        </app>
+        <app loc="1454b17">
+          <lem wit="#Pi">κατ᾿ αὐτὰς</lem>
+          <rdg wit="#B">κατὰ ταῦτα</rdg>
+        </app>
+        <app loc="1454b20">
+          <lem wit="#B #Lat">ᾗ πλείστῃ</lem>
+          <rdg wit="#A">ἡ -η</rdg>
+        </app>
+        <app loc="1454b21">
+          <lem wit="#Pi">ἡ</lem>
+          <rdg wit="#B">ἢ</rdg>
+        </app>
+        <app loc="1454b24">
+          <lem wit="#B #Phi">οἷον²</lem>
+          <rdg wit="#A">om.</rdg>
+        </app>
+        <app loc="1454b25">
+          <lem wit="#B">περιδέραια</lem>
+          <rdg wit="#A">περιδέρρεα</rdg>
+        </app>
+        <app loc="1454b25">
+          <lem wit="#rec #Ar">olov</lem>
+          <rdg wit="#A">οἱ</rdg>
+          <rdg resp="#Rostagni">οΐα</rdg>
+          <note xml:lang="lat">que Lat</note>
+        </app>
+        <app loc="1454b27">
+          <lem wit="#Pi">ἀνεγνωρίσθη</lem>
+          <rdg wit="#B">ἐγνωρίσθη</rdg>
+        </app>
+        <app loc="1454b30">
+          <lem wit="#A">ἡ</lem>
+          <rdg wit="#B">οἱ</rdg>
+          <note xml:lang="lat">qui Lat</note>
+        </app>
+        <app loc="1454b31">
+          <lem wit="#Lambda">διὸ ἄτεχνοι</lem>
+          <note resp="#Christ">secl. Christ</note>
+        </app>
+        <app loc="1454b31">
+          <lem wit="#Pi">ὀρέστης</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>Ar? supports B</note>
+        </app>
+        <app loc="1454b35">
+          <lem resp="#Vahlen">διὸ ἐγγύς τι</lem>
+          <rdg wit="#A">δι ότι ἐγγὺς</rdg>
+          <rdg wit="#B">διό τι ἐγγὺς</rdg>
+        </app>
+        <app loc="1454b36">
+          <lem wit="#Pi">ἂν</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1454b37">
+          <lem resp="#Spengel">ἡ τρίτη</lem>
+          <rdg wit="#Xi">ἤτοι τῇ</rdg>
+          <note>numerum ternarium habuit Σ</note>
+        </app>
+        <app loc="1454b37">
+          <lem wit="#A #B #Ar">αἴσθεσθαι</lem>
+          <rdg resp="#Gomperz">ἄχθεσθαι</rdg>
+          <note xml:lang="lat">fore (ἔσεσθαι) Lat</note>
+        </app>
+
+        <app loc="1455a1">
+          <lem wit="#A">τι ἰδόντα</lem>
+          <rdg wit="#B">ἢ εἰδόντα</rdg>
+          <note xml:lang="lat">'ubi videt' Ar; aliquid scientem Lat</note>
+        </app>
+        <app loc="1455a1">
+          <lem wit="#Pi #Ar">ὥσπερ</lem>
+          <rdg wit="#B">om.</rdg>
+          <note xml:lang="lat">ἡ Α; ἢ Β; qui Lat</note>
+        </app>
+        <app loc="1455a2">
+          <lem wit="#Pi">ἡ ἐν</lem>
+          <rdg wit="#B">εν</rdg>
+        </app>
+        <app loc="1455a2">
+          <lem wit="#B">ἀπολόγῳ</lem>
+          <rdg wit="#A">ἀπὸ λόγων</rdg>
+          <note xml:lang="lat">apologon Lat</note>
+        </app>
+        <app loc="1455a4">
+          <lem wit="#B">χοηφόροις</lem>
+          <rdg wit="#Pi">χλοη-</rdg>
+        </app>
+        <app loc="1455a5">
+          <lem wit="#B">ὀρέστης</lem>
+          <rdg wit="#A">ὁ ὀρέστης</rdg>
+        </app>
+        <app loc="1455a6">
+          <lem wit="#Pi #Ar">οὗτος</lem>
+          <rdg wit="#B">οὕτω</rdg>
+        </app>
+        <app loc="1455a6">
+          <lem wit="#Xi">πολυείδους</lem>
+          <rdg wit="#rec">-ου</rdg>
+          <note resp="#Tyrwhitt">corr. Tyrwhitt</note>
+        </app>
+        <app loc="1455a7">
+          <lem wit="#B #Ar">ἔφη</lem>
+          <rdg wit="#Pi">om.</rdg>
+        </app>
+        <app loc="1455a9">
+          <lem wit="#B">τὸν</lem>
+          <rdg wit="#A">om.</rdg>
+        </app>
+        <app loc="1455a10">
+          <lem wit="#A #B">φινίδαις</lem>
+          <note resp="#Reiz">corr. Reiz</note>
+        </app>
+        <app loc="1455a13">
+          <lem>θεάτρου</lem>
+          <note resp="#Hermann">θατέρου Hermann</note>
+        </app>
+        <app loc="1455a14-14b">
+          <note>τόξον Β (similia nec minus obscura in Ar); om. Π</note>
+          <lem wit="#Pi #Ar">ἐντείνειν</lem>
+          <rdg wit="#B">ἐντείνειν</rdg>
+        </app>
+        <app loc="1455a14">
+          <note resp="#Sykutris">ἄλλον δὲ (ἐκεῖνον) vel (αὐτόν), ἄλλον δὲ Sykutris</note>
+        </app>
+        <app loc="1455a15">
+          <lem>δι'</lem>
+          <note resp="#Tyrwhitt">δὴ Tyrwhitt</note>
+        </app>
+        <app loc="1455a16">
+          <lem wit="#B #Ar">παραλογισμός</lem>
+          <rdg wit="#Pi">-όν</rdg>
+        </app>
+        <app loc="1455a17">
+          <lem wit="#Xi">τῆς ... εἰκότων</lem>
+          <rdg wit="#Ar">om.</rdg>
+          <note resp="#rec">ἐκπλήξεως rec (Lat); πλήξεως ΑΒ</note>
+        </app>
+        <app loc="1455a17">
+          <lem wit="#B #Phi">εἰκότων</lem>
+          <rdg wit="#A">εἰκόντων</rdg>
+        </app>
+        <app loc="1455a18">
+          <lem wit="#B">ἐν</lem>
+          <rdg wit="#A">ὁ ἐν</rdg>
+          <rdg resp="#Bywater">τὸ ἐν</rdg>
+        </app>
+
+        <app loc="1455a20">
+          <lem>σημείων</lem>
+          <rdg resp="#Spengel">καὶ σημείων</rdg>
+          <note>Spengel secl. καὶ περιδεραίων; fort. delendum (non vertit Ar) </note>
+          <rdg wit="#B">περιδεραίων</rdg>
+          <rdg wit="#A">δέρεων</rdg> 
+        </app>
+        <app loc="1455a22">
+          <lem>συναπεργάζεσθαι</lem>
+          <rdg resp="#Vahlen">[συν] ἀπ-</rdg>
+          <note>olim Vahlen </note>
+        </app>
+        <app loc="1455a24">
+          <lem wit="#Pi">ἂν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1455a24">
+          <lem wit="#B">ἐναργέστατα</lem>
+          <rdg wit="#Pi">ἐνεργ-</rdg>
+          <rdg wit="#Ar">om.</rdg> 
+        </app>
+        <app loc="1455a24">
+          <lem resp="#rec">ὁρῶν</lem>
+          <rdg wit="#A #B">ὁ ὁρῶν</rdg> 
+        </app>
+        <app loc="1455a24">
+          <lem wit="#Pi">παρ</lem>
+          <rdg wit="#B">γὰρ</rdg> 
+        </app>
+        <app loc="1455a25-26">
+          <lem resp="#rec">λανθάνοι</lem>
+          <rdg wit="#B">-οιτο</rdg>
+          <rdg wit="#A">-οι τὸ</rdg> 
+        </app>
+        <app loc="1455a26">
+          <lem resp="#rec">ἐπετιμᾶτο</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#Xi">ἐπιτιμᾷ τῷ</rdg> 
+        </app>
+        <app loc="1455a27">
+          <lem wit="#B">ἀνῄει</lem>
+          <note>supported by Ar; utique erat (erit Lobel) Lat </note>
+          <rdg wit="#A">ἂν εἴη</rdg> 
+        </app>
+        <app loc="1455a27">
+          <lem resp="#Butcher">ὁρῶντα</lem>
+          <note>sc. τὸν ποιητὴν </note>
+          <rdg wit="#Lambda">ὁρῶντα τὸν θεατὴν</rdg> 
+        </app>
+        <app loc="1455a29">
+          <lem wit="#B">τούς τε</lem>
+          <rdg wit="#Pi">τούτους τε</rdg> 
+        </app>
+        <app loc="1455a30">
+          <lem wit="#Xi">τῆς αὐτῆς</lem>
+          <rdg resp="#Tyrwhitt">αὐτῆς τῆς</rdg>
+          <note>Tyrwhitt in versione </note>
+        </app>
+        <app loc="1455a34">
+          <lem wit="#B">ἐκστατικοί</lem>
+          <note>possibly supported by Ar </note>
+          <rdg wit="#Pi">ἐξεταστικοί</rdg> 
+        </app>
+        <app loc="1455a34">
+          <lem>πεποιημένους</lem>
+          <rdg resp="#Vahlen">παρειλημμένους</rdg>
+          <note>an προπεποιημένους? </note>
+        </app>
+
+        <app loc="1455b1">
+          <lem wit="#B">ἐπεισοδιοῦν</lem>
+          <rdg wit="#A">ἐπεισοδίου</rdg> 
+        </app>
+        <app loc="1455b2">
+          <lem wit="#B">παρατείνειν</lem>
+          <rdg wit="#A">περιτείνειν</rdg> 
+        </app>
+        <app loc="1455b4">
+          <lem wit="#A">ἱδρυνθείσης</lem>
+          <rdg wit="#B">ἱδρυθ-</rdg> 
+        </app>
+        <app loc="1455b7-8">
+          <lem resp="#Christ">διά ... καθόλου</lem>
+          <note>secl. Christ (ἔξω τοῦ καθόλου secluserat Duentzer) </note>
+        </app>
+        <app loc="1455b9">
+          <lem wit="#Xi">ἀνεγνώρισεν</lem>
+          <note>τὴν ἀδελφήν ex Ar add. Tkatsch et Gudeman, glossemate abusi </note>
+        </app>
+        <app loc="1455b10">
+          <lem wit="#Xi">πολύειδος</lem> 
+        </app>
+        <app loc="1455b11">
+          <lem wit="#Pi">μόνον</lem>
+          <rdg wit="#B">μόνην</rdg> 
+        </app>
+        <app loc="1455b14">
+          <lem>ἐν τῷ</lem>
+          <rdg resp="#Victorius">τῷ</rdg>
+          <note>possibly supported by Ar </note>
+        </app>
+        <app loc="1455b15">
+          <lem wit="#B">δράμασι</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#Pi">ἅρμασιν</rdg> 
+        </app>
+        <app loc="1455b17">
+          <lem wit="#Sigma">οὐ</lem>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1455b18">
+          <lem wit="#Pi">ἐστίν</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1455b18">
+          <lem wit="#Lambda">ὑπὸ τοῦ Ποσειδώνος</lem>
+          <rdg resp="#Vahlen">ὑπὸ τοῦ θεοῦ</rdg>
+          <note>Vahlen olim; malim ὑπό του θεοῦ cum Ellebodio </note>
+        </app>
+        <app loc="1455b19">
+          <lem resp="#rec">ἔτι</lem>
+          <rdg wit="#Lat">in (ἐπὶ?)</rdg>
+          <rdg wit="#A">ἐπεὶ</rdg>
+          <rdg wit="#B">πολλά</rdg>
+          <note>πολλά ex line 18 in B </note>
+        </app>
+        <app loc="1455b21">
+          <lem wit="#Pi">δὲ</lem>
+          <rdg wit="#B">τε</rdg> 
+        </app>
+        <app loc="1455b21-22">
+          <lem wit="#Pi">ἀναγνωρίσας τινὰς</lem>
+          <rdg wit="#B">ἀναγνωρισθεὶς</rdg> 
+        </app>
+        <app loc="1455b22">
+          <lem wit="#B">ἐπιθέμενος αὐτὸς</lem>
+          <rdg wit="#Pi">αὐτὸς ἐπιθέμενος αὐτὸς</rdg> 
+        </app>
+        <app loc="1455b27">
+          <lem resp="#rec">μεταβαίνει</lem>
+          <note>supported by Lat and Ar </note>
+          <rdg wit="#A #B">-ειν</rdg> 
+        </app>
+        <app loc="1455b28">
+          <lem wit="#B">ἢ εἰς ἀτυχίαν</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1455b29">
+          <lem resp="#rec">λυγκεῖ</lem>
+          <rdg wit="#Pi">λυκεῖ</rdg>
+          <rdg wit="#B">γλυκεῖ</rdg> 
+        </app>
+        <app loc="1455b31">
+          <lem resp="#rec">λύσις δ᾽ ἡ</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#Xi">δὴ (om. λύσις)</rdg>
+          <rdg resp="#Gomperz">δήλωσις, λύσις δ᾽ ἡ</rdg>
+          <note>Gomperz Arabi fisus, cuius testimonium nisi quod λύσις δ᾽ ἡ confirmat incertissimum est </note>
+          <rdg resp="#Vahlen">δὴ ἀπαγωγή, λύσις δ᾽ ἡ</rdg> 
+        </app>
+        <app loc="1455b31">
+          <lem wit="#Pi">αἰτιάσεως</lem>
+          <rdg wit="#B">αἰτήσεως</rdg> 
+        </app>
+        <app loc="1455b31">
+          <lem wit="#Xi">θανάτου</lem>
+          <note>supported by Ar </note>
+          <rdg resp="#Vahlen">Δαναοῦ</rdg> 
+        </app>
+
+        <app loc="1455b32-33">
+          <lem>τοσαῦτα ... ελεχη</lem>
+          <note>Λ obscura </note>
+        </app>
+        <app loc="1456a2">
+          <lem wit="#B">οης</lem>
+          <rdg wit="#A">δης</rdg>
+          <note>spat. vac. in Lat </note>
+          <rdg resp="#Bywater">ὄψις</rdg>
+          <note>Bywater coll. 1458a5, sed obstat 1459b8-9 </note>
+        </app>
+        <app loc="1456a4">
+          <lem wit="#Phi">ἄλλως τε</lem>
+          <rdg wit="#B">ἄλλως γε</rdg>
+          <rdg wit="#A">ἀλλ᾽ ὥσγε</rdg> 
+        </app>
+        <app loc="1456a6">
+          <lem resp="#rec">ἑκάστου τοῦ</lem>
+          <rdg wit="#Xi">ἕκαστον τοῦ</rdg> 
+        </app>
+        <app loc="1456a6">
+          <lem wit="#A">ἰδίου</lem>
+          <rdg wit="#B">οἰκείου</rdg>
+          <note>cf. 1454b10 </note>
+        </app>
+        <app loc="1456a7">
+          <lem wit="#Xi">καὶ τραγῳδίαν</lem>
+          <rdg resp="#Else">τραγῳδίαν καὶ</rdg> 
+        </app>
+        <app loc="1456a8">
+          <lem resp="#Zeller">οὐδενὶ ὡς</lem>
+          <rdg wit="#A #B">οὐδὲν ἴσως</rdg>
+          <note>nihil minus (ἧσσον) Lat; ἴσως non vertit Ar </note>
+        </app>
+        <app loc="1456a8">
+          <lem wit="#Pi">τοῦτο</lem>
+          <rdg wit="#B">τούτων</rdg> 
+        </app>
+        <app loc="1456a10">
+          <lem resp="#Immisch">ἀμφότερα ἀρτικροτεῖσθαι</lem>
+          <rdg wit="#B">ἀμφότερα ἀντικροτεῖσθαι</rdg>
+          <rdg wit="#A">ἄμφω ἀεὶ κροτεῖσθαι</rdg>
+          <note>ambο semper coadiuvare (coadunare Lobel) Lat </note>
+        </app>
+        <app loc="1456a12">
+          <lem wit="#B">δὲ λέγω</lem>
+          <note>supported by Lat </note>
+          <rdg wit="#A">δὲ λέγω δὲ</rdg> 
+        </app>
+        <app loc="1456a15-16">
+          <lem wit="#Pi">σημεῖον δέ</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1456a16">
+          <lem wit="#Pi">ἰλίου ὅλην</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">ἰλιούπολιν</rdg> 
+        </app>
+        <app loc="1456a17">
+          <note>Vahlen </note>
+          <lem wit="#Pi">om.</lem>
+          <rdg wit="#A">om.</rdg> 
+        </app>
+        <app loc="1456a17">
+          <lem>νιόβην</lem>
+          <rdg resp="#Schmidt">Θηβαΐδα</rdg>
+          <note>Εκάβην vertit G. Valla </note>
+        </app>
+        <app loc="1456a19">
+          <lem wit="#A">ταῖς</lem>
+          <rdg wit="#B">τοῖς</rdg> 
+        </app>
+        <app loc="1456a19-20">
+          <lem resp="#Susemihl">καὶ . . . πράγμασι</lem>
+          <note>secl. Susemihl </note>
+        </app>
+        <app loc="1456a20">
+          <lem>στοχάζονται βούλονται</lem>
+          <rdg resp="#Heinsius">-εται -εται</rdg>
+          <rdg resp="#Christ">-εται Christ </rdg>
+        </app>
+        <app loc="1456a20">
+          <lem wit="#A">θαυμαστῶς</lem>
+          <rdg resp="#Tyrwhitt">-ῶν</rdg>
+          <rdg resp="#Castelvetro">τῷ θαυμαστῷ</rdg> 
+        </app>
+
+        <app loc="1456a21">
+          <lem>τραγικὸν . . . φιλάνθρωπον</lem>
+          <note>post ἡττηθῇ (23) transp. Susemihl, secl. Gudeman </note>
+        </app>
+        <app loc="1456a22">
+          <lem wit="#Pi">ὁ σοφὸς</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">σαφές</rdg> 
+        </app>
+        <app loc="1456a22">
+          <lem resp="#rec">δὲ</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <rdg wit="#B">ὥσπερ γὰρ</rdg> 
+        </app>
+        <app loc="1456a23">
+          <lem wit="#B">τοῦτο καὶ</lem>
+          <note>possibly supported by Ar </note>
+          <rdg wit="#Pi">καὶ om.</rdg> 
+        </app>
+        <app loc="1456a25">
+          <lem wit="#Pi">χορὸν</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">χρόνον</rdg> 
+        </app>
+        <app loc="1456a25">
+          <lem wit="#B">ὑπολαμβάνειν</lem>
+          <rdg wit="#A">ὑπολαβεῖν</rdg> 
+        </app>
+        <app loc="1456a28">
+          <lem>λοιποῖς</lem>
+          <rdg resp="#Gomperz">πολλοῖς</rdg>
+          <note>ex Ar </note>
+        </app>
+        <app loc="1456a28">
+          <lem wit="#Sigma">ἀδόμενα</lem>
+          <note>Madius </note>
+          <rdg wit="#Xi">διδόμενα</rdg> 
+        </app>
+        <app loc="1456a28-29">
+          <lem resp="#Vahlen">οὐδὲν μᾶλλον</lem>
+          <note>supported by Ar; οὐ Madius </note>
+          <rdg wit="#Pi">om.</rdg>
+          <rdg wit="#B">ἄλλως τραγῳδία</rdg> 
+        </app>
+        <app loc="1456a30">
+          <lem wit="#A">τοῦ τοιούτου</lem>
+          <note>ante ἀγάθωνος in B; huius Lat O, aut huius Lat </note>
+          <note>τοῦ ποιητοῦ vertit Ar (?); del. Gudeman, Hardy </note>
+        </app>
+        <app loc="1456a31">
+          <lem wit="#Pi">εἰ</lem>
+          <rdg wit="#B">εἰς</rdg> 
+        </app>
+        <app loc="1456a31">
+          <lem wit="#B">ἁρμόττοι</lem>
+          <rdg wit="#A">-ει</rdg> 
+        </app>
+        <app loc="1456a33">
+          <lem wit="#B">εἰδῶν</lem>
+          <note>supported by Ar and iam Lat </note>
+          <rdg wit="#A">ἠδ'</rdg> 
+        </app>
+        <app loc="1456a34">
+          <lem resp="#Hermann">καὶ</lem>
+          <rdg wit="#Xi">ἢ</rdg> 
+        </app>
+        <app loc="1456a37">
+          <lem wit="#Pi">τούτων</lem>
+          <rdg wit="#B">τούτου</rdg> 
+        </app>
+        <app loc="1456b2">
+          <lem wit="#A #B">μικρότητας</lem>
+          <rdg resp="#rec">-a</rdg>
+          <note>supported by Lat </note>
+        </app>
+        <app loc="1456b4">
+          <lem resp="#rec">δέῃ</lem>
+          <rdg wit="#B">δεῖ</rdg>
+          <note>(quando) oportet Lat </note>
+          <rdg wit="#A">δ' ή</rdg> 
+        </app>
+
+        <app loc="1456b8">
+          <lem wit="#B">φαίνοιτο</lem>
+          <rdg wit="#A">φανοῖτο</rdg> 
+        </app>
+        <app loc="1456b8">
+          <lem resp="#Vahlen">δέοι</lem>
+          <rdg wit="#A #B">ἡδέα</rdg>
+          <note>supported by Ar; ἡ ἰδέα Madius (idea Lat) </note>
+        </app>
+        <app loc="1456b21">
+          <lem>ἄρθρον</lem>
+          <rdg resp="#Spengel">ante ὄνομα transp.</rdg>
+          <note>supported by Ar; del. Hartung </note>
+        </app>
+        <app loc="1456b23">
+          <lem wit="#Sigma">συνθετὴ</lem>
+          <rdg wit="#Xi">συνετή</rdg> 
+        </app>
+        <app loc="1456b24">
+          <lem wit="#Pi">θηρίων</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">θεωριών</rdg> 
+        </app>
+        <app loc="1456b25">
+          <lem wit="#Pi">ταύτης</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">ταύταις</rdg> 
+        </app>
+        <app loc="1456b26">
+          <lem wit="#Pi">ἄφωνον</lem>
+          <rdg wit="#B">ἄφωνα</rdg> 
+        </app>
+        <app loc="1456b26">
+          <lem wit="#B">ταῦτα</lem>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1456b26">
+          <lem resp="#Reiz">τὸ</lem>
+          <rdg wit="#A #B">om.</rdg> 
+        </app>
+        <app loc="1456b26">
+          <lem wit="#Pi">προσβολής</lem>
+          <rdg wit="#B">προβολῆς</rdg>
+          <note>item 29 </note>
+        </app>
+        <app loc="1456b27-28">
+          <lem wit="#Pi">ἡμίφωνον . . . ἀκουστήν</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1456b28">
+          <lem wit="#A">τὸ ρ</lem>
+          <note>supported by Ar </note>
+          <rdg wit="#B">τὸ β</rdg>
+          <note>supported by Lat </note>
+        </app>
+        <app loc="1456b32">
+          <lem wit="#A">ψιλότητι</lem>
+          <rdg wit="#B">-σι</rdg> 
+        </app>
+        <app loc="1456b32">
+          <lem wit="#Pi">μήκει</lem>
+          <rdg wit="#B">μεγέθει μήκει</rdg> 
+        </app>
+
+  <app loc="1456b34">
+          <lem wit="#Xi">ἐν</lem>
+          <rdg resp="#Bernhardy">del.</rdg>
+          <rdg resp="#Gudeman">add.</rdg>
+          <note>Bernhardy deleted, Gudeman restored based on context </note>
+        </app>
+        <app loc="1456b35">
+          <lem wit="#Lambda">ἀφώνου</lem>
+          <note>Kassel notes it should likely be ἢ ἡμιφώνου </note>
+        </app>
+        <app loc="1456b36">
+          <lem>συλλαβὴ καὶ</lem>
+          <note resp="#Kassel">ex Ar sic fere emendaveris: οὐ συλλαβή, συλλαβὴ δὲ </note>
+        </app>
+        <app loc="1456b37">
+          <lem wit="#B">τὸ Α</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <note>omitted in Π </note>
+        </app>
+        <app loc="1456b38-1457a10">
+          <note>corrupta et confusa; 38-3 ἢ... αὑτήν om. Ar, 3-10 ἣν... μέσου om. Β </note>
+        </app>
+
+        <app loc="1457a2-3">
+          <lem wit="#Xi">πεφυκυῖα ... μέσου</lem>
+          <rdg resp="#Montmollin">secl.</rdg>
+          <note>secluded by Montmollin </note>
+        </app>
+        <app loc="1457a3">
+          <lem resp="#Tyrwhitt" wit="#Lat">αὑτήν</lem>
+          <rdg wit="#A">αὑτόν</rdg>
+          <note>Tyrwhitt's correction follows the Latin tradition </note>
+        </app>
+        <app loc="1457a6-7">
+          <lem resp="#Rostagni">ἄρθρον... δηλοῖ</lem>
+          <rdg resp="#Hartung">secl.</rdg>
+          <note>Rostagni secluded this following Hartung </note>
+        </app>
+        <app loc="1457a12">
+          <lem wit="#Xi">Θεόδωρος τὸ δωρος</lem>
+          <rdg resp="#Ritter">θεοδώρῳ τὸ δῶρον</rdg>
+          <note>Ritter follows Ar; cf. De interpr. 16b21 and pap. Theophr. 8 </note>
+        </app>
+        <app loc="1457a17">
+          <lem wit="#Xi">πότε</lem>
+          <rdg resp="#Spengel">ποτέ</rdg>
+        </app>
+        <app loc="1457a22">
+          <lem resp="#Cooke">ἐβάδισεν;</lem>
+          <note>Cooke reads as an interrogative </note>
+          <rdg resp="#Vahlen">(ἆρ᾿) ἐβάδισεν</rdg>
+        </app>
+        <app loc="1457a28">
+          <lem wit="#Xi">ὁ κλέων</lem>
+          <rdg resp="#Bigg">τὸ Κλέων</rdg>
+          <note>Bigg's conjecture </note>
+        </app>
+        <app loc="1457a30">
+          <lem wit="#Lambda">ἀνθρώπου</lem>
+          <rdg wit="#Phi">ἀνθρώπου ὁρισμὸς</rdg>
+          <note>For Arabis 'homo incedit' cf. Tkatsch, i. 193 </note>
+        </app>
+        <app loc="1457a33">
+          <lem>καὶ ἀσήμου</lem>
+          <rdg resp="#Ussing">del.</rdg>
+          <note>omitted in Ar </note>
+        </app>
+        <app loc="1457a34-35">
+          <lem wit="#Pi">ὄνομα καὶ πολλαπλοῦν Μασσαλιωτῶν</lem>
+          <rdg resp="#Diels">ex Ar: μεγαλιωτῶν Ξ</rdg>
+          <note>Diels restored from Ar; Bywater suspected a missing quadruplex noun here </note>
+        </app>
+
+        <app loc="1457b2">
+          <lem wit="#Xi">ὑφῃρημένον</lem>
+          <rdg resp="#Spengel">ἀφ-</rdg>
+          <note>Spengel corrected from 1458a1-4 </note>
+        </app>
+        <app loc="1457b6">
+          <lem wit="#Pi #Ar">σίγυνον</lem>
+          <rdg wit="#B">σίγυλλον</rdg>
+        </app>
+        <app loc="1457b6">
+          <note xml:lang="lat">in Ar sequuntur 'dory autem est nobis proprium, populo (?) autem glossa' </note>
+        </app>
+        <app loc="1457b12">
+          <lem wit="#A">ἐσθλὰ</lem>
+          <rdg wit="#Ar">ἆθλα?</rdg>
+          <note>Lat reads 'premia' </note>
+        </app>
+        <app loc="1457b14">
+          <lem resp="#Tyrwhitt">ἀρύσας καὶ τεμὼν</lem>
+          <rdg wit="#B">ἐρύσασκε τεμῶν</rdg>
+          <rdg wit="#A">ἀερύσασκετεμῶν</rdg>
+          <note>Lat reads 'exsecuit secans' </note>
+        </app>
+        <app loc="1457b14">
+          <lem>ταναήκεϊ</lem>
+          <rdg wit="#B">τανακέϊ</rdg>
+          <rdg wit="#A">ατηρει</rdg>
+          <note>Ar reads 'acuto'; Lat reads 'duro' </note>
+        </app>
+        <app loc="1457b24">
+          <lem resp="#Schmidt">ἢ</lem>
+          <rdg>del.</rdg>
+          <note>not translated in Ar </note>
+        </app>
+        <app loc="1457b27">
+          <lem wit="#Xi">ἀπὸ</lem>
+          <rdg wit="#Castelvetro">ἐπὶ</rdg>
+        </app>
+        <app loc="1457b32-33">
+          <lem resp="#Victorius">ἀλλ᾽ ἄοινον</lem>
+          <rdg wit="#Lambda">ἀλλὰ οἴνου</rdg>
+        </app>
+        <app loc="1457b33">
+          <note resp="#Madius">κόσμου explicationem deesse vidit Madius </note>
+        </app>
+        <app loc="1457b35">
+          <lem resp="#Victorius">ἔρνυγας</lem>
+          <rdg wit="#A">ἐρνύγας</rdg>
+          <rdg wit="#B">ἐρινύγας</rdg>
+        </app>
+
+        <app loc="1458a1-3">
+          <lem wit="#Pi #Ar">τὸ μὲν ... ἀφῃρημένον</lem>
+          <rdg wit="#B">om.</rdg>
+          <note>omitted in B </note>
+        </app>
+        <app loc="1458a1">
+          <lem wit="#B">πόλεως</lem>
+          <rdg wit="#Pi">πόλεος</rdg>
+        </app>
+        <app loc="1458a3">
+          <lem resp="#Schmidt">Πηλέος</lem>
+          <note>Schmidt suggests (Πηλῆος καὶ τὸ Πηλείδου) </note>
+        </app>
+        <app loc="1458a5">
+          <lem resp="#Victorius">ὄψ</lem>
+          <rdg wit="#Xi">όης / δης</rdg>
+          <note>spat. vac. in Lat </note>
+        </app>
+        <app loc="1458a6">
+          <lem wit="#Lambda">ὀνομαζομένου</lem>
+          <rdg resp="#Snell">νομιζομένου</rdg>
+          <note>Snell follows pap. Theophr. 93 </note>
+        </app>
+        <app loc="1458a8-17">
+          <note resp="#Ritter">damnavit Ritter </note>
+        </app>
+        <app loc="1458a16">
+          <lem>πέντε</lem>
+          <note>G. Valla added 'τὸ πῶν τὸ νᾶπυ τὸ γόνυ τὸ δόρυ τὸ ἄστυ' in the margin </note>
+          <note>Ar exhibits 'dory poy (?) napy gony', with the fifth word corrupt </note>
+        </app>
+        <app loc="1458a24">
+          <lem wit="#B">ἅπαντα</lem>
+          <rdg wit="#Pi">ἂν ἅπαντα</rdg>
+        </app>
+        <app loc="1458a28">
+          <lem resp="#Twining">ἄλλων ὀνομάτων</lem>
+          <note>Twining follows Piccolomini and Ar </note>
+        </app>
+        <app loc="1458a29">
+          <lem resp="#Bywater">μεταφορῶν</lem>
+          <rdg wit="#Lambda">-ὰν</rdg>
+        </app>
+        <app loc="1458a29">
+          <lem resp="#Robortellus">πυρίχαλκον</lem>
+          <rdg wit="#A">πυρὶ χαλκὸν</rdg>
+        </app>
+
+        <app loc="1458b1">
+          <lem wit="#Xi">συμβάλλεται</lem>
+          <rdg resp="#rec">συμβάλλονται</rdg>
+        </app>
+
+<app loc="1458b6-7">
+          <lem wit="#Pi">διακωμῳδοῦντες</lem>
+          <rdg wit="#B">διακωμωδοῦντος</rdg> 
+        </app>
+        <app loc="1458b8">
+          <lem wit="#B">ὂν</lem>
+          <rdg wit="#Pi">om.</rdg> 
+        </app>
+        <app loc="1458b9">
+          <lem resp="#Bursian">Επιχάρην</lem>
+          <rdg wit="#B">ἢ ἐπιχαρην</rdg>
+          <rdg resp="#Tyrwhitt">Ηπιχάρην</rdg>
+          <rdg wit="#Ar">per laetitiam</rdg>
+          <rdg wit="#Pi">ἤτει χάριν</rdg> 
+        </app>
+        <app loc="1458b9">
+          <lem wit="#B">εἶδον</lem>
+          <rdg wit="#A">ἶδον</rdg>
+          <rdg resp="#Gomperz">ἰδὼν</rdg>
+          <note>ἰδὼν possibly supported by Lat</note> 
+        </app>
+        <app loc="1458b10">
+          <lem wit="#A">ἂν γεράμενος</lem>
+          <rdg wit="#B">ἄν γε ἀράμενος</rdg>
+          <rdg resp="#Spengel">ἐγκεράμενος</rdg>
+          <rdg resp="#Hermann">πάντως</rdg>
+          <rdg resp="#Twining">ἀπρεπῶς</rdg>
+          <note>Lat reads 'utique' (equivalent to ἂν) followed by a blank space</note> 
+        </app>
+        <app loc="1458b12">
+          <lem wit="#Xi">μέτρον</lem>
+          <rdg wit="#Pi">μέτριον</rdg> 
+        </app>
+        <app loc="1458b14">
+          <lem wit="#B">ἐπὶ τὰ</lem>
+          <rdg wit="#A">ἔπειτα</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1458b15">
+          <lem resp="#rec">ἁρμόττον</lem>
+          <rdg wit="#A">ἁρμόττοντος</rdg>
+          <rdg wit="#B">ἁρμόττον πως</rdg>
+          <rdg resp="#Tucker">ἁρμοττόντως</rdg>
+          <note>rec supported by Lat</note> 
+        </app>
+        <app loc="1458b16">
+          <lem wit="#Lambda">ὀνομάτων</lem>
+          <rdg resp="#Vahlen">κυρίων ὀνομάτων</rdg>
+          <note>cf. 1458b18</note> 
+        </app>
+        <app loc="1458b17">
+          <lem wit="#Pi">καὶ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1458b20">
+          <lem wit="#Xi">Αἰσχύλου καὶ</lem>
+          <rdg resp="#Essen">Αἰσχύλῳ</rdg> 
+        </app>
+        <app loc="1458b20">
+          <lem wit="#B">μεταθέντος</lem>
+          <rdg wit="#A">μετατιθέντος</rdg> 
+        </app>
+        <app loc="1458b21">
+          <lem wit="#Xi">κυρίου εἰωθότος</lem>
+          <note resp="#Vahlen">Vahlen once thought one of these (likely κυρίου) should be deleted</note>
+          <note resp="#Heinsius">Heinsius interjected καὶ between them</note> 
+        </app>
+        <app loc="1458b23">
+          <lem resp="#Hermann">φαγέδαιναν</lem>
+          <rdg wit="#B">φαγάδαινα</rdg>
+          <rdg wit="#A">φαγάδενα</rdg>
+          <note>Hermann used rec (-a); in B, there is a hole after the final letter where 'n' may have perished</note> 
+        </app>
+        <app loc="1458b25">
+          <lem wit="#Pi">ὀλίγος</lem>
+          <rdg wit="#B">ὀλιγοστός</rdg> 
+        </app>
+        <app loc="1458b25">
+          <lem wit="#B">ἀεικής</lem>
+          <rdg wit="#Pi">ἀειδής</rdg> 
+        </app>
+
+        <app loc="1458b26">
+          <lem wit="#A">λέγοι</lem>
+          <rdg wit="#B">λέγει</rdg> 
+        </app>
+        <app loc="1458b26">
+          <lem wit="#A">μετατιθεὶς</lem>
+          <rdg wit="#B">μεταθεὶς</rdg> 
+        </app>
+        <app loc="1458b27">
+          <lem wit="#B">τε</lem>
+          <rdg wit="#A">δὲ</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1458b29">
+          <lem wit="#B">δίφρον</lem>
+          <rdg wit="#A">δίφρον τε</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1458b31">
+          <lem wit="#B">ἠιόνες ... ἠμόνες</lem>
+          <rdg wit="#Pi">ἴωνες ... ἢ ἴωνες</rdg> 
+        </app>
+        <app loc="1458b32">
+          <lem wit="#B">εἴπειεν ἐν</lem>
+          <rdg wit="#A">εἴπηι ἐν</rdg> 
+        </app>
+        <app loc="1459a4">
+          <lem wit="#Pi">πρεπόντως</lem>
+          <rdg wit="#B">πρεπόντων</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459a4">
+          <lem wit="#B">τὸ</lem>
+          <rdg wit="#A">τῷ</rdg> 
+        </app>
+        <app loc="1459a5">
+          <lem wit="#Pi">διπλοῖς</lem>
+          <rdg wit="#B">δι' ἁπλοῖς</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459a13">
+          <lem wit="#Pi">ὅσοις κἂν ἐν λόγοις</lem>
+          <rdg wit="#B">ὅσοις κἂν εὐλόγως</rdg> 
+        </app>
+        <app loc="1459a13">
+          <lem wit="#B">τις</lem>
+          <rdg wit="#Pi">τι vel τί</rdg> 
+        </app>
+        <app loc="1459a14">
+          <lem wit="#Pi">τὸ κύριον καὶ μεταφορὰ</lem>
+          <rdg wit="#B">κύρια καὶ μεταφοραὶ</rdg> 
+        </app>
+        <app loc="1459a17">
+          <lem wit="#Pi">καὶ ἐν μέτρῳ</lem>
+          <rdg wit="#B">καὶ ἐμμέτρου</rdg>
+          <rdg resp="#Butcher">κἂν ἑνὶ μέτρῳ</rdg> 
+        </app>
+
+        <app loc="1459a20-21">
+          <lem wit="#B">ἵνα ... ποιῇ</lem>
+          <rdg wit="#A">ἵν' ... ποιεῖ</rdg>
+          <note>Lat reads 'que... facit'</note> 
+        </app>
+        <app loc="1459a21-22">
+          <lem resp="#Sophianus">ἱστορίαις τὰς συνθέσεις</lem>
+          <rdg resp="#Dacier">ἱστορίαις τὰς συνθέσεις</rdg>
+          <rdg wit="#B">ἱστορίαις τὰς συνθήσεις</rdg>
+          <rdg wit="#Pi">ἱστορίας τὰς συνήθεις</rdg>
+          <note>Ar reads 'compositiones', supporting συνθέσεις</note> 
+        </app>
+        <app loc="1459a23">
+          <lem wit="#Pi">περὶ</lem>
+          <rdg wit="#B">ἢ περὶ</rdg> 
+        </app>
+        <app loc="1459a26">
+          <lem wit="#B">ναυμαχία</lem>
+          <rdg wit="#A">ναύμαχος</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1459a27">
+          <lem wit="#Pi">οὕτω</lem>
+          <rdg wit="#B">οὔτε</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459a28">
+          <lem resp="#rec">μετὰ θάτερον</lem>
+          <rdg wit="#Xi">μετὰ θατέρου</rdg> 
+        </app>
+        <app loc="1459a31">
+          <lem resp="#rec">τῷ</lem>
+          <rdg wit="#A #B">τὸ</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1459a33">
+          <lem wit="#Phi">ἂν</lem>
+          <rdg wit="#A #B">αὖ</rdg> 
+        </app>
+        <app loc="1459a33-34">
+          <lem wit="#B">ὁ μύθος ἢ</lem>
+          <rdg wit="#A">ἢ</rdg>
+          <note>Lat has a blank space here</note> 
+        </app>
+        <app loc="1459a33">
+          <lem wit="#B">μέγας</lem>
+          <rdg wit="#A">μέγα</rdg>
+          <note>rec A has μέγας</note> 
+        </app>
+        <app loc="1459a34">
+          <lem wit="#Xi">μετριάζοντα καταπεπλεγμένον</lem>
+          <rdg resp="#Schoemann">-άζων -μένος</rdg> 
+        </app>
+        <app loc="1459a35">
+          <lem wit="#A #B">αὐτῶν</lem>
+          <note>Lat O reads 'ipsi'; Lat T reads 'ipsis'</note> 
+        </app>
+        <app loc="1459a36">
+          <lem wit="#Xi">κέχρηται ἐπεισοδίοις</lem>
+          <rdg wit="#Ar">om.</rdg>
+          <note>Kassel doubts if this refers to homoeoteleuton</note> 
+        </app>
+        <app loc="1459a36">
+          <lem wit="#Pi">ἄλλοις</lem>
+          <rdg wit="#B">ἄλλως</rdg> 
+        </app>
+        <app loc="1459a36">
+          <lem wit="#A">δίσ</lem>
+          <rdg resp="#rec">οἷς</rdg>
+          <rdg wit="#B">om.</rdg>
+          <note>in A, the 'sigma' was erased; Lat has 'bis bis'</note> 
+        </app>
+        <app loc="1459b1">
+          <lem wit="#Lambda">καὶ μίαν</lem>
+          <rdg wit="#Ar">om.</rdg>
+          <note>Ar omission seems accidental</note> 
+        </app>
+        <app loc="1459b2">
+          <lem resp="#Castelvetro">Κύπρια</lem>
+          <rdg wit="#Xi">κυπρικά</rdg> 
+        </app>
+        <app loc="1459b4">
+          <lem resp="#Arec">μόναι</lem>
+          <rdg wit="#A #B">μόνας</rdg> 
+        </app>
+
+        <app loc="1459b5-7">
+          <lem wit="#Xi">πλέον ... Τρωάδες</lem>
+          <rdg resp="#Else">interpolatori tribuit</rdg>
+          <rdg resp="#Hermann">postea adiecta</rdg>
+          <note resp="#Else">Else attributes 'πλέον' and 'καὶ Σίνων καὶ Τρωάδες' to a second interpolator</note>
+          <note resp="#Hermann">Hermann thought they were added later, but by Aristotle himself</note>
+          <note>Ar omits 'Εὐρύπυλος' and 'Λάκαιναι'</note> 
+        </app>
+        <app loc="1459b2-7">
+          <lem>τοιγαροῦν Τρωάδες</lem>
+          <rdg resp="#Ritter">secluserat</rdg> 
+        </app>
+        <app loc="1459b5">
+          <lem wit="#A">πλέον</lem>
+          <rdg wit="#B">πλέον ἢ</rdg> 
+        </app>
+        <app loc="1459b5">
+          <lem wit="#Pi">ὅπλων</lem>
+          <rdg wit="#B">ἁπλῶς</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459b6">
+          <lem wit="#Pi">λάκαιναι</lem>
+          <rdg wit="#B">-a</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1459b8">
+          <lem wit="#Pi">τὰ εἴδη ταὐτὰ</lem>
+          <rdg wit="#B">ταῦτα τὰ εἴδη</rdg> 
+        </app>
+        <app loc="1459b8">
+          <lem wit="#B #Phi">δεῖ</lem>
+          <rdg wit="#A">δὴ</rdg>
+          <note>Ar reads 'ἀεὶ' (always), supporting δεῖ</note> 
+        </app>
+        <app loc="1459b10">
+          <lem wit="#Pi">ταὐτά</lem>
+          <rdg wit="#B">ταῦτα</rdg>
+          <rdg resp="#Vahlen">ταὐτὰ καὶ τὰ τοῦ μύθου μέρη ταὐτά</rdg> 
+        </app>
+        <app loc="1459b10">
+          <lem wit="#Pi">καὶ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1459b13">
+          <lem wit="#B #Phi">πρῶτος ἱκανῶς</lem>
+          <rdg wit="#A">πρῶτος ἱκανός</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459b13">
+          <lem wit="#B">ποιημάτων</lem>
+          <rdg wit="#Pi">πονημάτων</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459b13">
+          <lem wit="#B">καὶ γὰρ</lem>
+          <rdg wit="#A">καὶ γὰρ καὶ</rdg>
+          <note>Supported by Lat</note> 
+        </app>
+        <app loc="1459b14">
+          <lem wit="#Pi">ἑκάτερον</lem>
+          <rdg wit="#B">ἑκάτερον σώτερ</rdg>
+          <rdg resp="#Gudeman">ἑκάτερον ἑκατέρως</rdg> 
+        </app>
+        <app loc="1459b15">
+          <lem wit="#Pi">ἀναγνώρισις</lem>
+          <rdg resp="#Christ">ἀναγνωρίσεις</rdg> 
+        </app>
+        <app loc="1459b15">
+          <lem wit="#Pi">γὰρ</lem>
+          <rdg wit="#B">om.</rdg> 
+        </app>
+        <app loc="1459b15">
+          <lem wit="#Xi">ἠθική</lem>
+          <rdg resp="#Arec">ἠθικόν</rdg> 
+        </app>
+        <app loc="1459b16">
+          <lem resp="#rec">δὲ</lem>
+          <rdg wit="#Xi">γὰρ</rdg> 
+        </app>
+        <app loc="1459b16">
+          <lem wit="#Pi">πάντα</lem>
+          <rdg wit="#B">πάντας</rdg> 
+        </app>
+        <app loc="1459b17">
+          <lem wit="#A">κατά τε τῆς συστάσεως τὸ μῆκος</lem>
+          <rdg wit="#B">κατὰ τὸ μῆκος τῆς ουστάσεως</rdg> 
+        </app>
+        <app loc="1459b21">
+          <lem wit="#B">πρὸς δὲ</lem>
+          <rdg wit="#Pi">πρόσθε</rdg>
+          <note>Supported by Ar</note> 
+        </app>
+        <app loc="1459b24">
+          <lem wit="#Pi">πραττόμενα</lem>
+          <rdg wit="#B">πραττομένοις</rdg> 
+        </app>
+
+        <app loc="1459b29-30">
+          <lem>εἰς μεγαλοπρέπειαν et τὸν ἀκούοντα</lem>
+          <rdg resp="#Else">secl.</rdg> 
+        </app>
+        <app loc="1459b30">
+          <lem wit="#Lambda">καὶ</lem>
+          <note>Kassel notes perhaps τῷ</note> 
+        </app>
+        <app loc="1459b31">
+          <lem wit="#Pi">τὰς τραγῳδίας</lem>
+          <rdg wit="#B">τὴν -αν</rdg> 
+        </app>
+        <app loc="1459b33">
+          <lem wit="#B">διηγηματικὴν</lem>
+          <rdg wit="#A">διηγητικὴν</rdg> 
+        </app>
+        <app loc="1459b34">
+          <lem wit="#A">στασιμώτατον</lem>
+          <rdg wit="#B">-τερον</rdg> 
+        </app>
+        <app loc="1459b36">
+          <lem wit="#B">γὰρ καὶ</lem>
+          <rdg wit="#A">δὲ καὶ</rdg>
+          <rdg resp="#Twining">γὰρ καὶ (ταύτῃ)</rdg>
+          <note resp="#Else">Else thought γὰρ καὶ likely correct</note> 
+        </app>
+        <app loc="1459b37">
+          <lem wit="#B #Sigma">μίμησις</lem>
+          <rdg wit="#Pi">κίνησις</rdg> 
+        </app>
+        <app loc="1459b37">
+          <lem wit="#A">καὶ</lem>
+          <rdg wit="#B">καὶ τὸ</rdg> 
+        </app>
+        <app loc="1460a1">
+          <lem resp="#rec">κινητικὰ</lem>
+          <rdg wit="#B">κινητικὰ</rdg>
+          <rdg wit="#A">κινητικαὶ</rdg>
+          <note>A reads -ὰ</note> 
+        </app>
+        <app loc="1460a2">
+          <lem resp="#rec">μιγνύοι</lem>
+          <rdg wit="#B">μιγνοίη</rdg>
+          <rdg wit="#A">μηγνύη</rdg>
+          <note>in A, was 'μὴ γνύη', final eta in correction</note> 
+        </app>
+        <app loc="1460a3">
+          <lem wit="#B">τῷ</lem>
+          <rdg wit="#A">τὸ</rdg> 
+        </app>
+        <app loc="1460a5">
+          <lem resp="#Bonitz">αἱρεῖσθαι</lem>
+          <rdg wit="#A #B">διαιρεῖσθαι</rdg>
+          <note>Supported by Lat ('eligere')</note> 
+        </app>
+        <app loc="1460a6">
+          <lem wit="#A">δὴ</lem>
+          <rdg wit="#B">δεῖ</rdg>
+          <note>Supported by Φ</note> 
+        </app>
+        <app loc="1460a7">
+          <lem wit="#Pi">αὐτὸν γὰρ δεῖ</lem>
+          <rdg wit="#B">δεῖ γὰρ αὐτὸν</rdg> 
+        </app>
+        <app loc="1460a8">
+          <lem wit="#Pi">μὲν δι'</lem>
+          <rdg wit="#B">μὲν οὖν δι</rdg> 
+        </app>
+        <app loc="1460a11">
+          <lem wit="#Pi">ἦθος</lem>
+          <rdg resp="#Castelvetro">del.</rdg> 
+        </app>
+        <app loc="1460a11">
+          <lem wit="#Pi">ἦθος</lem>
+          <rdg wit="#A">ἤθη</rdg>
+          <note>Supported by Lat ('nullum morem')</note> 
+        </app>
+        <app loc="1460a11">
+          <lem wit="#B">ἦθος</lem>
+          <rdg wit="#Pi">ἤθη</rdg> 
+        </app>
+        <app loc="1460a12">
+          <lem wit="#Xi">ἐν</lem>
+          <rdg resp="#Gomperz">κἂν</rdg> 
+        </app>
+        <app loc="1460a13">
+          <lem resp="#Victorius">ἄλογον</lem>
+          <rdg wit="#Lambda">ἀνάλογον</rdg> 
+        </app>
+
+<app loc="1450a28">
+          <lem wit="#Pi">πολύγνωστος</lem>
+          <rdg wit="#B #Ar">om.</rdg>
+          <note>cf. Tkatsch, i. 178</note>
+        </app>
+        <app loc="1450a29-30">
+          <lem resp="#Vahlen">ῥήσεις ἠθικὰς καὶ λέξει</lem>
+          <rdg wit="#Xi #Ar">λέξεις καὶ διανοίας</rdg>
+          <note>Vahlen corrected the reading found in the manuscripts and the Arabic translation </note>
+        </app>
+
+        <app loc="1460a11">
+          <lem>ἦθος</lem>
+          <rdg resp="#Castelvetro">del.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a11">
+          <lem>ἦθος</lem>
+          <rdg wit="#A #Pi">ἤθη</rdg>
+          <note>Supported by Lat ('nullum morem') </note>
+        </app>
+        <app loc="1460a12">
+          <lem wit="#Xi">ἐν</lem>
+          <rdg resp="#Gomperz">κἂν</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a13">
+          <lem resp="#Victorius">ἄλογον</lem>
+          <rdg wit="#Lambda">ἀνάλογον</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a14">
+          <lem>ἐπεὶ τὰ</lem>
+          <rdg wit="#B">ἐπεὶ τὰ</rdg>
+          <rdg wit="#Pi">ἔπειτα τὰ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a16">
+          <lem>μὲν</lem>
+          <rdg wit="#Pi">μὲν</rdg>
+          <rdg wit="#B">μὲν οὖν</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a16">
+          <lem>οὐ</lem>
+          <rdg wit="#Pi #Ar">οὐ</rdg>
+          <rdg wit="#B">οἱ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a17">
+          <note>post ἡδὺ deest Ar usque ad 1461a27 </note>
+        </app>
+        <app loc="1460a20">
+          <lem>οἱ</lem>
+          <rdg wit="#B">οἱ</rdg>
+          <rdg wit="#A">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a21">
+          <lem>τοδὶ</lem>
+          <rdg wit="#B">το δι η ἢ</rdg>
+          <rdg wit="#A">τὸ δι' ἣν</rdg>
+          <rdg wit="#Arec">τὸ δὲ ἢ</rdg>
+          <note xml:lang="lat">aut.. hoc Lat </note>
+        </app>
+        <app loc="1460a22">
+          <lem>εἶναι</lem>
+          <rdg wit="#Pi">εἶναι</rdg>
+          <rdg wit="#B">ἢ εἶναι</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a23">
+          <lem>δεῖ</lem>
+          <rdg wit="#B">δεῖ</rdg>
+          <rdg wit="#Pi">δὴ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a23">
+          <lem>ψεῦδος</lem>
+          <rdg wit="#Pi">ψεῦδος</rdg>
+          <rdg wit="#B">ψεῦδος εἰ τὸ ὕστερον ἔστι (ex 21)</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a23">
+          <lem>ἄλλο δὲ</lem>
+          <rdg resp="#Robortellus">ἄλλο δὲ</rdg>
+          <rdg wit="#A">ἄλλου δὲ</rdg>
+          <rdg wit="#B #Arec">ἀλλ οὐδὲ</rdg>
+          <note xml:lang="lat">Lat </note>
+        </app>
+        <app loc="1460a24">
+          <lem resp="#Jortin #Vahlen">ἢ</lem>
+          <rdg wit="#Lambda">ἢ</rdg>
+          <rdg resp="#Ellebodius">del.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a25">
+          <lem wit="#B #Arec">ὄν</lem>
+          <rdg wit="#A">ὄν (in lit. m. rec.)</rdg>
+          <note xml:lang="lat">quibus Lat </note>
+        </app>
+        <app loc="1460a27">
+          <lem wit="#Pi">ἀδύνατα εἰκότα</lem>
+          <rdg wit="#B">εἰκότα ἀδύνατα</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a27">
+          <lem wit="#Pi">τε</lem>
+          <rdg wit="#B">δὲ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a30">
+          <lem>Οἰδίπους</lem>
+          <rdg resp="#Bywater">ὁ Οἰδίπους</rdg>
+          <rdg resp="#Else">del.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a30">
+          <lem>Λάιος</lem>
+          <rdg wit="#rec">Λάϊος</rdg>
+          <rdg wit="#Xi">Ἰόλαος</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a33">
+          <lem>τὸ</lem>
+          <rdg wit="#A">τὸ</rdg>
+          <rdg wit="#B">τῷ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a33">
+          <lem>ἀνῄρητο</lem>
+          <rdg wit="#B">ἀνῄρητο</rdg>
+          <rdg wit="#A">ἀνήρειτο</rdg>
+          <note></note>
+        </app>
+        <app loc="1460a34">
+          <lem wit="#B #Arec">δὲ θῇ</lem>
+          <rdg wit="#A">δεθῇ</rdg>
+          <rdg resp="#Robortellus">δὲ τεθῇ</rdg>
+          <note xml:lang="lat">autem ponatur Lat </note>
+        </app>
+        <app loc="1460a34">
+          <lem wit="#Pi">καὶ ἄτοπον</lem>
+          <note>spat. vac. in B </note>
+        </app>
+        <app loc="1460a35">
+          <lem wit="#Xi">ἐνδέχεσθαι</lem>
+          <rdg wit="#rec">ἀποδέχεσθαι</rdg>
+          <note></note>
+        </app>
+
+        <app loc="1460b1">
+          <lem wit="#Pi">αὐτὰ</lem>
+          <rdg wit="#B">ταῦτα</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b1">
+          <lem wit="#B">ποιήσειε</lem>
+          <rdg wit="#A">ποιήσει</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b5">
+          <lem wit="#B #Phi">τε</lem>
+          <rdg wit="#A">δὲ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b7">
+          <lem wit="#B">ποίων</lem>
+          <rdg wit="#Pi">ποίων ἂν</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b7">
+          <lem wit="#Xi">ὧδ᾽ ἂν</lem>
+          <note xml:lang="lat">ἂν non vertit Lat </note>
+        </app>
+        <app loc="1460b7">
+          <lem wit="#Pi">φανερόν</lem>
+          <rdg wit="#B">φανερὸν γένοιτο</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b8">
+          <lem wit="#Pi">ζωγράφος</lem>
+          <rdg wit="#B">τις ζωγράφος</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b9">
+          <lem wit="#B">τὸν ἀριθμὸν</lem>
+          <rdg wit="#A">τῶν ἀριθμῶν</rdg>
+          <note xml:lang="lat">numero Lat </note>
+        </app>
+        <app loc="1460b10">
+          <lem wit="#B #Phi #Arec">ἢ</lem>
+          <rdg wit="#A">εἴ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b11">
+          <lem wit="#B">ἢ</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b12">
+          <lem wit="#B">ἐν ᾗ</lem>
+          <rdg wit="#Pi">ἢ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b12">
+          <lem wit="#B">γλώτται -ὰ</lem>
+          <rdg wit="#A">γλώτταις -αῖς</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b12">
+          <lem resp="#Menardos">μεταφοραί</lem>
+          <rdg>-a</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b14-15">
+          <lem wit="#Pi">τῆς πολιτικῆς δὲ</lem>
+          <rdg wit="#B">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b15">
+          <lem wit="#Pi">διττὴ ἁμαρτία</lem>
+          <rdg wit="#B">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b16">
+          <lem wit="#Phi #Arec">εἰ</lem>
+          <rdg wit="#A">ἡ</rdg>
+          <rdg wit="#B">ἢ εἰ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b17">
+          <note resp="#Vahlen">lac. stat. et sic explet: ὀρθῶς, ἥμαρτε δ᾽ ἐν τῷ μιμήσασθαι (sive ἀπεργάσασθαι) δι' </note>
+        </app>
+        <app loc="1460b17">
+          <lem wit="#Pi">ἀδυναμίαν</lem>
+          <rdg wit="#B">-a</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b17">
+          <lem wit="#A">ἡ</lem>
+          <rdg wit="#B">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b17">
+          <lem wit="#Phi">εἰ</lem>
+          <rdg wit="#A #B">ἡ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b18">
+          <lem wit="#A">τὸ προελέσθαι</lem>
+          <rdg wit="#B">τὸ om.</rdg>
+          <note xml:lang="lat">prceligebat Lat </note>
+        </app>
+        <app loc="1460b18">
+          <lem resp="#Vahlen">ἅμα ἄμφω</lem>
+          <rdg wit="#Xi">ἄμφω</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b20">
+          <lem wit="#Pi">ἄλλην</lem>
+          <rdg wit="#B">κατ' ἄλλην</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b20">
+          <lem wit="#Xi">ἢ ἀδύνατα πεποίηται</lem>
+          <rdg resp="#Duentzer">secl.</rdg>
+          <note xml:lang="lat">ἢ ἀδύνατα non vertit Lat </note>
+        </app>
+        <app loc="1460b21">
+          <note resp="#Pi">όποιανοῦν (21) et ante et post πεποίηται videtur habuisse Π </note>
+        </app>
+        <app loc="1460b21">
+          <lem wit="#Pi">πεποίηται</lem>
+          <rdg wit="#B">om.</rdg>
+          <note></note>
+        </app>
+
+        <app loc="1460b22">
+          <lem wit="#A">μὲν</lem>
+          <rdg wit="#Phi">μὲν οὖν</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b23">
+          <lem wit="#A">τὰ</lem>
+          <note xml:lang="lat">que Lat; ει superscr. m. rec. </note>
+        </app>
+        <app loc="1460b24">
+          <lem wit="#A">εἰ</lem>
+          <rdg wit="#B">ἢ</rdg>
+          <note xml:lang="lat">que Lat </note>
+        </app>
+        <app loc="1460b25">
+          <lem wit="#Pi">γὰρ</lem>
+          <rdg wit="#B">δὲ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b25">
+          <lem wit="#Pi">εἰ οὕτως</lem>
+          <rdg wit="#B">ἢ οὐ κατὰ</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b27">
+          <lem resp="#Ueberweg">μᾶλλον ἢ μὴ ἧττον</lem>
+          <rdg wit="#B">μᾶλλον ἂν ἢ ἧττον</rdg>
+          <rdg wit="#A">μᾶλλον ἧττον</rdg>
+          <note xml:lang="lat">ἢ inseruit m. rec. in A; nihil Lat </note>
+        </app>
+        <app loc="1460b28">
+          <lem wit="#A">ἡμαρτῆσθαι</lem>
+          <rdg wit="#B">τἡμαρτῆσθαι</rdg>
+          <rdg resp="#Ussing">del.</rdg>
+          <note xml:lang="lat">ἡ super μ scr. m. rec. in A </note>
+        </app>
+        <app loc="1460b29">
+          <lem wit="#Xi">ποτέρων</lem>
+          <rdg resp="#Hermann">πότερον</rdg>
+          <note xml:lang="lat">Lat </note>
+        </app>
+        <app loc="1460b30">
+          <lem wit="#Pi">τῶν</lem>
+          <rdg wit="#B">πότερον τῶν</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b31">
+          <lem wit="#Pi">μὴ</lem>
+          <note xml:lang="lat">spat. vac. in B </note>
+        </app>
+        <app loc="1460b32">
+          <lem wit="#B #Phi #Arec">ἢ εἰ</lem>
+          <rdg wit="#A">η η</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b33">
+          <lem resp="#Vahlen">ὡς</lem>
+          <rdg wit="#Lambda">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b35">
+          <lem wit="#Pi">μηδετέρως</lem>
+          <rdg wit="#B">μὴ ἑτέρως</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b36">
+          <lem wit="#rec">οὕτω</lem>
+          <rdg wit="#Xi">οὔτε</rdg>
+          <rdg resp="#rec">del.</rdg>
+          <note></note>
+        </app>
+        <app loc="1460b36">
+          <lem wit="#B">φασι. τὰ δὲ</lem>
+          <rdg wit="#Pi">φασι τάδε</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a1">
+          <lem resp="#Tyrwhitt">οὖν</lem>
+          <rdg wit="#Lambda">οὔ</rdg>
+          <rdg resp="#Spengel">οὕτω</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a5">
+          <lem resp="#Spengel">εἰ</lem>
+          <rdg wit="#Pi">ἢ</rdg>
+          <rdg wit="#B">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a5">
+          <lem wit="#A">εἰς</lem>
+          <rdg wit="#Lambda">ἐπ᾿</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a6">
+          <lem wit="#B #Phi">εἰ</lem>
+          <rdg wit="#A">ἢ</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a7">
+          <note>post haec verba rursus praesto est Ar </note>
+        </app>
+        <app loc="1461a8">
+          <lem wit="#Phi">εἰ</lem>
+          <rdg wit="#A #B">ἢ</rdg>
+          <note></note>
+        </app>
+
+        <app loc="1461a9">
+          <lem wit="#B #Phi #Arec">ἢ</lem>
+          <rdg wit="#A">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a10">
+          <lem wit="#B">τὸ</lem>
+          <rdg wit="#A">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a12">
+          <lem wit="#B">ὅς ἤτοι</lem>
+          <rdg wit="#A">ὡς ῥῆτοι</rdg>
+          <note xml:lang="lat">' m. rec. in A; post ut (ὡς) spat. vac. in Lat </note>
+        </app>
+        <app loc="1461a12">
+          <lem wit="#B">ἔην</lem>
+          <rdg wit="#Pi">εἰ ἦν</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a14">
+          <lem wit="#B">τὸ</lem>
+          <rdg wit="#A">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a16">
+          <lem wit="#Xi">τὸ δὲ</lem>
+          <rdg resp="#Spengel">τὰ δὲ</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a16">
+          <lem wit="#Pi">κατὰ μεταφορὰν</lem>
+          <rdg wit="#B">καταφορὰν</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a16">
+          <lem resp="#Graefenhan">πάντες</lem>
+          <rdg wit="#Lambda">ἄλλοι</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a17">
+          <lem wit="#Xi">ἀνέρες</lem>
+          <note>ἱπποκορυσταὶ add. ΣΦ </note>
+        </app>
+        <app loc="1461a18">
+          <lem wit="#Pi">ἀθρήσειεν</lem>
+          <rdg wit="#B">ἀθροίσειε</rdg>
+          <note xml:lang="lat">Ar </note>
+        </app>
+        <app loc="1461a19">
+          <lem wit="#A">τὸ</lem>
+          <rdg wit="#B">τό τε</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a19">
+          <lem wit="#B">τοῦ</lem>
+          <rdg wit="#A">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a21">
+          <lem wit="#Pi">γνωριμώτατον</lem>
+          <rdg wit="#B">-τερον</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a22">
+          <lem wit="#Pi">δίδομεν</lem>
+          <rdg wit="#B">διδόμενον</rdg>
+          <note>ον induxit m. rec. in B </note>
+        </app>
+        <app loc="1461a23">
+          <lem wit="#B">εὖχος ἀρέσθαι</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <note xml:lang="lat">Ar; cf. Soph. elench. 166b8 </note>
+        </app>
+        <app loc="1461a23">
+          <lem wit="#A">οὗ</lem>
+          <rdg wit="#B">οὐ</rdg>
+          <note xml:lang="lat">Lat, Ar </note>
+        </app>
+        <app loc="1461a25">
+          <lem wit="#B">εἶναι</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a25">
+          <lem resp="#Victorius">ζωρά</lem>
+          <rdg wit="#Lambda">ζῷα</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a25">
+          <lem>τε</lem>
+          <rdg resp="#Gomperz">τε</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a25">
+          <lem wit="#A">κέκρητο</lem>
+          <rdg wit="#B #Arec">κέκριτο</rdg>
+          <rdg resp="#Diels">ἔκρητο</rdg>
+          <note xml:lang="lat">Lat </note>
+        </app>
+        <app loc="1461a27">
+          <lem wit="#A">τὸ ἔθος</lem>
+          <rdg wit="#B">τὸ .</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a27">
+          <lem wit="#Pi">φασιν</lem>
+          <rdg wit="#B">φησιν</rdg>
+          <note>lectio incerta in B </note>
+        </app>
+        <app loc="1461a27">
+          <lem wit="#B">τὸν κεκραμένον</lem>
+          <rdg wit="#Pi">τῶν -ων</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a30">
+          <lem wit="#A">ὁ</lem>
+          <rdg wit="#B">om.</rdg>
+          <note></note>
+        </app>
+
+        <app loc="1461a31">
+          <lem wit="#A">γε κατὰ</lem>
+          <rdg wit="#B">κατά γε</rdg>
+          <rdg resp="#Heinsius">καὶ add.</rdg>
+          <note xml:lang="lat">Ar </note>
+        </app>
+        <app loc="1461a31-32">
+          <lem wit="#A">ὀνόματι ὑπεναντιώματι</lem>
+          <rdg wit="#B">ὄνομα ὑπερεναντίωμά τι</rdg>
+          <note xml:lang="lat">nomen aliquid Lat; accentus super w in ras. in A </note>
+        </app>
+        <app loc="1461a32">
+          <lem wit="#B">δοκῇ</lem>
+          <rdg wit="#A">δοκεῖ</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a32">
+          <lem wit="#Pi">σημαίνειν ἐπισκοπεῖν</lem>
+          <rdg wit="#B">ἐπισκοπεῖν σημαίνειν</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a33">
+          <lem wit="#B">σημήνειε</lem>
+          <rdg wit="#A">σημαίνοιε</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a33">
+          <lem resp="#Bywater">οἷον τῷ</lem>
+          <rdg wit="#Xi">οἷον τὸ</rdg>
+          <note></note>
+        </app>
+        <app loc="1461a34-35">
+          <lem wit="#B">ὡδὶ ἢ ὡδὶ ὡς</lem>
+          <rdg wit="#A">ὡδὶ ἢ ὡς</rdg>
+          <rdg resp="#Vahlen">ὡδὶ ἢ ὡδὶ ὡς</rdg>
+          <note xml:lang="lat">sic aut sic Lat </note>
+        </app>
+        <app loc="1461b1">
+          <lem wit="#rec">ὅτι</lem>
+          <rdg wit="#Xi">τι vel τί</rdg>
+          <note></note>
+        </app>
+        <app loc="1461b1">
+          <lem resp="#Victorius">ἔνιοι</lem>
+          <rdg wit="#Xi">ἔνια</rdg>
+          <note xml:lang="lat">Ar </note>
+        </app>
+        <app loc="1461b1">
+          <lem wit="#B">τι</lem>
+          <rdg wit="#Pi">om.</rdg>
+          <note></note>
+        </app>
+        <app loc="1461b2">
+          <lem wit="#B">εἰρηκότος</lem>
+          <rdg wit="#Pi">-ες</rdg>
+          <note></note>
+        </app>
+        <app loc="1461b3">
+          <lem wit="#Phi">ἐπιτιμῶσιν</lem>
+          <rdg wit="#A">ἐπειτιμῶσι</rdg>
+          <note xml:lang="lat">Ar; εἰ in lit., ἐπεὶ m. rec. in A </note>
+        </app>
+        <app loc="1461b3">
+          <lem wit="#A">αὐτῶν</lem>
+          <note></note>
+        </app>
+        <app loc="1461b8-9">
+          <note>δι' ἁμάρτημα... πρόβλημα om. Ar </note>
+        </app>
+        <app loc="1461b8">
+          <lem resp="#Madius">ἁμάρτημα</lem>
+          <rdg wit="#A">διαμάρτημα</rdg>
+          <note xml:lang="lat">Lat </note>
+        </app>
+        <app loc="1461b9">
+          <lem wit="#Pi">εἰκός</lem>
+          <note xml:lang="lat">Ar; εἰ Ἰκάδιός? </note>
+        </app>
+        <app loc="1461b9">
+          <lem wit="#Pi">δὲ</lem>
+          <rdg resp="#Gomperz">δὴ</rdg>
+          <note></note>
+        </app>
+        <app loc="1461b12">
+          <note resp="#Vahlen">suppl. Vahlen qui lac. detexit: (καὶ εἰ ἀδύνατον); (καὶ ἴσως ἀδύνατον) cx Ar Gomperz </note>
+        </app>
+        <app loc="1461b13">
+          <lem wit="#A">ὑπερέχειν</lem>
+          <note xml:lang="lat">Ar; existere (ὑπάρχειν) Lat </note>
+        </app>
+        <app loc="1461b15">
+          <lem wit="#Pi">οἷον</lem>
+          <rdg wit="#rec">οἴους</rdg>
+          <note></note>
+        </app>
+        <app loc="1461b15-16">
+          <lem resp="#Twining">ὑπεναντίως</lem>
+          <rdg wit="#Pi">ὑπεναντία ὡς</rdg>
+          <note xml:lang="lat">Ar? </note>
+        </app>
+        <app loc="1461b16">
+          <lem wit="#A">οὕτω</lem>
+          <note xml:lang="lat">Ar; om. Lat </note>
+        </app>
+
+<app loc="1461b18">
+          <lem wit="#Pi">αὐτὸν</lem>
+          <rdg resp="#Schmidt">λυτέον</rdg>
+          <note>fort. ἐναντίον (cf. De gen. et corr. 315a23)</note>
+        </app>
+        <app loc="1461b21">
+          <lem resp="#Victorius">Αἰγεῖ ἢ τῇ</lem>
+          <rdg wit="#A">αἰγειήτη</rdg>
+          <note xml:lang="lat">egieti Lat</note>
+        </app>
+        <app loc="1461b21">
+          <lem resp="#Vahlen #Ar">τῇ τοῦ</lem>
+          <rdg wit="#A">τοῦ</rdg>
+        </app>
+        <app loc="1461b25">
+          <lem wit="#Pi #Ar">εἰσὶν δὲ δώδεκα</lem>
+          <rdg resp="#Tucker">secl.</rdg>
+        </app>
+        <app loc="1461b26">
+          <lem wit="#Phi">βελτίων</lem>
+          <rdg wit="#A">βελτίον</rdg>
+        </app>
+        <app loc="1461b28">
+          <lem wit="#rec">δ' ἡ</lem>
+          <rdg wit="#A">δὴ</rdg>
+          <note xml:lang="lat">autem Lat T, om. Lat O</note>
+        </app>
+        <app loc="1461b28">
+          <lem resp="#Vahlen">ἀεί, λίαν</lem>
+          <rdg wit="#A">δει λίαν</rdg>
+          <note xml:lang="lat">spat. vac. in Lat</note>
+        </app>
+        <app loc="1461b30">
+          <lem wit="#rec #Ar">κινοῦνται</lem>
+          <rdg wit="#Pi">-α</rdg>
+        </app>
+        <app loc="1461b34">
+          <lem wit="#Pi">πίθηκον</lem>
+          <rdg resp="#Gudeman">Καλλίαν</rdg>
+          <note>Gudeman putat hoc nomen in Ar latere</note>
+        </app>
+        <app loc="1462a1">
+          <lem wit="#rec #Lat">δ' οὗτοι</lem>
+          <rdg wit="#A">δ' οὗτοι δ</rdg>
+        </app>
+        <app loc="1462a1">
+          <lem resp="#multi">αὐτούς</lem>
+          <rdg wit="#A">αὐτούς</rdg>
+          <note>in A, τα αυ scr. m. rec. in loco macula deformato</note>
+        </app>
+        <app loc="1462a3">
+          <lem resp="#Victorius #Ar">οἱ</lem>
+          <rdg wit="#Pi">om.</rdg>
+        </app>
+        <app loc="1462a3">
+          <lem wit="#rec">σχημάτων τὴν</lem>
+          <rdg wit="#A">σχημά(τα αὐτὴν</rdg>
+          <note xml:lang="lat">Lat, Ar</note>
+        </app>
+        <app loc="1462a4">
+          <lem wit="#rec">εἰ</lem>
+          <rdg wit="#Pi">ἡ</rdg>
+        </app>
+
+        <app loc="1462a7">
+          <lem wit="#Pi">ἐστὶ</lem>
+          <rdg resp="#Duentzer">del.</rdg>
+        </app>
+        <app loc="1462a7">
+          <lem wit="#rec">καὶ διᾴδοντα</lem>
+          <rdg wit="#A">καὶ διαδόντα</rdg>
+          <rdg resp="#Spengel">καὶ ἄδοντα</rdg>
+          <note xml:lang="lat">et etiam cantantem Lat</note>
+        </app>
+        <app loc="1462a8">
+          <lem wit="#rec #Ar">ὁ ὀπούντιος</lem>
+          <rdg wit="#A">ὁ πούντιος</rdg>
+          <note xml:lang="lat">pontius Lat</note>
+        </app>
+        <app loc="1462a10">
+          <lem wit="#A">ἐπιτιμᾶτο</lem>
+          <note xml:lang="lat">increpabant Lat; corr. m. rec. in A</note>
+        </app>
+        <app loc="1462a14">
+          <lem wit="#Pi #Ar">ἔπειτα διότι</lem>
+          <rdg resp="#Usener">ἔστι δέ, ὅτι</rdg>
+          <note>lac. ante ἔπειτα stat. Thurot</note>
+        </app>
+        <app loc="1462a16">
+          <lem wit="#Pi #Ar">καὶ τὰς ὄψεις</lem>
+          <rdg resp="#Spengel">secl.</rdg>
+        </app>
+        <app loc="1462a17">
+          <lem resp="#Madius">ἀναγνώσει</lem>
+          <rdg wit="#Pi">ἀναγνωρίσει</rdg>
+          <note xml:lang="lat">supported by Ar</note>
+        </app>
+        <app loc="1462a18">
+          <lem wit="#Pi">τῷ</lem>
+          <rdg resp="#Jortin">τὸ</rdg>
+        </app>
+        <app loc="1462b1">
+          <lem wit="#Pi #Ar">τῆς μιμήσεως</lem>
+          <rdg wit="#B">ἐκ μιμήσεως</rdg>
+        </app>
+        <app loc="1462b1">
+          <lem resp="#Madius">ἥδιον ἢ</lem>
+          <rdg wit="#B">ἴδιον ἢ</rdg>
+          <rdg wit="#Pi">ἡδονὴ</rdg>
+        </app>
+        <app loc="1462b2">
+          <lem wit="#B">οἰδίπουν θείη</lem>
+          <rdg wit="#A">θείη θείη</rdg>
+          <note xml:lang="lat">Lat, Ar</note>
+        </app>
+        <app loc="1462b3">
+          <lem wit="#Phi #Arec">τὸν</lem>
+          <rdg wit="#A #B">τὸ</rdg>
+        </app>
+        <app loc="1462b3">
+          <lem wit="#rec">ἡ ἰλιάς</lem>
+          <rdg wit="#A #B">ἰδίας</rdg>
+          <note xml:lang="lat">aut propriis Lat; in A corr. m. rec.</note>
+        </app>
+        <app loc="1462b3">
+          <lem resp="#Spengel">μία ἡ</lem>
+          <rdg wit="#A #B">ἡ μία</rdg>
+        </app>
+        <app loc="1462b6">
+          <lem wit="#A">μύουρον</lem>
+          <rdg wit="#B">μείουρον</rdg>
+          <note xml:lang="lat">gratiosum Lat</note>
+        </app>
+        <app loc="1462b7">
+          <lem wit="#Pi">τοῦ μέτρου</lem>
+          <rdg resp="#Bernays">συμμέτρῳ</rdg>
+          <note>ante λέγω lac. stat. multi</note>
+        </app>
+        <app loc="1462b8">
+          <lem wit="#A">ἡ</lem>
+          <rdg wit="#B">om.</rdg>
+        </app>
+        <app loc="1462b9">
+          <lem resp="#rec">ἡ</lem>
+          <rdg wit="#Xi">om.</rdg>
+        </app>
+        <app loc="1462b10">
+          <lem resp="#rec">καίτοι ταῦτα τὰ</lem>
+          <rdg wit="#Xi">καὶ τοιαῦτ᾽ ἄττα</rdg>
+        </app>
+        <app loc="1462b11">
+          <lem wit="#Pi">μίμησις</lem>
+          <rdg resp="#Spengel">μιμήσεις</rdg>
+        </app>
+        <app loc="1462b14">
+          <lem wit="#Pi">κρείττων</lem>
+          <rdg wit="#B">κρείττον</rdg>
+        </app>
+        <app loc="1462b16-17">
+          <lem wit="#A">καὶ αὐτῶν καὶ</lem>
+          <rdg wit="#B">καὶ αὐτῶν</rdg>
+          <note xml:lang="lat">ipsisque et (αὐτῶν τε καὶ ?) Lat</note>
+        </app>
+        <app loc="1462b18">
+          <lem wit="#Phi">ἢ</lem>
+          <rdg wit="#A #B">εἰ</rdg>
+        </app>
+        <app loc="1462b19">
+          <lem wit="#Pi">τοσαῦτα</lem>
+          <rdg wit="#B">ταῦτα</rdg>
+          <note>sequuntur in B περὶ ἰάμβων καὶ κωμῳδίας</note>
+        </app>
+
+      </div>
+    </body>
+  </text>
+</TEI>
