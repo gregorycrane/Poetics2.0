@@ -3096,16 +3096,16 @@
         </app>
         <app loc="1462a1">
           <lem resp="#multi">αὐτούς</lem>
-          <rdg wit="#A">αὐτούς</rdg>
+          <rdg wit="#A">αὑτούς</rdg>
           <note>in A, τα αυ scr. m. rec. in loco macula deformato</note>
         </app>
         <app loc="1462a3">
-          <lem resp="#Victorius #Ar">οἱ</lem>
+          <lem resp="#Victorius #Ar">οἳ</lem>
           <rdg wit="#Pi">om.</rdg>
         </app>
         <app loc="1462a3">
           <lem wit="#rec">σχημάτων τὴν</lem>
-          <rdg wit="#A">σχημά(τα αὐτὴν</rdg>
+          <rdg wit="#A">σχημά(τα αὐ)τὴν</rdg>
           <note xml:lang="lat">Lat, Ar</note>
         </app>
         <app loc="1462a4">
@@ -3120,7 +3120,7 @@
         <app loc="1462a7">
           <lem wit="#rec">καὶ διᾴδοντα</lem>
           <rdg wit="#A">καὶ διαδόντα</rdg>
-          <rdg resp="#Spengel">καὶ ἄδοντα</rdg>
+          <rdg resp="#Spengel">καὶ ᾄδοντα</rdg>
           <note xml:lang="lat">et etiam cantantem Lat</note>
         </app>
         <app loc="1462a8">
