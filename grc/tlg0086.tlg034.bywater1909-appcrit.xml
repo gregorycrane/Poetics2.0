@@ -1,0 +1,2313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="eng">Aristotle on the Art of Poetry</title>
+        <author>Aristotle</author>
+        <editor role="translator">Ingram Bywater</editor>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Gemini Digital Philology AI</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Clarendon Press</publisher>
+        <pubPlace>Oxford, UK</pubPlace>
+        <date when="1909">1909</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Public Domain</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Aristotle</author>
+            <title>Aristotle on the Art of Poetry</title>
+            <editor role="translator">Ingram Bywater</editor>
+            <editor role="related">Gilbert Murray</editor>
+            <imprint>
+              <publisher>Oxford Clarendon Press</publisher>
+              <pubPlace>Oxford</pubPlace>
+              <date>1909</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="grc">Greek</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="eng" n="urn:cts:greekLit:tlg0086.tlg034.bywater-eng1">
+      
+<listApp>
+  <app loc="1447a 12">
+    <lem>λέγομεν</lem>
+    <rdg wit="#Ac">λέγομεν</rdg>
+    <note>utramque scripturam agnoscit Ar.</note>
+  </app>
+  <app loc="1447a 13">
+    <lem>τραγωδίας</lem>
+    <rdg>τραγωιδίασ</rdg>
+    <note>in 1449a 37 τραγωιδίασ. ceteris in locis lŵra mutum deest in hoc similibusque vocabulis</note>
+  </app>
+  <app loc="1447a 17">
+    <lem>γένει</lem>
+    <rdg resp="#Forchhammer">ἐν</rdg>
+  </app>
+  <app loc="1447a 21">
+    <lem>κἂν</lem>
+    <rdg wit="#Parisinus2038">κἂν</rdg>
+    <rdg wit="#Ac">καὶ</rdg>
+  </app>
+  <app loc="1447a 25">
+    <lem>τυγχάνουσαι</lem>
+    <rdg wit="#Ac">τυγχάνωσιν</rdg>
+  </app>
+  <app loc="1447a 25">
+    <lem>τοιαῦται</lem>
+    <rdg resp="#Heinsius">add. apogr. (confirm. Ar.)</rdg>
+  </app>
+  <app loc="1447a 26">
+    <lem>αἱ</lem>
+    <rdg resp="#Reiz">aἱ</rdg>
+    <rdg wit="#Ac">οἱ</rdg>
+    <rdg resp="Heinsius">οἱ <add>πολλοί</add></rdg>
+  </app>
+
+  <app loc="1447b 28">
+    <lem>ἐποποιία</lem>
+    <rdg resp="#Ueberweg">seclusit (om. Ar.)</rdg>
+  </app>
+
+  <app loc="1447b 29">
+    <lem>οὖν</lem>
+    <rdg resp="#apogr">οὖν (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">οὐ</rdg>
+  </app>
+  
+  <app loc="1447b 9">
+    <lem>ἀνώνυμος</lem>
+    <rdg resp="#Bernays">add. (confirm. Ar.)</rdg>
+  </app>
+  <app loc="1447b 9">
+    <lem>τυγχάνει οὖσα</lem>
+    <rdg resp="#Suckow">τυγχάνει οὖσα</rdg>
+    <rdg wit="#Ac">τυγχάνουσα</rdg>
+  </app>
+  <app loc="1447b 15">
+    <lem>κατὰ τὴν</lem>
+    <rdg wit="#Guelferbytanus">κατὰ τὴν</rdg>
+    <rdg wit="#Ac">τὴν κατὰ</rdg>
+  </app>
+  <app loc="1447b 15">
+    <lem>κοινῇ</lem>
+    <rdg wit="#Ac">κοινή</rdg>
+  </app>
+  <app loc="1447b 16">
+    <lem>ἰατρικὸν</lem>
+    <rdg resp="#Heinsius">φυσικὸν (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">μουσικόν</rdg>
+  </app>
+  <app loc="1447b 17">
+    <note>οὐκ ἤδη καὶ apogr.: καίτοι Gomperz, Rassow</note>
+  </app>
+  <app loc="1447b 22">
+    <lem>καὶ</lem>
+    <note>καὶ τοῦτον vel fort. (ἡ)</note>
+  </app>
+  <app loc="1447b 24">
+    <lem>aî</lem>
+    <rdg resp="#Aldina1536">aî</rdg>
+    <rdg wit="#Riccardianus16">ai</rdg>
+    <rdg wit="#Ac">οἱ</rdg>
+  </app>
+  <app loc="1447b 29">
+    <lem>οἷς</lem>
+    <rdg resp="#Victorius">οἷς</rdg>
+    <rdg wit="#Ac">αἷσ</rdg>
+  </app>
+
+  <app loc="1448a 3">
+    <lem>κακίᾳ γὰρ καὶ ἀρετῇ</lem>
+    <rdg wit="#Ac">κακία γὰρ καὶ ἀρετὴ</rdg>
+  </app>
+  <app loc="1448a 8">
+    <lem>τῷ</lem>
+    <rdg wit="#Ac">τὸ</rdg>
+  </app>
+  <app loc="1448a 10">
+    <lem>ἔστι</lem>
+    <note>-στι in litura Ac</note>
+  </app>
+  <app loc="1448a 10">
+    <lem>τῷ</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">τὸ</rdg>
+    <rdg>om. Parisinus 2038</rdg>
+  </app>
+  <app loc="1448a 12">
+    <lem>ὁ</lem>
+    <rdg wit="#Parisinus2038">add. Parisinus 2038</rdg>
+  </app>
+  <app loc="1448a 13">
+    <lem>Δειλιάδα</lem>
+    <rdg wit="#Ac">δειλιάδα (η superscripsit m. rec.)</rdg>
+  </app>
+  <app loc="1448a 15">
+    <lem>ὥσπερ... Κύκλωπας</lem>
+    <rdg wit="#Ac">ὥσπερ γᾶσ κυκλωπᾶσ</rdg>
+    <rdg wit="#Parisinus2038">ὡς πέργας κύκλωπας</rdg>
+    <rdg resp="#Robortelli">ὡς πέρσας καὶ κύκλωπας</rdg>
+    <rdg resp="#Castelvetrus">ὥσπερ ᾿Αργᾶς Κύκλωπας</rdg>
+    <rdg resp="#Vahlen1874">ὥσπερ θεοὺς ᾿Αργᾶς, Κύκλωπας</rdg>
+    <rdg resp="#Vahlen1897">ὥσπερ γὰρ Κύκλωπας</rdg>
+    <note>plura deesse existimo</note>
+  </app>
+  <app loc="1448a 16">
+    <lem>ταύτῃ</lem>
+    <rdg resp="#Casaubonus">ταύτῃ</rdg>
+    <rdg wit="#Ac">αὐτῇ</rdg>
+  </app>
+  <app loc="1448a 21">
+    <lem>ὁτὲ μὲν... ἢ</lem>
+    <rdg resp="#Zeller">ὁτὲ δὲ</rdg>
+    <rdg resp="#Reiz">( ) ὁτὲ</rdg>
+  </app>
+  <app loc="1448a 22">
+    <lem>τὸν</lem>
+    <rdg resp="#Bywater">secluseram</rdg>
+  </app>
+  <app loc="1448a 23">
+    <lem>πάντα</lem>
+    <rdg resp="#Casaubonus">πάντα</rdg>
+    <rdg wit="#Ac">πάντασ</rdg>
+  </app>
+
+  <app loc="1448a 25">
+    <lem>καὶ</lem>
+    <rdg resp="#apogr">add. apogr.</rdg>
+  </app>
+  <app loc="1448a 32">
+    <lem>δημοκρατίας</lem>
+    <rdg wit="#Ac">δημοκρατείας</rdg>
+  </app>
+  <app loc="1448a 34">
+    <lem>Χιωνίδου</lem>
+    <rdg resp="#Robortellus">Χιωνίδου (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">χωνίδου</rdg>
+  </app>
+  <app loc="1448a 34">
+    <lem>τραγωδίας</lem>
+    <note>fort. τραγωδίας (δ')</note>
+  </app>
+  <app loc="1448a 35">
+    <lem>αὐτοὶ</lem>
+    <rdg resp="#Spengel">αὐτοὶ</rdg>
+    <rdg wit="#Ac">οὗτοι</rdg>
+  </app>
+  <app loc="1448a 36">
+    <lem>᾿Αθηναίους</lem>
+    <rdg resp="#Spengel">᾿Αθηναίους (occupavit Anonymus in minore ed. Oxon. a. 1760)</rdg>
+    <rdg wit="#Ac">ἀθηναῖοι</rdg>
+  </app>
+  <app loc="1448b 5">
+    <lem>αὗται</lem>
+    <rdg wit="#Parisinus2038">αὗται</rdg>
+    <rdg wit="#Ac">αὐταὶ</rdg>
+  </app>
+  <app loc="1448b 6">
+    <lem>τούτῳ</lem>
+    <rdg wit="#Ac">τούτω</rdg>
+  </app>
+
+  <app loc="1448b 12">
+    <lem>ἀτιμοτάτων</lem>
+    <rdg wit="#Ac">ἀτιμωτάτων</rdg>
+  </app>
+  <app loc="1448b 13">
+    <lem>τούτου</lem>
+    <rdg resp="#apogr">τούτου vel τούτων</rdg>
+  </app>
+  <app loc="1448b 18">
+    <lem>οὐχ ἡ</lem>
+    <rdg resp="#Hermann">οὐχ ἡ</rdg>
+    <rdg wit="#Ac">οὐχὶ</rdg>
+  </app>
+  <app loc="1448b 27">
+    <lem>ἕτεροι</lem>
+    <rdg resp="#Spengel">ἅτεροι</rdg>
+  </app>
+  <app loc="1448b 30">
+    <lem>Μαργίτης</lem>
+    <rdg wit="#Ac">μαργείτησ</rdg>
+  </app>
+  <app loc="1448b 31">
+    <lem>ἰαμβεῖον</lem>
+    <rdg wit="#Ac">ἰαμβίον (bis)</rdg>
+  </app>
+  <app loc="1448b 35">
+    <lem>ἀλλὰ</lem>
+    <rdg wit="#Riccardianus46" resp="#Bonitz">ἀλλὰ (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἀλλ᾿ ὅτι</rdg>
+  </app>
+  <app loc="1448b 36">
+    <lem>οὕτως</lem>
+    <rdg resp="#apogr">οὕτω</rdg>
+  </app>
+  <app loc="1448b 38">
+    <lem>Ἰλιὰς</lem>
+    <rdg wit="#Ac">τὸ</rdg>
+    <note>fort. (ἡ) ᾿Ιλιὰς</note>
+  </app>
+
+  <app loc="1449a 6">
+    <lem>μείζονα</lem>
+    <rdg resp="#apogr">μείζονα</rdg>
+    <rdg wit="#Ac">μείζον</rdg>
+  </app>
+  <app loc="1449a 7">
+    <lem>ἆρ᾿ ἔχει</lem>
+    <rdg resp="#Vahlen">ἆρ᾿ ἔχει</rdg>
+    <rdg wit="#Ac">παρέχει</rdg>
+    <rdg wit="#Parisinus2038">εἰ ἄρα ἔχει</rdg>
+    <rdg wit="#Riccardianus46">ἄρα ἔχει</rdg>
+  </app>
+  <app loc="1449a 8">
+    <lem>κρῖναι</lem>
+    <rdg resp="#Forchhammer">κρῖναι</rdg>
+    <rdg wit="#Ac">κρίνεται ἢ ναί</rdg>
+  </app>
+  <app loc="1449a 8">
+    <lem>δ'</lem>
+    <rdg wit="#Riccardianus46" resp="#Bekker">add. δ'</rdg>
+  </app>
+  <app loc="1449a 9">
+    <lem>γενομένης</lem>
+    <rdg resp="#apogr">γενομένη</rdg>
+  </app>
+  <app loc="1449a 10">
+    <lem>αὐτοσχεδιαστική</lem>
+    <rdg resp="#apogr">αὐτοσχεδιαστικὴ</rdg>
+  </app>
+  <app loc="1449a 11">
+    <lem>φαλλικὰ</lem>
+    <rdg wit="#Ac">φαῦλλικά</rdg>
+    <note>φαῦλα (ut videtur) Ar.</note>
+  </app>
+  <app loc="1449a 12">
+    <lem>διαμένει</lem>
+    <rdg wit="#Ac">διαμένειν</rdg>
+  </app>
+  <app loc="1449a 15">
+    <lem>αὐτῆς</lem>
+    <rdg wit="#Ac">αὐτῆσ</rdg>
+    <rdg resp="#apogr">ἑαυτῆς</rdg>
+  </app>
+  <app loc="1449a 20">
+    <lem>σατυρικοῦ</lem>
+    <rdg wit="#Ac">σατυριακού</rdg>
+  </app>
+  <app loc="1449a 21">
+    <lem>ἰαμβεῖον</lem>
+    <rdg wit="#Ac">ἰαμβίον</rdg>
+  </app>
+  <app loc="1449a 26">
+    <lem>ἰαμβεῖα</lem>
+    <rdg wit="#Ac">ἰαμβία</rdg>
+  </app>
+
+  <app loc="1449a 29">
+    <lem>τὰ ἄλλ᾿ ὡς</lem>
+    <rdg resp="#apogr">ἄλλα ὡς (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἄλλωσ</rdg>
+  </app>
+  <app loc="1449a 34">
+    <lem>γελοῖον</lem>
+    <rdg wit="#Ac">γέλοιον (bis)</rdg>
+  </app>
+  <app loc="1449b 1">
+    <lem>κωμῳδῶν</lem>
+    <rdg resp="#Bywater">scripseram</rdg>
+    <rdg resp="#Bernhardy">κωμῳδοῖς coni.</rdg>
+  </app>
+  <app loc="1449b 6">
+    <lem>Ἐπίχαρμος καὶ Φόρμις</lem>
+    <rdg resp="#Susemihl">seclusit</rdg>
+  </app>
+  <app loc="1449b 7">
+    <note>lacunam indicavi; intercidisse videntur ἦσαν γὰρ ᾿Επίχαρμος καὶ Φόρμις ἐκεῖθεν</note>
+  </app>
+  <app loc="1449b 8">
+    <lem>ἰδέας</lem>
+    <rdg wit="#Ac">εἰδέασ</rdg>
+  </app>
+  <app loc="1449b 9">
+    <lem>τοῦ</lem>
+    <rdg resp="#Tyrwhitt">τοῦ</rdg>
+    <rdg wit="#Ac">μόνου</rdg>
+  </app>
+  <app loc="1449b 10">
+    <lem>διὰ</lem>
+    <rdg resp="#Ueberweg">add. διὰ</rdg>
+  </app>
+  <app loc="1449b 10">
+    <lem>τοῦτο</lem>
+    <rdg wit="#Ac">pr. Α</rdg>
+  </app>
+  <app loc="1449b 11">
+    <lem>τῷ</lem>
+    <rdg wit="#Ac">τὸ</rdg>
+  </app>
+  <app loc="1449b 12">
+    <lem>μὲν</lem>
+    <rdg resp="#apogr">μὲν γὰρ</rdg>
+  </app>
+</listApp>
+<listApp>
+  <app loc="1449b 16">
+    <lem>ταῦτα</lem>
+    <rdg wit="#Ac">ταῦτα</rdg>
+  </app>
+  <app loc="1449b 21">
+    <lem>μὲν</lem>
+    <rdg resp="#apogr">add. μὲν</rdg>
+  </app>
+  <app loc="1449b 23">
+    <lem>ἀναλαβόντες</lem>
+    <rdg resp="#Bernays">ἀναλαβόντες</rdg>
+    <rdg wit="#Ac">ἀπολαβόντεσ</rdg>
+  </app>
+  <app loc="1449b 25">
+    <lem>ἑκάστῳ</lem>
+    <rdg resp="#Reiz">ἑκάστῳ (occupavit versio Paccii)</rdg>
+    <rdg wit="#Ac">ἑκάστου</rdg>
+  </app>
+  <app loc="1449b 28">
+    <lem>παθημάτων</lem>
+    <rdg resp="#apogr">corr. apogr.</rdg>
+    <rdg wit="#Ac">μαθημάτων</rdg>
+    <note>perturbationum Paccius; confirm. Syriaca interpretatio ap. Margoliouth A. O. p. 55</note>
+  </app>
+  <app loc="1449b 34">
+    <lem>ταύτην</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">αὐτὴν</rdg>
+  </app>
+  <app loc="1449b 36">
+    <lem>πᾶσιν</lem>
+    <rdg resp="#Madius">πᾶσιν</rdg>
+  </app>
+
+  <app loc="1450a 1">
+    <lem>πέφυκεν αἴτια</lem>
+    <rdg wit="#Parisinus2938">πέφυκε δὲ αἴτια</rdg>
+  </app>
+  <app loc="1450a 2">
+    <lem>ταῦτα</lem>
+    <rdg resp="#Reiz">ταῦτα</rdg>
+  </app>
+  <app loc="1450a 3">
+    <lem>ἔστιν δὲ</lem>
+    <rdg resp="#Bywater">ἔστιν δὴ conieceram</rdg>
+  </app>
+  <app loc="1450a 12">
+    <lem>ὡς εἰπεῖν</lem>
+    <note>fortasse post ὄψεις ἔχει πᾶν collocandum</note>
+  </app>
+  <app loc="1450a 13">
+    <lem>ὄψις</lem>
+    <rdg wit="#Ac">ὄψισ</rdg>
+  </app>
+  <app loc="1450a 17">
+    <note>intercidisse καὶ κακοδαιμονίας, ἡ δὲ εὐδαιμονία coni. Vahlen</note>
+  </app>
+  <app loc="1450a 21">
+    <lem>συμπεριλαμβάνουσιν</lem>
+    <rdg wit="#Guelferbytanus" resp="#Spengel">συμπαραλαμβάνουσι</rdg>
+  </app>
+  <app loc="1450a 27">
+    <lem>Πολύγνωτον</lem>
+    <rdg wit="#Ac">πολύγνωστον et πολύγνωστοσ</rdg>
+  </app>
+
+  <app loc="1450a 29">
+    <lem>λέξει καὶ διανοίᾳ</lem>
+    <rdg resp="#Vahlen">λέξει καὶ διανοίᾳ</rdg>
+    <rdg wit="#Ac">λέξεισ καὶ διανοίασ</rdg>
+  </app>
+  <app loc="1450a 30">
+    <lem>οὔπω</lem>
+    <rdg resp="#Ar">add. Ar. (ni fallor)</rdg>
+    <rdg resp="#apogr">οὐ</rdg>
+  </app>
+  <app loc="1450a 31">
+    <lem>ἡ</lem>
+    <rdg wit="#Ac">ἢ</rdg>
+  </app>
+  <app loc="1450b 10">
+    <lem>τι</lem>
+    <rdg wit="#Ac">τισ</rdg>
+  </app>
+  <app loc="1450b 12">
+    <lem>ἐν λόγῳ</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">μὲν λόγων</rdg>
+  </app>
+
+  <app loc="1450b 16">
+    <lem>πέντε</lem>
+    <rdg resp="#Spengel">induxit Spengel (om. Ar.)</rdg>
+    <rdg resp="#apogr">πέμπτον</rdg>
+  </app>
+  <app loc="1450b 17">
+    <lem>ἀτεχνότατον</lem>
+    <rdg wit="#Ac">ἀπεχνώντατον</rdg>
+  </app>
+  <app loc="1450b 18">
+    <lem>ἡ</lem>
+    <rdg resp="#apogr">ἡ</rdg>
+    <rdg wit="#Ac">ὡσ</rdg>
+    <note>ἴσως Meiser</note>
+  </app>
+  <app loc="1450b 23">
+    <lem>δὴ</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">δ'</rdg>
+  </app>
+  <app loc="1450b 34">
+    <lem>ἰδέαις</lem>
+    <rdg wit="#Ac">εἰδέαισ</rdg>
+  </app>
+  <app loc="1450b 37">
+    <lem>πάμμικρον</lem>
+    <rdg wit="#Riccardianus16">πάμμικρον</rdg>
+    <rdg wit="#Ac">πᾶν μικρὸν</rdg>
+    <note>perexiguum Averroes</note>
+  </app>
+  <app loc="1450b 39">
+    <lem>παμμέγεθες</lem>
+    <rdg wit="#Riccardianus16">παμμέγεθες</rdg>
+    <rdg wit="#Ac">πᾶν μέγεθοσ</rdg>
+  </app>
+
+  <app loc="1451a 3">
+    <lem>συστημάτων</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">σωμάτων</rdg>
+  </app>
+  <app loc="1451a 6">
+    <lem>ὁ</lem>
+    <rdg resp="#Bursian">add. ὁ</rdg>
+  </app>
+  <app loc="1451a 9">
+    <lem>ἄλλοτε φασιν</lem>
+    <rdg wit="#Ac">ἄλλοτε φασίν</rdg>
+    <rdg resp="#Schmidt">ἄλλοτ᾽ εἰώθασιν (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">γένει</rdg>
+  </app>
+  <app loc="1451a 17">
+    <lem>ἑνὶ</lem>
+    <rdg resp="#apogr">ἑνὶ</rdg>
+  </app>
+  <app loc="1451a 18">
+    <lem>οὕτως</lem>
+    <rdg resp="#apogr">οὕτω</rdg>
+  </app>
+  <app loc="1451a 27">
+    <lem>οὐδὲ</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">οὐδὲν</rdg>
+  </app>
+  <app loc="1451a 28">
+    <lem>ἢ</lem>
+    <rdg resp="#Spengel">add. Spengel</rdg>
+    <rdg wit="#Ac">ἦν</rdg>
+    <rdg resp="#apogr">ἦν ἢ</rdg>
+  </app>
+  <app loc="1451a 29">
+    <lem>λέγομεν</lem>
+    <rdg wit="#Ac">λέγοιμεν</rdg>
+  </app>
+
+  <app loc="1451a 32">
+    <lem>ταύτης καὶ</lem>
+    <rdg resp="#Susemihl">ταύτης καὶ</rdg>
+    <rdg wit="#Ac">καὶ ταύτησ</rdg>
+  </app>
+  <app loc="1451a 36">
+    <lem>οὐ τὸ</lem>
+    <rdg resp="#apogr">οὐ τὸ</rdg>
+    <rdg resp="#Ar">confirm. Ar.</rdg>
+    <rdg wit="#Ac">οὕτω</rdg>
+  </app>
+  <app loc="1451a 36">
+    <lem>γενόμενα</lem>
+    <rdg wit="#Riccardianus16">γενόμενα</rdg>
+    <rdg wit="#Ac">γινόμενα</rdg>
+  </app>
+  <app loc="1451b 4">
+    <lem>τούτῳ</lem>
+    <rdg wit="#Ac">τοῦτο</rdg>
+    <rdg resp="#Spengel">τούτῳ</rdg>
+  </app>
+  <app loc="1451b 4">
+    <lem>τῷ</lem>
+    <rdg resp="#Spengel">τῷ</rdg>
+    <rdg wit="#Ac">τὸ</rdg>
+  </app>
+  <app loc="1451b 10">
+    <lem>τὸ</lem>
+    <rdg wit="#Ac">τὸν</rdg>
+  </app>
+  <app loc="1451b 13">
+    <lem>οὕτω</lem>
+    <rdg resp="#Ar">οὔπω (ni fallor) Ar.</rdg>
+  </app>
+  <app loc="1451b 14">
+    <lem>περὶ</lem>
+    <rdg resp="#apogr">περὶ τῶν</rdg>
+  </app>
+  <app loc="1451b 16">
+    <lem>πιθανόν</lem>
+    <rdg wit="#Ac">πειθανόν</rdg>
+  </app>
+
+  <app loc="1451b 19">
+    <lem>ἐνίαις</lem>
+    <rdg resp="#apogr">ἐν ἐνίαις</rdg>
+  </app>
+  <app loc="1451b 21">
+    <lem>οὐθέν</lem>
+    <rdg wit="#Ac">οὐθ᾿ ἕν</rdg>
+  </app>
+  <app loc="1451b 21">
+    <lem>᾿Ανθεῖ</lem>
+    <rdg resp="#Welcker">Ανθεῖ</rdg>
+    <rdg wit="#Ac">ἄνθει</rdg>
+  </app>
+  <app loc="1451b 23">
+    <lem>ὥστ᾽ οὐ</lem>
+    <rdg wit="#Ac">ὡσ τοῦ</rdg>
+  </app>
+  <app loc="1451b 23">
+    <lem>ἂν εἴη</lem>
+    <rdg resp="#Schmidt">ἂν εἴη</rdg>
+    <rdg wit="#Ac">εἶναι</rdg>
+  </app>
+  <app loc="1451b 33">
+    <lem>ἁπλῶν</lem>
+    <rdg resp="#Tyrwhitt">ἄλλων</rdg>
+  </app>
+  <app loc="1451b 37">
+    <lem>ὑποκριτάς</lem>
+    <rdg resp="#apogr">κριτάς</rdg>
+  </app>
+  <app loc="1451b 38">
+    <lem>παρατείναντες</lem>
+    <rdg resp="#apogr">παρατείνοντες</rdg>
+  </app>
+  <app loc="1452a 3">
+    <lem>καὶ μᾶλλον</lem>
+    <rdg resp="#Spengel">induxit Spengel</rdg>
+  </app>
+</listApp>
+
+<listApp>
+  <app loc="1452a 9">
+    <lem>Μίτυϊ</lem>
+    <rdg wit="#Ac">μήτυϊ</rdg>
+  </app>
+  <app loc="1452a 13">
+    <lem>ὑπάρχουσιν</lem>
+    <rdg wit="#Ac">ὑπάρχουσι</rdg>
+  </app>
+  <app loc="1452a 17">
+    <lem>πεπλεγμένη δὲ λέξις</lem>
+    <rdg wit="#Riccardianus16">πεπλεγμένη δὲ ἐξ ἧς</rdg>
+    <rdg resp="#Vahlen">πεπλεγμένη δέ ἐστιν ἐξ ἧς</rdg>
+    <rdg resp="#Susemihl">πεπλεγμένη δ' ἐστὶν ἧς</rdg>
+    <note>reponendum πεπλεγμένην δὲ λέγω ἧς</note>
+  </app>
+  <app loc="1452a 20">
+    <lem>ταῦτα</lem>
+    <rdg resp="#Bonitz">τἀναντία</rdg>
+  </app>
+  <app loc="1452a 33">
+    <lem>γίνωνται</lem>
+    <rdg wit="#Ac">γίνονται</rdg>
+  </app>
+  <app loc="1452a 33">
+    <lem>οἵαν</lem>
+    <rdg resp="#Bywater">οἵαν scripsi</rdg>
+    <rdg wit="#Ac">οἷον</rdg>
+  </app>
+
+  <app loc="1452a 35">
+    <lem>ὡς ὅπερ</lem>
+    <rdg resp="#Spengel">ὡς ὅπερ</rdg>
+    <rdg wit="#Ac">ὥσπερ</rdg>
+  </app>
+  <app loc="1452a 36">
+    <lem>ἢ</lem>
+    <rdg wit="#Ac">εἰ</rdg>
+  </app>
+  <app loc="1452b 3">
+    <lem>ἐπεὶ δὴ</lem>
+    <rdg wit="#Parisinus2038">ἐπεὶ δὴ</rdg>
+    <rdg wit="#Ac">ἐπειδὴ</rdg>
+  </app>
+  <app loc="1452b 4">
+    <lem>ἅτερος</lem>
+    <rdg resp="#apogr">ἅτερος</rdg>
+    <rdg wit="#Ac">ἕτεροσ</rdg>
+  </app>
+  <app loc="1452b 7">
+    <lem>ἐκείνου</lem>
+    <rdg resp="#Bywater">ἐκείνου scripsi</rdg>
+    <rdg>ἐκείνω</rdg>
+  </app>
+  <app loc="1452b 9">
+    <lem>περὶ</lem>
+    <rdg wit="#Riccardianus46">om. περί</rdg>
+  </app>
+  <app loc="1452b 12">
+    <lem>οἵ τε</lem>
+    <rdg wit="#Ac">ὅτε</rdg>
+  </app>
+  <app loc="1452b 19">
+    <lem>πρόλογος</lem>
+    <rdg wit="#Ac">προχωροῦ</rdg>
+  </app>
+
+  <app loc="1452b 23">
+    <lem>ὅλη</lem>
+    <rdg resp="#Susemihl">ὅλη</rdg>
+    <rdg resp="#Westphal">ὅλη</rdg>
+    <rdg wit="#Ac">ὅλου</rdg>
+  </app>
+  <app loc="1452b 25">
+    <lem>ὡς εἴδεσι</lem>
+    <rdg resp="#apogr">add. ὡς εἴδεσι</rdg>
+  </app>
+  <app loc="1452b 28">
+    <lem>ἂν</lem>
+    <rdg wit="#Parisinus2038">ἂν</rdg>
+    <rdg wit="#Ac">ὡσ</rdg>
+  </app>
+  <app loc="1452b 28">
+    <lem>δεῖ</lem>
+    <note>-εῖ in litura Ac</note>
+  </app>
+  <app loc="1453a 1">
+    <lem>αὖ τὸν</lem>
+    <rdg wit="#Parisinus2038">αὐ τὸν</rdg>
+    <rdg wit="#Ac">αὐτὸ</rdg>
+  </app>
+  <app loc="1453a 11">
+    <lem>Οἰδίπους</lem>
+    <rdg resp="#apogr">οἰδίπους (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">δίπουσ</rdg>
+  </app>
+
+  <app loc="1453a 20">
+    <lem>᾿Αλκμέωνα</lem>
+    <rdg resp="#Bywater">᾿Αλκμέωνα scripsi</rdg>
+    <rdg wit="#Ac">ἀλκμαίωνα</rdg>
+  </app>
+  <app loc="1453a 24">
+    <lem>τὸ</lem>
+    <rdg resp="#Bywater">seclusi</rdg>
+  </app>
+  <app loc="1453a 31">
+    <lem>ἡ</lem>
+    <rdg wit="#Ac">A</rdg>
+  </app>
+  <app loc="1453a 33">
+    <lem>βελτίοσι καὶ χείροσιν</lem>
+    <rdg wit="#Ac">βελτίωσι καὶ χείροισιν</rdg>
+  </app>
+  <app loc="1453a 34">
+    <lem>θεατρῶν</lem>
+    <rdg wit="#Riccardianus16">θεατών</rdg>
+  </app>
+  <app loc="1453a 35">
+    <lem>ἔστιν</lem>
+    <rdg wit="#Ac">ἔστι᾿</rdg>
+  </app>
+  <app loc="1453a 37">
+    <lem>οἳ ἂν</lem>
+    <rdg resp="#Bonitz">οἳ ἂν</rdg>
+    <rdg>ἂν οἱ</rdg>
+  </app>
+  <app loc="1453a 39">
+    <lem>ἀποθνήσκει</lem>
+    <rdg wit="#Ac">ἀποθνήσκει</rdg>
+  </app>
+
+  <app loc="1453b 8">
+    <lem>ἀτεχνότερον</lem>
+    <rdg wit="#Ac">ἀτεχνώτερον</rdg>
+    <note>Sylburgius</note>
+  </app>
+  <app loc="1453b 15">
+    <lem>δὴ</lem>
+    <rdg resp="#Spengel">δὴ</rdg>
+    <rdg>δὲ</rdg>
+  </app>
+  <app loc="1453b 20">
+    <lem>οἷον</lem>
+    <note>οἷον εἰ</note>
+  </app>
+  <app loc="1453b 21">
+    <lem>ἀποκτείνῃ... μέλλῃ</lem>
+    <rdg wit="#Ac">ἀποκτείνει μέλλει</rdg>
+  </app>
+  <app loc="1453b 22">
+    <lem>δρᾷ</lem>
+    <rdg wit="#Ac">δρᾶν</rdg>
+  </app>
+  <app loc="1453b 23">
+    <lem>Κλυταιμνήστραν</lem>
+    <rdg resp="#Ar">Κλυταιμήστραν Ar.</rdg>
+  </app>
+  <app loc="1453b 24">
+    <lem>᾿Αλκμέωνος</lem>
+    <rdg wit="#Ac">ἀλκμαίωνα</rdg>
+  </app>
+  <app loc="1453b 26">
+    <lem>εἴπωμεν</lem>
+    <rdg wit="#Ac">εἶπομεν</rdg>
+  </app>
+
+  <app loc="1453b 33">
+    <lem>᾿Αλκμέων</lem>
+    <rdg resp="#Victorius">᾿Αλκμαίων ὁ</rdg>
+    <rdg wit="#Ac">ἀλκμαίωνοσ</rdg>
+  </app>
+  <app loc="1453b 34">
+    <lem>τὸ</lem>
+    <rdg resp="#Bonitz">τὸ</rdg>
+    <rdg>τὸν</rdg>
+  </app>
+  <app loc="1454a 6">
+    <lem>ἀνεγνώρισε</lem>
+    <rdg wit="#Ac">ἀνεγνώρισε</rdg>
+  </app>
+
+  <app loc="1454a 18">
+    <lem>ποιῇ</lem>
+    <note>-ῆι in litura Ac</note>
+  </app>
+  <app loc="1454a 19">
+    <note>om. Parisinus 2038</note>
+  </app>
+  <app loc="1454a 22">
+    <lem>τὸ</lem>
+    <rdg wit="#Riccardianus46">τὸ</rdg>
+    <rdg resp="#Vahlen">τὸ (ed. 1)</rdg>
+    <rdg wit="#Ac">τὰ</rdg>
+  </app>
+  <app loc="1454a 23">
+    <lem>γυναικείῳ τὸ</lem>
+    <rdg resp="#Bywater">γυναικείῳ τὸ scripsi</rdg>
+    <rdg wit="#Ac">γυναικὶ**τῶι</rdg>
+    <rdg resp="#apogr">γυναικὶ τὸ</rdg>
+  </app>
+  <app loc="1454a 29">
+    <lem>ἀναγκαίου</lem>
+    <rdg wit="#Marcianus215">ἀναγκαίου</rdg>
+    <rdg wit="#Ac">ἀναγκαῖον</rdg>
+    <rdg resp="#Ar">μὲν ἔλεος (i.e. Μενέλεως)</rdg>
+  </app>
+  <app loc="1454a 30">
+    <lem>ὁ τοῦ</lem>
+    <rdg resp="#Bywater">addidi</rdg>
+  </app>
+  <app loc="1454a 35">
+    <lem>ἢ</lem>
+    <rdg resp="#Hermann">ᾗ ἀναγκαῖον</rdg>
+  </app>
+  <app loc="1454b 2">
+    <lem>ἀπόπλουν</lem>
+    <rdg wit="#Riccardianus16">ἀπόπλουν</rdg>
+    <rdg wit="#Parisinus2038">ἀνάπλουν (Ar. de conversione navium)</rdg>
+    <rdg wit="#Ac">ἁπλοῦν</rdg>
+  </app>
+  <app loc="1454b 3">
+    <lem>ἐπὶ τὰ</lem>
+    <rdg resp="#apogr">ἐπὶ τὰ (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἔπειτα</rdg>
+  </app>
+  <app loc="1454b 4">
+    <lem>οἷόν τε</lem>
+    <rdg wit="#Ac">οἷόνται</rdg>
+  </app>
+</listApp>
+
+<listApp>
+  <app loc="1454a 7">
+    <lem>τό</lem>
+    <rdg wit="#Ac">τω</rdg>
+  </app>
+  <app loc="1454a 14">
+    <lem>παράδειγμα σκληρότητος</lem>
+    <rdg resp="#Ritter">seclusit Ritter</rdg>
+  </app>
+  <app loc="1454a 14">
+    <lem>᾿Αγάθων</lem>
+    <rdg resp="#apogr">᾿Αγάθων</rdg>
+    <rdg wit="#Ac">ἀγαθῶν</rdg>
+  </app>
+  <app loc="1454a 15">
+    <lem>δὴ</lem>
+    <rdg wit="#Ac">δὴ</rdg>
+    <rdg resp="#apogr">δεῖ vel δὴ δεῖ</rdg>
+  </app>
+  <app loc="1454a 16">
+    <lem>τὰ παρὰ τὰς</lem>
+    <rdg resp="#apogr">τὰ παρὰ τὰς vel τὰς παρὰ τὰ</rdg>
+    <rdg wit="#Ac">τὰσ παρὰ τὰσ</rdg>
+  </app>
+  <app loc="1454a 20">
+    <lem>πλείστη</lem>
+    <rdg wit="#Ac">πλείστη</rdg>
+  </app>
+  <app loc="1454a 22">
+    <lem>φοροῦσι</lem>
+    <rdg wit="#Ac">φοροῦσιν</rdg>
+  </app>
+  <app loc="1454a 24">
+    <lem>περιδέραια</lem>
+    <rdg wit="#Parisinus2038">περιδέραια</rdg>
+    <rdg wit="#Ac">περιδέρρεα</rdg>
+  </app>
+  <app loc="1454a 25">
+    <lem>οἷον</lem>
+    <rdg resp="#apogr">οἷον (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">οἱ</rdg>
+  </app>
+  <app loc="1454a 26">
+    <lem>ὁ</lem>
+    <rdg resp="#Bywater">addidi</rdg>
+  </app>
+
+  <app loc="1454b 31">
+    <lem>ὁ</lem>
+    <rdg resp="#Bywater">addidi</rdg>
+  </app>
+  <app loc="1454b 35">
+    <lem>διό τι ἐγγὺς</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">δι' ότι ἐγγὺσ</rdg>
+    <rdg resp="#Vahlen">διὸ ἐγγύς τι</rdg>
+  </app>
+  <app loc="1454b 37">
+    <lem>ἡ τρίτη</lem>
+    <rdg resp="#Spengel">ἡ τρίτη</rdg>
+    <rdg wit="#Ac">ἤτοι τῆς</rdg>
+  </app>
+  <app loc="1454b 38">
+    <lem>αἰσθέσθαι</lem>
+    <rdg wit="#Ac">αἴσθεσθαί</rdg>
+  </app>
+  <app loc="1455a 1">
+    <lem>τοῖς</lem>
+    <rdg wit="#Marcianus203">τοῖς</rdg>
+    <rdg wit="#Ac">τῆσ</rdg>
+  </app>
+  <app loc="1455a 2">
+    <lem>ἀπολόγῳ</lem>
+    <rdg wit="#Parisinus2038">ἀπολόγῳ</rdg>
+    <rdg wit="#Ac">ἀπὸ λόγων</rdg>
+  </app>
+  <app loc="1455a 4">
+    <lem>Χοηφόροις</lem>
+    <rdg resp="#Victorius">Χοηφόροις</rdg>
+    <rdg wit="#Ac">χλοηφόροισ</rdg>
+  </app>
+  <app loc="1455a 6">
+    <lem>Πολυίδου</lem>
+    <rdg resp="#Tyrwhitt">Πολυίδου</rdg>
+    <rdg wit="#Ac">πολυείδουσ</rdg>
+    <rdg resp="#apogr">πολυείδου</rdg>
+  </app>
+  <app loc="1455a 10">
+    <lem>Φινείδαις</lem>
+    <rdg resp="#Reiz">Φινείδαις</rdg>
+    <rdg wit="#Ac">φινίδαισ</rdg>
+  </app>
+  <app loc="1455a 13">
+    <lem>θατέρου</lem>
+    <rdg resp="#Bursian">θατέρου (praeeunte Hermanno)</rdg>
+    <rdg wit="#Ac">θεάτρου</rdg>
+  </app>
+  <app loc="1455a 14">
+    <lem>τὸ μὲν</lem>
+    <rdg resp="#apogr">ὁ μὲν</rdg>
+  </app>
+  <app loc="1455a 14">
+    <lem>τὸ</lem>
+    <note>alterum om. apogr.</note>
+  </app>
+  <app loc="1455a 15">
+    <lem>δὴ</lem>
+    <rdg resp="#Tyrwhitt">δὴ</rdg>
+    <rdg wit="#Ac">di'</rdg>
+  </app>
+  <app loc="1455a 16">
+    <lem>παραλογισμός</lem>
+    <rdg wit="#Riccardianus46">παραλογισμός</rdg>
+    <rdg resp="#Vahlen">παραλογισμός (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">παραλογισμόν</rdg>
+  </app>
+  <app loc="1455a 17">
+    <lem>ἐκπλήξεως</lem>
+    <rdg wit="#Parisinus2038">ἐκπλήξεως</rdg>
+    <rdg wit="#Ac">πλήξεωσ</rdg>
+  </app>
+  <app loc="1455a 17">
+    <lem>εἰκότων</lem>
+    <rdg wit="#Ac">εἰκόντων</rdg>
+  </app>
+
+  <app loc="1455a 18">
+    <lem>τὸ</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">ὁ</rdg>
+  </app>
+  <app loc="1455a 20">
+    <lem>δεραίων</lem>
+    <rdg wit="#Ac">δέρεων</rdg>
+    <rdg resp="#apogr">περιδεραίων</rdg>
+  </app>
+  <app loc="1455a 24">
+    <lem>ἐναργέστατα</lem>
+    <rdg wit="#Ac">ἐνεργέστατα</rdg>
+  </app>
+  <app loc="1455a 24">
+    <lem>ὁ</lem>
+    <rdg wit="#Parisinus2038">om. Parisinus 2038</rdg>
+  </app>
+  <app loc="1455a 25">
+    <lem>τὸ</lem>
+    <rdg wit="#Ac">τὸ</rdg>
+    <rdg resp="#apogr">λανθάνοιτο apographa plura (τὸ Vahleno teste deletum est in nonnullis)</rdg>
+  </app>
+  <app loc="1455a 26">
+    <lem>ἐπετιμᾶτο</lem>
+    <rdg resp="#Riccardianus16">ἐπετιμᾶτο (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἐπιτιμᾶ τῶι</rdg>
+  </app>
+  <app loc="1455a 27">
+    <lem>ἀνῄει</lem>
+    <rdg wit="#Guelferbytanus">ἀνῄει (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἂν εἴη</rdg>
+  </app>
+  <app loc="1455a 27">
+    <lem>ὁρῶντ᾽ ἂν</lem>
+    <rdg resp="#Vahlen">ὁρῶντ᾽ ἂν</rdg>
+    <rdg wit="#Ac">ὁρῶντα</rdg>
+  </app>
+  <app loc="1455a 31">
+    <lem>χειμαζόμενος</lem>
+    <rdg wit="#Ac">χιμαζόμενοσ</rdg>
+  </app>
+  <app loc="1455a 34">
+    <lem>ἐκστατικοί</lem>
+    <rdg wit="#Riccardianus46">ἐκστατικοί (confirmare videtur Ar.)</rdg>
+    <rdg wit="#Ac">ἐξεταστικοί</rdg>
+  </app>
+  <app loc="1455b 1">
+    <lem>τούς τε</lem>
+    <rdg wit="#Parisinus2038">τούς τε</rdg>
+    <rdg wit="#Ac">τούτουσ τε</rdg>
+  </app>
+  <app loc="1455b 1">
+    <lem>ἐπεισοδιοῦν</lem>
+    <rdg wit="#Ac">ἐπεισοδίου</rdg>
+  </app>
+  <app loc="1455b 2">
+    <lem>παρατείνειν</lem>
+    <rdg wit="#Riccardianus46">παρατείνειν</rdg>
+    <rdg wit="#Ac">περιτείνειν</rdg>
+  </app>
+
+  <app loc="1455b 7">
+    <lem>ἔξω τοῦ καθόλου</lem>
+    <rdg resp="#Duentzer">seclusit Duentzer</rdg>
+  </app>
+  <app loc="1455b 10">
+    <lem>Πολύιδος</lem>
+    <rdg wit="#Ac">πολύειδοσ</rdg>
+  </app>
+  <app loc="1455b 15">
+    <lem>δράμασιν</lem>
+    <rdg resp="#apogr">δράμασι</rdg>
+    <rdg wit="#Ac">ἅρμασιν</rdg>
+  </app>
+  <app loc="1455b 17">
+    <lem>ου</lem>
+    <rdg resp="#Vulcanius">add. (confirm. Ar.)</rdg>
+  </app>
+  <app loc="1455b 17">
+    <lem>μακρὸς</lem>
+    <rdg resp="#apogr">μικρὸς</rdg>
+  </app>
+  <app loc="1455b 19">
+    <lem>ἔτι</lem>
+    <rdg wit="#Riccardianus16">ἔτι (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἐπεὶ</rdg>
+  </app>
+  <app loc="1455b 22">
+    <lem>τινὰς</lem>
+    <note>fort. ὅτι</note>
+  </app>
+  <app loc="1455b 28">
+    <lem>εἰς εὐτυχίαν</lem>
+    <rdg resp="#Ar">εἰς εὐτυχίαν (συμβαίνει ἢ εἰς δυστυχίαν) (ut videtur) Ar.</rdg>
+    <rdg resp="#Vahlen">εἰς εὐτυχίαν (ἐκ δυστυχίας συμβαίνει ἢ ἐξ εὐτυχίας εἰς δυστυχίαν)</rdg>
+    <rdg resp="#Gomperz">(εἰς δυστυχίαν συμβαίνει ἢ) εἰς εὐτυχίαν</rdg>
+  </app>
+  <app loc="1455b 29">
+    <lem>Λυγκεῖ</lem>
+    <rdg resp="#apogr">λυγκεί (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">λυκεῖ</rdg>
+  </app>
+
+  <app loc="1455b 31">
+    <lem>πάλιν</lem>
+    <rdg resp="#Schmidt">obelo notat M. Schmidt</rdg>
+  </app>
+  <app loc="1455b 31">
+    <lem>λύσις δ᾽ ἡ</lem>
+    <rdg wit="#Parisinus2038">λύσις δὲ ἡ</rdg>
+    <rdg wit="#Ac">δὴ</rdg>
+    <rdg resp="#Vahlen">δὴ (ἀπαγωγή, λύσις δ' ἡ)</rdg>
+    <rdg resp="#Christ">δήλωσις, λύσις δ᾽ ἡ</rdg>
+  </app>
+  <app loc="1455b 32">
+    <note>excidisse 1456a 7-10 (δίκαιον-κρατεῖσθαι) vidit Susemihl</note>
+  </app>
+  <app loc="1455b 33">
+    <lem>καὶ τὰ</lem>
+    <rdg resp="#Tucker">κατὰ</rdg>
+  </app>
+  <app loc="1456a 2">
+    <lem>τέταρτον ὄψις</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">τέταρτον δησ</rdg>
+    <rdg resp="#Schrader">τερατώδες</rdg>
+  </app>
+  <app loc="1456a 4">
+    <lem>ἄλλοις τε</lem>
+    <rdg resp="#apogr">ἄλλως τε (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἀλλ᾽ ὥσ γε</rdg>
+  </app>
+  <app loc="1456a 6">
+    <lem>ἑκάστου</lem>
+    <rdg wit="#Parisinus2038">ἑκάστου</rdg>
+    <rdg wit="#Ac">ἕκαστον</rdg>
+  </app>
+  <app loc="1456a 8">
+    <lem>οὐδενὶ</lem>
+    <rdg resp="#Tyrwhitt">οὐδενὶ (in versione)</rdg>
+    <rdg wit="#Ac">οὐδὲν</rdg>
+  </app>
+  <app loc="1456a 10">
+    <lem>κρατεῖσθαι</lem>
+    <rdg resp="#Vahlen">κρατεῖσθαι (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">κροτεῖσθαι</rdg>
+  </app>
+  <app loc="1456a 12">
+    <lem>δὲ</lem>
+    <note>alterum om. apogr.</note>
+  </app>
+  <app loc="1456a 17">
+    <lem>ἢ</lem>
+    <rdg resp="#Vahlen">add. Vahlen</rdg>
+  </app>
+  <app loc="1456a 18">
+    <lem>ἀγαθῶν</lem>
+    <rdg wit="#Ac">ἀγαθῶν (et Ar.)</rdg>
+  </app>
+
+  <app loc="1456a 22">
+    <lem>δὲ</lem>
+    <rdg resp="#Riccardianus16">add. Riccardianus 16</rdg>
+  </app>
+  <app loc="1456a 23">
+    <lem>ἡττηθῇ</lem>
+    <rdg wit="#Ac">ἡττήθη</rdg>
+  </app>
+  <app loc="1456a 24">
+    <lem>εἰκὸς ὥσπερ</lem>
+    <rdg wit="#Riccardianus46">εἰκὸς ὥσπερ (et ut videtur Ar.)</rdg>
+  </app>
+  <app loc="1456a 24">
+    <lem>καὶ</lem>
+    <rdg resp="#Vahlen">add. Vahlen</rdg>
+  </app>
+  <app loc="1456a 28">
+    <lem>ἀδόμενα</lem>
+    <rdg resp="#Madius">ἀδόμενα (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">διδόμενα</rdg>
+  </app>
+  <app loc="1456a 28">
+    <lem>οὐδὲν</lem>
+    <rdg resp="#apogr">add. (confirm. Ar.)</rdg>
+  </app>
+  <app loc="1456a 33">
+    <lem>ἤδη</lem>
+    <rdg wit="#Ac">ἠδ'</rdg>
+    <rdg resp="#Ar">εἰδῶν (ut videtur Ar.)</rdg>
+  </app>
+  <app loc="1456a 34">
+    <lem>καὶ</lem>
+    <rdg resp="#Hermann">καὶ (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ἢ</rdg>
+  </app>
+  <app loc="1456b 2">
+    <lem>μικρότητα</lem>
+    <rdg wit="#Parisinus2038">σμικρότητα (confirm. fort. Ar.)</rdg>
+    <rdg wit="#Ac">μικρότητασ</rdg>
+  </app>
+  <app loc="1456b 3">
+    <lem>ἰδεῶν</lem>
+    <rdg wit="#Ac">εἰδεῶν</rdg>
+  </app>
+  <app loc="1456b 4">
+    <lem>ὅτι</lem>
+    <rdg wit="#Parisinus2038">δ'</rdg>
+    <rdg wit="#Ac">A</rdg>
+  </app>
+
+  <app loc="1456b 7">
+    <lem>δέοι</lem>
+    <rdg resp="#Vahlen">δέοι</rdg>
+    <rdg wit="#Ac">ἡδέα (et Ar.)</rdg>
+    <rdg resp="#Castelvetrus">ἤδη</rdg>
+  </app>
+  <app loc="1456b 8">
+    <lem>φαίνοιτο</lem>
+    <rdg resp="#Bigg">φαίνοιτο</rdg>
+    <rdg wit="#Ac">φανοῖτο</rdg>
+  </app>
+  <app loc="1456b 21">
+    <lem>ῥῆμα</lem>
+    <rdg resp="#Spengel">huc transtulit (confirm. Ar.)</rdg>
+  </app>
+  <app loc="1456b 21">
+    <lem>ἄρθρον</lem>
+    <rdg wit="#Ac">ἄθρον</rdg>
+  </app>
+  <app loc="1456b 23">
+    <lem>συνετὴ</lem>
+    <rdg resp="#apogr">συνθετή (et Ar.)</rdg>
+  </app>
+  <app loc="1456b 26">
+    <lem>τὸς</lem>
+    <rdg resp="#Reiz">add. τὸ</rdg>
+  </app>
+</listApp>
+
+
+<listApp>
+  <app loc="1456b 34">
+    <lem>συλλαβὴ</lem>
+    <rdg resp="#Spengel">seclusit Spengel</rdg>
+  </app>
+  
+  <app loc="1457a 2">
+    <lem>καὶ ἐπὶ τῶν ἄκρων καὶ ἐπὶ τοῦ μέσου</lem>
+    <rdg resp="#Bywater">seclusi</rdg>
+  </app>
+  <app loc="1457a 4">
+    <lem>μέν</lem>
+    <rdg wit="#Ac">μεν.</rdg>
+  </app>
+  <app loc="1457a 4">
+    <lem>δή τοί</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">ητοι.</rdg>
+  </app>
+  <app loc="1457a 4">
+    <lem>δέ</lem>
+    <rdg wit="#Ac">δε.</rdg>
+  </app>
+  <app loc="1457a 5">
+    <lem>σημαντικῶν</lem>
+    <rdg resp="#Robortellus">σημαντικῶν</rdg>
+    <rdg wit="#Ac">σημαντικὸν</rdg>
+  </app>
+  <app loc="1457a 6">
+    <note>lacunam indicavi, huc transferenda esse suspicatus ea quae infra leguntur, οἷον τὸ ἀμφί καὶ τὸ περί καὶ τὰ ἄλλα</note>
+  </app>
+  <app loc="1457a 6">
+    <lem>ἄρθρον</lem>
+    <rdg resp="#Hartung">Hartung</rdg>
+    <rdg wit="#Ac">φ. μ τ.</rdg>
+  </app>
+  <app loc="1457a 7">
+    <lem>οἷον τὸ ἀμφί καὶ τὸ περί καὶ τὰ ἄλλα... φωνῶν</lem>
+    <rdg resp="#Bywater">seclusi</rdg>
+  </app>
+  <app loc="1457a 7">
+    <lem>περί</lem>
+    <rdg wit="#Ac">τ τ. . τ.</rdg>
+  </app>
+  <app loc="1457a 17">
+    <lem>ποτέ</lem>
+    <rdg resp="#Spengel">Spengel</rdg>
+  </app>
+  <app loc="1457a 17">
+    <lem>βαδίζει</lem>
+    <rdg resp="#apogr">apogr. (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">βαδίζειν</rdg>
+  </app>
+  <app loc="1457a 17">
+    <lem>προσσημαίνει</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg>
+    <rdg wit="#Ac">προσημαίνει</rdg>
+  </app>
+  <app loc="1457a 19">
+    <lem>κατά τὸ</lem>
+    <rdg resp="#Reiz">Reiz</rdg>
+    <rdg wit="#Ac">τὸ κατὰ</rdg>
+  </app>
+  <app loc="1457a 22">
+    <lem>ἐβάδισεν;</lem>
+    <rdg resp="#Tyrwhitt">notam interrogationis add. Tyrwhitt</rdg>
+  </app>
+  <app loc="1457a 22">
+    <lem>βάδιζε</lem>
+    <rdg wit="#Riccardianus16">Riccardianus 16</rdg>
+    <rdg wit="#Ac">ἐβάδιζεν</rdg>
+  </app>
+  <app loc="1457a 27">
+    <lem>βαδίζει</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038 (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">βαδίζειν</rdg>
+  </app>
+  <app loc="1457a 29">
+    <lem>συνδέσμῳ</lem>
+    <rdg wit="#Riccardianus16">Riccardianus 16</rdg>
+    <rdg wit="#Ac">συνδέσμων</rdg>
+  </app>
+  <app loc="1457a 30">
+    <lem>τῷ</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">τὸ</rdg>
+  </app>
+  <app loc="1457a 31">
+    <lem>εἴδη</lem>
+    <note>εἴ- in litura Ac</note>
+  </app>
+  <app loc="1457a 33">
+    <lem>ὀνόματι</lem>
+    <rdg resp="#Spengel">Spengel</rdg>
+    <rdg resp="#Vahlen">Vahlen (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">ὀνόματοσ</rdg>
+  </app>
+  <app loc="1457a 35">
+    <lem>μεγαλειωτῶν</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">μεγαλιωτῶν</rdg>
+    <rdg resp="#Vahlen">μεγαλείων ὧν</rdg>
+    <rdg resp="#Diels">Μασσαλιωτῶν (ex Ar. de Massiliotis)</rdg>
+  </app>
+  <app loc="1457a 35">
+    <lem>Ἑρμοκαϊκόξανθος</lem>
+    <rdg wit="#Ac">ἑρμοκαί· κόξανθοσ</rdg>
+  </app>
+
+  <app loc="1457b 1">
+    <note>ubi lacunam indicavi addit Ar. qui supplicabatur dominum caelorum (vel lovem), unde ἐπευξάμενος Διὶ πατρί restituit Diels; nescio an exemplum lateat nominis quadruplicis</note>
+  </app>
+  <app loc="1457b 2">
+    <lem>ἀφῃρημένον</lem>
+    <rdg resp="#Spengel">Spengel</rdg>
+  </app>
+  <app loc="1457b 6">
+    <lem>σίγυνον</lem>
+    <note>fort. σίγυνος</note>
+  </app>
+  <app loc="1457b 10">
+    <lem>ὁρμεῖν</lem>
+    <note>ὁρμῖν (-ῖν in litura) Ac</note>
+  </app>
+  <app loc="1457b 11">
+    <lem>δὴ μυρί᾽ Ὀδυσσεὺς</lem>
+    <rdg wit="#Ac">ἤδη μυριόδυσσεὺσ</rdg>
+  </app>
+  <app loc="1457b 12">
+    <lem>μυρίον</lem>
+    <rdg wit="#Ac">μύριον</rdg>
+    <note>fort. πολλά</note>
+  </app>
+  <app loc="1457b 14">
+    <lem>ἀρύσας καὶ</lem>
+    <rdg resp="#Tyrwhitt">Tyrwhitt (ἀρύσας Leidensis et corr. Vaticanus 1400, καὶ Laurentianus LX 21)</rdg>
+    <rdg wit="#Ac">ἀερύσασκε</rdg>
+  </app>
+  <app loc="1457b 14">
+    <lem>τεμὼν</lem>
+    <rdg wit="#Ac">ατηρει τεμῶν</rdg>
+    <rdg resp="#Bekker">ταμὼν Bekker (ed. 3)</rdg>
+  </app>
+  <app loc="1457b 16">
+    <lem>τῷ</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">τὸ</rdg>
+  </app>
+  <app loc="1457b 27">
+    <lem>ἐπὶ</lem>
+    <rdg resp="#Schmidt">M. Schmidt</rdg>
+    <rdg wit="#Ac">ἀπὸ</rdg>
+    <rdg resp="#Ar">confirm. Ar.</rdg>
+  </app>
+  <app loc="1457b 31">
+    <lem>ἠιόνες βοόωσιν</lem>
+    <rdg wit="#Ac">ἴωνεσ βοῶσιν ἴωνεσ</rdg>
+  </app>
+  <app loc="1457b 31">
+    <lem>᾿Αριφράδης</lem>
+    <rdg wit="#Ac">ἀρειφράδησ</rdg>
+  </app>
+  <app loc="1457b 32">
+    <lem>εἴποι</lem>
+    <rdg wit="#Ac">εἶπηι</rdg>
+  </app>
+
+  <app loc="1458a 2">
+    <lem>συλλαβῇ ἐμβεβλημένῃ</lem>
+    <rdg wit="#Ac">συλλαβὴ ἐμβεβλημένη</rdg>
+  </app>
+  <app loc="1458a 3">
+    <lem>πόλεως</lem>
+    <rdg wit="#Ac">πόλεοσ</rdg>
+  </app>
+  <app loc="1458a 4">
+    <lem>Πηλείδου</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg>
+    <rdg wit="#Ac">πηλέοσ</rdg>
+  </app>
+  <app loc="1458a 5">
+    <lem>ὄψ</lem>
+    <rdg wit="#Ac">ὀησ (i.e. ΟΨΙΣ)</rdg>
+  </app>
+  <app loc="1458a 6">
+    <lem>ἐξηλλαγμένον</lem>
+    <rdg wit="#Ac">ἐξηλαγμένον</rdg>
+  </app>
+  <app loc="1458a 9">
+    <lem>Σ</lem>
+    <rdg wit="#Riccardianus16">add. Riccardianus 16 (confirm. Ar.)</rdg>
+    <rdg resp="#Reiz">καὶ Σ Reiz</rdg>
+  </app>
+  <app loc="1458a 11">
+    <lem>ἀεὶ</lem>
+    <rdg wit="#Ac">αἰεὶ</rdg>
+  </app>
+  <app loc="1458a 12">
+    <lem>πλήθη</lem>
+    <rdg resp="#apogr">πλήθει apogr.</rdg>
+  </app>
+  <app loc="1458a 14">
+    <lem>τῷ Σ</lem>
+    <rdg resp="#anon">add. anon. ap. Tyrwhittum</rdg>
+  </app>
+  <app loc="1458a 15">
+    <lem>κόμμι</lem>
+    <rdg wit="#Riccardianus16">Riccardianus 16</rdg>
+    <rdg wit="#Ac">κόμι</rdg>
+  </app>
+  <app loc="1458a 16">
+    <lem>ταῦτα καὶ Ν καὶ Ρ καὶ Σ</lem>
+    <rdg resp="#Morelius">coni. Morelius</rdg>
+    <rdg resp="#Victorius">Victorius</rdg>
+    <rdg wit="#Ac">ταῦτα (καὶ Α)</rdg>
+  </app>
+  <app loc="1458a 24">
+    <lem>ἂν</lem>
+    <rdg resp="#apogr">om. apogr.</rdg>
+  </app>
+  <app loc="1458a 26">
+    <lem>γλωττῶν</lem>
+    <rdg wit="#Ac">Υλοττῶν</rdg>
+  </app>
+  <app loc="1458a 27">
+    <lem>λέγοντα</lem>
+    <rdg wit="#Ac">λέγον τὰ</rdg>
+  </app>
+  <app loc="1458a 28">
+    <lem>ὀνομάτων</lem>
+    <rdg resp="#Ar">τῶν (ἄλλων) ὀνομάτων (ut videtur) Ar.</rdg>
+  </app>
+  <app loc="1458a 28">
+    <lem>ποιῆσαι</lem>
+    <rdg wit="#Ac">οὐχοίονται</rdg>
+  </app>
+  <app loc="1458a 29">
+    <lem>μεταφορῶν</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">μεταφορὰν</rdg>
+  </app>
+  <app loc="1458a 29">
+    <lem>εἶδον</lem>
+    <rdg wit="#Ac">ἶδον</rdg>
+  </app>
+  <app loc="1458a 29">
+    <lem>πυρὶ χαλκὸν</lem>
+    <rdg resp="#Victorius">Victorius</rdg>
+    <rdg wit="#Ac">πυρίχαλκον</rdg>
+  </app>
+  <app loc="1458a 31">
+    <lem>κεκρᾶσθαι</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46 (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">κεκρίσθαι</rdg>
+  </app>
+
+  <app loc="1458b 1">
+    <lem>συμβάλλεται</lem>
+    <rdg wit="#Ac">συμβάλεται</rdg>
+    <rdg resp="#apogr">συμβάλλονται apogr.</rdg>
+  </app>
+  <app loc="1458b 6">
+    <lem>ἐπιτιμῶντες</lem>
+    <rdg wit="#Ac">ἐπιτιμοῦντεσ</rdg>
+  </app>
+  <app loc="1458b 9">
+    <note>fortasse mutato ordine ἐν αὐτῇ τῇ λέξει, ἰαμβοποιήσας Bursian</note>
+  </app>
+  <app loc="1458b 9">
+    <lem>Ἐπιχάρην</lem>
+    <rdg wit="#Ac">ἤτει χάριν</rdg>
+  </app>
+  <app loc="1458b 9">
+    <lem>εἶδον</lem>
+    <rdg wit="#Ac">ἶδον</rdg>
+  </app>
+  <app loc="1458b 10">
+    <lem>Μαραθῶνάδε</lem>
+    <rdg wit="#Ac">μαραθῶνα δὲ</rdg>
+  </app>
+  <app loc="1458b 10">
+    <lem>οὐκ ἄν γ᾽ ἐράμενος</lem>
+    <rdg wit="#Ac">ἂν γεράμενοσ</rdg>
+  </app>
+  <app loc="1458b 12">
+    <lem>μέτριον</lem>
+    <rdg resp="#Spengel">Spengel</rdg>
+    <rdg wit="#Ac">μέτρον</rdg>
+  </app>
+  <app loc="1458b 14">
+    <lem>ἐπὶ τὰ</lem>
+    <rdg wit="#Ac">ἔπειτα</rdg>
+    <note>fort. γελοιότερα</note>
+  </app>
+  <app loc="1458b 15">
+    <lem>ἁρμοττόντως</lem>
+    <rdg resp="#Tucker">Tucker</rdg>
+    <rdg wit="#Ac">ἁρμόττοντοσ</rdg>
+    <rdg resp="#apogr">ἁρμόττον apogr.</rdg>
+  </app>
+  <app loc="1458b 18">
+    <lem>ἰδεῶν</lem>
+    <rdg wit="#Ac">εἰδέων</rdg>
+  </app>
+  <app loc="1458b 19">
+    <lem>ἰαμβεῖον</lem>
+    <rdg wit="#Ac">ἰάμβιον</rdg>
+  </app>
+  <app loc="1458b 20">
+    <lem>μετατιθέντος</lem>
+    <rdg resp="#apogr">μεταθέντος apogr.</rdg>
+  </app>
+  <app loc="1458b 23">
+    <lem>φαγέδαινα</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">φαγάδενα</rdg>
+    <rdg resp="#Hermann">φαγέδαιναν Hermann</rdg>
+  </app>
+  <app loc="1458b 27">
+    <lem>δὲ μ᾽ ἐὼν</lem>
+    <rdg wit="#Ac">δὲ μεὼν</rdg>
+  </app>
+  <app loc="1458b 27">
+    <lem>ἀεικής</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg resp="#Morelius">Morelius (confirmare videtur Ar.)</rdg>
+    <rdg wit="#Ac">ἀειδήσ</rdg>
+  </app>
+  <app loc="1458b 28">
+    <lem>μικρός τε</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">μικρὸσ δὲ</rdg>
+  </app>
+  <app loc="1458b 29">
+    <lem>τε (prius)</lem>
+    <rdg resp="#apogr">om. apogr.</rdg>
+    <note>nisi forte ται fuerat</note>
+  </app>
+  <app loc="1458b 29">
+    <lem>ἀεικέλιον</lem>
+    <rdg wit="#Ac">τ αἰκέλιον</rdg>
+    <rdg resp="#Vahlen">reposuit Vahlen</rdg>
+  </app>
+
+  <app loc="1459a 4">
+    <lem>πέρι</lem>
+    <rdg wit="#Ac">τὸσ τῶι</rdg>
+  </app>
+  <app loc="1459a 6">
+    <lem>παρ᾽ ἄλλου</lem>
+    <rdg wit="#Ac">π,ἄλλου</rdg>
+  </app>
+  <app loc="1459a 10">
+    <lem>ἰαμβείοις</lem>
+    <rdg wit="#Ac">Ιαμβίοισ</rdg>
+  </app>
+  <app loc="1459a 12">
+    <lem>ἰαμβείοις</lem>
+    <rdg wit="#Ac">Ιαμβίοισ</rdg>
+  </app>
+  <app loc="1459a 13">
+    <lem>κἂν</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg resp="#Harles">Harles</rdg>
+    <rdg wit="#Ac">καὶ</rdg>
+  </app>
+  <app loc="1459a 13">
+    <lem>ὅσοις (alterum)</lem>
+    <rdg resp="#apogr">om. apogr.</rdg>
+  </app>
+  <app loc="1459a 13">
+    <lem>τις</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">τί</rdg>
+  </app>
+  <app loc="1459a 20">
+    <note>fort. ὅλον (ὂν)</note>
+  </app>
+  <app loc="1459a 21">
+    <lem>ποιῇ</lem>
+    <rdg wit="#Ac">ποιεί</rdg>
+  </app>
+  <app loc="1459a 21">
+    <lem>ὁμοίας ἱστορίας τὰς συνθέσεις</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg resp="#Dacier">Dacier</rdg>
+    <rdg wit="#Ac">ἱστορίαις τὰς συνθήσεις [sic]</rdg>
+  </app>
+</listApp>
+
+<listApp>
+  <app loc="1459a 22">
+    <lem>θεῖναι</lem>
+    <rdg resp="#Bywater">θεῖναι scripsi</rdg>
+    <rdg wit="#Ac">εἶναι</rdg>
+  </app>
+  <app loc="1459a 25">
+    <lem>σαλαμῖνι</lem>
+    <rdg wit="#Ac">σαλαμήνη</rdg>
+  </app>
+  <app loc="1459a 26">
+    <lem>ναυμαχία</lem>
+    <rdg wit="#Ac">ναύμαχοσ</rdg>
+  </app>
+  <app loc="1459a 28">
+    <lem>μετὰ θάτερον</lem>
+    <rdg wit="#Parisinus2038">μετὰ θάτερον</rdg>
+    <rdg wit="#Ac">μετὰ θατέρου</rdg>
+  </app>
+  <app loc="1459a 31">
+    <lem>τῷ</lem>
+    <rdg wit="#Riccardianus16">τῷ</rdg>
+    <rdg wit="#Ac">τὸ</rdg>
+  </app>
+  <app loc="1459a 33">
+    <lem>μέγας</lem>
+    <rdg wit="#Ac">μέγα pr.</rdg>
+  </app>
+  <app loc="1459a 36">
+    <lem>δὶς</lem>
+    <rdg resp="#Ac">deletum in Ac</rdg>
+    <rdg wit="#Riccardianus16">oἷς</rdg>
+  </app>
+
+  <app loc="1459b 2">
+    <lem>Κύπρια</lem>
+    <rdg resp="#Reiz">Κύπρια</rdg>
+    <rdg wit="#Ac">κυπρικά</rdg>
+  </app>
+  <app loc="1459b 4">
+    <lem>μόναι</lem>
+    <rdg wit="#Ac">μόνασ pr.</rdg>
+  </app>
+  <app loc="1459b 7">
+    <lem>Τρῳάδες</lem>
+    <rdg wit="#Ac">πρωϊάδεσ pr.</rdg>
+  </app>
+  <app loc="1459b 7">
+    <lem>ἔτι δὲ</lem>
+    <rdg wit="#Ac">bis Ac</rdg>
+  </app>
+  <app loc="1459b 8">
+    <lem>δεῖ</lem>
+    <rdg wit="#Ac">δὴ</rdg>
+  </app>
+
+  <app loc="1459b 13">
+    <lem>ἱκανῶς</lem>
+    <rdg resp="#apogr">apogr. (confirm. Ar.)</rdg>
+    <rdg resp="#Christ">ἀναγνωρίσεις Christ</rdg>
+  </app>
+  <app loc="1459b 13">
+    <lem>ἱκανὸς</lem>
+    <rdg wit="#Ac">Ac</rdg>
+  </app>
+  <app loc="1459b 15">
+    <lem>ἠθική</lem>
+    <rdg wit="#Ac">ἠθικόν corr. rec. Ac</rdg>
+  </app>
+  <app loc="1459b 15">
+    <lem>ἑκάτερον</lem>
+    <rdg wit="#Ac">πονημάτων Ac</rdg>
+  </app>
+  <app loc="1459b 16">
+    <lem>γὰρ</lem>
+    <rdg wit="#Ac">Ac</rdg>
+    <rdg resp="#apogr">δὲ apogr. (confirm. Ar.)</rdg>
+  </app>
+  <app loc="1459b 16">
+    <lem>πάντα</lem>
+    <rdg resp="#apogr">πάντας apogr.</rdg>
+  </app>
+  <app loc="1459b 21">
+    <lem>πρὸς δὲ</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+  </app>
+  <app loc="1459b 21">
+    <lem>πρόσθε</lem>
+    <rdg wit="#Ac">Ac</rdg>
+  </app>
+  <app loc="1459b 29">
+    <note>fort. [τὸ] ἀγαθὸν</note>
+  </app>
+  <app loc="1459b 32">
+    <lem>ἥρμοκεν</lem>
+    <rdg wit="#Ac">ἤρμωκεν Ac</rdg>
+  </app>
+  <app loc="1459b 33">
+    <lem>διηγηματικὴν</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+  </app>
+
+  <app loc="1459b 36">
+    <note>excidisse videtur ταύταις vel ταύτῃ (cf. Twining ad loc.)</note>
+  </app>
+  <app loc="1459b 36">
+    <lem>μίμησις</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">κίνησισ Ac</rdg>
+  </app>
+  <app loc="1459b 37">
+    <lem>ἰαμβεῖον</lem>
+    <rdg wit="#Ac">Ιαμβίον Ac</rdg>
+  </app>
+  <app loc="1460a 1">
+    <lem>κινητικὰ</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg resp="#Vahlen">Vahlen</rdg>
+    <rdg wit="#Ac">κινητικαὶ (καὶ corr.) Ac</rdg>
+  </app>
+  <app loc="1460a 2">
+    <lem>μιγνύοι</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg>
+    <rdg resp="#apogr">μιγνύει apographa pleraque</rdg>
+    <rdg wit="#Ac">μηγνύη (fuit μὴ γνύη; -η fin. in litura) Ac</rdg>
+    <rdg resp="#Ar">μὴ γνοίη Ar.</rdg>
+  </app>
+  <app loc="1460a 3">
+    <lem>τῷ</lem>
+    <rdg wit="#Ac">τὸ Ac</rdg>
+  </app>
+  <app loc="1460a 4">
+    <lem>αὐτῇ</lem>
+    <rdg wit="#Ac">αὐτὴ Ac</rdg>
+  </app>
+  <app loc="1460a 5">
+    <lem>αἱρεῖσθαι</lem>
+    <rdg resp="#Bonitz">Bonitz (confirm. Ar.)</rdg>
+    <rdg wit="#Ac">διαιρεῖσθαι Ac</rdg>
+  </app>
+  <app loc="1460a 11">
+    <lem>οὐδέν᾿ ἀήθη</lem>
+    <rdg resp="#Victorius">Victorius</rdg>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg wit="#Ac">οὐδένα ἤθη Ac</rdg>
+  </app>
+  <app loc="1460a 13">
+    <lem>ἄλογον</lem>
+    <rdg resp="#Victorius">Victorius</rdg>
+    <rdg wit="#Ac">ἀνάλογον Ac (et Ar.)</rdg>
+  </app>
+  <app loc="1460a 13">
+    <lem>δι᾿ ὃ</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg>
+    <rdg wit="#Ac">διὸ Ac</rdg>
+  </app>
+  <app loc="1460a 14">
+    <lem>ἐπεὶ</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">ἔπειτα Ac (et Ar.)</rdg>
+  </app>
+  <app loc="1460a 20">
+    <note>fort. ἄνθρωποι</note>
+  </app>
+
+  <app loc="1460a 21">
+    <lem>τουδὶ</lem>
+    <rdg wit="#Ac">τοῦ διόντοσ pr. Ac</rdg>
+  </app>
+  <app loc="1460a 21">
+    <lem>τοδὶ</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">τὸ δι᾿ ἣν pr. Ac (corr. m. rec.)</rdg>
+  </app>
+  <app loc="1460a 21">
+    <lem>εἰ</lem>
+    <rdg resp="#Bonitz">Bonitz</rdg>
+    <rdg wit="#Ac">δὴ Ac (τὸ δὲ ἢ, vel ἢι, in textu Ac)</rdg>
+  </app>
+  <app loc="1460a 23">
+    <lem>δεῖ</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">Ac (corr.)</rdg>
+  </app>
+  <app loc="1460a 24">
+    <lem>ἄλλο</lem>
+    <rdg resp="#Robortelli">codices Robortelli</rdg>
+    <rdg wit="#Ac">ἄλλου Ac (ἀλλ᾿ οὐ- m. rec. in litura Ac)</rdg>
+  </app>
+  <app loc="1460a 26">
+    <lem>τούτου</lem>
+    <rdg resp="#Jortin">Jortin</rdg>
+    <rdg wit="#Ac">Ac</rdg>
+  </app>
+  <app loc="1460a 26">
+    <lem>Νίπτρων</lem>
+    <rdg resp="#Robortelli">codex Robortelli</rdg>
+    <rdg wit="#Ac">νίπτρω Ac</rdg>
+  </app>
+  <app loc="1460a 27">
+    <lem>ἀπίθανα</lem>
+    <rdg wit="#Ac">ἀπείθανα Ac</rdg>
+  </app>
+  <app loc="1460a 30">
+    <lem>Λάιος</lem>
+    <rdg wit="#Riccardianus16">Riccardianus 16</rdg>
+    <rdg wit="#Ac">ϊόλαοσ Ac</rdg>
+    <note>fort. (ὁ) Οἰδίπους</note>
+  </app>
+  <app loc="1460a 33">
+    <lem>γελοῖον</lem>
+    <rdg wit="#Ac">οστε γέλοιον pr. Ac</rdg>
+  </app>
+  <app loc="1460a 33">
+    <lem>ἀνήρητο</lem>
+    <rdg wit="#Ac">ἀνήρειτο Ac</rdg>
+  </app>
+  <app loc="1460b 1">
+    <lem>ποιήσειε</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg>
+    <rdg resp="#Heinsius">Heinsius</rdg>
+    <rdg wit="#Ac">ποιήσει Ac</rdg>
+  </app>
+  <app loc="1460b 5">
+    <lem>τά τε</lem>
+    <rdg wit="#Ac">τὰ δὲ Ac</rdg>
+  </app>
+  <app loc="1460b 7">
+    <lem>ἂν</lem>
+    <rdg resp="#apogr">om. apogr.</rdg>
+  </app>
+
+  <app loc="1460b 8">
+    <lem>ἐπεὶ</lem>
+    <rdg wit="#Ac">εἴ pr. Ac</rdg>
+  </app>
+  <app loc="1460b 9">
+    <lem>τὸν ἀριθμὸν</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">τῶν ἀριθμῶν Ac</rdg>
+  </app>
+  <app loc="1460b 11">
+    <lem>ἢ</lem>
+    <rdg resp="#apogr">add. apogr.</rdg>
+  </app>
+  <app loc="1460b 16">
+    <lem>εἰ</lem>
+    <rdg wit="#Ac">ἡ pr. Ac</rdg>
+  </app>
+  <app loc="1460b 17">
+    <note>exciderunt fort. ἥμαρτε δὲ δι' εἰ</note>
+  </app>
+  <app loc="1460b 18">
+    <lem>τῷ</lem>
+    <rdg wit="#Riccardianus16">Riccardianus 16</rdg>
+    <rdg wit="#Parisinus2038">corr. Parisinus 2038</rdg>
+    <rdg wit="#Ac">ἡ Ac</rdg>
+  </app>
+  <app loc="1460b 20">
+    <lem>ἢ ἀδύνατα πεποίηται</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg>
+    <rdg wit="#Ac">τὸ Ac</rdg>
+    <note>induxit Duentzer</note>
+  </app>
+  <app loc="1460b 21">
+    <lem>ὁποῖ᾽ ἂν οὖν</lem>
+    <rdg resp="#Bywater">scripsi</rdg>
+    <rdg wit="#Ac">ὁποίαν ὀῦν Ac</rdg>
+    <rdg resp="#vulg">ὁποιανοῦν vulg.</rdg>
+    <rdg resp="#Winstanley">ὁποιαοῦν Winstanley</rdg>
+  </app>
+  <app loc="1460b 22">
+    <note>fort. ἐπιτιμήματα (τὰ)</note>
+  </app>
+  <app loc="1460b 22">
+    <lem>τὰ</lem>
+    <rdg wit="#Ac">τὰ (εἰ superscr. m. rec.) Ac</rdg>
+  </app>
+  <app loc="1460b 23">
+    <lem>εἰ</lem>
+    <rdg wit="#Parisinus2038">add. Parisinus 2038</rdg>
+    <rdg resp="#Vahlen">Vahlen</rdg>
+  </app>
+  <app loc="1460b 24">
+    <lem>αὐτῆς</lem>
+    <rdg resp="#apogr">apogr.</rdg>
+    <rdg wit="#Ac">αὐτῆσ Ac</rdg>
+  </app>
+  <app loc="1460b 27">
+    <lem>ἢ μὴ</lem>
+    <rdg resp="#Ueberweg">add. Ueberweg</rdg>
+    <rdg resp="#apogr">add. corr. Ac, apogr.</rdg>
+  </app>
+  <app loc="1460b 28">
+    <lem>ἡμαρτῆσθαι</lem>
+    <rdg resp="#Ac">μαρτῆσθαι pr. Ac</rdg>
+    <note>seclusi</note>
+  </app>
+</listApp>
+<listApp>
+  <app loc="1460b 31">
+    <lem>εἶδει</lem>
+    <rdg wit="#A">εἶδει pr. A</rdg> 
+  </app>
+  <app loc="1460b 32">
+    <lem>ἤ</lem>
+    <rdg wit="#A">η pr. A</rdg> 
+  </app>
+  <app loc="1460b 32">
+    <lem>εἰ ἀμιμήτως</lem>
+    <rdg wit="#A">η ἀμιμητωσ (corr. κἀμιμήτωσ) Α</rdg> 
+  </app>
+  <app loc="1460b 33">
+    <lem>ἴσως</lem>
+    <rdg wit="#A">οἷους m. rec. in marg. A</rdg> 
+  </app>
+  <app loc="1460b 34">
+    <lem>Εὐριπίδην</lem>
+    <rdg resp="#Heinsius">Heinsius</rdg> 
+    <rdg wit="#A">εὐριπίδησ Α</rdg> 
+  </app>
+  <app loc="1460b 36">
+    <lem>οὕτω</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg> 
+    <rdg wit="#Riccardianus16">οὕτω Riccardianus 16</rdg> 
+  </app>
+  <app loc="1460b 36">
+    <lem>οὔτε</lem>
+    <note>alterum om. apogr.</note> 
+  </app>
+  <app loc="1461a 1">
+    <lem>Ξενοφάνει</lem>
+    <rdg resp="#apogr">vel ξενοφάνης apogr.</rdg> 
+    <rdg wit="#Ac">ξενοφάνη A</rdg> 
+    <note>1461a 1 ξενοφάνει</note> 
+  </app>
+  <app loc="1461a 1">
+    <lem>φασί. τὰ δὲ</lem>
+    <rdg resp="#Spengel">Spengel</rdg> 
+    <rdg wit="#A">φασι τάδε. Α</rdg> 
+  </app>
+  <app loc="1461a 1">
+    <lem>οὖν</lem>
+    <rdg resp="#Tyrwhitt">Tyrwhitt</rdg> 
+    <rdg wit="#A">οὗ Α</rdg> 
+  </app>
+  <app loc="1461a 2">
+    <lem>ἔγχεα</lem>
+    <rdg wit="#A">ἔνχεα Α</rdg> 
+  </app>
+  <app loc="1461a 3">
+    <lem>τότε</lem>
+    <rdg wit="#A">νομίζον pr. A</rdg> 
+    <note>3 τότε</note> 
+  </app>
+  <app loc="1461a 6">
+    <lem>εἰ</lem>
+    <rdg wit="#A">ἢ Α</rdg> 
+    <note>6 εἰ] ἢ Α</note> 
+  </app>
+  <app loc="1461a 8">
+    <lem>οὗ ἕνεκεν</lem>
+    <rdg wit="#A">ὀῦν ἔκεν A</rdg> 
+    <note>8 οὗ ἕνεκεν] ὀῦν ἔκεν A</note> 
+  </app>
+  <app loc="1461a 9">
+    <lem>(ἤ)</lem>
+    <rdg resp="#apogr">add. corr. A, apogr.</rdg> 
+    <note>9 add. corr. A, apogr.</note> 
+  </app>
+  <app loc="1461a 12">
+    <lem>ὃς ῥ' ἤτοι</lem>
+    <rdg resp="#Vahlen">Vahlen</rdg> 
+    <rdg wit="#A">ὡσ ῥῆτοι (corr. rec. A)</rdg> 
+  </app>
+  <app loc="1461a 12">
+    <lem>ἔην</lem>
+    <rdg wit="#A">εἰ ἦν Α</rdg> 
+  </app>
+  <app loc="1461a 14">
+    <lem>(τὸ)</lem>
+    <rdg resp="#Bywater">addidi</rdg> 
+  </app>
+  <app loc="1461a 15">
+    <lem>κέραιε</lem>
+    <rdg wit="#A">κέραι έου pr. A</rdg> 
+  </app>
+  <app loc="1461a 16">
+    <lem>τὰ</lem>
+    <rdg resp="#Spengel">Spengel</rdg> 
+    <rdg wit="#A">τὸ Α</rdg> 
+  </app>
+
+  <app loc="1461a 17">
+    <lem>εἶδον</lem>
+    <note>post εἶδον intercidisse suspicor ἅπαντες</note> 
+  </app>
+  <app loc="1461a 17">
+    <lem>παννύχιοι</lem>
+    <rdg wit="#A">πανύχιοι pr. A</rdg> 
+  </app>
+  <app loc="1461a 18">
+    <lem>αὐλῶν συρίγγων τε ὁμαδόν</lem>
+    <rdg resp="#Sylburgius">αὐλῶν συρίγγων τ' ὅμαδον Sylburgius</rdg> 
+    <note>haud scio an integer versus ἐνοπὴν ὅμαδόν τ' ἀνθρώπων, sit resti- (Il. 10. 13)</note> 
+  </app>
+  <app loc="1461a 19">
+    <lem>(τοῦ)</lem>
+    <rdg resp="#apogr">add. apogr.</rdg> 
+    <note>tuendus τοῦ add. apogr.</note> 
+  </app>
+  <app loc="1461a 20">
+    <lem>οἵη</lem>
+    <rdg wit="#A">διη pr. (οἵη m. rec.)</rdg> 
+  </app>
+  <app loc="1461a 24">
+    <lem>θνήτ'</lem>
+    <rdg resp="#Morelius">Morelius</rdg> 
+    <rdg wit="#A">θνητὰ Α</rdg> 
+  </app>
+  <app loc="1461a 25">
+    <lem>ἀθάνατα</lem>
+    <rdg wit="#Riccardianus46">ἀθάνατ' (εἶναι) Riccardianus 46</rdg> 
+  </app>
+  <app loc="1461a 25">
+    <lem>κέκρητο</lem>
+    <rdg wit="#A">κέκρητο (ι superscr. m. rec.) A</rdg> 
+  </app>
+  <app loc="1461a 25">
+    <lem>ζωρά</lem>
+    <rdg resp="#Victorius">Victorius</rdg> 
+    <rdg wit="#A">ζωά Α</rdg> 
+  </app>
+  <app loc="1461a 25">
+    <lem>ἀμφιβολίᾳ</lem>
+    <rdg wit="#A">ἀμφιβόλια pr. A</rdg> 
+  </app>
+  <app loc="1461a 27">
+    <lem>τὸν κεκραμένον</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg>τῶν κεκραμένων</rdg> 
+  </app>
+  <app loc="1461a 30">
+    <lem>πινόντων</lem>
+    <rdg wit="#A">πεινόντων pr. A</rdg> 
+  </app>
+  <app loc="1461a 30">
+    <lem>οἰνοχοεύειν</lem>
+    <rdg wit="#A">οἰνοχοεύει Α</rdg> 
+  </app>
+  <app loc="1461a 31">
+    <lem>ὄνομα</lem>
+    <rdg wit="#A">ὀνόματι A</rdg> 
+  </app>
+  <app loc="1461a 32">
+    <lem>ὑπεναντίωμά τι</lem>
+    <rdg wit="#A">ὑπεναντιώματι (fuit -ίω-) δοκεῖ Α</rdg> 
+  </app>
+  <app loc="1461a 33">
+    <lem>σημαίνοι</lem>
+    <rdg resp="#Vahlen">Vahlen (ed. 1)</rdg> 
+    <rdg wit="#A">σημαίνοιε Α</rdg> 
+    <rdg resp="#apogr">σημήνειεν apogr.</rdg> 
+  </app>
+  <app loc="1461a 33">
+    <lem>τῷ</lem>
+    <rdg resp="#Bywater">scripsi</rdg> 
+    <rdg wit="#A">τὸ Α</rdg> 
+  </app>
+  <app loc="1461a 35">
+    <lem>(ὡδὶ)</lem>
+    <rdg resp="#Vahlen" wit="#Riccardianus46">add. Riccardianus 46, Vahlen</rdg> 
+  </app>
+  <app loc="1461b 1">
+    <lem>ὅτι</lem>
+    <rdg wit="#A">τί Α (marg. m. rec. ὅτι)</rdg> 
+  </app>
+  <app loc="1461b 2">
+    <lem>εἰρηκότος</lem>
+    <rdg wit="#Riccardianus46">Riccardianus 46</rdg> 
+    <rdg wit="#A">εἰρηκότεσ Α</rdg> 
+  </app>
+
+  <app loc="1461b 3">
+    <lem>ἐπιτιμῶσιν</lem>
+    <rdg wit="#A">ἐπειτιμῶσιν pr. A</rdg> 
+  </app>
+  <app loc="1461b 3">
+    <lem>αὑτῶν</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg> 
+    <rdg wit="#A">αὐτῶν Α</rdg> 
+  </app>
+  <app loc="1461b 4">
+    <lem>πέπονθε</lem>
+    <rdg wit="#A">πέπονθε A περ ἱκάριον Α</rdg> 
+  </app>
+  <app loc="1461b 5">
+    <lem>Τηλέμαχον</lem>
+    <rdg wit="#A">τιλέμαχον Α</rdg> 
+  </app>
+  <app loc="1461b 6">
+    <lem>Κεφαλλήνες</lem>
+    <rdg resp="#Tyrwhitt">Tyrwhitt</rdg> 
+    <rdg wit="#A">κεφαλῆνεσ Α</rdg> 
+  </app>
+  <app loc="1461b 7">
+    <lem>αὑτῶν</lem>
+    <rdg wit="#Vaticanus1400">Vaticanus 1400</rdg> 
+    <rdg wit="#A">αὐτῶν Α</rdg> 
+  </app>
+  <app loc="1461b 8">
+    <lem>δι' ἁμάρτημα</lem>
+    <rdg resp="#Madius">Madius (errore Valla)</rdg> 
+    <rdg wit="#A">διαμάρτημα Α</rdg> 
+  </app>
+  <app loc="1461b 9">
+    <lem>(εἶναι) εἰκός</lem>
+    <rdg resp="#Hermann">Hermann</rdg> 
+  </app>
+  <app loc="1461b 11">
+    <lem>πιθανὸν</lem>
+    <rdg wit="#A">πειθανὸν A</rdg> 
+  </app>
+  <app loc="1461b 12">
+    <lem>ἀπίθανον</lem>
+    <rdg wit="#A">ἀπείθανον Α</rdg> 
+    <note>καὶ εἰ ἀδύνατον intercidisse coni. Vahlen (confirm. Ar.)</note> 
+  </app>
+  <app loc="1461b 12">
+    <lem>οἵους</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg> 
+    <rdg wit="#A">οἷον A</rdg> 
+  </app>
+  <app loc="1461b 15">
+    <lem>ὑπεναντίως</lem>
+    <rdg resp="#Twining">Twining</rdg> 
+    <rdg wit="#A">ὑπεναντία ὡσ A</rdg> 
+  </app>
+  <app loc="1461b 18">
+    <lem>φρόνιμος</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg wit="#A">φρόνημον (corr. φρόνιμον) A</rdg> 
+  </app>
+  <app loc="1461b 19">
+    <lem>ἀλογίᾳ καὶ μοχθηρίᾳ</lem>
+    <rdg resp="#Vahlen">Vahlen</rdg> 
+    <rdg wit="#A">ἀλογία καὶ μοχθηρία A</rdg> 
+  </app>
+  <app loc="1461b 21">
+    <lem>Αἰγεῖ</lem>
+    <rdg wit="#Riccardianus16">margo Riccardiani 16</rdg> 
+    <rdg wit="#A">αἰγειήτη Α</rdg> 
+    <note>21 Αἰγεῖ ἡ</note> 
+  </app>
+  <app loc="1461b 21">
+    <lem>(τῇ)</lem>
+    <rdg resp="#Vahlen">Vahlen</rdg> 
+    <note>η addendum coni. Vahlen</note> 
+  </app>
+
+  <app loc="1461b 25">
+    <lem>σκεπτέαι</lem>
+    <rdg wit="#A">σκεπταίαι A</rdg> 
+  </app>
+  <app loc="1461b 26">
+    <lem>βελτίων</lem>
+    <rdg wit="#A">βελτίον A</rdg> 
+  </app>
+  <app loc="1461b 28">
+    <lem>δ' ἡ</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg wit="#A">δὴ A</rdg> 
+  </app>
+  <app loc="1461b 28">
+    <lem>ἀεί, λίαν</lem>
+    <rdg resp="#Vahlen">Vahlen</rdg> 
+    <rdg wit="#A">δειλίαν A</rdg> 
+  </app>
+  <app loc="1461b 29">
+    <lem>(πρὸς)</lem>
+    <rdg resp="#Bywater">addidi</rdg> 
+  </app>
+  <app loc="1461b 30">
+    <lem>κινοῦνται</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg wit="#A">κινοῦντα A</rdg> 
+  </app>
+  <app loc="1462a 1">
+    <lem>δ'</lem>
+    <note>alterum om. apogr.</note> 
+  </app>
+  <app loc="1462a 1">
+    <lem>αὐτούς</lem>
+    <rdg resp="#Hermann">Hermann</rdg> 
+    <rdg wit="#A">αὐτοὺσ A</rdg> 
+  </app>
+  <app loc="1462a 3">
+    <lem>(οἳ)</lem>
+    <rdg resp="#Victorius">add. Victorius</rdg> 
+  </app>
+  <app loc="1462a 3">
+    <lem>σχημάτων τὴν</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg wit="#A">σχημά | τα αὐτὴν (τα αὐ m. rec. in loco macula deformato) A</rdg> 
+  </app>
+  <app loc="1462a 4">
+    <lem>εἰ</lem>
+    <rdg wit="#A">ἢ Α</rdg> 
+  </app>
+  <app loc="1462a 5">
+    <lem>μὲν</lem>
+    <rdg wit="#Parisinus2038">(οὖν) Parisinus 2038</rdg> 
+  </app>
+  <app loc="1462a 7">
+    <lem>ἐστὶ</lem>
+    <rdg resp="#Duentzer">induxit Duentzer</rdg> 
+  </app>
+  <app loc="1462a 7">
+    <lem>διάδοντα</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg wit="#A">διαδόντα A</rdg> 
+  </app>
+  <app loc="1462a 8">
+    <lem>Ὀπούντιος</lem>
+    <rdg wit="#A">ὁ πούντιοσ A</rdg> 
+  </app>
+  <app loc="1462a 10">
+    <lem>ἐπετιμᾶτο</lem>
+    <rdg wit="#A">ἐπιτιμᾶτο pr. A</rdg> 
+  </app>
+  <app loc="1462a 11">
+    <lem>αὐτῆς</lem>
+    <rdg wit="#A">αὐτῆσ A</rdg> 
+  </app>
+
+  <app loc="1462a 14">
+    <lem>αὐτῇ</lem>
+    <rdg wit="#A">αὐτὴ pr. A</rdg> 
+  </app>
+  <app loc="1462a 17">
+    <lem>ἀναγνώσει</lem>
+    <rdg resp="#Madius">Madius (e codd. quibusdam)</rdg> 
+    <rdg wit="#A">ἀναγνωρίσει Α</rdg> 
+  </app>
+  <app loc="1462a 18">
+    <lem>ἔτι τὸ</lem>
+    <rdg resp="#Jortin">coni. Jortin, Winstanley</rdg> 
+    <rdg wit="#A">ἔτι τῶι A</rdg> 
+  </app>
+  <app loc="1462a 18">
+    <lem>ἐλάττονι</lem>
+    <rdg wit="#A">ἐλάττωνι A</rdg> 
+  </app>
+  <app loc="1462b 1">
+    <lem>ἥδιον</lem>
+    <rdg resp="#Madius">Madius (confirm. Ar.)</rdg> 
+    <rdg wit="#A">ἡδονὴ A</rdg> 
+  </app>
+  <app loc="1462b 2">
+    <lem>τὸν</lem>
+    <rdg wit="#A">τὸ pr. A</rdg> 
+    <note>2 τὸν δίπουν pr. A θείη bis A</note> 
+  </app>
+  <app loc="1462b 3">
+    <lem>ἡ Ἰλιάς</lem>
+    <rdg wit="#Riccardianus16">Riccardianus 16</rdg> 
+    <rdg wit="#A">ἢ ἰλίασ (fuit ἰδίασ) A</rdg> 
+  </app>
+  <app loc="1462b 3">
+    <lem>μία ἡ</lem>
+    <rdg resp="#Spengel">Spengel</rdg> 
+    <rdg wit="#A">ἡ μία A</rdg> 
+  </app>
+  <app loc="1462b 6">
+    <lem>μείουρον</lem>
+    <rdg wit="#Parisinus2038">Parisinus 2038</rdg> 
+    <rdg wit="#A">μύουρον A</rdg> 
+  </app>
+  <app loc="1462b 7">
+    <lem>τοῦ μέτρου</lem>
+    <rdg resp="#Bernays">συμμέτρῳ Bernays</rdg> 
+  </app>
+  <app loc="1462b 9">
+    <lem>Ὀδύσσεια</lem>
+    <rdg resp="#apogr">add. apogr.</rdg> 
+  </app>
+  <app loc="1462b 10">
+    <lem>καίτοι ταῦτα τὰ</lem>
+    <rdg resp="#apogr">apogr.</rdg> 
+    <rdg wit="#A">καὶ τοιαῦτ' ἄττα A</rdg> 
+  </app>
+  <app loc="1462b 18">
+    <lem>εἰ</lem>
+    <rdg wit="#A">ἢ A</rdg> 
+  </app>
+</listApp>
+
+</div>
+    </body>
+    </text>
+</TEI>

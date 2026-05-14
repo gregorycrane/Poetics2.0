@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Commentary on Aristotle: Poetics</title>
+				<author>Ingram Bywater</author>
+				<sponsor>Perseus Project, Tufts University</sponsor>
+				<principal>Gregory Crane</principal>
+				<respStmt>
+					<resp>Prepared under the supervision of</resp>
+					<name>Gemini Philologist AI</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford Clarendon Press</publisher>
+				<pubPlace>Oxford, UK</pubPlace>
+				<authority>Perseus Digital Library Project</authority>
+				<date type="release" when="1909" cert="high">1909</date>
+				<idno type="filename">Bywater.Poetics.Commentary.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available
+						under a Creative Commons Attribution-ShareAlike 4.0 International
+						License</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Aristotle, On the art of poetry</title>
+						<author>Aristotle</author>
+						<editor role="translator">Ingram Bywater</editor>
+						<editor role="author-of-introduction">Gilbert Murray</editor>
+						<imprint>
+							<pubPlace>Oxford</pubPlace>
+							<publisher>Clarendon Press</publisher>
+							<date>1909</date>
+						</imprint>
+						<biblScope unit="page">xlvii, 387 p.</biblScope>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<refsDecl n="CTS">
+				<cRefPattern n="commline" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+					<p>This pointer extracts Bekker page and commline</p>
+				</cRefPattern>
+				<cRefPattern n="section" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+					<p>This pointer extracts Bekker page</p>
+				</cRefPattern>
+			</refsDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Greek</language>
+				<language ident="lat">Latin</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body n="urn:cts:greekLit:tlg0086.tlg034.perseus-eng2" xml:lang="eng">
+			<div type="commentary" n="urn:cts:greekLit:tlg0086.tlg034.perseus-eng2" xml:lang="eng">
+				<div type="textpart" n="1447a" subtype="section" corresp="urn:cts:greekLit:tlg0086.tlg034:1447a">
+					<div type="textpart" subtype="commline" n="1447a8">
+						<p>
+							<s ana="#τῶν_εἰδῶν_αὐτῆς_1">τῶν εἰδῶν αὐτῆς</s>
+							<gloss xml:id="τῶν_εἰδῶν_αὐτῆς_1">
+								The <foreign xml:lang="grc">εἴδη</foreign> meant are epic poetry, Tragedy, and Comedy, as is clear from <cit><bibl n="Aristot. Poet. 1449b.21">6, 1449 b 21</bibl></cit>, where the main subjects for consideration in the Poetics are enumerated[cite: 1]. 
+								Lyric poetry, apart from an occasional reference to the Dithyramb and Nome, or the chorica in Tragedy, is ignored in the existing Poetics[cite: 2]; 
+								and there is little or no reason to suppose it to have been discussed in the lost portion of the book[cite: 3]. 
+								The probability is that, from the importance of its musical element, it belonged in Aristotle's classification of the arts to the theory of <foreign xml:lang="grc">μελοποία</foreign> rather than to that of poetry proper[cite: 4]. 
+								The work of the two lyric poets Phrynis and Timotheus is put under the head of <foreign xml:lang="grc">μελοποιία</foreign> in <cit><bibl n="Aristot. Met. 993b.15">Metaph. a 1, 993 b 15</bibl></cit>[cite: 5]; 
+								and in the Problems, where Phrynichus is said to have been a <foreign xml:lang="grc">μελοποιός</foreign> rather than a tragedian (<cit><bibl n="Aristot. Prob. 920.11">Probl. 18. 31, 920 II</bibl> <quote xml:lang="grc">Διὰ τί οἱ περὶ Φρύνιχον ἦσαν μᾶλλον μελοποιοί; διὰ τὸ πολλαπλάσια εἶναι τότε τὰ μέλη ἐν ταῖς τραγῳδίαις τῶν μέτρων ;</quote></cit>), the same view is implied of the lyric parts of Tragedy[cite: 6]. 
+								It is to be remembered too that Aristophanes in <cit><bibl n="Aristoph. Frogs 1250">Ran. 1250</bibl></cit> makes Euripides begin his criticism of the chorica in Aeschylus by calling him a <foreign xml:lang="grc">κακὸς μελοποιός</foreign>[cite: 7, 8].
+								For the antithesis in the text comp. <cit><bibl n="Aristot. Poet. 1462b.16">26, 1462 b 16</bibl> <quote xml:lang="grc">καὶ αὐτῶν καὶ τῶν εἰδῶν</quote></cit>. 
+								—<cit><bibl n="Aristot. Top. 106.37">Top. 1. 15, 106 37</bibl> <quote xml:lang="grc">ὁμοίως δὲ καὶ ἐπὶ τῶν ἄλλων [scil. ὀνομάτων], ὅταν αὐτὸ πλεοναχῶς λέγηται, καὶ ἡ πτῶσις ἡ ἀπ᾿ αὐτοῦ πλεοναχῶς ῥηθήσεται, καὶ εἰ ἡ πτῶσις, καὶ αὐτό</quote></cit>. 
+								—<cit><bibl n="Aristot. Eud. Eth. 1248b.22">Eth. E. 7. 15, 1248 b 22</bibl> <quote xml:lang="grc">δικαιοσύνη καὶ αὐτὴ καὶ αἱ πράξεις</quote></cit>[cite: 9, 10, 11, 12].
+							</gloss>
+						</p>
+						<p>
+							<s ana="#ἦν_τινα_δύναμιν_ἕκαστον_ἔχει_1">ἦν τινα δύναμιν ἕκαστον ἔχει</s>
+							<gloss xml:id="ἦν_τινα_δύναμιν_ἕκαστον_ἔχει_1">
+								= <foreign xml:lang="grc">ὅ τι δύναται ἕκαστον</foreign>: comp. <cit><bibl n="Aristot. Pol. 1302b.5">Pol. 5. 2, 1302 b 5</bibl> <quote xml:lang="grc">τούτων δὲ ὕβρις μὲν καὶ κέρδος τίνα ἔχουσι δύναμιν καὶ πῶς αἴτια, σχεδόν ἐστι φανερόν δῆλον δὲ καὶ ἡ τιμὴ καὶ τί δύναται καὶ πῶς αἰτία στάσεως</quote></cit>[cite: 13, 14].
+								Each species of poetry has its special capacities, which enable it to do what the rest either cannot do at all or cannot do so well and effectively[cite: 15]. 
+								Other Aristotelian instances of <foreign xml:lang="grc">δύναμις</foreign> with a sense approximating to our 'function' or 'effect' will be found in <cit><bibl>Bon. Ind. 206 b 29</bibl></cit>[cite: 16, 17].
+							</gloss>
+						</p>
+					</div>
+					<div type="textpart" subtype="commline" n="1447a9">
+						<p>
+							<s ana="#συνίστασθαι_1">συνίστασθαι</s>
+							<gloss xml:id="συνίστασθαι_1">
+								<foreign xml:lang="grc">συνίστασθαι</foreign> is a passive in <cit><bibl n="Aristot. Poet. 1462b.16">26, 1462 b 16</bibl></cit>, and probably also in <cit><bibl n="Aristot. Poet. 1460a.28">24, 1460 a 28</bibl></cit>[cite: 17]. 
+								That it is a passive in the present passage is shown by the parallels, <cit><bibl n="Aristot. Poet. 1450b.32">τοὺς συνεστῶτας εὖ μύθους in 7, 1450 b 32</bibl></cit>, and <cit><bibl n="Aristot. Poet. 1453b.4">οὕτω συνεστάναι τὸν μῦθον in 14, 1453 b 4</bibl></cit>[cite: 17].
+							</gloss>
+						</p>
+					</div>
+					<div type="textpart" subtype="commline" n="1447a10">
+						<p>
+							<s ana="#καλῶς_ἔξειν_1">καλῶς ἔξειν</s>
+							<gloss xml:id="καλῶς_ἔξειν_1">
+								: <cit><bibl n="Aristot. Poet. 1453a.12">13, 1453 a 12</bibl></cit>[cite: 18].
+							</gloss>
+						</p>
+					</div>
+				</div>
+
+<div type="textpart" n="1447a" subtype="section" corresp="urn:cts:greekLit:tlg0086.tlg034:1447a">
+					
+					<div type="textpart" subtype="commline" n="1447a10">
+						<p>
+							<s ana="#ἔτι_δὲ_ἐκ_πόσων_καὶ_ποίων_ἐστὶ_μορίων_1">ἔτι δὲ ἐκ πόσων καὶ ποίων ἐστὶ μορίων</s>
+							<gloss xml:id="ἔτι_δὲ_ἐκ_πόσων_καὶ_ποίων_ἐστὶ_μορίων_1">
+								scil. <foreign xml:lang="grc">ἡ ποίησις</foreign>. Many of the translators, however, suppose the subject to be <foreign xml:lang="grc">ἕκαστον εἶδος</foreign> ('ex quot et cujusmodi partibus constent singulae species,' Goulston). The question is considered in chap. 6 in reference to Tragedy, and in <cit><bibl n="Aristot. Poet. 1450b.10">24, 1450 b 10</bibl></cit> in reference to epic poetry.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a12">
+						<p>
+							<s ana="#περὶ_τῶν_ἄλλων_ὅσα_τῆς_αὐτῆς_ἐστι_μεθόδου_1">περὶ τῶν ἄλλων ὅσα τῆς αὐτῆς ἐστι μεθόδου</s>
+							<gloss xml:id="περὶ_τῶν_ἄλλων_ὅσα_τῆς_αὐτῆς_ἐστι_μεθόδου_1">
+								: <cit><bibl n="Aristot. SE. 183b.12">Soph. el. 33, 183 b 12</bibl> <quote xml:lang="grc">δεδήλωται δὲ καὶ περὶ τῶν ἄλλων ὅσα τῆς αὐτῆς μεθόδου τῶν λόγων ἐστίν</quote></cit>. The meaning of <foreign xml:lang="grc">μέθοδος</foreign>, a favourite word with Aristotle, has been discussed by Waitz, Org. 2 p. 297 (comp. Bon. Ind. 449 b 43).
+							</gloss>
+						</p>
+						<p>
+							<s ana="#λέγωμεν_ἀρξάμενοι_1">λέγωμεν ἀρξάμενοι κτέ.</s>
+							<gloss xml:id="λέγωμεν_ἀρξάμενοι_1">
+								The language here is very like that in <cit><bibl n="Aristot. SE. 164a.20">Soph. el. 1, 164 a 20</bibl> <quote xml:lang="grc">περὶ δὲ τῶν σοφιστικῶν ἐλέγχων . . . λέγωμεν ἀρξάμενοι κατὰ φύσιν ἀπὸ τῶν πρώτων</quote></cit> (comp. De sensu 1, 436 b; De part. an. 1. 5, 646 a 3; 2. 10, 655 b 28; Eth. E. 1. 7, 1217 a 18; Rhet. 1. 13, 1373 b 1). In order to determine the definition of poetry, or rather of Tragedy as the highest form of the art, Aristotle starts with the assumption that Tragedy, together with certain other allied arts, comes under the general head of <foreign xml:lang="grc">μίμησις</foreign>, 'imitation,' and then proceeds by successive divisions of this genus to note one by one the various points which differentiate it from the rest.
+								(1) Tragedy has language, metre, and music as its means of imitation; the music in it, however, comes in only from time to time, in the choral parts—which distinguishes it from the Nome and the Dithyramb. 
+								(2) It represents noble personages—which distinguishes it from Comedy. 
+								(3) It has a dramatic form—which distinguishes it from the Epic. 
+								The logical order here exemplified is what Aristotle regards as the natural order of procedure: <cit><bibl n="Aristot. Phys. 189a.31">Phys. 1. 7, 189 a 31</bibl> <quote xml:lang="grc">ἔστι γὰρ κατὰ φύσιν τὰ κοινὰ πρῶτον εἰπόντας οὕτω τὰ περὶ ἕκαστον ἴδια θεωρεῖν</quote></cit>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a13">
+						<p>
+							<s ana="#ἐποποιία_1">ἐποποιία κτέ.</s>
+							<gloss xml:id="ἐποποιία_1">
+								This enumeration of imitative arts comprises the four great species of poetry distinguished by Plato in <cit><bibl n="Plat. Rep. 394c">Rep. 394 c</bibl></cit>, together with two purely musical arts, <foreign xml:lang="grc">αὐλητική</foreign> and <foreign xml:lang="grc">κιθαριστική</foreign>. These last may be supposed to be added partly on account of the manifest analogy between them and poetry, both being imitative arts appealing to the ear, and partly also on account of the historical connexion of poetry with music (comp. <cit><bibl n="Cic. de Orat. 3.174">Cicero De Orat. 3, 174</bibl> <quote xml:lang="lat">musici, qui erant quondam idem poetae</quote></cit>).
+							</gloss>
+						</p>
+						<p>
+							<s ana="#ἡ_τῆς_τραγωδίας_ποίησις_1">ἡ τῆς τραγωδίας ποίησις</s>
+							<gloss xml:id="ἡ_τῆς_τραγωδίας_ποίησις_1">
+								: <cit><bibl n="Aristot. Poet. 1449b.26">6, 1449 b 26</bibl> <quote xml:lang="grc">ἡ τῶν διθυραμβικῶν ποίησις</quote></cit>. — <cit><bibl n="Plat. Gorg. 501e">Plato Gorg. 501 e</bibl> <quote xml:lang="grc">ἡ τῶν διθυράμβων ποίησις</quote></cit>; <cit><bibl n="Plat. Gorg. 502b">502 b</bibl> <quote xml:lang="grc">ἡ τῆς τραγῳδίας ποίησις</quote></cit>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a14">
+						<p>
+							<s ana="#διθυραμβοποιητική_1">διθυραμβοποιητική</s>
+							<gloss xml:id="διθυραμβοποιητική_1">
+								Plato cites the Dithyramb as an instance of the non-imitative type of poetry: <cit><bibl n="Plat. Rep. 394c">Rep. 394 c</bibl> <quote xml:lang="grc">τῆς ποιήσεως . . . ἡ μὲν διὰ μιμήσεως ὅλη ἐστίν, ὥσπερ σὺ λέγεις, τραγῳδία τε καὶ κωμῳδία, ἡ δὲ δι᾽ ἀπαγγελίας αὐτοῦ τοῦ ποιητοῦ εὕροις δ᾽ ἂν αὐτὴν μάλιστά που ἐν διθυράμβοις</quote></cit>. By Aristotle's time, however, the Dithyramb (as also the Nome) had lost its original form, and become 'imitative' or semi-dramatic. This change is noted in <cit><bibl n="Aristot. Prob. 918b.18">Probl. 19. 15, 918 b 18</bibl> <quote xml:lang="grc">οἱ διθύραμβοι, ἐπειδὴ μιμητικοὶ ἐγένοντο, οὐκέτι ἔχουσιν ἀντιστρόφους, πρότερον δὲ εἶχον</quote></cit>. Aristotle cites it as representing an imitative or dramatic form of lyric—a lyrical <foreign xml:lang="grc">μίμησις</foreign>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a15">
+						<p>
+							<s ana="#τῆς_αὐλητικῆς_ἡ_πλείστη_1">τῆς αὐλητικῆς ἡ πλείστη</s>
+							<gloss xml:id="τῆς_αὐλητικῆς_ἡ_πλείστη_1">
+								: <cit><bibl n="Aristot. DC. 298b.2">De Caelo 3. 1, 298 b 2</bibl> <quote xml:lang="grc">τὴν πλείστην τῆς περὶ φύσεως ἱστορίας</quote></cit>. The <foreign xml:lang="grc">αὐλός</foreign> was the accompaniment of the Dithyramb and the <foreign xml:lang="grc">κιθάρα</foreign> of the Nome. Aristotle is thinking rather of music without words, i.e. <foreign xml:lang="grc">ψιλὴ αὔλησις</foreign> and <foreign xml:lang="grc">ψιλὴ κιθάρισις</foreign>. Plato in the Laws (669 d) sets his face against this purely instrumental music on the ground that it ends in a mere display of technical execution (<foreign xml:lang="grc">θαυματουργία</foreign>) and a 'brutish noise' (<foreign xml:lang="grc">φωνῆς θηριώδους σφόδρα φίλον</foreign>). Aristotle's qualified form of expression show he is not unaware of exceptions.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a16">
+						<p>
+							<s ana="#μιμήσεις_1">μιμήσεις</s>
+							<gloss xml:id="μιμήσεις_1">
+								The general meaning of <foreign xml:lang="grc">μιμεῖσθαι</foreign> is either 'to do what another has done', or 'to make something like something else'. The primitive sense must have been 'to play the <foreign xml:lang="grc">μίμος</foreign>,' to reproduce language, tones, gestures, etc.. In actual use the word includes counterfeiting movement (dancer), voice (musician), and forms (painter/sculptor). Plato in the Republic opposes <foreign xml:lang="grc">μίμησις</foreign> to narrative, restricting it to the dramatic mode (<cit><bibl n="Plat. Rep. 393b">Rep. 393 b</bibl></cit>, <cit><bibl n="Plat. Rep. 394b">394 b</bibl></cit>). In the Poetics, Aristotle is inconsistent, including narrative in one place (<cit><bibl n="Aristot. Poet. 1448a.21">3, 1448 a 21</bibl></cit>) and excluding it in another (<cit><bibl n="Aristot. Poet. 1460a.9">24, 1460 a 9</bibl></cit>).
+							</gloss>
+						</p>
+						<p>
+							<s ana="#τὸ_σύνολον_1">τὸ σύνολον</s>
+							<gloss xml:id="τὸ_σύνολον_1">
+								qualifies <foreign xml:lang="grc">πᾶσαι</foreign>, what is said of the class as a whole being opposed to the specific differences; comp. <cit><bibl n="Plat. Soph. 220b">Plato Soph. 220 b</bibl></cit>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a17">
+						<p>
+							<s ana="#τῷ_γένει_ἑτέροις_1">τῷ γένει ἑτέροις</s>
+							<gloss xml:id="τῷ_γένει_ἑτέροις_1">
+								Forchhammer's correction <foreign xml:lang="grc">τῷ ἐν ἑτέροις</foreign> is supposed to be confirmed by 22 and b 29. The sense, however, is just as well expressed by the simple dative. As the means under consideration—<foreign xml:lang="grc">λόγος</foreign>, <foreign xml:lang="grc">ἁρμονία</foreign>, and <foreign xml:lang="grc">ῥυθμός</foreign>—differ in kind, they are rightly described as <foreign xml:lang="grc">γένει ἕτερα</foreign>. Aristotle often omits the article in such formulas: <cit><bibl n="Aristot. Top. 103a.13">Top. 1. 7, 103 a 13</bibl> <quote xml:lang="grc">γένει ταὐτά</quote></cit>; <cit><bibl n="Aristot. HA. 497b.9">H. A. 2. 1, 497 b 9</bibl></cit>; <cit><bibl n="Aristot. Met. 1059a.14">Metaph. I 10, 1059 a 14</bibl> <quote xml:lang="grc">γένει ἕτερα</quote></cit>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a18">
+						<p>
+							<s ana="#ἢ_τῷ_ἕτερα_ἢ_τῷ_ἑτέρως_1">ἢ τῷ ἕτερα ἢ τῷ ἑτέρως</s>
+							<gloss xml:id="ἢ_τῷ_ἕτερα_ἢ_τῷ_ἑτέρως_1">
+								The distinction is already in Plato, <cit><bibl n="Plat. Rep. 398b">Rep. 398 b</bibl> <quote xml:lang="grc">ἅ τε γὰρ λεκτέον καὶ ὡς λεκτέον εἴρηται</quote></cit>.
+							</gloss>
+						</p>
+						<p>
+							<s ana="#καὶ_μὴ_τὸν_αὐτὸν_τρόπον_1">καὶ μὴ τὸν αὐτὸν τρόπον</s>
+							<gloss xml:id="καὶ_μὴ_τὸν_αὐτὸν_τρόπον_1">
+								Other instances of <foreign xml:lang="lat">parallelismus antitheticus</foreign> will be found in 3, 1448 a 22; 6, 1449 b 26; 15, 1454 a 30; 24, 1460 a 16.
+							</gloss>
+						</p>
+						<p>
+							<s ana="#ὥσπερ_γὰρ_1">ὥσπερ γὰρ κτέ.</s>
+							<gloss xml:id="ὥσπερ_γὰρ_1">
+								Aristotle prepares us for the difference of means in these arts by pointing to the difference of means in a larger group. The distinction between arts addressing the eye and the ear is frequently noted by Plato (<cit><bibl n="Plat. Rep. 373b">Rep. 373 b</bibl></cit>, <cit><bibl n="Plat. Rep. 603b">603 b</bibl></cit>; <cit><bibl n="Plat. Crat. 423d">Crat. 423 d</bibl></cit>; <cit><bibl n="Plat. Gorg. 474e">Gorg. 474 e</bibl></cit>). Aristotle has a special reason for saying <foreign xml:lang="grc">ἕτεροι δὲ διὰ τῆς φωνῆς</foreign>, because the imitative capacity of the voice renders language and poetry possible: <cit><bibl n="Aristot. Rhet. 1404a.21">Rhet. 3. 1, 1404 a 21</bibl> <quote xml:lang="grc">ὑπῆρξε δὲ καὶ ἡ φωνὴ πάντων μιμητικώτατον τῶν μορίων ἡμῖν</quote></cit>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a19">
+						<p>
+							<s ana="#πολλά_1">πολλά</s>
+							<gloss xml:id="πολλά_1">
+								is not otiose. The art of the painter or sculptor has limits; it can only indirectly express character and feeling. The theory in Lessing's Laocoon is based on an idea already in Aristotle.
+							</gloss>
+						</p>
+						<p>
+							<s ana="#μιμοῦνταί_τινες_ἀπεικάζοντες_1">μιμοῦνταί τινες ἀπεικάζοντες</s>
+							<gloss xml:id="μιμοῦνταί_τινες_ἀπεικάζοντες_1">
+								: <cit><bibl n="Xen. Mem. 3.10.1">Xenophon Mem. 3. 10. 1</bibl> <quote xml:lang="grc">σώματα διὰ τῶν χρωμάτων ἀπεικάζοντες ἐκμιμεῖσθε</quote></cit>.
+							</gloss>
+						</p>
+						<p>
+							<s ana="#οἱ_μὲν_διὰ_τέχνης_οἱ_δὲ_διὰ_συνηθείας_1">οἱ μὲν διὰ τέχνης οἱ δὲ διὰ συνηθείας</s>
+							<gloss xml:id="οἱ_μὲν_διὰ_τέχνης_οἱ_δὲ_διὰ_συνηθείας_1">
+								is thrown in parenthetically, like 8, 1451 a 24 <quote xml:lang="grc">ἤτοι διὰ τέχνην ἢ διὰ φύσιν</quote>. As opposed to <foreign xml:lang="grc">τέχνη</foreign>, <foreign xml:lang="grc">συνήθεια</foreign> means much the same as <foreign xml:lang="grc">ἐμπειρία</foreign> (<cit><bibl n="Aristot. NE. 1158a.14">Eth. N. 8. 7, 1158 a 14</bibl></cit>; <cit><bibl n="Aristot. NE. 1181a.9">10. 10, 1181 a 9</bibl></cit>). The contrast is between skill depending on practice and that directed by consciousness of rules.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a20">
+						<p>
+							<s ana="#ἕτεροι_δὲ_1">ἕτεροι δὲ</s>
+							<gloss xml:id="ἕτεροι_δὲ_1">
+								corresponds to a foregoing <foreign xml:lang="grc">τινές</foreign> in <cit><bibl n="Aristot. NE. 1094b.18">Eth. N. 1. 1, 1094 b 18</bibl></cit>.
+							</gloss>
+						</p>
+						<p>
+							<s ana="#διὰ_τῆς_φωνῆς_1">διὰ τῆς φωνῆς = τῇ φωνῇ</s>
+							<gloss xml:id="διὰ_τῆς_φωνῆς_1">
+								Aristotle has allowed himself to repeat the prepositional construction used in the parenthesis. The emendation of Madius, <foreign xml:lang="grc">διὰ τῆς φύσεως</foreign>, ignores the whole point of the analogy: the diversity of means. The diversity of means in the group under consideration—<foreign xml:lang="grc">λόγος</foreign>, <foreign xml:lang="grc">ῥυθμός</foreign>, and <foreign xml:lang="grc">ἁρμονία</foreign>—is like the diversity of <foreign xml:lang="grc">χρώματα</foreign>, <foreign xml:lang="grc">σχήματα</foreign>, and <foreign xml:lang="grc">φωνή</foreign>.
+							</gloss>
+						</p>
+					</div>
+
+					<div type="textpart" subtype="commline" n="1447a22">
+						<p>
+							<s ana="#ἐν_ῥυθμῷ_καὶ_λόγῳ_καὶ_ἁρμονίᾳ_1">ἐν ῥυθμῷ καὶ λόγῳ καὶ ἁρμονίᾳ</s>
+							<gloss xml:id="ἐν_ῥυθμῷ_καὶ_λόγῳ_καὶ_ἁρμονίᾳ_1">
+								The three terms had already appeared in Plato's analysis of the choral in <cit><bibl n="Plat. Rep. 398d">Rep. 398 d</bibl> <quote xml:lang="grc">τὸ μέλος ἐκ τριῶν ἐστι συγκείμενον, λόγου τε καὶ ἁρμονίας καὶ ῥυθμοῦ</quote></cit>. Aristotle also uses <foreign xml:lang="grc">μέλος</foreign> in place of <foreign xml:lang="grc">ἁρμονία</foreign> (<cit><bibl n="Aristot. Poet. 1447b.25">1, 1447 b 25</bibl></cit>; <cit><bibl n="Aristot. Poet. 1449b.31">6, 1449 b 31</bibl></cit>). It is clear that <foreign xml:lang="grc">ἁρμονία</foreign> means no more than 'melody' or 'tune'. <foreign xml:lang="grc">ῥυθμός</foreign> is properly 'time' or 'pace', including rhythm in language, dance, and music; comp. <cit><bibl n="Plat. Laws 665a">Plato Laws 665 a</bibl></cit>. The various applications are summarized in Aristoxenus (p. 411, 8 Marquard): <quote xml:lang="grc">ἔστι δὲ τὰ ῥυθμιζόμενα τρία· λέξις, μέλος, κίνησις σωματική</quote>.
+							</gloss>
+						</p>
+					</div>
+
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
