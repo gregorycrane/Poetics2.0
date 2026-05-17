@@ -5603,13 +5603,8 @@
       </p>
       
     </div>
-  </div>
-</div>
 
-
-<div type="textpart" subtype="chapter" n="19">
-  
-  <div type="textpart" subtype="section" n="1456b">
+	
     <div type="textpart" subtype="commline" n="1456b14" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.14">
       <p><pb n="260" />
         <s><foreign xml:lang="grc">ἐπιτίμημα :</foreign></s>
@@ -5989,15 +5984,10 @@
         <gloss>That a <foreign xml:lang="grc">λόγος</foreign>, in spite of its composite nature, has a certain unity in it is tacitly assumed in the definition in a 23 <foreign xml:lang="grc">λόγος δὲ φωνὴ συνθετὴ κτέ.</foreign> This unity, as the text implies, is not of the same order in all kinds of <foreign xml:lang="grc">λόγοι</foreign>. A definition (a <foreign xml:lang="grc">λόγος</foreign> without predication) is one, because the combination of terms in it signifies and stands for one thing (<foreign xml:lang="grc">ἓν σημαίνει</foreign>), just in the same way as a name may do. The proposition also, e. g. <foreign xml:lang="grc">Κλέων βαδίζει</foreign>, is one because the combination of terms describes a single act or fact (comp. <cit><bibl><title>De interpr.</title> 5, 17 a 16</bibl></cit> <foreign xml:lang="grc">ὁ ἓν δηλῶν λόγος</foreign>), and admits of only one assertion or denial. On the other hand in a composite <foreign xml:lang="grc">λόγος</foreign> consisting of two or more propositions with copulative or other coordinating conjunctions to connect them together, the formal unity of the whole is due to this conjunction of the parts, the several propositions which compose it. The <title>Iliad</title> is an extreme instance of such a <foreign xml:lang="grc">λόγος</foreign>. This point, the difference in the unity in these two kinds of <foreign xml:lang="grc">λόγοι</foreign>, is more than once noticed by <persName>Aristotle</persName> elsewhere in very similar terms: <cit><bibl><title>De interpr.</title> 5, 17 a 8</bibl></cit> <quote><foreign xml:lang="grc">ἔστι δὲ εἰς πρῶτος [? πρώτως] λόγος ἀποφαντικὸς κατάφασις, εἶτα ἀπόφασις· οἱ δ᾽ ἄλλοι [scil. λόγοι ἀποφαντικοί] πάντες συνδέσμῳ εἷς ἔστι δὲ εἷς λόγος ἀποφαντικὸς ἢ ὁ ἓν δηλῶν ἢ ὁ συνδέσμῳ εἷς, ... πολλοὶ δὲ οἱ πολλὰ καὶ μὴ ἓν ἢ οἱ ἀσύνδετοι</foreign></quote>. <cit><bibl><title>An. post.</title> 2. 10, 93 b 35</bibl></cit> <quote><foreign xml:lang="grc">λόγος δ᾽ εἷς ἐστι διχῶς, ὁ μὲν συνδέσμῳ, ὥσπερ ἡ Ἰλιάς, ὁ δὲ τῷ ἓν καθ᾽ ἓν δηλοῦν μὴ κατὰ συμβεβηκός</foreign></quote>. — <cit><bibl><title>Metaph.</title> Η 6, 1045 a 12</bibl></cit>: <quote><foreign xml:lang="grc">ὁ δ᾽ ὁρισμὸς λόγος ἐστὶν εἷς οὐ συνδέσμῳ καθάπερ ἡ Ἰλιάς, ἀλλὰ τῷ ἑνὸς εἶναι</foreign></quote> (comp. also <cit><bibl><title>Metaph.</title> Z 4, 1030 b 9</bibl></cit>).</gloss>
       </p>
     </div>
-  </div>
-</div>
-
-
-<pb n="278" />
-      <div type="textpart" subtype="chapter" n="20">
-        <div type="textpart" subtype="section" n="1457a">
+ 
+	
           <div type="textpart" subtype="commline" n="29" corresp="urn:cts:greekLit:tlg0086.tlg034:1457a29">
-            <p>
+            <p><pb n="278" />
               <s><foreign xml:lang="grc">ἐκ πλειόνων</foreign></s>
               <gloss>, <foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">λόγων</foreign>.</gloss>
             </p>
@@ -6341,14 +6331,11 @@
               <gloss>is an exaggeration, like <foreign xml:lang="grc">ἁπάντων</foreign> in 1, <cit><bibl>1447 b 22</bibl></cit>. All that <persName>Aristotle</persName> really means is that too much metaphor, or an undue proportion of strange words makes the sentence an enigma or a 'barbarism'. <foreign xml:lang="grc">τοιαῦτα</foreign> = <foreign xml:lang="grc">ξενικά</foreign>, or <foreign xml:lang="grc">ἐκ ξενικῶν</foreign>. This passage is quoted in a fragment attributed to <persName>Longinus</persName> (<cit><bibl><title>Rhet. Gr.</title> 1, 325 <persName>Spengel</persName></bibl></cit>): <quote><foreign xml:lang="grc">ὅτι ὁ ᾿Αριστοτέλης τοὺς πάντα μεταφέροντας αἰνίγματα γράφειν ἔλεγεν</foreign></quote>.</gloss>
             </p>
           </div>
-        </div>
-      </div>
-  <pb n="294" />
-      <div type="textpart" subtype="chapter" n="22">
-        <div type="textpart" subtype="section" n="1458a">
-          <div type="textpart" subtype="commline" n="25">
-            <p>
-              <s>1458 a 25 <foreign xml:lang="grc">μὲν οὖν</foreign></s>
+       
+		  
+          <div type="textpart" subtype="commline" n="1458a25">
+            <p>  <pb n="294" />
+              <s><foreign xml:lang="grc">μὲν οὖν</foreign></s>
               <gloss>‘saepe usurpatur ubi notio modo pronunciata amplius explicatur’, <cit><bibl><persName>Bon.</persName> <title>Ind.</title> 540 b 42</bibl></cit>; comp. <cit><bibl>14, 1453b 32</bibl></cit> and <persName>Vahlen</persName>’s note on the present passage.</gloss>
             </p>
             <p>
@@ -6517,14 +6504,10 @@
               <gloss>because these metrical licences are so marked a feature in the epic diction (see on b 7). The proof here is not unlike that by which <cit><bibl><persName>Isocrates</persName> 191 A</bibl></cit> shows the literary value of metre: <quote><foreign xml:lang="grc">οἱ μὲν μετὰ μέτρων καὶ ῥυθμῶν ἅπαντα ποιοῦσιν, οἱ δ' οὐδενὸς τούτων κοινωνοῦσιν· τοσαύτην ἔχει χάριν, ὥστ᾽ ἂν καὶ τῇ λέξει καὶ τοῖς ἐνθυμήμασιν ἔχῃ κακῶς, ὅμως αὐταῖς ταῖς εὐρυθμίαις καὶ ταῖς συμμετρίαις ψυχαγωγοῦσι τοὺς ἀκούοντας.</foreign></quote> <quote><foreign xml:lang="grc">γνοίη δ᾽ ἄν τις ἐκεῖθεν τὴν δύναμιν αὐτῶν· ἣν γάρ τις τῶν ποιημάτων τῶν εὐδοκιμούντων τὰ μὲν ὀνόματα καὶ τὰς διανοίας καταλίπῃ, τὸ δὲ μέτρον διαλύσῃ, φανήσεται πολὺ καταδεέστερα τῆς δόξης ἧς νῦν ἔχομεν περὶ αὐτῶν.</foreign></quote></gloss>
             </p>
           </div>
-        </div>
-      </div>
-
-<pb n="300" />
-      <div type="textpart" subtype="chapter" n="22">
-        <div type="textpart" subtype="section" n="1458a">
+        
+		  
           <div type="textpart" subtype="commline" n="16">
-            <p>
+            <p><pb n="300" />
               <s><foreign xml:lang="grc">τῶν ὀνομάτων</foreign></s>
               <gloss>; i. e. the normal words, the words themselves, as distinct from the <foreign xml:lang="grc">ἐπεκτάσεις</foreign>, etc., of them (see above on 28).</gloss>
             </p>
@@ -6692,14 +6675,10 @@
               <gloss>see on <cit><bibl>21, 1457b2</bibl></cit>. The parallel in the <title>Rhetoric</title> (3. 2, 1404 b 31, quoted above) ignores the <foreign xml:lang="grc">κόσμος</foreign>.</gloss>
             </p>
           </div>
-        </div>
-      </div>
-
-<pb n="304" />
-      <div type="textpart" subtype="chapter" n="22">
-        <div type="textpart" subtype="section" n="1459a">
+       
+		  
           <div type="textpart" subtype="commline" n="15">
-            <p>
+            <p><pb n="304" />
               <s><foreign xml:lang="grc">τῆς ἐν τῷ πράττειν μιμήσεως</foreign>.</s>
               <gloss>A tragedy is something to be acted, an epic something to be recited or read. This makes a fundamental distinction between them, though <persName>Aristotle</persName> admits that as a work of literature a tragedy is quite possible without performance on a stage <cit><bibl>(6, 1450 b18; 26, 1462 a12, 17)</bibl></cit>.</gloss>
             </p>
@@ -6927,11 +6906,9 @@
               <gloss>the subject is not 'Homer' (as is generally assumed) but 'these two poems', understood from <foreign xml:lang="grc">τῶν ποιημάτων ἑκάτερον</foreign> in b14 There is no need, therefore, to restore <foreign xml:lang="grc">πάντας</foreign> (from sundry apographs), or to take <foreign xml:lang="grc">πάντα</foreign> as practically equivalent to <foreign xml:lang="grc">πάντας</foreign>.</gloss>
             </p>
           </div>
-        </div>
-      </div>
-      <div type="textpart" subtype="chapter" n="24">
-        <div type="textpart" subtype="section" n="1459b">
-          <div type="textpart" subtype="commline" n="17">
+       
+		  
+          <div type="textpart" subtype="commline" n="1459b17">
             <p>
               <s>b17 <foreign xml:lang="grc">διαφέρει</foreign>:</s>
               <gloss>comp. <cit><bibl>5, 1449b 11</bibl></cit>.</gloss>
@@ -6987,14 +6964,10 @@
               <gloss>= <foreign xml:lang="grc">εἰς τὸ μεταβάλλειν</foreign>. <foreign xml:lang="grc">μεταβάλλειν</foreign>, being followed by <foreign xml:lang="grc">ἐπεισοδιοῦν</foreign>, is probably transitive, 'to produce a change of mind or mood' in the hearer, as it is for instance in <cit><bibl><title>Probl.</title> 30. 1, 953 a 39</bibl></cit> <quote><foreign xml:lang="grc">ἴδοι δ᾽ ἄν τις ὅτι παντοδαποὺς ἀπεργάζεται [scil. ὁ οἶνος], θεωρῶν ὡς μεταβάλλει τοὺς πίνοντας.</foreign></quote> The sense may be illustrated by the use of the verb in <cit><bibl><title>Pol.</title> 8. 5, 1340a 22</bibl></cit> (where it is intransitive), <quote><foreign xml:lang="grc">μεταβάλλομεν τὴν ψυχὴν ἀκροώμενοι τοιούτων</foreign></quote> [i. e. certain rhythms and airs] — which is explained by what follows (a 40), <quote><foreign xml:lang="grc">ἡ τῶν ἁρμονιῶν διέστηκε φύσις ὥστε ἀκούοντας ἄλλως διατίθεσθαι καὶ μὴ τὸν αὐτὸν ἔχειν τρόπον πρὸς ἑκάστην αὐτῶν.</foreign></quote></gloss>
             </p>
           </div>
-        </div>
-      </div>
-
-	     <pb n="315" />
-      <div type="textpart" subtype="chapter" n="24">
-        <div type="textpart" subtype="section" n="1459b">
+       
+		  
           <div type="textpart" subtype="commline" n="30">
-            <p>
+            <p>  <pb n="315" />
               <s><foreign xml:lang="grc">ἐπεισοδιοῦν</foreign>,</s>
               <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">τὴν ποίησιν</foreign>; comp. <cit><bibl>23, 1459a 36</bibl></cit> and note on <cit><bibl>17, 1455 b 1</bibl></cit>.</gloss>
             </p>
@@ -7144,14 +7117,9 @@
               <gloss>see on <cit><bibl>15, 1454 b 6</bibl></cit>.</gloss>
             </p>
           </div>
-        </div>
-      </div>
-
-	      <pb n="318" />
-      <div type="textpart" subtype="chapter" n="24">
-        <div type="textpart" subtype="section" n="1460a">
+ 
           <div type="textpart" subtype="commline" n="14">
-            <p>
+            <p><pb n="318" />
               <s>1460 a 14 <foreign xml:lang="grc">διὰ τὸ μὴ ὁρᾶν</foreign>:</s>
               <gloss>comp. <cit><bibl>17, 1455 a 27</bibl></cit>.</gloss>
             </p>
@@ -7282,13 +7250,18 @@
           </div>
           <div type="textpart" subtype="commline" n="3">
             <p>
-              <s>3 ἐν τοῖς ἀργοῖς μέρεσι.</s>
+              <s>ἐν τοῖς ἀργοῖς μέρεσι.</s>
               <gloss>The meaning of these words has been supposed to be explained by what follows, <foreign xml:lang="grc">καὶ μήτε ἠθικοῖς μήτε διανοητικοῖς</foreign>; comp. <persName>Goulston</persName>'s version of the clause, <quote xml:lang="lat">'in partibus fabulae ignavis, iis scilicet quae neque moratae sunt neque sententiis munitae'</quote>. The sense, however, may very well be, 'in the parts in which there is no movement, and no ethical or rhetorical interest,' i. e. in the purely descriptive parts. For the form of the statement comp. <cit><bibl><title>Rhet.</title> 3. 2, 1404 b 2</bibl></cit> <quote><foreign xml:lang="grc">σαφῆ ... καὶ μήτε ταπεινὴν μήτε ὑπὲρ τὸ ἀξίωμα</foreign></quote>.</gloss>
             </p>
           </div>
+        </div>
+      </div>
 
+
+      <div type="textpart" subtype="chapter" n="25">
+        <div type="textpart" subtype="section" n="1461b">
 		  <div type="textpart" subtype="commline" n="1460b6">
-        <p>34-25. 1460 58 323 24. 1460</p>
+
         <p>
           <s><foreign xml:lang="grc">Περὶ δὲ προβλημάτων κτέ.</foreign></s>
           <gloss>On the matter in this chapter see <cit><bibl>1460 6</bibl></cit> <persName>M. Carrol</persName>, '<title>Aristotle's Poetics</title> c. xxv. in the light of the <title>Homeric Scholia</title> (Baltimore 1895). It is added as a sort of Appendix, in recognition of the fact that a poem, when once before the world, may be exposed to criticism. A 'Problem' was originally a question propounded for discussion, whether in schools or in social gatherings such as <persName>Plato</persName> supposes in his dialogues. The general logic of such discussions is examined and reduced to formula in the <title>Topics</title>; but <persName>Aristotle</persName> takes no account in the <title>Topics</title> of the particular kind of Problem with which he is now dealing, the literary or critical Problem. This kind of question turns on some difficulty in a poem, which an adverse critic will censure as a mistake. By an analysis of the postulates and condi- tions of poetry <persName>Aristotle</persName> is able to determine and classify not only the various possible grounds of censure (<foreign xml:lang="grc">ἐπιτίμησις</foreign>), but also the various possible lines of defence, by indicating the solution (<foreign xml:lang="grc">λύσις</foreign>) or solutions applicable to each kind of objection. In illustrating the methods of defence he takes his instances mainly from the <title>Homeric poems</title>. <persName>Homer</persName> had long been a mark for criticism. Every kind of defect had been discovered in his two poems, offences against morality, absurdities, contradictions and other faults of construc- tion, and even errors of language; the result being that <persName>Aristotle</persName>'s contemporary <persName>Zoilus</persName>, the '<persName>Homeromastix</persName>', was able to write a regular treatise (of considerable magnitude, it would seem) <foreign xml:lang="grc">κατὰ τῆς τοῦ Ὁμήρου ποιήσεως</foreign>, on the manifold faults in <persName>Homer</persName>. The position of <persName>Aristotle</persName> himself in this controversy is clear: he is on the side of the apologists, and an opponent of the kind of criticism represented by <persName>Zoilus</persName>. He is ready to meet the critics on their own ground with an answer of some sort or description for almost every difficulty they can start. The fragments of his <title><foreign xml:lang="grc">ἀπορήματα Ὁμηρικά</foreign></title>, a systematic work on this subject (<cit><bibl>fr. 142- 178 Teubn.</bibl></cit>), exhibit the same tendency, and reveal him as a master of all the arts of critical casuistry. Y2 [</gloss>
@@ -7995,16 +7968,11 @@
           </div>
 		  
 		  
-        </div>
-      </div>
 
-<pb n="350" />
-      <div type="textpart" subtype="chapter" n="25">
-        <div type="textpart" subtype="section" n="1461b">
           
           <div type="textpart" subtype="commline" n="1461b23">
-            <p>1461b23 350 COMMENTARY</p>
-            <p>
+     
+            <p><pb n="350" />
               <s><foreign xml:lang="grc">ὡς ἀδύνατα</foreign>,</s>
               <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">ὄντα τὰ εἰρημένα</foreign>.</gloss>
             </p>
@@ -8102,16 +8070,11 @@
             </p>
           </div>
 
-        </div>
-      </div>
-
-	  <pb n="354" />
-      <div type="textpart" subtype="chapter" n="26">
-        <div type="textpart" subtype="section" n="1461b">
+        
           
           <div type="textpart" subtype="commline" n="1461b30">
         
-            <p>
+            <p>  <pb n="354" />
               <s><hi rend="sup">b</hi>30 <foreign xml:lang="grc">προσθῇ:</foreign></s>
               <gloss>used absolutely in the sense of 'adds something' (<foreign xml:lang="lat">comp.</foreign> <cit><bibl>24, 1460<hi rend="sup">a</hi>18</bibl></cit>).</gloss>
             </p>
