@@ -1,226 +1,236 @@
-<div type="textpart" subtype="chapter" n="18">
-  <div type="textpart" subtype="section" n="1456a">
-    <div type="textpart" subtype="commline" n="12" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.12">
-      <p>
-        <s><foreign xml:lang="grc">πολύμυθον.</foreign></s>
-        <gloss>The assumption here is that the story in the <title>Iliad</title> is a <foreign xml:lang="grc">πολύμυθον σύστημα</foreign>, one with a plurality of stories in it (comp. <cit><bibl>24, 1462 b 8</bibl></cit>). It is not easy to reconcile this with what we are told in a later chapter (<cit><bibl>23, 1459<hi rend="sup">a</hi>30</bibl></cit>) where the unity of story in the <title>Iliad</title> is emphasized.</gloss>
-      </p>
-    </div>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aristotle's Poetics Chapters 15-16: Ingram Bywater Commentary Digital Transcription</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digital Humanities Transcription Project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Ingram Bywater, Aristotle on the Art of Poetry, Oxford: Clarendon Press, 1909.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="229" />
+      <div type="textpart" subtype="chapter" n="15">
+        <div type="textpart" subtype="section" n="1454a">
+          
+          <div type="textpart" subtype="commline" n="1454a31">
+            <p>15. 1454a26-1454 I 229</p>
+            <p>
+              <s><foreign xml:lang="grc">ἐν τῇ Σκύλλῃ :</foreign></s>
+              <gloss>comp. <cit><bibl>26, 1461 b 32</bibl></cit>. The <title>Scylla</title> <persName>Aristotle</persName> has in mind has been often supposed to be a tragedy of <persName>Euripides</persName>. But there is apparently no mention elsewhere of a tragedy with this title by <persName>Euripides</persName> (comp. <persName>Wilamowitz</persName>, <title>Analecta Eurip.</title> p. 159), and the language in <cit><bibl>26, 1461 b 32</bibl></cit> seems to point rather to a dithyramb. All discussion has been set at rest by <persName>Gomperz</persName>'s recovery among the Vienna papyri of a fragment of some ancient critical treatise, which mentions the <foreign xml:lang="grc">θρῆνος</foreign> of Ulysses (i. e. a portion of the <title>Scylla</title>) as the work of the dithyrambic poet <persName>Timotheus</persName>: <quote><foreign xml:lang="grc">εἰσὶν δὲ τινὲς οἱ ὃν μὲν προτίθενται οὐ μειμοῦνται [δὲ], ἄλλον δὲ καὶ τοῦτον καλῶς, εἰ τυγχάνοιεν ἐνέχοντες ἔννοιαν καὶ παράδειγμα παρ᾿ ἡμεῖν αὐτοῖς, ὥσπερ καὶ Τειμόθεος ἐν τῷ θρήνῳ τοῦ Ὀδυσσέως εἰ μέν τινα μειμεῖται καὶ τὸ ὅμοιόν τινι οἶδεν, ἀλλ᾽ οὐ τῷ Ὀδυσσεῖ</foreign></quote> (v. <persName>Gomperz</persName>, Vienna Academy, Anz. der phil. hist. Classe 1886, v; comp. <persName>Wilamowitz</persName>, <title>Timotheos</title> p. 111). To this <persName>Aristotle</persName> appends a second instance, one from a tragedy, as though conscious of the first being not quite to the point.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="16" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.16">
-      <p>
-        <s><foreign xml:lang="grc">ὅσοι πέρσιν Ιλίου ὅλην ἐποίησαν.</foreign></s>
-        <gloss>We do not know to whom <persName>Aristotle</persName> is referring; it is just possible that <persName>Agathon</persName> may have been one of the number. For the tragedies entitled <title><foreign xml:lang="grc">Ιλίου πέρσις</foreign></title> (or simply <title><foreign xml:lang="grc">Πέρσις</foreign></title>) see on <cit><bibl>23, 1459<hi rend="sup">b</hi>6</bibl></cit>.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a32">
+            <p>
+              <s><foreign xml:lang="grc">ἡ τῆς Μελανίππης ῥῆσις,</foreign></s>
+              <gloss>in the <title><foreign xml:lang="grc">Μελανίππη ἡ σοφή</foreign></title> of <persName>Euripides</persName> (<cit><bibl>Nauck, TGF. p. 509</bibl></cit>). The rationalistic argument put into her mouth against the popular idea of monsters (<foreign xml:lang="grc">τέρατα</foreign>) was in <persName>Aristotle</persName>'s view (see on <foreign xml:lang="grc">δεινὴν</foreign> <cit><bibl>24</bibl></cit>) an exhibition of cleverness out of place in a woman.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="18" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.18">
-      <p>
-        <s><foreign xml:lang="grc">᾿Αγάθων.</foreign></s>
-        <gloss><persName>Aristotle</persName>'s sense of the importance of <persName>Agathon</persName> is shown by his many quotations from him (<cit><bibl><title>Bon. Ind.</title> 4<hi rend="sup">b</hi>5</bibl></cit>), as well as by the present and other references in the <title>Poetics</title> (<cit><bibl>9, 1451<hi rend="sup">b</hi> 21</bibl></cit>; <cit><bibl>15, 1454<hi rend="sup">b</hi>14</bibl></cit>). The context (-21) implies that the pathos in <persName>Agathon</persName>'s situations was not always of the most legitimate kind; and in the next paragraph (29) he is said to have set a bad precedent in the treatment of the Chorus. But whatever his artistic shortcomings may have been, we have evidence enough even in <persName>Aristophanes</persName> of his success with his own generation. There is a good deal of point, therefore, in what <persName>Aristotle</persName> is saying in support of his rule (<foreign xml:lang="grc">μὴ ποιεῖν ἐποποικὸν σύστημα τραγῳδίαν</foreign>), that <quote>‘even <persName>Agathon</persName> failed’</quote> when he neglected it.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a32_2">
+            <p>
+              <s><foreign xml:lang="grc">ἡ ἐν Αὐλίδι Ιφιγένεια :</foreign></s>
+              <gloss><title>Iph. Aul.</title> <cit><bibl>1211 sqq.</bibl></cit> and <cit><bibl>1368 sqq.</bibl></cit></gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="19" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.19">
-      <p>
-        <s><foreign xml:lang="grc">ἐν τούτῳ μόνῳ,</foreign></s>
-        <gloss><quote>‘in this, and in this alone’</quote>—a pregnant use of <foreign xml:lang="lat">μόνος</foreign> like that in <title>De somno</title> <cit><bibl>2, 455<hi rend="sup">a</hi>27</bibl> <quote><foreign xml:lang="grc">διὸ καὶ πᾶσιν ὑπάρχει τοῖς ζώοις καὶ γὰρ ἡ ἁφὴ μόνη πᾶσιν.</foreign></quote></cit></gloss>
-      </p>
-      <p>
-        <s><foreign xml:lang="grc">καὶ ἐν τοῖς ἁπλοῖς πράγμασι.</foreign></s>
-        <gloss>I cannot think it necessary to bracket these words (with <persName>Susemihl</persName>). As <foreign xml:lang="grc">περιπέτεια</foreign>, which is the mark of the <quote>‘complex’</quote> story (<cit><bibl>10, 1452<hi rend="sup">a</hi>16</bibl></cit>; comp. <cit><bibl>11, 1452<hi rend="sup">a</hi>32</bibl></cit>), is directly suggestive of it, <foreign xml:lang="grc">ἐν ταῖς περιπετείαις</foreign> is practically equivalent to <foreign xml:lang="grc">ἐν τοῖς πεπλεγμένοις πράγμασι</foreign>. <persName>Aristotle</persName> adds <foreign xml:lang="grc">καὶ ἐν τοῖς ἁπλοῖς πράγμασι</foreign>, in order to make his statement cover the whole ground by including both forms of plot. The failure of these unsuccessful poets, he says in effect, was really due not to any fault of execution, but to an initial mistake in their choice of subjects; they forgot the limitations of the Drama, and undertook to dramatize a story too long and too complex for the purposes of the stage.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a33">
+            <p>
+              <s><foreign xml:lang="grc">χρὴ δὲ καὶ ἐν τοῖς ἤθεσιν κτέ.</foreign></s>
+              <gloss>There should be a unity of 33 character just as there should be a unity of action in every play. This incidental reference to the action reminds <persName>Aristotle</persName> of a point (the use of the <foreign xml:lang="grc">μηχανή</foreign>) which had not been considered in his general theory of the plot in chaps. <cit><bibl>8-11</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="20" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.20">
-      <p>
-        <s><foreign xml:lang="grc">ὧν βούλονται,</foreign></s>
-        <gloss><quote>‘the effects they desire’</quote>. The kind of effect, which is explained in the next clause (<foreign xml:lang="grc">τραγικὸν γὰρ τοῦτο καὶ φιλάνθρωπον</foreign>), may not be of the best order; but it is that which, in their anxiety to please their public, they wish to produce.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a34">
+            <p>
+              <s><foreign xml:lang="grc">τὸ ἀναγκαῖον ἢ τὸ εἰκός:</foreign></s>
+              <gloss>comp. especially <cit><bibl>9, 1451 38</bibl></cit> and <cit><bibl>10, 1452 24</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="21" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.21">
-      <p>
-        <s><foreign xml:lang="grc">τραγικὸν γὰρ τοῦτο καὶ φιλάνθρωπον.</foreign></s>
-        <gloss>For the change of number in <foreign xml:lang="grc">τοῦτο</foreign> comp. <cit><bibl>19, 1456</bibl></cit>; it is the converse of that in <cit><bibl>17, <pb n="254" /> 1455 33</bibl></cit> (comp. <cit><bibl><title>Bon. Ind.</title> 490<hi rend="sup">b</hi>17</bibl></cit>). <persName>Aristotle</persName>'s theory is that the tragic situation should be <foreign xml:lang="grc">ἐλεεινόν</foreign>—which implies that the sufferer does not deserve his misfortunes (<cit><bibl>13, 1453<hi rend="sup">a</hi></bibl></cit>); he incidentally admits, however, that it may be only <foreign xml:lang="grc">φιλάνθρωπον</foreign> (see on <cit><bibl>13, 1452<hi rend="sup">b</hi>38</bibl></cit>), as it is, for instance, when the sufferings of the wicked are put before us in such a way as to arouse a certain commiseration or human feeling for the sufferers. The later Tragedy would seem to have affected this inferior form of tragic motive.</gloss>
-      </p>
-      <p>
-        <s><foreign xml:lang="grc">ἔστιν δὲ τοῦτο κτέ.</foreign></s>
-        <gloss>The illustrations which follow were probably taken from actual plays. The tragedies <persName>Aristotle</persName> has in mind must have involved a strong <foreign xml:lang="grc">περιπέτεια</foreign> with all the interest and excitement attending it; they failed, however (we are told), in spite of this and other attractions (comp. <foreign xml:lang="grc">στοχάζονται ὧν βούλονται θαυμαστῶς</foreign>), through an initial mistake in their subject, which was one more fitted for an epic than a play.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a35">
+            <p>
+              <s><foreign xml:lang="grc">ἢ ἀναγκαῖον ἢ εἰκὸς,</foreign></s>
+              <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">εἶναι</foreign> (<cit><bibl>Bon. Ind. 239a22</bibl></cit>; see on <cit><bibl>24, 1459b9</bibl></cit>).</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="23" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.23">
-      <p>
-        <s><foreign xml:lang="grc">ἔστιν δὲ τοῦτο εἰκὸς :</foreign></s>
-        <gloss>comp. <cit><bibl>25, 1461<hi rend="sup">b</hi>15</bibl></cit>. The reference is to the sophistical saying of <persName>Agathon</persName> (<cit><bibl>fr. 9 <persName>Nauck</persName></bibl></cit>), <quote><foreign xml:lang="grc">τάχ᾿ ἄν τις εἰκὸς αὐτὸ τοῦτ᾽ εἶναι λέγοι, βροτοῖσι πολλὰ τυγχάνειν οὐκ εἰκότα,</foreign></quote> which <persName>Aristotle</persName> has examined in <cit><bibl><title>Rhet.</title> 2. 24, 1402 a 10</bibl></cit>. There is some variation of text here, as another reading, <foreign xml:lang="grc">ἔστιν δὲ τοῦτο (καὶ) εἰκός</foreign>, is believed to underlie the Arabic Version. With the <foreign xml:lang="grc">και</foreign> the clause adds a further point in favour of these unsuccessful plays: the kind of incident just mentioned is said to be <quote>‘probable also’</quote>. Without the <foreign xml:lang="grc">καί</foreign> the clause involves a criticism or condemnation, not unlike that in <cit><bibl>13, 1453 a 35</bibl> <quote><foreign xml:lang="grc">ἔστιν δὲ οὐχ αὕτη κτέ.</foreign></quote></cit>, <quote>‘this is probable, however, only in Agathon's non-natural sense of the word’</quote>. A qualification of this kind (introduced by <foreign xml:lang="grc">ὥσπερ καθάπερ</foreign>) is found more than once in this same chapter (17 and 27), and again in <cit><bibl>21, 1457<hi rend="sup">b</hi>24</bibl></cit>; comp. also <cit><bibl><title>Metaph.</title> B 2, 998 a 2</bibl> <quote><foreign xml:lang="grc">ἅπτεται γὰρ τοῦ κανόνος οὐ κατὰ στιγμὴν ὁ κύκλος ἀλλ᾽ ὥσπερ Πρωταγόρας ἔλεγεν ἐλέγχων τοὺς γεωμέτρας.</foreign></quote></cit> — <cit><bibl><title>Rhet.</title> 1. 5, 1361 a 4</bibl> <quote><foreign xml:lang="grc">πολλοὶ γὰρ ὑγιαίνουσιν ὥσπερ Ἡρόδικος λέγεται.</foreign></quote></cit></gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a37">
+            <p>
+              <s><foreign xml:lang="grc">λύσεις :</foreign></s>
+              <gloss>see <cit><bibl>18, 1455b24</bibl></cit>, <cit><bibl>1456a9</bibl></cit>, where the <foreign xml:lang="grc">λύσις</foreign> (the un- ravelling, or dénouement) is distinguished from the <foreign xml:lang="grc">δέσις</foreign> or <foreign xml:lang="grc">πλοκή</foreign> (the knotting, or intrigue). This is the first appearance of these terms in this sense, though they may be presumed to have been already well established in the technical language of the theatre (see on <cit><bibl>10, 1452a15</bibl></cit>).</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="25" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.25">
-      <p>
-        <s><foreign xml:lang="grc">καὶ τὸν χορὸν κτέ.</foreign></s>
-        <gloss>The seventh and last of these practical rules. It reappears in the well-known precept of <persName>Horace</persName> <cit><bibl><title>A. P.</title> 193</bibl> <quote xml:lang="lat">Actoris partes chorus officiumque virile defendat, neu quid medios intercinat actus, quod non proposito conducat et haereat apte.</quote></cit></gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454a37_2">
+            <p>
+              <s><foreign xml:lang="grc">ἐν τῇ Μηδείᾳ :</foreign></s>
+              <gloss><persName>Eurip.</persName> <title>Med.</title> <cit><bibl>1317</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="27" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.27">
-      <p>
-        <s><foreign xml:lang="grc">Εὐριπίδῃ.</foreign></s>
-        <gloss>For the dative (conventionally rendered by <foreign xml:lang="lat">apud</foreign>) comp. <cit><bibl><title>Pol.</title> 8. 5, 1339b8</bibl> <quote><foreign xml:lang="grc">οὐ γὰρ ὁ Ζεὺς αὐτὸς ἄδει καὶ κιθαρίζει τοῖς ποιηταῖς.</foreign></quote></cit> — <cit><bibl><persName>Plato</persName> <title>Rep.</title> 389 Ε</bibl> <quote><foreign xml:lang="grc">οἷα καὶ Ὁμήρῳ Διομήδης λέγει.</foreign></quote></cit> — <cit><bibl><title>Laws</title> 706 C</bibl> <quote><foreign xml:lang="grc">Ὀδυσσεὺς γὰρ αὐτῷ [scil. Ὁμήρῳ] λοιδορεῖ τὸν ᾿Αγαμέμνονα.</foreign></quote></cit> The tacit assumption here is perhaps this, that the choral songs in <pb n="255" /> <persName>Euripides</persName>, though no mere <foreign xml:lang="grc">ἐμβόλιμα</foreign> (like those in the later Drama), were not always very closely connected with the action of the piece. A tradition of this criticism survives in the grammarians. The chorus in <cit><bibl><title>Phoen.</title> 1019</bibl></cit> the scholiast condemns as irrelevant: <quote><foreign xml:lang="grc">πρὸς οὐδὲν ταῦτα· ἔδει γὰρ τὸν χορὸν οἰκτίσασθαι τὸν θάνατον τοῦ Μενοικέως ἢ ἀποδέχεσθαι τὴν εὐψυχίαν τοῦ νεανίσκου. ἀλλὰ περὶ Οἰδίπου καὶ τῆς Σφιγγὸς διηγεῖται τὰ πολλάκις εἰρημένα.</foreign></quote> A more general condemnation is found in the scholiast on <cit><bibl><persName>Aristoph.</persName><title>Ach.</title> 443</bibl></cit>: <quote><foreign xml:lang="grc">καὶ διὰ τούτων τὸν Εὐριπίδην διασύρει. οὗτος γὰρ εἰσάγει τοὺς χοροὺς οὔτε τὰ ἀκόλουθα φθεγγομένους τῇ ὑποθέσει, ἀλλ᾽ ἱστορίας τινὰς ἀπαγγέλλοντας, ὡς ἐν ταῖς Φοινίσσαις, οὔτε ἐμπαθῶς ἀντιλαμβανομένους τῶν ἀδικηθέντων ἀλλὰ μεταξὺ ἀντιπίπτοντας.</foreign></quote> The Roman poet <persName>Accius</persName> also must have been of the same opinion, to judge from the mutilated fragment of his <title>Didascalica</title> in <cit><bibl><persName>Nonius</persName> 178, 23</bibl> <quote xml:lang="lat">sed Euripidis, qui choros temerius in fabulis * * *.</quote></cit></gloss>
-      </p>
-    </div>
+        </div>
 
-    <div type="textpart" subtype="commline" n="28" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.28">
-      <p>
-        <s><foreign xml:lang="grc">τὰ ἀδόμενα :</foreign></s>
-        <gloss>the choral, as opposed to <foreign xml:lang="grc">τὰ λεγόμενα</foreign>, the spoken parts of the play. In <cit><bibl>[<persName>Demosthenes</persName>] 60. 9</bibl> <quote><foreign xml:lang="grc">τοὺς τῶν ἀδομένων ποιητάς</foreign></quote></cit> is a way of describing the lyric poets; comp. also <cit><bibl><persName>Plato</persName> <title>Rep.</title> 398 C</bibl> <quote><foreign xml:lang="grc">οὐκοῦν ὅσον γε αὐτοῦ λόγος ἐστίν, οὐδὲν δήπου διαφέρει [scil. τὸ μέλος] τοῦ μὴ ἀδομένου λόγου.</foreign></quote></cit></gloss>
-      </p>
-    </div>
+        <div type="textpart" subtype="section" n="1454b">
+          
+          <div type="textpart" subtype="commline" n="1454b1">
+            <p>230 COMMENTARY 1454 I</p>
+            <p>
+              <s><foreign xml:lang="grc">μηχανής.</foreign></s>
+              <gloss>On the mechanical contrivance, whereby a god or other personage was suddenly brought on, or removed from <pb n="230" /> the stage, see <cit><bibl>Haigh, Attic Theatre p. 209</bibl></cit>. <persName>Aristotle</persName> regards a dénouement effected by such means as an inartistic way out of the difficulty, or else allowable only in certain exceptional cases (3-6). A similar view of the <foreign xml:lang="grc">μηχανή</foreign> is implied in <cit><bibl><persName>Plato</persName> <title>Crat.</title> 425 D</bibl></cit> <quote><foreign xml:lang="grc">οἱ τραγῳδοποιοί, ἐπειδάν τι ἀπορῶσιν, ἐπὶ τὰς μηχανὰς κατα- φεύγουσι θεοὺς αἴροντες.</foreign></quote> From this theatrical use the term is sometimes metaphorically extended to matters apart from the stage, when a difficulty is solved by means which savour too much of artifice or miracle. Thus even in the present context (<hi rend="sup">b</hi>2) the sudden appearance of Athene in <cit><bibl>Il. 2. 166</bibl></cit> is said to be <foreign xml:lang="grc">ἀπὸ μηχανῆς</foreign>; and in <cit><bibl>Metaph. A 5, 985 b 18</bibl></cit> reason is said to come in as a deus ex machina in the cosmogony of Anaxagoras : <quote><foreign xml:lang="grc">᾿Αναξα- γόρας τε γὰρ μηχανῇ χρῆται τῷ νῷ πρὸς τὴν κοσμοποιίαν, καὶ ὅταν ἀπορήσῃ διὰ τίν᾿ αἰτίαν ἐξ ἀνάγκης ἐστί, τότε παρέλκει αὐτόν.</foreign></quote></gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="29" corresp="urn:cts:greekLit:tlg0086.tlg034:18.1456a.29">
-      <p>
-        <s><foreign xml:lang="grc">ἐμβόλιμα:</foreign></s>
-        <gloss><quote xml:lang="lat">‘carmina intercalaria’</quote> (<persName>Budaeus</persName>). The word is usually a term of chronology, as in <cit><bibl><persName>Herod.</persName> 1. 32 and 2. 4</bibl></cit>. With the grammarians it seems to have meant <quote>‘interpolated’</quote>: <persName>Hesychius</persName> <quote><foreign xml:lang="grc">ἐμβόλιμα ἔπη τὰ ὑπὸ τῶν γραμματικῶν ὡς ἀλλότρια καὶ νόθα ἀθετούμενα.</foreign></quote> <persName>Cicero</persName> has the very similar word <foreign xml:lang="grc">ἐμβόλιον</foreign> in <cit><bibl><title>Ep. ad Q. Fr.</title> 3. 1, 24</bibl></cit>, in the sense of an <quote>‘insertion’</quote> or <quote>‘interlude’</quote> (v. <cit><bibl><persName>Ernesti</persName>, <title>Lex. tech. gr.</title> p. 118</bibl></cit>). <persName>Twining</persName>'s note on this passage is well worth quoting: <quote>‘It is curious to trace the gradual extinction of the Chorus. At first, it was all; then, relieved by the intermixture of dialogue, but still principal; then, subordinate to the dialogue; then digressive, and ill connected with the piece; then borrowed from other pieces at pleasure—and so on, to the fiddles and act-tunes, at which Dacier is so angry.’</quote></gloss>
-      </p>
-    </div>
-  </div>
-</div>
+          <div type="textpart" subtype="commline" n="1454b2">
+            <p>
+              <s><foreign xml:lang="grc">τὰ περὶ τὸν ἀπόπλουν :</foreign></s>
+              <gloss><cit><bibl>Il. 2. 155</bibl></cit>; comp. <cit><bibl><persName>Porphyry</persName> on Il. 2. 144, p. 26 Schrader</bibl></cit>: <quote><foreign xml:lang="grc">ἡ ᾿Αθηνᾶ παραγίνεται ἀπὸ μηχανῆς [so cod. Townl.] ὥσπερ καθεύδοντα τὸν Ὀδυσσέα ἐγείρουσα.</foreign></quote> His note on <cit><bibl>Il. 2. 73</bibl></cit> (where Agamemnon tries the feeling of his army) is worth quoting as a typical attempt to reconcile Homeric practice and Aristotelian theory: <quote><foreign xml:lang="grc">δια τί ὁ ᾿Αγαμέμνων ἀπεπειρᾶτο τῶν ᾿Ἀχαιῶν, καὶ οὕτως ἔπραξεν ὥστε ὀλίγου τὰ ἐναντία συμβῆναι ἢ ἐβουλεύετο; καὶ τὸ κώλυμα ἀπὸ μηχανῆς· ἡ γὰρ ᾿Αθηνᾶ ἐκώλυσεν· ἔστι δὲ ἀποίητον τὸ μηχάνημα λύειν ἄλλως εἰ μὴ ἐξ αὐτοῦ τοῦ μύθου. φησὶ δὲ ὁ ᾿Αριστο- τέλης (Fr. 142 Teubn.) ποιητικὸν μὲν εἶναι τὸ μιμεῖσθαι τὰ εἰωθότα γίνεσθαι καὶ ποιητῶν μᾶλλον τὸ κινδύνους παρεισάγειν· εἰκὸς δὲ καὶ ἐκ λοιμοῦ πεπονημένους καὶ τῷ μήκει τοῦ χρόνου ἀπαυδήσαντας ... μὴ εὐθὺς παρακαλεῖν ἐπὶ τὴν ἔξοδον ἀλλὰ πειραθῆναι ἡγήσασθαι δεῖν εἰ οὕτως ἔχουσιν . . ἡ δὲ λύσις οὐκ ἀπὸ μηχανῆς· ὅταν γὰρ διὰ τῶν εἰκότων γίγνηται, οὐ μηχανὴ τοῦτ᾽ ἔστιν, ἅμ᾽ [? ἀλλ᾽] ὅτε πρόσκειται θεός· ἀλλὰ τοῦτ᾽ εἰπὼν εἱκὸς ἦν αὐτοῖς γίνεσθαι εἰς θεὸν ἀνέθηκε τὸν Ὀδυσσέα διανοηθῆναι ταῦτα δρᾶν ἃ πρᾶξαι ἂν εἰκός ἐστιν</foreign></quote> (p. 24-25 Schrader). <note n="1">Instead of <foreign xml:lang="grc">καὶ ποιητῶν</foreign> (for which various corrections have been proposed) I would restore <foreign xml:lang="grc">κἀποίητον</foreign> (v. J. of Phil. 28 p. 252). The sense is: 'Though as a rule it is artistic to represent what is usual, and inartistic (<foreign xml:lang="grc">ἀποίητον</foreign>) to introduce hazardous situations (<foreign xml:lang="grc">κινδύνους</foreign>), still under the circumstances there is a certain propriety and probability (<foreign xml:lang="grc">εἰκὸς δὲ</foreign>) in the Homeric story. If this view is correct, the quotation from Aristotle's ᾿Απορ. Ομ. does not end at the words κινδύνους παρεισάγειν, as is supposed by Rose and Heitz.</note></gloss>
+            </p>
+          </div>
 
-<div type="textpart" subtype="chapter" n="19">
-  <div type="textpart" subtype="section" n="1456a">
-    <div type="textpart" subtype="commline" n="34" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456a.34">
-      <p>
-        <s><foreign xml:lang="grc">λέξεως καὶ διανοίας.</foreign></s>
-        <gloss>This is the usual order of the two terms in the <title>Poetics</title> (v. <cit><bibl>6, 1450<hi rend="sup">a</hi>9, 14, 29</bibl></cit> and <cit><bibl>24, 1459<hi rend="sup">b</hi>16</bibl></cit>). The only instance of the reverse order, which is that of their logical importance (<cit><bibl>6, 1450<hi rend="sup">b</hi>12</bibl></cit>; comp. <cit><bibl><title>Rhet.</title> 2. 26, 1403<hi rend="sup">b</hi>36</bibl></cit>), is in <cit><bibl>24, 1459<hi rend="sup">b</hi>12</bibl> <quote><foreign xml:lang="grc">ἔτι τὰς διανοίας καὶ τὴν λεξιν ἔχειν καλῶς.</foreign></quote></cit> For the meaning of <foreign xml:lang="grc">διάνοια</foreign> see on <cit><bibl>6, 1450<hi rend="sup">a</hi>6</bibl></cit>.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b2_2">
+            <p>
+              <s><foreign xml:lang="grc">ἀλλὰ μηχανῇ κτέ. :</foreign></s>
+              <gloss><foreign xml:lang="grc">μηχανῇ</foreign> breviter dicit pro <foreign xml:lang="grc">theώ ἀπὸ μηχανῆς</foreign> (Ritter). This clause (which ends apparently with <foreign xml:lang="grc">θεοῖς ὁρᾶν</foreign> in b 6) is a digression within a digression; Aristotle remembers <pb n="231" /> 15. 14541-9 231 that the appearance of a god on the stage may be necessary for a certain purpose, to reveal matters of interest which lie outside the play itself as being either anterior or subsequent to the action of the piece. This may be taken as a tacit apology for the proce- dure of <persName>Euripides</persName>, who opens several of his plays with a prologue delivered by a god to explain the historical antecedents of the situation, and concludes others with a sort of epilogue, in which a god announces the future fortunes of the personages (see <cit><bibl>Haigh, Tragic Drama p. 246-7</bibl></cit>). A distorted reminiscence of this state- ment may be recognized in the Horatian precept, A. P. 191 <quote><foreign xml:lang="lat">nec deus intersit nisi dignus vindice nodus inciderit</foreign></quote>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="36" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456a.36">
-      <p>
-        <s><foreign xml:lang="grc">καὶ τὴv διάνοιαν;</foreign></s>
-        <gloss>comp. <cit><bibl><title>Phys.</title> 4. 14, 222<hi rend="sup">b</hi>31</bibl> <quote><foreign xml:lang="grc">τὸ θᾶττον καὶ <pb n="256" /> βραδύτερον κατὰ πᾶσάν ἐστι μεταβολήν.</foreign></quote></cit> In <cit><bibl><title>Bon. Ind.</title> 369<hi rend="sup">b</hi>8</bibl></cit> <foreign xml:lang="grc">κατὰ τὴν διάνοιαν</foreign> is explained as equivalent to <foreign xml:lang="grc">διανοητικά</foreign>.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b6">
+            <p>
+              <s><foreign xml:lang="grc">ἄλογον</foreign></s>
+              <gloss>is a general term for that which cannot be seen to be either necessary or probable (see above <cit><bibl>1454 a 36</bibl></cit> <foreign xml:lang="grc">ἀναγκαῖον ἢ εἰκός</foreign>), in other words for that which does not admit of explanation, that which we find unaccountable. It is of frequent occurrence in the later chapters of the Poetics (see esp. <cit><bibl>24, 1460 a 28</bibl></cit> and <cit><bibl>25, 1461 b 14</bibl></cit>). The clause continues the statement in <cit><bibl>1454 a 37 - b 2</bibl></cit>. No improbability can be allowed within the story (<foreign xml:lang="grc">ἐν τοῖς πράγμασιν</foreign>) of the play, unless it happens to be in the part only pre- supposed and not actually presented on the stage (<foreign xml:lang="grc">ἔξω τῆς τραγῳδίας</foreign>). <persName>Bonitz</persName> (<cit><bibl>Ind. 343 a 32</bibl></cit>) seems to take a different view of the clause, connecting it with that which immediately precedes it, <foreign xml:lang="grc">μηχανῇ χρηστέον κτέ.</foreign> The rule in the text is repeated in very similar terms in <cit><bibl>24, 1460 27</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="37" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456a.37">
-      <p>
-        <s><foreign xml:lang="grc">ὅσα ὑπὸ τοῦ λόγου κτέ.</foreign></s>
-        <gloss>In the <title>Rhetoric</title> three kinds of speech are recognized, according as the aim of the speaker is (1) to gain the confidence of his audience by creating in their minds a favourable idea of himself and his general credibility; or (2) to work on their feelings; or (3) to convince their reason: <cit><bibl><title>Rhet.</title> 1. 2, 1356<hi rend="sup">a</hi>1</bibl> <quote><foreign xml:lang="grc">τῶν δὲ διὰ τοῦ λόγου ποριζομένων πίστεων τρία εἴδη ἐστίν αἱ μὲν γάρ εἰσιν ἐν τῷ ἤθει τοῦ λέγοντος, αἱ δὲ ἐν τῷ τὸν ἀκροατὴν διαθεῖναί πως, αἱ δὲ ἐν αὐτῷ τῷ λόγῳ διὰ τοῦ δεικνύναι ἢ φαίνεσθαι δεικνύναι κτέ.</foreign></quote></cit> The present summary notes the second and third of these three <foreign xml:lang="grc">εἴδη</foreign>, but ignores the first, though there is certainly nothing to exclude that sort of speech from the rhetoric of Tragedy.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b6_2">
+            <p>
+              <s><foreign xml:lang="grc">μηδὲν εἶναι,</foreign></s>
+              <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">δεῖ</foreign>, understood from 37.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="38" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456a.38">
-      <p>
-        <s><foreign xml:lang="grc">πάθη.</foreign></s>
-        <gloss>The instances <foreign xml:lang="grc">οἷον ἔλεον ἢ φόβον κτέ.</foreign> are added, because up to this point <foreign xml:lang="grc">πάθος</foreign> has usually meant <quote>‘suffering’</quote> or <quote>‘calamity’</quote> (<cit><bibl>11, 1452<hi rend="sup">b</hi>11</bibl></cit>).</gloss>
-      </p>
-      <p>
-        <s><foreign xml:lang="grc">ἔλεον ἢ φόβον ἢ ὀργὴν ἢ ὅσα τοιαῦτα.</foreign></s>
-        <gloss>According to <persName>Tumlirz</persName> (<title>Die tragischen Affecte Mitleid und Furcht nach Aristoteles</title> p. 28) this shows that <persName>Aristotle</persName> supposes Tragedy to arouse anger and other emotions as well as pity and fear in the mind of the spectators. There is no such reference here to the spectators; the effect meant is that on the hearer on the stage. One might just as well say that the arguments put into the mouth of a personage (<foreign xml:lang="grc">τό τε ἀποδεικνύναι κτέ.</foreign>) are addressed to the spectators, and not to some other personage in the play. The rhetoric of the speaker in a tragedy is dramatically directed to the hearer on the stage, i. e. to another of the dramatis personae. When <persName>Plato</persName> says of <persName>Euripides</persName> <quote><foreign xml:lang="grc">ἐπίσταται . . ῥήσεις ποιεῖν . . οἰκτρὰς καὶ τοὐναντίον αὖ φοβερὰς καὶ ἀπειλητικάς</foreign></quote> (<cit><bibl><title>Phaedr.</title> 268 c</bibl></cit>), he does not suppose him to threaten the hearers of his pieces.</gloss>
-      </p>
-      <p>
-        <s><foreign xml:lang="grc">μέγεθος καὶ μικρότητα,</foreign></s>
-        <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">παρασκευάζειν</foreign>. The clause is an afterthought, as its logical place would be after <foreign xml:lang="grc">τό τε ἀποδεικνύναι καὶ τὸ λύειν</foreign>. The corresponding formula in <persName>Isocrates</persName> 42 c is <quote><foreign xml:lang="grc">τά τε μεγάλα ταπεινὰ ποιῆσαι καὶ τοῖς μικροῖς μέγεθος περιθεῖναι;</foreign></quote> and in the <title>Rhetoric</title> <foreign xml:lang="grc">αὔξειν καὶ μειοῦν</foreign> : <cit><bibl><title>Rhet.</title> 2. 26, 1403 a 20</bibl> <quote><foreign xml:lang="grc">τὸ δ᾽ αὔξειν καὶ μειοῦν ἐστιν ἐνθυμήματα πρὸς τὸ δεῖξαι ὅτι μέγα ἢ μικρόν, ὥσπερ καὶ ὅτι ἀγαθὸν ἢ κακὸν ἢ δίκαιον ἢ ἄδικον.</foreign></quote></cit> The reading <foreign xml:lang="grc">μικρότητας</foreign> is retained by <persName>Vahlen</persName>, who defends the change of number by quoting (among other instances) <cit><bibl><title>De part. an.</title> 4. 5, 679 b 37</bibl> <quote><foreign xml:lang="grc">διαφέρει τῇ θέσει καὶ τοῖς μεγέθεσιν.</foreign></quote></cit> — <cit><bibl>680 a 29</bibl> <quote><foreign xml:lang="grc">ἐν τῷ ψύχει καὶ ταῖς ἀλέαις.</foreign></quote></cit> — <cit><bibl><persName>Plato</persName> <title>Laws</title> 734 Α</bibl> <quote><foreign xml:lang="grc">μεγέθει καὶ πλήθει καὶ πυκνότησιν.</foreign></quote></cit> — <pb n="257" /> <quote><foreign xml:lang="grc">779 Β ὁμαλότητί τε καὶ ὁμοιότησιν.</foreign></quote> — <cit><bibl>860 Β</bibl> <quote><foreign xml:lang="grc">πλήθει καὶ μεγέθεσιν.</foreign></quote></cit></gloss>
-      </p>
-    </div>
-  </div>
+          <div type="textpart" subtype="commline" n="1454b6_3">
+            <p>
+              <s><foreign xml:lang="grc">ἔξω τῆς τραγωδίας:</foreign></s>
+              <gloss>see on <cit><bibl>14, 1453 b 32</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-  <div type="textpart" subtype="section" n="1456b">
-    <div type="textpart" subtype="commline" n="1" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.1">
-      <p>
-        <s><foreign xml:lang="grc">μέγεθος καὶ μικρότης</foreign> <supplied reason="explanation">continued</supplied></s>
-        <gloss>It is difficult, however, to explain the change of number with two words so closely related as <foreign xml:lang="grc">μέγεθος</foreign> and <foreign xml:lang="grc">μικρότης</foreign>, and in a formula so technical as the present. The sense also of the plural <foreign xml:lang="grc">μικρότητας</foreign> is obscure, as it does not seem to fall under any of the heads recognized by <persName>Bernhardy</persName>, <title>Synt.</title> p. 62 or <persName>Kühner</persName>, <title>Gr. Gr.</title> 2. 1 p. 17.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b6_4">
+            <p>
+              <s><foreign xml:lang="grc">τὸ ἐν τῷ Οἰδίποδι :</foreign></s>
+              <gloss>see <cit><bibl>24, 1400 a 29</bibl></cit></gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="2" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.2">
-      <p>
-        <s><foreign xml:lang="grc">καὶ ἐν τοῖς πράγμασιν :</foreign></s>
-        <gloss>comp. <cit><bibl>15, 1454 a 18</bibl> <quote><foreign xml:lang="grc">ὁ λόγος ἢ ἡ πρᾶξις.</foreign></quote></cit> Aristotle is quite aware that there is a rhetoric of action as well as a rhetoric of words. The <foreign xml:lang="grc">διάνοια</foreign> of the dramatis personae may be shown in their acts; they may do things, just as they say things, with a view to exciting pity, fear, etc., or with a view to creating an idea that something is or is not true, etc.; and whichever mode of expression be used, they have to follow, according to Aristotle, the same method and principles.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b8">
+            <p>
+              <s><foreign xml:lang="grc">ἐπεὶ δὲ κτἑ.</foreign></s>
+              <gloss>At this point Aristotle returns to the subject of the <foreign xml:lang="grc">ἤθη</foreign>, which according to his theory (1454 a 17-26) should be at once χρηστά, ἁρμόττοντα, ὅμοια, and ὁμαλά, in order to meet any doubt that may arise as to the possibility of an <foreign xml:lang="grc">ἦθος</foreign> being at once χρηστόν and ὅμοιον. He shows that the corresponding difficulty has been solved in a sister art, that of the portrait-painter, who without sacrificing the likeness makes a man look handsomer than he is (<foreign xml:lang="grc">ὁμοίους ποιοῦντες καλλίους γράφουσιν</foreign>); so that, if the painter can do this, there is no reason why the literary artist also should not be able to represent a tragic personage truthfully, with any infirmities of character which form part of the received idea of him (<foreign xml:lang="grc">ὀργίλους καὶ ῥᾳθύμους καὶ τάλλα τὰ τοιαῦτα ἔχοντας ἐπὶ τῶν ἠθῶν</foreign> b12), and at the same time as a good man (ἐπιεικεῖς b13).</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="3" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.3">
-      <p>
-        <s><foreign xml:lang="grc">ἀπὸ τῶν αὐτῶν ἰδεῶν δεῖ χρῆσθαι,</foreign></s>
-        <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">τῇ διανοίᾳ</foreign>, or <foreign xml:lang="grc">τοῖς τῆς διανοίας μέρεσιν</foreign>. For the meaning of see on <cit><bibl>7, 1450b 34</bibl></cit>. <foreign xml:lang="grc">ἀπό</foreign> denotes here the logical starting-point.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b8_2">
+            <p>
+              <s><foreign xml:lang="grc">βελτιόνων :</foreign></s>
+              <gloss>see <cit><bibl>2, 1448 4</bibl></cit>, <cit><bibl>11</bibl></cit>, <cit><bibl>18</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="4" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.4">
-      <p>
-        <s><foreign xml:lang="grc">μεγάλα εἰκότα.</foreign></s>
-        <gloss><persName>Aristotle</persName> might have expressed himself more fully by saying <foreign xml:lang="grc">μεγάλα ἢ μικρά ἢ εἰκότα ἢ ἀπίθανα</foreign> (comp. on <cit><bibl>18, 1456 a 9</cit></bibl>).</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b9">
+            <p>
+              <s><foreign xml:lang="grc">ἡμᾶς,</foreign></s>
+              <gloss><pb n="232" /> 232 COMMENTARY 1454 b 9 'we poets', as is shown by what follows in οὕτω καὶ τὸν ποιητήν. Aristotle speaks as though his hearers were poets, and studying the art of poetry for practical purposes. The <title>Poetics</title> in fact, whatever else they may be, are a practical treatise on Poetry; and the assumption throughout is that one is to learn from them how to write a good poem. Similarly in <cit><bibl>Rhet. 1. 8, 1366 a 12</bibl></cit> <foreign xml:lang="grc">ἡμᾶς</foreign> means 'we orators' (<quote><foreign xml:lang="grc">δέοι ἂν τὰ ἤθη τῶν πολιτειῶν ἑκάστης ἔχειν ἡμᾶς</foreign></quote>).</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="5" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.5">
-      <p>
-        <s><foreign xml:lang="grc">ἄνευ διδασκαλίας = ἄνευ λόγου,</foreign></s>
-        <gloss><quote xml:lang="lat">‘sine docentis opera’</quote> <persName>Tyrwhitt</persName>) it is explained by what follows, <quote><foreign xml:lang="grc">τί γὰρ ἂν εἴη τοῦ λέγοντος ἔργον ;</foreign></quote> The party instructed or informed here is one of the dramatis personae, who learns the mind of another either through some act of his, or through some statement by him in words.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b10">
+            <p>
+              <s><foreign xml:lang="grc">καὶ γὰρ ἐκεῖνοι.</foreign></s>
+              <gloss>Aristotle might no doubt have said ὥσπερ γὰρ ἐκεῖνοι. Vahlen illustrates the construction from <cit><bibl>Soph. el. 16, 175 a 27</bibl></cit> <quote><foreign xml:lang="grc">συμβαίνει δέ ποτε καθάπερ ἐν τοῖς διαγράμμασιν· καὶ γὰρ ἐκεῖ ἀναλύσαντες ἐνίοτε συνθεῖναι πάλιν ἀδυνατοῦμεν· οὕτω καὶ ἐν τοῖς ἐλέγχοις εἰδότες παρ᾿ ὃ ὁ λόγος συμβαίνει συνεῖραι διαλύσαι τὸν λόγον ἀποροῦμεν</foreign></quote>, and other parallels in Aristotle (v. <cit><bibl>Bon. Ind. 546</bibl></cit>).</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="6" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.6">
-      <p>
-        <s><foreign xml:lang="grc">τὰ δὲ ἐν τῷ λόγῳ,</foreign></s>
-        <gloss><foreign xml:lang="lat">scil.</foreign> <foreign xml:lang="grc">ἐλεεινά, δεινά, μεγάλα κτέ.</foreign></gloss>
-      </p>
-      <p>
-        <s><foreign xml:lang="grc">παρὰ τὸν λόγον.</foreign></s>
-        <gloss>For the preposition comp. <cit><bibl>b13</bibl></cit> and <cit><bibl>15, 1454 b 15</bibl></cit>.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b12">
+            <p>
+              <s><foreign xml:lang="grc">ὀργίλους καὶ ῥᾳθύμους,</foreign></s>
+              <gloss>'too quick or too slow to anger'; the contrast is like that between ὀξύς and ῥάθυμος in <cit><bibl>Eth. E. 8. 5, 1240 a 1</bibl></cit> <quote><foreign xml:lang="grc">ἀνομοίοις χαίρουσιν, οἷον αὐστηροὶ εὐτραπέλοις καὶ ὀξεῖς ῥᾳθύμις</foreign></quote>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="7" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.7">
-      <p>
-        <s><foreign xml:lang="grc">εἰ φαίνοιτο ἢ δέοι.</foreign></s>
-        <gloss>The traditional <foreign xml:lang="grc">εἰ φανοῖτο</foreign> (which would have to be taken as equivalent to <foreign xml:lang="grc">εἰ μέλλοι φαίνεσθαι</foreign>) is against the rule laid down by <persName>Mvig</persName>, <title>Gr. Synt.</title> p. 119 Eng. tr. There is not much to choose between <persName>Vahlen</persName>'s <foreign xml:lang="grc">ἢ δέοι</foreign> and <persName>Castelvetro</persName>'s <foreign xml:lang="grc">ἤδη</foreign>. <foreign xml:lang="grc">ἢ δέοι</foreign>, however, is somewhat nearer the manuscript reading <foreign xml:lang="grc">ἡδέα</foreign>, and much more probable than either <persName>Tyrwhitt</persName>'s <foreign xml:lang="grc">δεῖ</foreign> or <persName>Spengel</persName>'s <foreign xml:lang="grc">διάνοια</foreign>. It means <quote>‘in the required light’</quote>, i.e. as <foreign xml:lang="grc">ἐλεεινά</foreign>, or <foreign xml:lang="grc">δεινά</foreign>, etc. If things appear of themselves in this light, without the aid of the rhetorical art of the speaker, the speaker is not wanted. The present remark may be compared with that in <cit><bibl>6, 1450 b8</bibl> <quote><foreign xml:lang="grc">ἐν οἷς οὐκ ἔστι δῆλον κτέ.</foreign></quote></cit></gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b12_2">
+            <p>
+              <s><foreign xml:lang="grc">καὶ τἆλλα τὰ τοιαῦτα ἔχοντας</foreign></s>
+              <gloss>is added in order to include all similar defects of character, i. e. defects which are not incompatible with a general goodness of disposition.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="8" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.8">
-      <p>
-        <s><foreign xml:lang="grc">τῶν δὲ περὶ τὴν λέξιν.</foreign></s>
-        <gloss>Having briefly considered the <foreign xml:lang="grc">διάνοια</foreign>, the intellectual or rhetorical power revealed in the speeches of the <pb n="258" /> dramatic personages, <persName>Aristotle</persName> passes on to their <foreign xml:lang="grc">λέξις</foreign>, the diction or language in which they are made to express themselves. This point he investigates under three heads:—(1) the parts or constituents of the diction as a whole; (2) the various kinds of names in it; and (3) the limits within which unusual names or forms of names are admissible in poetry. Before entering on this line of discussion, however, he sets aside a matter which might perhaps seem germane to his subject, the elocutionary element in the spoken language. The word <foreign xml:lang="grc">βαδίζει</foreign>, for instance, according to one's tone in uttering it, may mean <quote>‘he walks’</quote>, or <quote>‘does he walk?’</quote>; and <foreign xml:lang="grc">ἄειδε</foreign> may be uttered as a command (<quote>‘sing!’</quote>) or as a prayer. These and similar distinctions, in <persName>Aristotle</persName>'s view, belong to the language as spoken rather than to the language as written, and thus come within the province of elocution (<foreign xml:lang="grc">ὑποκριτική</foreign>) rather than that of poetry or literature proper.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b14">
+            <p>
+              <s><foreign xml:lang="grc">[παράδειγμα σκληρότητος].</foreign></s>
+              <gloss>For the reason for bracketing the two words see <cit><bibl>J. of Phil. 14 p. 47</bibl></cit>. If they are not an ordinary 'adscript', they may possibly represent a marginal note by Aristotle himself to indicate that a second instance, one of <foreign xml:lang="grc">σκληρότης</foreign> [obstinacy?], was to be added. According to Galen (t. 18. 2 p. 879-80 K.) notes of a very similar description were to be found embedded in the text of Hippocrates.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="9" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.9">
-      <p>
-        <s><foreign xml:lang="grc">τὰ σχήματα τῆς λέξεως</foreign></s>
-        <gloss>means literally the different <quote>‘attitudes’</quote> or turns of meaning given to the language when it comes to be actually spoken. The same idea underlies the expression <foreign xml:lang="grc">σχήματα λέξεως</foreign> of the grammarians, as one may see from <cit><bibl><persName>Cicero</persName> <title>Orator</title> 83</bibl> <quote xml:lang="lat">Verborum collocationem illuminat iis luminibus quae Graeci quasi aliquos gestus orationis σχήματα appellant.</quote></cit> <cit><bibl><persName>Quintilian</persName> 9. 1. 13</bibl> <quote xml:lang="lat">Si habitus quidam et quasi gestus sic [scil. σχήματα] appellandi sunt.</quote></cit> <foreign xml:lang="grc">σχῆμα</foreign>=<quote>‘gestus’</quote> occurs in <cit><bibl>17, 1455 29</bibl></cit> and <cit><bibl>26, 1462 3</bibl></cit> (comp. <cit><bibl>1, 1447<hi rend="sup">a</hi>27</bibl></cit>). <persName>Aristotle</persName>'s <foreign xml:lang="grc">σχήματα τῆς λέξεως</foreign>, however, must not be identified with the <foreign xml:lang="grc">σχήματα λέξεως</foreign> or <quote>‘figures of speech’</quote>, as we call them, of later writers. A <quote>‘figure of speech’</quote> is a literary artifice, a deviation from the simple and usual mode of expression for purposes of literary effect; <persName>Quintilian</persName> defines it as a <quote xml:lang="lat">conformatio quaedam orationis remota a communi et primum se offerente ratione</quote> (<cit><bibl>9. 1. 4</bibl></cit>), or as an <quote xml:lang="lat">oratio a simplici rectoque loquendi genere deflexa</quote> (<cit><bibl>9.3.3</bibl></cit>; comp. <cit><bibl><persName>Ernesti</persName>, <title>Lex. techn. gr.</title> p. 338</bibl></cit>). In a <quote>‘figure of speech’</quote>, as compared with the simple form of expression (e.g. <quote>‘Macedonia's madman’</quote> and <quote>‘Alexander’</quote>), we have a difference of words without any difference of sense; whereas in the Aristotelian <foreign xml:lang="grc">σχήματα τῆς λέξεως</foreign> we have the same words and a different sense—the difference of sense resulting from a difference of some kind in the mode of enunciation.</gloss>
-      </p>
-      <p>
-        <s><foreign xml:lang="grc">ὑποκριτικῆς.</foreign></s>
-        <gloss><foreign xml:lang="grc">υπόκρισις</foreign>, the Latin <foreign xml:lang="lat">pronunciatio</foreign>, means <quote>‘delivery’</quote> or <quote>‘elocution’</quote>. In the <title>Rhetoric</title> two styles of oratory are distinguished, the <quote>‘graphic’</quote> style in which the sense is fully expressed by the actual language, and the <quote>‘hypocritic’</quote> style, which requires <pb n="259" /> certain artifices of elocution to bring out the meaning: <cit><bibl><title>Rhet.</title> 3. 12, 1413 b 17</bibl> <quote><foreign xml:lang="grc">τὰ ὑποκριτικὰ ἀφῃρημένης τῆς ὑποκρίσεως οὐ ποιοῦντα τὸ αὑτῶν ἔργον φαίνεται εὐήθη, οἷον τά τε ἀσύνδετα καὶ τὸ πολλάκις τὸ αὐτὸ εἰπεῖν ἐν τῇ γραφικῇ ὀρθῶς ἀποδοκιμάζεται, ἐν δὲ (τῇ) ἀγωνιστικῇ καὶ οἱ ῥήτορες χρῶνται· ἔστι γὰρ ὑποκριτικά</foreign></quote></cit> (comp. <cit><bibl>3. 12, 1414 b 5</bibl></cit>).</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b14_2">
+            <p>
+              <s><foreign xml:lang="grc">᾿Αγάθων:</foreign></s>
+              <gloss>perhaps, as Tyrwhitt suggests, in his Telephus (<cit><bibl>Nauck, TGF. p. 764</bibl></cit>).</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="11" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.11">
-      <p>
-        <s><foreign xml:lang="grc">ἀρχιτεκτονικήν.</foreign></s>
-        <gloss>The <foreign xml:lang="grc">ἀρχιτέκτων</foreign> is properly the master-builder, who knows the scheme of the whole work and directs the artisans and others under him: <cit><bibl><persName>Plato</persName> <title>Polit.</title> 259 E</bibl> <quote><foreign xml:lang="grc">ἀρχιτέκτων γε πᾶς οὐκ αὐτὸς ἐργατικὸς ἀλλ᾽ ἐργατῶν ἄρχων ... παρεχόμενός γέ που γνῶσιν ἀλλ᾽ οὐ χειρουργίαν.</foreign></quote></cit> <persName>Aristotle</persName> recognizes a similar distinction in other arts, even in medicine: <cit><bibl><title>Pol.</title> 3. 11, 1282 b 3</bibl> <quote><foreign xml:lang="grc">ἰατρὸς ὁ τε δημιουργὸς καὶ ὁ ἀρχιτεκτονικός.</foreign></quote></cit> The <quote>‘architectonic’</quote> form of <foreign xml:lang="grc">ὑποκριτική</foreign> involves a knowledge of its rationale and general principles, as distinct from the empiric knowledge possessed by rhapsodists, actors, orators, and other practicians.</gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b15">
+            <p>
+              <s><foreign xml:lang="grc">διατηρεῖν.</foreign></s>
+              <gloss>This quasi-imperatival use of the infinitive (without δεῖ οι χρή) is common enough in Aristotle (<cit><bibl>Bon. Ind. 343 a 22</bibl></cit>). For the compound διατηρεῖν comp. <cit><bibl>Eth. N. 10. 8, 1178 a 13</bibl></cit> <foreign xml:lang="grc">διατηροῦντες τὸ πρέπον ἑκάστῳ</foreign>. — <cit><bibl>Aeschines in Ctes. 6</bibl></cit> <quote><foreign xml:lang="grc">ὅταν διατηρηθῶσιν οἱ νόμοι</foreign></quote>. — Philemon <cit><bibl>94. 6 Kock</bibl></cit> <foreign xml:lang="grc">ὃς γε ταῦτα πάντα διατηρεῖ</foreign>. At this point Aristotle sums up by saying that the rules laid down for the μῦθος and ἤθη in a play must be observed throughout by the poet. But besides these general principles of construction, it is necessary in practice to consider the spectators (comp. Teichmüller, Aristot. Forsch. 2 p. 204) and the impression (αἰσθήσεις) the work is likely to make on them when presented on the stage, as it is easy to produce a bad impression through some fault of practical stage-craft. This seems to be the sense of the present <pb n="233" /> 15. 14549-16. 1454 20 233 passage; Aristotle, however, avoids details, and refers to another writing of his for a fuller explanation of his precept. The incident mentioned in <cit><bibl>17, 1455 b 26</bibl></cit> may perhaps be taken as an instance of the kind of fault he has in mind.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="9" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.9">
-      <p>
-        <s><foreign xml:lang="grc">οἷον τί ἐντολὴ κτέ.</foreign></s>
-        <gloss>refers back to <foreign xml:lang="grc">τὰ σχήματα τῆς λέξεως</foreign> in 9 (comp. on <cit><bibl>7, 1451 a 2</bibl></cit>). The classification in the text originated with <persName>Protagoras</persName>, who is said to have distinguished four (or perhaps seven) fundamental differences in our mode of speech: <cit><bibl><title>Diog. Laert.</title> 9. 53</bibl> <quote><foreign xml:lang="grc">διεῖλέ τε τὸν λόγον πρῶτος εἰς τέτταρα, εὐχωλὴν ἐρώτησιν ἀπόκρισιν ἐντολήν —οἱ δὲ<note n="1">
-        <foreign xml:lang="grc">οἱ δε = οἱ δε φασιν,</foreign>
-        <gloss>‘according to others’, as it so often does in the grammarians.
-        </note> εἰς ἑπτά, διήγησιν ἐρώτησιν ἀπόκρισιν ἐντολὴν ἀπαγγελίαν εὐχωλὴν κλῆσιν —, οὓς καὶ πυθμένας εἶπε λόγων,</foreign></quote></cit> — <cit><bibl><title>Quintilian</title> 3. 4. 10</bibl> <quote xml:lang="lat">Protagoram transeo, qui interrogandi respondendi mandandi precandi, quod εὐχωλὴν dixit, partes solas putat.</quote></cit> It will be seen that <persName>Aristotle</persName> has arranged the <foreign xml:lang="grc">σχήματα</foreign> in pairs; one kind of speech may be made by a difference of intonation to mean either a command or a prayer, another either a simple statement or a threat, another either a question or an answer, and so forth with the rest. <persName>Aristotle</persName>'s instances may be compared with those in <cit><bibl><title>Dion. Hal.</title> 5. 46 R.</bibl> <quote><foreign xml:lang="grc">τὰ μὲν ὡς ἀποφαινόμενοι λέγομεν, τὰ δ᾽ ὡς πυνθανόμενοι, τὰ δ᾽ ὡς εὐχόμενοι, τὰ δ᾽ ὡς ἐπιτάττοντες, τὰ δ᾽ ὡς διαποροῦντες, τὰ δ᾽ ὡς ὑποτιθέμενοι, τὰ δ᾽ ἄλλως πως σχηματίζοντες.</foreign></quote></cit></gloss>
-      </p>
-    </div>
+          <div type="textpart" subtype="commline" n="1454b15_2">
+            <p>
+              <s><foreign xml:lang="grc">τὰ παρὰ τὰς ἐξ ἀνάγκης ἀκολουθούσας αἰσθήσεις.</foreign></s>
+              <gloss>For παρά in a sense approximating to that of διά see <cit><bibl>Bon. Ind. 562 a 10</bibl></cit> and Bernays, Dialoge des Aristot. p. 138. αἰσθήσεις means the impression produced on the spectators, i. e. as we should say, the stage-effect of a play. The qualification, however, <foreign xml:lang="grc">τὰς ἐξ ἀνάγκης ἀκολουθούσας τῇ ποιητικῇ</foreign>, limits the responsibility of the poet to that part of the stage-effect which directly depends on his own art (<foreign xml:lang="grc">ἀκολουθούσας τῇ ποιητικῇ</foreign>); so far as it depends on that of others — actors, costumiers, and the like — it is not within his province (<cit><bibl>6, 1450b17</bibl></cit>). This interpretation, which is as old as Victorius, is much more probable than that of Bernays and others, who suppose the reference in the text to be to the business of the costumier and stage-manager. Throughout the <title>Poetics</title> Aristotle resolutely ignores all such matters as outside the art of poetry proper; and it is inconceivable that he should have given them any special attention in a work like the dialogue <title><foreign xml:lang="grc">περὶ ποιητῶν</foreign></title> (<foreign xml:lang="grc">ἐν τοῖς ἐκδεδομένοις λόγοις</foreign>). For the plural αἰσθήσεις comp. ὄψεις in <cit><bibl>6, 1450 a 13, b 20</bibl></cit>, and <cit><bibl>Kühner, Gr. Gr.³ 2. 1 p. 17</bibl></cit>.</gloss>
+            </p>
+          </div>
 
-    <div type="textpart" subtype="commline" n="13" corresp="urn:cts:greekLit:tlg0086.tlg034:19.1456b.13">
-      <p>
-        <s><foreign xml:lang="grc">παρὰ γὰρ τὴν τούτων γνῶσιν κτέ.</foreign></s>
-        <gloss>The argument here comes practically to this: That these <foreign xml:lang="grc">σχήματα τῆς λέξεως</foreign> are something outside the art of Poetry itself is shown by the fact that ignorance of them is not one of the usual charges brought by hostile critics against a poet; <persName>Protagoras</persName>' criticism on the first line of the <title>Iliad</title> may be dismissed as too trivial to deserve attention.</gloss>
-      </p>
-      
-    </div>
-  </div>
-</div>
+          <div type="textpart" subtype="commline" n="1454b18">
+            <p>
+              <s><foreign xml:lang="grc">εν τοῖς ἐκδεδομένοις λόγοις :</foreign></s>
+              <gloss>i. e. in the now lost dialogue <title><foreign xml:lang="grc">περὶ ποιητῶν</foreign></title>, as Bernays following Victorius has shown (Dialoge des Aristot. p. 27; comp. <cit><bibl>Bon. Ind. 226b35</bibl></cit>). The reference must be to a work (1) by Aristotle himself, (2) published and written for publication, and (3) on a kindred subject.</gloss>
+            </p>
+          </div>
+
+          <div type="textpart" subtype="commline" n="1454b19">
+            <p>
+              <s>This and the next two chapters form a sort of Appendix;</s>
+              <gloss>19 they discuss a series of special points and rules of construction which had been omitted in the sketch of the general theory of the μῦθος. If these afterthoughts seem out of place here, it is to be remem- bered that there is an even stronger instance of matter out of place in <cit><bibl>15, 1454 a 37</bibl></cit> An excursus on the different forms of Discovery is justified not only by the great dramatic interest of the Dis- covery (<cit><bibl>6, 1450 a 33</bibl></cit>), but also by the important part it plays in <cit><bibl>14, 1453 b 30</bibl></cit>.</gloss>
+            </p>
+          </div>
+
+          <div type="textpart" subtype="commline" n="1454b19_2">
+            <p>
+              <s><foreign xml:lang="grc">εἴρηται πρότερον :</foreign></s>
+              <gloss><cit><bibl>11, 1452 b 29</bibl></cit>.</gloss>
+            </p>
+          </div>
+
+          <div type="textpart" subtype="commline" n="1454b20">
+            <p>
+              <s><foreign xml:lang="grc">πλείστῃ χρῶνται:</foreign></s>
+              <gloss>Pol. 7.11, 1330 611 <quote><foreign xml:lang="grc">οἷς γὰρ πλείστοις χρώ- μεθα πρὸς τὸ σῶμα καὶ πλειστάκις, ταῦτα πλεῖστον συμβάλλεται πρὸς τὴν ὑγίειαν.</foreign></quote> — Hippocrates <cit><bibl>1 p. 40 Κ.</bibl></cit> <quote><foreign xml:lang="grc">οἷς εἴθισται ὁ ἄνθρωπος πλεί- στοισί τε καὶ αἰεὶ χρῆσθαι.</foreign></quote></gloss>
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
