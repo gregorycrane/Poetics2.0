@@ -58,7 +58,7 @@
             <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0086.tlg034.bywater1909">
                 <pb n="2"/>
                 <div type="textpart" subtype="chapter" n="1">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1447a 8"/>Περὶ ποιητικῆς αὐτῆς τε καὶ τῶν εἰδῶν αὐτῆς, ἦν τινα
                             <lb n="1447a 9"/>δύναμιν ἕκαστον ἔχει, καὶ πῶς δεῖ συνίστασθαι τοὺς μύθους
@@ -68,7 +68,7 @@
                             <lb n="1447a 13"/>τον ἀπὸ τῶν πρώτων.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             ἐποποιία δὴ καὶ ἡ τῆς τραγῳδίας
                             <lb n="1447a 14"/>ποίησις ἔτι δὲ κωμῳδία καὶ ἡ διθυραμβοποιητικὴ καὶ τῆς
@@ -76,14 +76,14 @@
                             <lb n="1447a 16"/>οὖσαι μιμήσεις τὸ σύνολον·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             διαφέρουσι δὲ ἀλλήλων τρισίν,
                             <lb n="1447a 17"/>ἢ γὰρ τῷ γένει ἑτέροις μιμεῖσθαι ἢ τῷ ἕτερα ἢ τῷ ἑτέ-
                             <lb n="1447a 18"/>ρως καὶ μὴ τὸν αὐτὸν τρόπον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1447a 19"/>ὥσπερ γὰρ καὶ χρώμασι
                             <lb n="1447a 20"/>καὶ σχήμασι πολλὰ μιμοῦνταί τινες ἀπεικάζοντες (οἱ μὲν
@@ -93,7 +93,7 @@
                             <lb n="1447a 24"/>ἢ χωρὶς ἢ μεμιγμένοις·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             οἷον ἁρμονίᾳ μὲν καὶ ῥυθμῷ χρώ-
                             <lb n="1447a 25"/>μεναι μόνον ἥ τε αὐλητικὴ καὶ ἡ κιθαριστικὴ κἂν εἴ τινες
@@ -101,7 +101,7 @@
                             <lb n="1447a 27"/>συρίγγων·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             αὐτῷ δὲ τῷ ῥυθμῷ μιμοῦνται χωρὶς ἁρμονίας ἡ
                             <pb n="4"/>
@@ -109,7 +109,7 @@
                             <lb n="1447a 29"/>μιμοῦνται καὶ ἤθη καὶ πάθη καὶ πράξεις.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1447b 1"/>ἡ δὲ <del>ἐποποιία</del>
                             <lb n="1447b 2"/>μόνον τοῖς λόγοις ψιλοῖς ἢ τοῖς μέτροις καὶ τούτοις εἴτε
@@ -117,21 +117,21 @@
                             <lb n="1447b 4"/>τρων <add>ἀνώνυμος</add> τυγχάνει οὖσα μέχρι τοῦ νῦν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             οὐδὲν γὰρ ἂν
                             <lb n="1447b 5"/>ἔχοιμεν ὀνομάσαι κοινὸν τοὺς Σώφρονος καὶ Ξενάρχου μί-
                             <lb n="1447b 6"/>μους καὶ τοὺς Σωκρατικοὺς λόγους
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             οὐδὲ εἴ τις διὰ τριμέτρων
                             <lb n="1447b 7"/>ἢ ἐλεγείων ἢ τῶν ἄλλων τινῶν τῶν τοιούτων ποιοῖτο τὴν
                             <lb n="1447b 8"/>μίμησιν—
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             πλὴν οἱ ἄνθρωποί γε συνάπτοντες τῷ μέτρῳ τὸ
                             <lb n="1447b 9"/>ποιεῖν ἐλεγειοποιοὺς τοὺς δὲ ἐποποιοὺς ὀνομάζουσιν, οὐχ ὡς
@@ -139,7 +139,7 @@
                             <lb n="1447b 11"/>αγορεύοντες·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             καὶ γὰρ ἂν ἰατρικὸν ἢ φυσικόν τι διὰ τῶν
                             <lb n="1447b 12"/>μέτρων ἐκφέρωσιν, οὕτω καλεῖν εἰώθασιν· οὐδὲν δὲ κοινόν
@@ -148,7 +148,7 @@
                             <lb n="1447b 15"/>μᾶλλον ἢ ποιητήν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             ὁμοίως δὲ κἂν εἴ τις ἅπαντα τὰ μέτρα μιγνύων
                             <lb n="1447b 16"/>ποιοῖτο τὴν μίμησιν καθάπερ Χαιρήμων ἐποίησε Κένταυ-
@@ -158,7 +158,7 @@
                             περὶ μὲν οὖν τούτων διωρίσθω
                             <lb n="1447b 19"/>τοῦτον τὸν τρόπον. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>εἰσὶ δέ τινες αἳ πᾶσι χρῶνται τοῖς εἰρη-
                             <lb n="1447b 20"/>μένοις, λέγω δὲ οἷον ῥυθμῷ καὶ μέλει καὶ μέτρῳ, ὥσπερ
                             <lb n="1447b 21"/>ἥ τε τῶν διθυραμβικῶν ποίησις καὶ ἡ τῶν νόμων καὶ ἥ
@@ -166,7 +166,7 @@
                             <lb n="1447b 23"/>ἅμα πᾶσιν αἱ δὲ κατὰ μέρος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             <lb n="1447b 24"/>ταύτας μὲν οὖν λέγω τὰς
                             <lb n="1447b 25"/>διαφορὰς τῶν τεχνῶν ἐν οἷς ποιοῦνται τὴν μίμησιν.
@@ -175,7 +175,7 @@
                 </div>
                 <pb n="6"/>
                 <div type="textpart" subtype="chapter" n="2">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1448a 1"/>Ἐπεὶ δὲ μιμοῦνται οἱ μιμούμενοι πράττοντας, ἀνάγκη
                             <lb n="1448a 2"/>δὲ τούτους ἢ σπουδαίους ἢ φαύλους εἶναι (τὰ γὰρ ἤθη σχεδὸν
@@ -184,26 +184,26 @@
                             <lb n="1448a 5"/>ἢ καὶ τοιούτους, ὥσπερ οἱ γραφεῖς·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             Πολύγνωτος μὲν γὰρ
                             <lb n="1448a 6"/>κρείττους, Παύσων δὲ χείρους, Διονύσιος δὲ ὁμοίους εἴκαζεν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1448a 7"/>δῆλον δὲ ὅτι καὶ τῶν λεχθεισῶν ἑκάστη μιμήσεων ἔξει
                             <lb n="1448a 8"/>ταύτας τὰς διαφορὰς καὶ ἔσται ἑτέρα τῷ ἔτερα μιμεῖσθαι
                             <lb n="1448a 9"/>τοῦτον τὸν τρόπον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             καὶ γὰρ ἐν ὀρχήσει καὶ αὐλήσει καὶ
                             <lb n="1448a 10"/>κιθαρίσει ἔστι γενέσθαι ταύτας τὰς ἀνομοιότητας,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             καὶ τῷ
                             <lb n="1448a 11"/>περὶ τοὺς λόγους δὲ καὶ τὴν ψιλομετρίαν, οἷον Ὅμηρος μὲν
@@ -212,14 +212,14 @@
                             <lb n="1448a 14"/>χείρους·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             ὁμοίως δὲ καὶ περὶ τοὺς διθυράμβους καὶ περὶ τοὺς
                             <lb n="1448a 15"/>νόμους, ὥσπερ <gap reason="lost"/> Κύκλωπας Τιμόθεος καὶ Φιλόξενος,
                             <lb n="1448a 16"/>μιμήσαιτο ἄν τις.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             ἐν ταύτῃ δὲ τῇ διαφορᾷ καὶ ἡ τραγῳ-
                             <lb n="1448a 17"/>δία πρὸς τὴν κωμῳδίαν διέστηκεν· ἡ μὲν γὰρ χείρους ἡ δὲ
@@ -228,13 +228,13 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" n="3">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1448a 19"/>Ἔτι δὲ τούτων τρίτη διαφορὰ τὸ ὡς ἕκαστα τούτων
                             <lb n="1448a 20"/>μιμήσαιτο ἄν τις.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             καὶ γὰρ ἐν τοῖς αὐτοῖς καὶ τὰ αὐτὰ
                             <lb n="1448a 21"/>μιμεῖσθαι ἔστιν ὁτὲ μὲν ἀπαγγέλλοντα <add>ἢ</add> ἕτερόν τι γιγνό-
@@ -244,13 +244,13 @@
                             <lb n="1448a 24"/>μιμουμένους.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             ἐν τρισὶ δὴ ταύταις διαφοραῖς ἡ μίμησίς ἐστιν,
                             <lb n="1448a 25"/>ὡς εἴπομεν κατ᾽ ἀρχάς, ἐν οἷς τε <add>καὶ ἃ</add> καὶ ὥς.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1448a 26"/>ὥστε τῇ
                             <lb n="1448a 27"/>μὲν ὁ αὐτὸς ἂν εἴη μιμητὴς Ὁμήρῳ Σοφοκλῆς, μιμοῦνται
@@ -261,7 +261,7 @@
                             <lb n="1448a 31"/>σθαί τινες αὐτά φασιν, ὅτι μιμοῦνται δρῶντας.
                             </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                         
                             διὸ καὶ
@@ -273,7 +273,7 @@
                             <lb n="1448a 37"/>τῶν ἐν Πελοποννήσῳ) ποιούμενοι τὰ ὀνόματα σημεῖον·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             αὐτοὶ
                             <lb n="1448a 38"/>μὲν γὰρ κώμας τὰς περιοικίδας καλεῖν φασιν, Ἀθηναίους
@@ -282,20 +282,20 @@
                             <lb n="1448b 3"/>καὶ τὸ ποιεῖν αὐτοὶ μὲν δρᾶν, Ἀθηναίους δὲ πράττειν προσ-
                             <lb n="1448b 4"/>αγορεύειν. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>περὶ μὲν οὖν τῶν διαφορῶν καὶ πόσαι καὶ
                             <lb n="1448b 5"/>τίνες τῆς μιμήσεως εἰρήσθω ταῦτα.
                         </p>
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" n="4">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1448b 6"/>Ἐοίκασι δὲ γεννῆσαι μὲν ὅλως τὴν ποιητικὴν αἰτίαι
                             <lb n="1448b 7"/>δύο τινὲς καὶ αὗται φυσικαί·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             τό τε γὰρ μιμεῖσθαι σύμφυτον
                             <lb n="1448b 8"/>τοῖς ἀνθρώποις ἐκ παίδων ἐστὶ καὶ τούτῳ διαφέρουσι
@@ -304,7 +304,7 @@
                             <lb n="1448b 11"/>τοῖς μιμήμασι πάντας.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1448b 12"/>σημεῖον δὲ τούτου τὸ συμβαῖνον
                             <lb n="1448b 13"/>ἐπὶ τῶν ἔργων· ἃ γὰρ αὐτὰ λυπηρῶς ὁρῶμεν, τούτων τὰς
@@ -313,7 +313,7 @@
                             <lb n="1448b 15"/>θηρίων τε μορφὰς τῶν ἀτιμοτάτων καὶ νεκρῶν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             αἴτιον δὲ
                             <lb n="1448b 16"/>καὶ τοῦτο, ὅτι μανθάνειν οὐ μόνον τοῖς φιλοσόφοις ἥδιστον
@@ -321,21 +321,21 @@
                             <lb n="1448b 18"/>σιν αὐτοῦ.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1448b 19"/>διὰ γὰρ τοῦτο χαίρουσι τὰς εἰκόνας ὁρῶντες, ὅτι
                             <lb n="1448b 20"/>συμβαίνει θεωροῦντας μανθάνειν καὶ συλλογίζεσθαι τί ἕκα-
                             <lb n="1448b 21"/>στον, οἷον ὅτι οὗτος ἐκεῖνος·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             ἐπεὶ ἐὰν μὴ τύχῃ προεωρακώς,
                             <lb n="1448b 22"/>οὐχ ᾗ μίμημα ποιήσει τὴν ἡδονὴν ἀλλὰ διὰ τὴν ἀπερ-
                             <lb n="1448b 23"/>γασίαν ἢ τὴν χροιὰν ἢ διὰ τοιαύτην τινὰ ἄλλην αἰτίαν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1448b 24"/>κατὰ φύσιν δὲ ὄντος ἡμῖν τοῦ μιμεῖσθαι καὶ τῆς ἁρμονίας
                             <lb n="1448b 25"/>καὶ τοῦ ῥυθμοῦ (τὰ γὰρ μέτρα ὅτι μόρια τῶν ῥυθμῶν ἐστι
@@ -344,7 +344,7 @@
                             <lb n="1448b 28"/>διασμάτων.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1448b 29"/>διεσπάσθη δὲ κατὰ τὰ οἰκεῖα ἤθη ἡ ποίησις·
                             <lb n="1448b 30"/>οἱ μὲν γὰρ σεμνότεροι τὰς καλὰς ἐμιμοῦντο πράξεις καὶ
@@ -352,13 +352,13 @@
                             <lb n="1448b 32"/>πρῶτον ψόγους ποιοῦντες, ὥσπερ ἕτεροι ὕμνους καὶ ἐγκώμια.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1448b 33"/>τῶν μὲν οὖν πρὸ Ὁμήρου οὐδενὸς ἔχομεν εἰπεῖν τοιοῦτον
                             <lb n="1448b 34"/>ποίημα, εἰκὸς δὲ εἶναι πολλούς,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             ἀπὸ δὲ Ὁμήρου ἀρξαμένοις
                             <lb n="1448b 35"/>ἔστιν, οἷον ἐκείνου ὁ Μαργίτης καὶ τὰ τοιαῦτα. ἐν οἷς κατὰ
@@ -366,7 +366,7 @@
                             <lb n="1448b 37"/>λεῖται νῦν, ὅτι ἐν τῷ μέτρῳ τούτῳ ἰάμβιζον ἀλλήλους.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1448b 38"/>καὶ
                             <pb n="12"/>
@@ -374,7 +374,7 @@
                             <lb n="1449a 2"/>ταί.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1449a 3"/>ὥσπερ δὲ καὶ τὰ σπουδαῖα μάλιστα ποιητὴς Ὅμηρος
                             <lb n="1449a 4"/>ἦν (μόνος γὰρ οὐχ ὅτι εὖ ἀλλὰ καὶ μιμήσεις δραμα-
@@ -385,7 +385,7 @@
                             <lb n="1449a 9"/>τὰς κωμῳδίας.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1449a 10"/>παραφανείσης δὲ τῆς τραγῳδίας καὶ κω-
                             <lb n="1449a 11"/>μῳδίας οἱ ἐφ᾽ ἑκατέραν τὴν ποίησιν ὁρμῶντες κατὰ τὴν
@@ -397,7 +397,7 @@
                             <lb n="1449a 17"/>τὰ θέατρα, ἄλλος λόγος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             <lb n="1449a 18"/>γενομένη δ᾽ οὖν ἀπ᾽ ἀρχῆς αὐτο-
                             <lb n="1449a 19"/>σχεδιαστικῆς—καὶ αὐτὴ καὶ ἡ κωμῳδία, καὶ ἡ μὲν ἀπὸ
@@ -407,13 +407,13 @@
                             <lb n="1449a 23"/>φανερὸν αὐτῆς·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             καὶ πολλὰς μεταβολὰς μεταβαλοῦσα ἡ
                             <lb n="1449a 24"/>τραγῳδία ἐπαύσατο, ἐπεὶ ἔσχε τὴν αὑτῆς φύσιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             <lb n="1449a 25"/>καὶ τό
                             <lb n="1449a 26"/>τε τῶν ὑποκριτῶν πλῆθος ἐξ ἑνὸς εἰς δύο πρῶτος Αἰσχύ-
@@ -422,14 +422,14 @@
                             <lb n="1449a 29"/>Σοφοκλῆς.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p>
                             <lb n="1449a 30"/>ἔτι δὲ τὸ μέγεθος· ἐκ μικρῶν μύθων καὶ λέ-
                             <lb n="1449a 31"/>ξεως γελοίας διὰ τὸ ἐκ σατυρικοῦ μεταβαλεῖν ὀψὲ ἀπε-
                             <lb n="1449a 32"/>σεμνύνθη, τό τε μέτρον ἐκ τετραμέτρου ἰαμβεῖον ἐγένετο.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             <lb n="1449a 33"/>τὸ μὲν γὰρ πρῶτον τετραμέτρῳ ἐχρῶντο διὰ τὸ σατυρικὴν
                             <lb n="1449a 34"/>καὶ ὀρχηστικωτέραν εἶναι τὴν ποίησιν, λέξεως δὲ γενομένης
@@ -438,7 +438,7 @@
                             <lb n="1449a 36"/>κὸν τῶν μέτρων τὸ ἰαμβεῖόν ἐστιν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>
                             σημεῖον δὲ τούτου,
                             <lb n="1449a 37"/>πλεῖστα γὰρ ἰαμβεῖα λέγομεν ἐν τῇ διαλέκτῳ τῇ πρὸς
@@ -446,27 +446,27 @@
                             <lb n="1449b 2"/>κτικῆς ἁρμονίας.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             ἔτι δὲ ἐπεισοδίων πλήθη.
                             <lb n="1449b 3"/>καὶ τὰ ἄλλ᾽ ὡς ἕκαστα κοσμηθῆναι λέγεται ἔστω ἡμῖν εἰρημένα·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="21">
+                    <div type="textpart" subtype="subchapter" n="21">
                         <p>
                             <lb n="1449b 4"/>πολὺ γὰρ ἂν ἴσως ἔργον εἴη διεξιέναι καθ᾽ ἕκαστον.
                         </p>
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" n="5">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1449b 5"/>Ἡ δὲ κωμῳδία ἐστὶν ὥσπερ εἴπομεν μίμησις φαυ-
                             <lb n="1449b 6"/>λοτέρων μέν, οὐ μέντοι κατὰ πᾶσαν κακίαν, ἀλλὰ τοῦ
                             <lb n="1449b 7"/>αἰσχροῦ ἐστι τὸ γελοῖον μόριον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1449b 8"/>τὸ γὰρ γελοῖόν ἐστιν ἁμάρ-
                             <lb n="1449b 9"/>τημά τι καὶ αἶσχος ἀνώδυνον καὶ οὐ φθαρτικόν, οἷον
@@ -474,7 +474,7 @@
                             <lb n="1449b 11"/>ἄνευ ὀδύνης.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1449b 12"/>αἱ μὲν οὖν τῆς τραγῳδίας μεταβάσεις καὶ
                             <lb n="1449b 13"/>δι᾽ ὧν ἐγένοντο οὐ λελήθασιν, ἡ δὲ κωμῳδία διὰ τὸ μὴ
@@ -482,7 +482,7 @@
                             <lb n="1449b 15"/>ὀψέ ποτε ὁ ἄρχων ἔδωκεν, ἀλλ᾽ ἐθελονταὶ ἦσαν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1449b 16"/>ἤδη δὲ
                             <lb n="1449b 17"/>σχήματά τινα αὐτῆς ἐχούσης οἱ λεγόμενοι αὐτῆς ποιηταὶ
@@ -490,21 +490,21 @@
                             <lb n="1449b 19"/>πλήθη ὑποκριτῶν καὶ ὅσα τοιαῦτα, ἠγνόηται.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1449b 20"/>τὸ δὲ μύ-
                             <lb n="1449b 21"/>θους ποιεῖν <del>Ἐπίχαρμος καὶ Φόρμις</del> τὸ μὲν ἐξ ἀρχῆς ἐκ
                             <lb n="1449b 22"/>Σικελίας ἦλθε,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             τῶν δὲ Ἀθήνησιν Κράτης πρῶτος ἦρξεν
                             <lb n="1449b 23"/>ἀφέμενος τῆς ἰαμβικῆς ἰδέας καθόλου ποιεῖν λόγους καὶ
                             <lb n="1449b 24"/>μύθους.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1449b 25"/>ἡ μὲν οὖν ἐποποιία τῇ τραγῳδίᾳ μέχρι μὲν τοῦ
                             <lb n="1449b 26"/>μετὰ μέτρου λόγῳ μίμησις εἶναι σπουδαίων ἠκολούθησεν·
@@ -512,28 +512,28 @@
                             <lb n="1449b 28"/>διαφέρουσιν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             ἔτι δὲ τῷ μήκει· ἡ μὲν ὅτι μάλιστα πειρᾶται
                             <lb n="1449b 29"/>ὑπὸ μίαν περίοδον ἡλίου εἶναι ἢ μικρὸν ἐξαλλάττειν, ἡ δὲ
                             <lb n="1449b 30"/>ἐποποιία ἀόριστος τῷ χρόνῳ καὶ τούῳ διαφέρει,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             καίτοι
                             <lb n="1449b 31"/>τὸ πρῶτον ὁμοίως ἐν ταῖς τραγῳδίαις τοῦτο ἐποίουν καὶ ἐν
                             <lb n="1449b 32"/>τοῖς ἔπεσιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <pb n="16"/>
                             <lb n="1449b 33"/>μέρη δ᾽ ἐστὶ τὰ μὲν ταὐτά, τὰ δὲ ἴδια τῆς
                             <lb n="1449b 34"/>τραγῳδίας·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             διόπερ ὅστις περὶ τραγῳδίας οἶδε σπουδαίας
                             <lb n="1449b 35"/>καὶ φαύλης, οἶδε καὶ περὶ ἐπῶν· ἃ μὲν γὰρ ἐποποιία
@@ -547,7 +547,7 @@
 
             <pb n="16"/>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="6">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1449b 21"/>Περὶ <add>μὲν</add> οὖν τῆς ἐν ἑξαμέτροις μιμητικῆς καὶ περὶ 
                             <lb n="1449b 22"/>κωμῳδίας ὕστερον ἐροῦμεν· περὶ δὲ τραγῳδίας λέγωμεν 
@@ -555,7 +555,7 @@
                             <lb n="1449b 24"/>τῆς οὐσίας. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας 
                             <lb n="1449b 25"/>καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκά- 
@@ -564,20 +564,20 @@
                             <lb n="1449b 28"/>παθημάτων κάθαρσιν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             λέγω δὲ ἡδυσμένον μὲν λόγον τὸν 
                             <lb n="1449b 29"/>ἔχοντα ῥυθμὸν καὶ ἁρμονίαν καὶ μέλος,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             τὸ δὲ χωρὶς τοῖς 
                             <lb n="1449b 30"/>εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα 
                             <lb n="1449b 31"/>διὰ μέλους. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1449b 32"/>ἐπεὶ δὲ πράττοντες ποιοῦνται τὴν μίμησιν, πρῶ- 
                             <lb n="1449b 33"/>τον μὲν ἐξ ἀνάγκης ἂν εἴη τι μόριον τραγῳδίας ὁ τῆς 
@@ -585,14 +585,14 @@
                             <lb n="1449b 35"/>ποιοῦνται τὴν μίμησιν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1449b 36"/>λέγω δὲ λέξιν μὲν ταύτην, τὴν τῶν 
                             <lb n="1449b 37"/>μέτρων σύνθεσιν, μελοποιίαν δὲ ἣ τὴν δύναμιν φανερὰν 
                             <lb n="1449b 38"/>ἔχει πᾶσαν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1449b 39"/>ἐπεὶ δὲ πράξεώς ἐστι μίμησις, πράττεται δὲ 
                             <lb n="1450a 1"/>ὑπὸ τινῶν πραττόντων, οὓς ἀνάγκη ποιούς τινας εἶναι κατά 
@@ -603,7 +603,7 @@
                             <lb n="1450a 5"/>τυγχάνουσι καὶ ἀποτυγχάνουσι πάντες.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             ἔστιν δὲ τῆς μὲν 
                             <lb n="1450a 6"/>πράξεως ὁ μῦθος ἡ μίμησις· λέγω γὰρ μύθον τοῦτον, τὴν 
@@ -612,7 +612,7 @@
                             <lb n="1450a 9"/>τες ἀποδεικνύασίν τι ἢ καὶ ἀποφαίνονται γνώμην. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1450a 10"/>ἀνάγκη 
                             <lb n="1450a 11"/>οὖν πάσης τραγῳδίας μέρη εἶναι ἕξ, καθ᾽ ὃ ποιά τις ἐστὶν 
@@ -620,14 +620,14 @@
                             <lb n="1450a 13"/>διάνοια καὶ ὄψις καὶ μελοποιία. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1450a 14"/>οἷς μὲν γὰρ μιμοῦνται, 
                             <lb n="1450a 15"/>δύο μέρη ἐστίν, ὡς δὲ μιμοῦνται, ἕν, ἃ δὲ μιμοῦνται, τρία, 
                             <lb n="1450a 16"/>καὶ παρὰ ταῦτα οὐδέν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1450a 17"/>τούτοις μὲν οὖν οὐκ ὀλίγοι αὐτῶν ὡς 
                             <lb n="1450a 18"/>εἰπεῖν κέχρηνται τοῖς εἴδεσιν καὶ γὰρ ὄψεις ἔχει πᾶν καὶ 
@@ -635,7 +635,7 @@
                             <lb n="1450a 20"/>τως. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1450a 21"/>μέγιστον δὲ τούτων ἐστὶν ἡ τῶν πραγμάτων σύστασις· 
                             <lb n="1450a 22"/>ἡ γὰρ τραγῳδία μίμησίς ἐστιν οὐκ ἀνθρώπων ἀλλὰ πρά- 
@@ -645,7 +645,7 @@
                             <lb n="1450a 26"/>πράξεις εὐδαίμονες ἢ τοὐναντίον. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1450a 27"/>οὔκουν ὅπως τὰ ἤθη μι- 
                             <lb n="1450a 28"/>μήσωνται πράττουσιν, ἀλλὰ τὰ ἤθη συμπεριλαμβάνουσιν 
@@ -654,14 +654,14 @@
                             <lb n="1450a 30"/>τῆς τραγῳδίας, τὸ δὲ τέλος μέγιστον ἁπάντων. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             <lb n="1450a 31"/>ἔτι ἄνευ 
                             <lb n="1450a 32"/>μὲν πράξεως οὐκ ἂν γένοιτο τραγῳδία, ἄνευ δὲ ἠθῶν γέ- 
                             <lb n="1450a 33"/>νοιτ᾽ ἄν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             <lb n="1450a 34"/>αἱ γὰρ τῶν νέων τῶν πλείστων ἀήθεις τραγῳδίαι 
                             <lb n="1450a 35"/>εἰσίν, καὶ ὅλως ποιηταὶ πολλοὶ τοιοῦτοι, οἷον καὶ τῶν γρα- 
@@ -670,7 +670,7 @@
                             <lb n="1450a 38"/>ἔχει ἦθος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             ἔτι ἐὰν τις ἐφεξῆς θῇ ῥήσεις ἠθικὰς καὶ λέξει 
                             <lb n="1450a 39"/>καὶ διανοίᾳ εὖ πεποιημένας, <add>οὔπω</add> ποιήσει ὃ ἦν τῆς τραγῳ- 
@@ -679,14 +679,14 @@
                             <lb n="1450a 42"/>γμάτων. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p>
                             <lb n="1450a 43"/>πρὸς δὲ τούτοις τὰ μέγιστα οἷς ψυχαγωγεῖ ἡ 
                             <lb n="1450a 44"/>τραγῳδία τοῦ μύθου μέρη ἐστίν, αἵ τε περιπέτειαι καὶ ἀνα- 
                             <lb n="1450a 45"/>γνωρίσεις. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             <lb n="1450a 46"/>ἔτι σημεῖον ὅτι καὶ οἱ ἐγχειροῦντες ποιεῖν πρό- 
                             <lb n="1450a 47"/>τερον δύνανται τῇ λέξει καὶ τοῖς ἤθεσιν ἀκριβοῦν ἢ τὰ 
@@ -694,13 +694,13 @@
                             <lb n="1450a 49"/>ἅπαντες. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>
                             <lb n="1450a 50"/>ἀρχὴ μὲν οὖν καὶ οἷον ψυχὴ ὁ μῦθος τῆς τρα- 
                             <lb n="1450a 51"/>γῳδίας, δεύτερον δὲ τὰ ἤθη 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             (παραπλήσιον γάρ ἐστιν καὶ 
                             <lb n="1450b 1"/>ἐπὶ τῆς γραφικῆς· εἰ γάρ τις ἐναλείψειε τοῖς καλλίστοις 
@@ -708,13 +708,13 @@
                             <lb n="1450b 3"/>γραφήσας εἰκόνα)·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="21">
+                    <div type="textpart" subtype="subchapter" n="21">
                         <p>
                             ἔστιν τε μίμησις πράξεως καὶ διὰ ταύτην 
                             <lb n="1450b 4"/>μάλιστα τῶν πραττόντων. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="22">
+                    <div type="textpart" subtype="subchapter" n="22">
                         <p>
                             <lb n="1450b 5"/>τρίτον δὲ ἡ διάνοια· τοῦτο δέ 
                             <lb n="1450b 6"/>ἐστιν τὸ λέγειν δύνασθαι τὰ ἐνόντα καὶ τὰ ἁρμόττοντα, 
@@ -722,13 +722,13 @@
                             <lb n="1450b 8"/>ἐστίν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="23">
+                    <div type="textpart" subtype="subchapter" n="23">
                         <p>
                             οἱ μὲν γὰρ ἀρχαῖοι πολιτικῶς ἐποίουν λέγοντας, οἱ 
                             <lb n="1450b 9"/>δὲ νῦν ῥητορικῶς. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="24">
+                    <div type="textpart" subtype="subchapter" n="24">
                         <p>
                             <lb n="1450b 10"/>ἔστιν δὲ ἦθος μὲν τὸ τοιοῦτον ὃ δηλοῖ 
                             <lb n="1450b 11"/>τὴν προαίρεσιν, ὁποῖά τις ἐν οἷς οὐκ ἔστι δῆλον ἢ προαι- 
@@ -736,13 +736,13 @@
                             <lb n="1450b 13"/>οἷς μηδ᾽ ὅλως ἔστιν ὅ τι προαιρεῖται <add>ἢ</add> φεύγει ὁ λέγων· 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="25">
+                    <div type="textpart" subtype="subchapter" n="25">
                         <p>
                             <lb n="1450b 14"/>διάνοια δὲ ἐν οἷς ἀποδεικνύουσί τι ὡς ἔστιν ἢ ὡς οὐκ ἔστιν 
                             <lb n="1450b 15"/>ἢ καθόλου τι ἀποφαίνονται. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="26">
+                    <div type="textpart" subtype="subchapter" n="26">
                         <p>
                             <lb n="1450b 16"/>τέταρτον δὲ τῶν ἐν λόγῳ ἡ 
                             <lb n="1450b 17"/>λέξις· λέγω δέ, ὥσπερ πρότερον εἴρηται, λέξιν εἶναι τὴν 
@@ -751,13 +751,13 @@
                             <lb n="1450b 19"/>ἐπὶ τῶν λόγων ἔχει τὴν αὐτὴν δύναμιν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="27">
+                    <div type="textpart" subtype="subchapter" n="27">
                         <p>
                             <lb n="1450b 20"/>τῶν δὲ λοιπῶν 
                             <lb n="1450b 21"/><del>πέντε</del> ἡ μελοποιία μέγιστον τῶν ἡδυσμάτων,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="28">
+                    <div type="textpart" subtype="subchapter" n="28">
                         <p>
                             ἡ δὲ ὄψις 
                             <lb n="1450b 22"/>ψυχαγωγικὸν μέν, ἀτεχνότατον δὲ καὶ ἥκιστα οἰκεῖον τῆς 
@@ -768,14 +768,14 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="7">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1450b 26"/>Διωρισμένων δὲ τούτων, λέγωμεν μετὰ ταῦτα ποίαν 
                             <lb n="1450b 27"/>τινὰ δεῖ τὴν σύστασιν εἶναι τῶν πραγμάτων, ἐπειδὴ τοῦτο 
                             <lb n="1450b 28"/>καὶ πρῶτον καὶ μέγιστον τῆς τραγῳδίας ἐστίν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1450b 29"/>κεῖται δὴ 
                             <lb n="1450b 30"/>ἡμῖν τὴν τραγῳδίαν τελείας καὶ ὅλης πράξεως εἶναι μί- 
@@ -783,37 +783,37 @@
                             <lb n="1450b 32"/>μέγεθος. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1450b 33"/>ὅλον δὲ ἐστὶν τὸ ἔχον ἀρχὴν καὶ μέσον καὶ τε- 
                             <lb n="1450b 34"/>λευτήν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1450b 35"/>ἀρχὴ δὲ ἐστιν ὃ αὐτὸ μὲν μὴ ἐξ ἀνάγκης μετ᾽ 
                             <lb n="1450b 36"/>ἄλλο ἐστίν, μετ᾽ ἐκεῖνο δ᾽ ἕτερον πέφυκεν εἶναι ἢ γίνεσθαι· 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1450b 37"/>τελευτὴ δὲ τοὐναντίον ὃ αὐτὸ μετ᾽ ἄλλο πέφυκεν εἶναι ἢ 
                             <lb n="1450b 38"/>ἐξ ἀνάγκης ἢ ὡς ἐπὶ τὸ πολύ, μετὰ δὲ τοῦτο ἄλλο οὐδέν· 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1450b 39"/>μέσον δὲ ὃ καὶ αὐτὸ μετ᾽ ἄλλο καὶ μετ᾽ ἐκεῖνο ἕτερον. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1450b 40"/>δεῖ ἄρα τοὺς συνεστῶτας εὖ μύθους μήθ᾽ ὁπόθεν ἔτυχεν 
                             <lb n="1450b 41"/>ἄρχεσθαι μήθ᾽ ὅπου ἔτυχε τελευτᾶν, ἀλλὰ κεχρῆσθαι ταῖς 
                             <lb n="1450b 42"/>εἰρημέναις ἰδέαις. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1450b 43"/>ἔτι δ᾽ ἐπεὶ τὸ καλὸν καὶ ζῷον καὶ ἅπαν 
                             <lb n="1450b 44"/>πρᾶγμα ὃ συνέστηκεν ἐκ τινῶν οὐ μόνον ταῦτα τεταγμένα 
@@ -822,7 +822,7 @@
                             τὸ 
                             <lb n="1450b 46"/>γὰρ καλὸν ἐν μεγέθει καὶ τάξει ἐστίν, </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p> διὸ οὔτε πάμμικρον 
                             <lb n="1450b 47"/>ἄν τι γένοιτο καλὸν ζῷον (συγχεῖται γὰρ ἡ θεωρία ἐγγὺς 
                             <lb n="1450b 48"/>τοῦ ἀναισθήτου χρόνου γινομένη) οὔτε παμμέγεθες
@@ -833,14 +833,14 @@
                             <pb n="24"/>
                             <lb n="1451a 3"/>ζῷον·  </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>ὥστε δεῖ καθάπερ ἐπὶ τῶν συστημάτων καὶ ἐπὶ τῶν 
                             <lb n="1451a 4"/>ζῴων ἔχειν μὲν μέγεθος, τοῦτο δὲ εὐσύνοπτον εἶναι, οὕτω 
                             <lb n="1451a 5"/>καὶ ἐπὶ τῶν μύθων ἔχειν μὲν μῆκος, τοῦτο δὲ εὐμνημόνευ- 
                             <lb n="1451a 6"/>τον εἶναι. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1451a 7"/>τοῦ μήκους ὅρος <add>ὁ</add> μὲν πρὸς τοὺς ἀγῶνας καὶ 
                             <lb n="1451a 8"/>τὴν αἴσθησιν οὐ τῆς τέχνης ἐστίν· εἰ γὰρ ἔδει ἑκατὸν 
@@ -848,7 +848,7 @@
                             <lb n="1451a 10"/>ὥσπερ ποτὲ καὶ ἄλλοτέ <gap reason="lost"/> . 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1451a 11"/>ὁ δὲ κατ᾽ αὐτὴν τὴν 
                             <lb n="1451a 12"/>φύσιν τοῦ πράγματος ὅρος, ἀεὶ μὲν ὁ μείζων μέχρι τοῦ σύνδη- 
@@ -861,7 +861,7 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="8">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1451a 18"/>Μῦθος δ᾽ ἐστὶν εἷς οὐχ ὥσπερ τινὲς οἴονται ἐὰν 
                             <lb n="1451a 19"/>περὶ ἕνα ᾖ· πολλὰ γὰρ καὶ ἄπειρα τῷ ἑνὶ συμβαίνει, ἐξ ὧν 
@@ -869,7 +869,7 @@
                             <lb n="1451a 21"/>ἐξ ὧν μία οὐδεμία γίνεται πρᾶξις. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1451a 22"/>διὸ πάντες ἐοίκασιν 
                             <lb n="1451a 23"/>ἁμαρτάνειν ὅσοι τῶν ποιητῶν Ἡρακληίδα Θησηίδα καὶ 
@@ -877,7 +877,7 @@
                             <lb n="1451a 25"/>ἦν ὁ Ἡρακλῆς, ἕνα καὶ τὸν μῦθον εἶναι προσήκειν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1451a 26"/>ὁ δ᾽ 
                             <lb n="1451a 27"/>Ὅμηρος ὥσπερ καὶ τὰ ἄλλα διαφέρει καὶ τοῦτ᾽ ἔοικεν 
@@ -891,7 +891,7 @@
                             <lb n="1451a 34"/>δα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             χρὴ οὖν, καθάπερ καὶ ἐν ταῖς ἄλλαις μιμητικαῖς ἡ μία 
                             <lb n="1451a 35"/>μίμησις ἑνός ἐστιν, οὕτω καὶ τὸν μῦθον, ἐπεὶ πράξεως μίμησίς 
@@ -905,14 +905,14 @@
                <pb n="26"/>
 
                 <div type="textpart" subtype="chapter" n="9" >
-                    <div  type="textpart" subtype="section" n="1">
+                    <div  type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1451a 36"/>Φανερὸν δὲ ἐκ τῶν εἰρημένων καὶ ὅτι οὐ τὸ τὰ γενό-
                             <lb n="1451a 37"/>μενα λέγειν, τοῦτο ποιητοῦ ἔργον ἐστίν, ἀλλ᾽ οἷα ἂν γένοιτο
                             <lb n="1451a 38"/>καὶ τὰ δυνατὰ κατὰ τὸ εἰκὸς ἢ τὸ ἀναγκαῖον.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="2">
+                    <div  type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1451b 1"/>ὁ γὰρ ἱστορικὸς καὶ ὁ ποιητὴς οὐ τῷ ἢ ἔμμετρα λέγειν ἢ ἄμετρα
                             <lb n="1451b 2"/>διαφέρουσιν (εἴη γὰρ ἂν τὰ Ἡροδότου εἰς μέτρα τεθῆναι
@@ -921,14 +921,14 @@
                             <lb n="1451b 5"/>γειν, τὸν δὲ οἷα ἂν γένοιτο.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="3">
+                    <div  type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1451b 6"/>διὸ καὶ φιλοσοφώτερον καὶ
                             <lb n="1451b 7"/>σπουδαιότερον ποίησις ἱστορίας ἐστίν· ἡ μὲν γὰρ ποίησις
                             <lb n="1451b 8"/>μᾶλλον τὰ καθόλου, ἡ δ᾽ ἱστορία τὰ καθ᾽ ἕκαστον λέγει.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="4">
+                    <div  type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1451b 9"/>ἔστιν δὲ καθόλου μέν, τῷ ποίῳ τὰ ποῖα ἄττα συμβαίνει
                             <lb n="1451b 10"/>λέγειν ἢ πράττειν κατὰ τὸ εἰκὸς ἢ τὸ ἀναγκαῖον, οὗ στο-
@@ -936,7 +936,7 @@
                             <lb n="1451b 12"/>στον, τί Ἀλκιβιάδης ἔπραξεν ἢ τί ἔπαθεν.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="5">
+                    <div  type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1451b 13"/>ἐπὶ μὲν οὖν τῆς
                             <lb n="1451b 14"/>κωμῳδίας ἤδη τοῦτο δῆλον γέγονεν· συστήσαντες γὰρ τὸν
@@ -945,7 +945,7 @@
                             <lb n="1451b 17"/>ποιοῦσιν.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="6">
+                    <div  type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1451b 18"/>ἐπὶ δὲ τῆς τραγῳδίας τῶν γενομένων ὀνομάτων
                             <lb n="1451b 19"/>ἀντέχονται. αἴτιον δ᾽ ὅτι πιθανόν ἐστι τὸ δυνατόν· τὰ μὲν
@@ -955,7 +955,7 @@
                             <lb n="1451b 22"/>νατα.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="7">
+                    <div  type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1451b 23"/>οὐ μὴν ἀλλὰ καὶ ἐν ταῖς τραγῳδίαις ἐνίαις μὲν ἓν
                             <lb n="1451b 24"/> ἢ δύο τῶν γνωρίμων ἐστὶν ὀνομάτων, τὰ δὲ ἄλλα πεποιη-
@@ -964,7 +964,7 @@
                             <lb n="1451b 27"/>καὶ οὐδὲν ἧττον εὐφραίνει.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="8">
+                    <div  type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1451b 28"/>ὥστ᾽ οὐ πάντως εἶναι ζητητέον
                             <lb n="1451b 29"/>τῶν παραδεδομένων μύθων, περὶ οὓς αἱ τραγῳδίαι εἰσίν, ἀντέ-
@@ -973,14 +973,14 @@
                             <lb n="1451b 32"/>ριμα ὀλίγοις γνώριμά ἐστιν, ἀλλ᾽ ὅμως εὐφραίνει πάντας.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="9">
+                    <div  type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1451b 33"/>δῆλον οὖν ἐκ τούτων ὅτι τὸν ποιητὴν μᾶλλον τῶν μύθων
                             <lb n="1451b 34"/>εἶναι δεῖ ποιητὴν ἢ τῶν μέτρων, ὅσῳ ποιητὴς κατὰ τὴν μί-
                             <lb n="1451b 35"/>μησίν ἐστιν, μιμεῖται δὲ τὰς πράξεις.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="10">
+                    <div  type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1451b 36"/>κἂν ἄρα συμβῇ γενό-
                             <lb n="1451b 37"/>μενα ποιεῖν, οὐθὲν ἧττον ποιητής ἐστι· τῶν γὰρ γενομένων
@@ -988,14 +988,14 @@
                             <lb n="1451b 39"/>δυνατὰ γενέσθαι</del>, καθ᾽ ὃ ἐκεῖνος αὐτῶν ποιητής ἐστιν.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="11">
+                    <div  type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1451b 40"/>τῶν δὲ ἁπλῶν μύθων καὶ πράξεων αἱ ἐπεισοδιώδεις
                             <lb n="1451b 41"/>εἰσὶν χείρισται· λέγω δ᾽ ἐπεισοδιώδη μῦθον ἐν ᾧ τὰ ἐπεισ-
                             <lb n="1451b 42"/>όδια μετ᾽ ἄλληλα οὔτ᾽ εἰκὸς οὔτ᾽ ἀνάγκη εἶναι.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="11b">
+                    <div  type="textpart" subtype="subchapter" n="11b">
                         <p>
                             <lb n="1451b 43"/>τοιαῦται
                             <lb n="1451b 44"/>δὲ ποιοῦνται ὑπὸ μὲν τῶν φαύλων ποιητῶν δι᾽ αὑτούς, ὑπὸ
@@ -1004,7 +1004,7 @@
                             <lb n="1452a 1"/>λάκις διαστρέφειν ἀναγκάζονται τὸ ἐφεξῆς.
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="11c">
+                    <div  type="textpart" subtype="subchapter" n="11c">
                         <p>
                             <lb n="1452a 2"/>ἐπεὶ δὲ οὐ
                             <lb n="1452a 3"/>μόνον τελείας ἐστὶ πράξεως ἡ μίμησις ἀλλὰ καὶ φοβερῶν
@@ -1012,7 +1012,7 @@
                             <lb n="1452a 5"/>ὅταν γένηται παρὰ τὴν δόξαν δι᾽ ἄλληλα·
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="12">
+                    <div  type="textpart" subtype="subchapter" n="12">
                         <p>
                             τὸ γὰρ θαυ-
                             <lb n="1452a 6"/>μαστὸν οὕτως ἕξει μᾶλλον ἢ εἰ ἀπὸ τοῦ αὐτομάτου καὶ
@@ -1023,7 +1023,7 @@
                             <lb n="1452a 11"/>οὐκ εἰκῇ γίνεσθαι·
                         </p>
                     </div>
-                    <div  type="textpart" subtype="section" n="13">
+                    <div  type="textpart" subtype="subchapter" n="13">
                         <p>
                             ὥστε ἀνάγκη τοὺς τοιούτους εἶναι καλλίους
                             <lb n="1452a 12"/>μύθους.
@@ -1031,28 +1031,28 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter"  xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="10">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1452a 13"/>Εἰσὶ δὲ τῶν μύθων οἱ μὲν ἁπλοῖ οἱ δὲ πεπλεγμένοι· 
                             <lb n="1452a 14"/>καὶ γὰρ αἱ πράξεις ὧν μιμήσεις οἱ μῦθοί εἰσιν ὑπάρχου- 
                             <lb n="1452a 15"/>σιν εὐθὺς οὖσαι τοιαῦται. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1452a 16"/>λέγω δὲ ἁπλῆν μὲν πρᾶξιν ἧς 
                             <lb n="1452a 17"/>γινομένης ὥσπερ ὥρισται συνεχοῦς καὶ μιᾶς ἄνευ περιπε- 
                             <lb n="1452a 18"/>τείας ἢ ἀναγνωρισμοῦ ἡ μετάβασις γίνεται,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             πεπλεγμένη 
                             <lb n="1452a 19"/>δὲ <gap reason="lost"/> μετὰ ἀναγνωρισμοῦ ἢ περιπετείας ἢ ἀμφοῖν ἡ 
                             <lb n="1452a 20"/>μετάβασίς ἐστιν. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1452a 21"/>ταῦτα δὲ δεῖ γίνεσθαι ἐξ αὐτῆς τῆς συ- 
                             <lb n="1452a 22"/>στάσεως τοῦ μύθου, ὥστε ἐκ τῶν προγεγενημένων συμβαίνειν 
@@ -1065,28 +1065,28 @@
 
 <pb n="30"/>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="11">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1452a 22"/>Ἔστι δὲ περιπέτεια μὲν ἡ εἰς τὸ ἐναντίον τῶν πρατ-
                             <lb n="1452a 23"/>τομένων μεταβολὴ καθάπερ εἴρηται, καὶ τοῦτο δὲ ὥσπερ
                             <lb n="1452a 24"/>λέγομεν κατὰ τὸ εἰκὸς ἢ ἀναγκαῖον,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             ὥσπερ ἐν τῷ Οἰδί-
                             <lb n="1452a 25"/>ποδι ἐλθὼν ὡς εὐφρανῶν τὸν Οἰδίπουν καὶ ἀπαλλάξων τοῦ
                             <lb n="1452a 26"/>πρὸς τὴν μητέρα φόβου, δηλώσας ὃς ἦν, τοὐναντίον ἐποίησεν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1452a 27"/>καὶ ἐν τῷ Λυγκεῖ ὁ μὲν ἀγόμενος ὡς ἀποθανούμενος, ὁ δὲ
                             <lb n="1452a 28"/>Δαναὸς ἀκολουθῶν ὡς ἀποκτενῶν, τὸν μὲν συνέβη ἐκ τῶν
                             <lb n="1452a 29"/>πεπραγμένων ἀποθανεῖν, τὸν δὲ σωθῆναι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             ἀναγνώρισις
                             <lb n="1452a 30"/>δέ, ὥσπερ καὶ τοὔνομα σημαίνει, ἐξ ἀγνοίας εἰς γνῶσιν
@@ -1094,14 +1094,14 @@
                             <lb n="1452a 32"/>δυστυχίαν ὡρισμένων·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             καλλίστη δὲ ἀναγνώρισις, ὅταν ἅμα
                             <lb n="1452a 33"/>περιπέτειαι <add>καὶ ἀναγνωρίσεις</add> γίνωνται, οἵαν ἔχει ἡ ἐν τῷ Οἰδίποδι.
                         </p>
                     </div>
                     <pb n="32"/>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1452a 34"/>εἰσὶν
                             <lb n="1452a 35"/>μὲν οὖν καὶ ἄλλαι ἀναγνωρίσεις· καὶ γὰρ πρὸς ἄψυχα καὶ
@@ -1109,7 +1109,7 @@
                             <lb n="1452a 37"/>πραγέ τις ἢ μὴ πέπραγεν ἔστιν ἀναγνωρίσαι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             ἀλλ᾽ ἡ μά-
                             <lb n="1452a 38"/>λιστα τοῦ μύθου καὶ ἡ μάλιστα τῆς πράξεως ἡ εἰρημένη
@@ -1119,7 +1119,7 @@
                             <lb n="1452b 2"/>ἔτι δὲ καὶ τὸ ἀτυχεῖν καὶ τὸ εὐτυχεῖν ἐπὶ τῶν τοιούτων
                             <lb n="1452b 3"/>συμβήσεται.</p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p> ἐπεὶ δὴ ἡ ἀναγνώρισις τινῶν ἐστιν ἀναγνώρισις,
                             <lb n="1452b 4"/>αἱ μὲν θατέρου πρὸς τὸν ἕτερον μόνον, ὅταν δῆλος ἅτερος
                             <lb n="1452b 5"/>τίς ἐστιν, ὁτὲ δὲ ἀμφοτέρους δεῖ ἀναγνωρίσαι, οἷον ἡ
@@ -1128,7 +1128,7 @@
                             <lb n="1452b 8"/>ἀναγνωρίσεως.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1452b 9"/>δύο μὲν οὖν τοῦ μύθου μέρη <del>περὶ</del> ταῦτ᾽ ἐστί, περιπέτεια
                             <lb n="1452b 10"/>καὶ ἀναγνώρισις· τρίτον δὲ πάθος.
@@ -1136,7 +1136,7 @@
                             τούτων δὲ περιπέτεια μὲν
                             <lb n="1452b 11"/>καὶ ἀναγνώρισις εἴρηται, </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>πάθος δέ ἐστι πρᾶξις φθαρτικὴ ἢ
                             <lb n="1452b 12"/>ὀδυνηρά, οἷον οἵ τε ἐν τῷ φανερῷ θάνατοι καὶ αἱ περιω-
                             <lb n="1452b 13"/>δυνίαι καὶ τρώσεις καὶ ὅσα τοιαῦτα.
@@ -1144,7 +1144,7 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="12">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1452b 14"/>Μέρη δὲ τραγῳδίας οἷς μὲν ὡς εἴδεσι δεῖ χρῆσθαι
                             <lb n="1452b 15"/>πρότερον εἴπομεν, κατὰ δὲ τὸ ποσὸν καὶ εἰς <add>ἃ</add> διαιρεῖται
@@ -1152,55 +1152,55 @@
                             <lb n="1452b 17"/>ρικόν,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             καὶ τούτου τὸ μὲν πάροδος τὸ δὲ στάσιμον,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             κοινὰ μὲν
                             <lb n="1452b 18"/>ἁπάντων ταῦτα, ἴδια δὲ τὰ ἀπὸ τῆς σκηνῆς καὶ κόμμοι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1452b 19"/>ἔστιν δὲ πρόλογος μὲν μέρος ὅλον τραγῳδίας τὸ πρὸ χοροῦ
                             <lb n="1452b 20"/>παρόδου,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             ἐπεισόδιον δὲ μέρος ὅλον τραγῳδίας τὸ μεταξὺ
                             <lb n="1452b 21"/>ὅλων χορικῶν μελῶν,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             ἔξοδος δὲ μέρος ὅλον τραγῳδίας
                             <lb n="1452b 22"/>μεθ᾽ ὃ οὐκ ἔστι χοροῦ μέλος·
                         </p>
                     </div>
                     <pb n="34"/>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1452b 23"/>χορικοῦ δὲ πάροδος μὲν ἡ
                             <lb n="1452b 24"/>πρώτη λέξις ὅλη χοροῦ,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             στάσιμον δὲ μέλος χοροῦ τὸ ἄνευ
                             <lb n="1452b 25"/>ἀναπαίστου καὶ τροχαίου,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             κόμμος δὲ θρῆνος κοινὸς χοροῦ καὶ ἀπὸ
                             <lb n="1452b 26"/>σκηνῆς.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1452b 27"/>μέρη δὲ τραγῳδίας οἷς μὲν <add>ὡς εἴδεσι</add> δεῖ χρῆσθαι
                             <lb n="1452b 28"/>πρότερον εἴπαμεν, κατὰ δὲ τὸ ποσὸν καὶ εἰς <add>ἃ</add> διαιρεῖται
@@ -1209,14 +1209,14 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="13">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1452b 30"/>Ὧν δὲ δεῖ στοχάζεσθαι καὶ ἃ δεῖ εὐλαβεῖσθαι συνι-
                             <lb n="1452b 31"/>στάντας τοὺς μύθους καὶ πόθεν ἔσται τὸ τῆς τραγῳδίας ἔρ-
                             <lb n="1452b 32"/>γον, ἐφεξῆς ἂν εἴη λεκτέον τοῖς νῦν εἰρημένοις.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             ἐπειδὴ οὖν
                             <lb n="1452b 33"/>δεῖ τὴν σύνθεσιν εἶναι τῆς καλλίστης τραγῳδίας μὴ ἁπλῆν
@@ -1227,7 +1227,7 @@
                             <lb n="1452b 38"/>φοβερὸν οὐδὲ ἐλεεινὸν τοῦτο ἀλλὰ μιαρόν ἐστιν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             οὔτε τοὺς μο-
                             <lb n="1452b 39"/>χθηροὺς ἐξ ἀτυχίας εἰς εὐτυχίαν, ἀτραγῳδότατον γὰρ τοῦτ᾽
@@ -1235,7 +1235,7 @@
                             <lb n="1453a 1"/>οὔτε ἐλεεινὸν οὔτε φοβερόν ἐστιν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             οὐδ᾽ αὖ τὸν σφόδρα πονηρὸν
                             <lb n="1453a 2"/>ἐξ εὐτυχίας εἰς δυστυχίαν μεταπίπτειν· τὸ μὲν γὰρ φιλ-
@@ -1246,7 +1246,7 @@
                             <lb n="1453a 7"/>συμβαῖνον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1453a 8"/>ὁ μεταξὺ ἄρα τούτων λοιπός. ἔστι δὲ τοιοῦτος
                             <lb n="1453a 9"/>ὁ μήτε ἀρετῇ διαφέρων καὶ δικαιοσύνῃ μήτε διὰ κακίαν
@@ -1257,7 +1257,7 @@
                             <lb n="1453a 13"/>ἐπιφανεῖς ἄνδρες.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             ἀνάγκη ἄρα τὸν καλῶς ἔχοντα μῦθον
                             <lb n="1453a 14"/>ἁπλοῦν εἶναι μᾶλλον ἢ διπλοῦν, ὥσπερ τινές φασι, καὶ με-
@@ -1267,7 +1267,7 @@
                             <lb n="1453a 18"/>χείρονος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1453a 19"/>σημεῖον δὲ καὶ τὸ γιγνόμενον· πρῶτον μὲν γὰρ
                             <lb n="1453a 20"/>οἱ ποιηταὶ τοὺς τυχόντας μύθους ἀπηρίθμουν, νῦν δὲ περὶ
@@ -1277,13 +1277,13 @@
                             <lb n="1453a 24"/>ἢ παθεῖν δεινὰ ἢ ποιῆσαι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             ἡ μὲν οὖν κατὰ τὴν τέχνην
                             <lb n="1453a 25"/>καλλίστη τραγῳδία ἐκ ταύτης τῆς συστάσεώς ἐστι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1453a 26"/>διὸ καὶ
                             <lb n="1453a 27"/>οἱ Εὐριπίδῃ ἐγκαλοῦντες <del>τὸ</del> αὐτὸ ἁμαρτάνουσιν ὅτι τοῦτο
@@ -1292,7 +1292,7 @@
                         
                             <lb n="1453a 30"/>τοῦτο γάρ ἐστιν ὥσπερ εἴρηται ὀρθόν· </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>σημεῖον
                             <lb n="1453a 31"/>δὲ μέγιστον· ἐπὶ γὰρ τῶν σκηνῶν καὶ τῶν ἀγώνων τραγι-
                             <lb n="1453a 32"/>κώταται αἱ τοιαῦται φαίνονται, ἂν κατορθωθῶσιν, καὶ ὁ
@@ -1300,7 +1300,7 @@
                             <lb n="1453a 34"/>γικώτατός γε τῶν ποιητῶν φαίνεται.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1453a 35"/>δευτέρα δ᾽ ἡ πρώτη
                             <lb n="1453a 36"/>λεγομένη ὑπὸ τινῶν ἐστιν σύστασις, ἡ διπλῆν τε τὴν σύστα-
@@ -1308,14 +1308,14 @@
                             <lb n="1453a 38"/>τίας τοῖς βελτίοσι καὶ χείροσιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1453a 39"/>δοκεῖ δὲ εἶναι πρώτη διὰ
                             <lb n="1453a 40"/>τὴν τῶν θεάτρων ἀσθένειαν· ἀκολουθοῦσι γὰρ οἱ ποιηταὶ κατ᾽
                             <lb n="1453a 41"/>εὐχὴν ποιοῦντες τοῖς θεαταῖς.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1453a 42"/>ἔστιν δὲ οὐχ αὕτη ἀπὸ τραγῳ-
                             <lb n="1453a 43"/>δίας ἡδονὴ ἀλλὰ μᾶλλον τῆς κωμῳδίας οἰκεία· ἐκεῖ γὰρ
@@ -1326,7 +1326,7 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="14">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1453b 1"/>Ἔστιν μὲν οὖν τὸ φοβερὸν καὶ ἐλεεινὸν ἐκ τῆς ὄψεως
                             <lb n="1453b 2"/>γίγνεσθαι, ἔστιν δὲ καὶ ἐξ αὐτῆς τῆς συστάσεως τῶν πρα-
@@ -1334,7 +1334,7 @@
                         </p>
                     </div>
                     <pb n="38"/>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1453b 4"/>δεῖ γὰρ
                             <lb n="1453b 5"/>καὶ ἄνευ τοῦ ὁρᾶν οὕτω συνεστάναι τὸν μῦθον ὥστε τὸν
@@ -1343,13 +1343,13 @@
                             <lb n="1453b 8"/>Οἰδίπου μῦθον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1453b 9"/>τὸ δὲ διὰ τῆς ὄψεως τοῦτο παρασκευά-
                             <lb n="1453b 10"/>ζειν ἀτεχνότερον καὶ χορηγίας δεόμενόν ἐστιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1453b 11"/>οἱ δὲ μὴ τὸ
                             <lb n="1453b 12"/>φοβερὸν διὰ τῆς ὄψεως ἀλλὰ τὸ τερατῶδες μόνον παρα-
@@ -1357,7 +1357,7 @@
                             <lb n="1453b 14"/>ζητεῖν ἡδονὴν ἀπὸ τραγῳδίας ἀλλὰ τὴν οἰκείαν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1453b 15"/>ἐπεὶ δὲ
                             <lb n="1453b 16"/>τὴν ἀπὸ ἐλέου καὶ φόβου διὰ μιμήσεως δεῖ ἡδονὴν παρα-
@@ -1365,7 +1365,7 @@
                             <lb n="1453b 18"/>σιν ἐμποιητέον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1453b 19"/>ποῖα οὖν δεινὰ ἢ ποῖα οἰκτρὰ φαίνεται
                             <lb n="1453b 20"/>τῶν συμπιπτόντων, λάβωμεν.
@@ -1374,18 +1374,18 @@
                             <lb n="1453b 21"/>πρὸς ἀλλήλους τὰς τοιαύτας πράξεις ἢ ἐχθρῶν ἢ μηδε-
                             <lb n="1453b 22"/>τέρων. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p> ἂν μὲν οὖν ἐχθρὸς ἐχθρόν, οὐδὲν ἐλεεινὸν οὔτε
                             <lb n="1453b 23"/>ποιῶν οὔτε μέλλων, πλὴν κατ᾽ αὐτὸ τὸ πάθος·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1453b 24"/>οὐδ᾽ ἂν
                             <lb n="1453b 25"/>μηδετέρως ἔχοντες·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             ὅταν δ᾽ ἐν ταῖς φιλίαις ἐγγένηται τὰ
                             <lb n="1453b 26"/>πάθη, οἷον ἢ ἀδελφὸς ἀδελφὸν ἢ υἱὸς πατέρα ἢ μήτηρ
@@ -1393,7 +1393,7 @@
                             <lb n="1453b 28"/>δρᾷ, ταῦτα ζητητέον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1453b 29"/>τοὺς μὲν οὖν παρειλημμένους μύθους
                             <lb n="1453b 30"/>λύειν οὐκ ἔστιν, λέγω δὲ οἷον τὴν Κλυταιμνήστραν ἀποθα-
@@ -1401,14 +1401,14 @@
                             <lb n="1453b 32"/>ωνος,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             αὐτὸν δὲ εὑρίσκειν δεῖ καὶ τοῖς παραδεδομένοις χρή-
                             <lb n="1453b 33"/>σθαι καλῶς.
                         
                             τὸ δὲ καλῶς τί λέγομεν, εἴπωμεν σαφέστερον.</p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1453b 34"/>ἔστι μὲν γὰρ οὕτω γίνεσθαι τὴν πρᾶξιν, ὥσπερ οἱ παλαιοὶ
                             <pb n="40"/>
@@ -1416,7 +1416,7 @@
                             <lb n="1453b 36"/>ἐποίησεν ἀποκτείνουσαν τοὺς παῖδας τὴν Μήδειαν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             ἔστιν δὲ
                             <lb n="1453b 37"/>πρᾶξαι μέν, ἀγνοοῦντας δὲ πρᾶξαι τὸ δεινόν, εἶθ᾽ ὕστερον
@@ -1426,20 +1426,20 @@
                             <lb n="1453b 41"/>τραυματίᾳ Ὀδυσσεῖ.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             <lb n="1453b 42"/>ἔτι δὲ τρίτον παρὰ ταῦτα τὸ μέλλον-
                             <lb n="1453b 43"/>τα ποιεῖν τι τῶν ἀνηκέστων δι᾽ ἄγνοιαν ἀναγνωρίσαι πρὶν
                             <lb n="1453b 44"/>ποιήσαι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             <lb n="1453b 45"/>καὶ παρὰ ταῦτα οὐκ ἔστιν ἄλλως. ἢ γὰρ πρᾶξαι
                             <lb n="1453b 46"/>ἀνάγκη ἢ μὴ καὶ εἰδότας ἢ μὴ εἰδότας.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             <lb n="1453b 47"/>τούτων δὲ τὸ μὲν
                             <lb n="1453b 48"/>γινώσκοντα μελλῆσαι καὶ μὴ πρᾶξαι χείριστον· τό τε γὰρ
@@ -1449,18 +1449,18 @@
                             <lb n="1454a 1"/>ποιεῖ ὁμοίως, εἰ μὴ ὀλιγάκις, οἷον ἐν Ἀντιγόνῃ τὸν Κρέοντα
                             <lb n="1454a 2"/>ὁ Αἵμων.</p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p> τὸ δὲ πρᾶξαι δεύτερον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             <lb n="1454a 3"/>βέλτιον δὲ τὸ ἀγνοοῦντα
                             <lb n="1454a 4"/>μὲν πρᾶξαι, πράξαντα δὲ ἀναγνωρίσαι· τό τε γὰρ μιαρὸν
                             <lb n="1454a 5"/>οὐ πρόσεστιν καὶ ἡ ἀναγνώρισις ἐκπληκτικόν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>
                             <lb n="1454a 6"/>κράτιστον δὲ
                             <lb n="1454a 7"/>τὸ τελευταῖον, λέγω δὲ οἷον ἐν τῷ Κρεσφόντῃ ἡ Μερόπη
@@ -1470,7 +1470,7 @@
                             <lb n="1454a 11"/>ρισεν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             <lb n="1454a 12"/>διὰ γὰρ τοῦτο, ὅπερ πάλαι εἴρηται, οὐ περὶ πολλὰ
                             <lb n="1454a 13"/>γένη αἱ τραγῳδίαι εἰσίν.
@@ -1480,7 +1480,7 @@
                             <lb n="1454a 15"/>μύθοις· ἀναγκάζονται οὖν ἐπὶ ταύτας τὰς οἰκίας ἀπαντᾶν
                             <lb n="1454a 16"/>ὅσαις τὰ τοιαῦτα συμβέβηκε πάθη.</p>
                     </div>
-                    <div type="textpart" subtype="section" n="21">
+                    <div type="textpart" subtype="subchapter" n="21">
                         <p>
                         
                     
@@ -1490,21 +1490,21 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="15">
-                  <div type="textpart" subtype="section" n="1">
+                  <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1454a 20"/>Περὶ δὲ τὰ ἤθη τέτταρά ἐστιν ὧν δεῖ στοχάζεσθαι, ἓν
                             <lb n="1454a 21"/>μὲν καὶ πρῶτον, ὅπως χρηστὰ ᾖ.
                         </p>
                     </div>
                     <pb n="42"/>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1454a 22"/>ἕξει δὲ ἦθος μὲν ἐὰν
                             <lb n="1454a 23"/>ὥσπερ ἐλέχθη ποιῇ φανερὸν ὁ λόγος ἢ ἡ πρᾶξις προαί-
                             <lb n="1454a 24"/>ρεσίν τινα <gap reason="lost"/>, χρηστὸν δὲ ἐὰν χρηστήν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1454a 25"/>ἔστιν δὲ ἐν
                             <lb n="1454a 26"/>ἑκάστῳ γένει· καὶ γὰρ γυνή ἐστιν χρηστὴ καὶ δοῦλος,
@@ -1512,47 +1512,47 @@
                             <lb n="1454a 28"/>λόν ἐστιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1454a 29"/>δεύτερον δὲ τὸ ἁρμόττοντα· ἔστιν γὰρ ἀνδρεῖον
                             <lb n="1454a 30"/>μὲν τὸ ἦθος, ἀλλ᾽ οὐχ ἁρμόττον γυναικείῳ τὸ ἀνδρείαν ἢ
                             <lb n="1454a 31"/>δεινὴν εἶναι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1454a 32"/>τρίτον δὲ τὸ ὅμοιον. τοῦτο γὰρ ἕτερον τοῦ
                             <lb n="1454a 33"/>χρηστὸν τὸ ἦθος καὶ ἁρμόττον ποιῆσαι ὥσπερ εἴρηται.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1454a 34"/>τέταρτον δὲ τὸ ὁμαλόν. κἂν γὰρ ἀνώμαλός τις ᾖ ὁ τὴν
                             <lb n="1454a 35"/>μίμησιν παρέχων καὶ τοιοῦτον ἦθος ὑποτιθείς, ὅμως ὁμα-
                             <lb n="1454a 36"/>λῶς ἀνώμαλον δεῖ εἶναι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1454a 37"/>ἔστω δὲ παράδειγμα πονηρίας μὲν
                             <lb n="1454a 38"/>ἤθους μὴ ἀναγκαίου οἷον ὁ Μενέλαος ὁ ἐν τῷ Ὀρέστῃ,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             τοῦ
                             <lb n="1454a 39"/>δὲ ἀπρεποῦς καὶ μὴ ἁρμόττοντος ὅ τε θρῆνος <add>ὁ τοῦ</add> Ὀδυσσέως
                             <lb n="1454a 40"/>ἐν τῇ Σκύλλῃ καὶ ἡ τῆς Μελανίππης ῥῆσις,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             τοῦ δὲ ἀνωμάλου
                             <lb n="1454a 41"/>ἡ ἐν Αὐλίδι Ἰφιγένεια· οὐδὲν γὰρ ἔοικεν ἡ ἱκετεύουσα τῇ
                             <lb n="1454a 42"/>ὑστέρᾳ.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1454a 43"/>χρὴ δὲ καὶ ἐν τοῖς ἤθεσιν ὥσπερ καὶ ἐν τῇ τῶν
                             <lb n="1454a 44"/>πραγμάτων συστάσει ἀεὶ ζητεῖν ἢ τὸ ἀναγκαῖον ἢ τὸ εἰκός,
@@ -1560,14 +1560,14 @@
                             <lb n="1454a 46"/>ἢ εἰκὸς καὶ τοῦτο μετὰ τοῦτο γίνεσθαι ἢ ἀναγκαῖον ἢ εἰκός.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10b">
+                    <div type="textpart" subtype="subchapter" n="10b">
                         <p>
                             <lb n="1454b 1"/>φανερὸν οὖν ὅτι καὶ τὰς λύσεις τῶν μύθων ἐξ αὐτοῦ δεῖ τοῦ
                             <lb n="1454b 2"/>μύθου συμβαίνειν, καὶ μὴ ὥσπερ ἐν τῇ Μηδείᾳ ἀπὸ μη-
                             <lb n="1454b 3"/>χανῆς καὶ ἐν τῇ Ἰλιάδι τὰ περὶ τὸν ἀπόπλουν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10c">
+                    <div type="textpart" subtype="subchapter" n="10c">
                         <p>
                             <lb n="1454b 4"/>ἀλλὰ μη-
                             <lb n="1454b 5"/>χανῇ χρηστέον ἐπὶ τὰ ἔξω τοῦ δράματος, ἢ ὅσα πρὸ τοῦ
@@ -1577,14 +1577,14 @@
                             <lb n="1454b 8"/>δομεν τοῖς θεοῖς ὁρᾶν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10d">
+                    <div type="textpart" subtype="subchapter" n="10d">
                         <p>
                             <lb n="1454b 9"/>ἄλογον δὲ μηδὲν εἶναι ἐν τοῖς πρά-
                             <lb n="1454b 10"/>γμασιν, εἰ δὲ μή, ἔξω τῆς τραγῳδίας, οἷον τὸ ἐν τῷ
                             <lb n="1454b 11"/>Οἰδίποδι τῷ Σοφοκλέους.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1454b 12"/>ἐπεὶ δὲ μίμησίς ἐστιν ἡ τραγῳ-
                             <lb n="1454b 13"/>δία βελτιόνων, ἡμᾶς δεῖ μιμεῖσθαι τοὺς ἀγαθοὺς εἰκονογρά-
@@ -1596,7 +1596,7 @@
                             <lb n="1454b 19"/>Ὅμηρος,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             ταῦτα δὴ διατηρεῖν, καὶ πρὸς τούτοις τὰ παρὰ
                             <lb n="1454b 20"/>τὰς ἐξ ἀνάγκης ἀκολουθούσας αἰσθήσεις τῇ ποιητικῇ·
@@ -1608,20 +1608,20 @@
 
 <pb n="44"/>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="16">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1454b 19"/>Ἀναγνώρισις δὲ τί μέν ἐστιν, εἴρηται πρότερον· εἴδη
                             <lb n="1454b 20"/>δὲ ἀναγνωρίσεως, πρώτη μὲν ἡ ἀτεχνοτάτη καὶ πλείστῃ
                             <lb n="1454b 21"/>χρῶνται δι᾽ ἀπορίαν, ἡ διὰ τῶν σημείων.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             τούτων δὲ τὰ μὲν
                             <lb n="1454b 22"/>σύμφυτα, οἷον “λόγχην ἣν φοροῦσι Γηγενεῖς”
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             ἢ ἀστέρας
                             <lb n="1454b 23"/>οἵους ἐν τῷ Θυέστῃ Καρκίνος, τὰ δὲ ἐπίκτητα, καὶ τούτων
@@ -1629,7 +1629,7 @@
                             <lb n="1454b 25"/>δέραια καὶ οἷον ἐν τῇ Τυροῖ διὰ τῆς σκάφης.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             ἔστιν δὲ καὶ
                             <lb n="1454b 26"/>τούτοις χρῆσθαι ἢ βέλτιον ἢ χεῖρον, οἷον <add>ὁ</add> Ὀδυσσεὺς διὰ
@@ -1637,7 +1637,7 @@
                             <lb n="1454b 28"/>ὑπὸ τῶν συβοτῶν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             εἰσὶ γὰρ αἱ μὲν πίστεως ἕνεκα ἀτεχνό-
                             <lb n="1454b 29"/>τεραι, καὶ αἱ τοιαῦται πᾶσαι, αἱ δὲ ἐκ περιπετείας, ὥσ-
@@ -1645,7 +1645,7 @@
                         </p>
                     </div>
                     <pb n="46"/>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1454b 31"/>δεύτεραι δὲ αἱ πεποι-
                             <lb n="1454b 32"/>ημέναι ὑπὸ τοῦ ποιητοῦ, διὸ ἄτεχνοι. οἷον <add>ὁ</add> Ὀρέστης ἐν τῇ
@@ -1654,14 +1654,14 @@
                             <lb n="1454b 35"/>οὐχ ὁ μῦθος·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             διό τι ἐγγὺς τῆς εἰρημένης ἁμαρτίας ἐστίν, ἐξῆν
                             <lb n="1454b 36"/>γὰρ ἂν ἔνια καὶ ἐνεγκεῖν. καὶ ἐν τῷ Σοφοκλέους Τηρεῖ ἡ
                             <lb n="1454b 37"/>τῆς κερκίδος φωνή.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             ἡ τρίτη διὰ μνήμης, τῷ αἰσθέσθαι
                             <lb n="1455a 1"/>τι ἰδόντα, ὥσπερ ἡ ἐν Κυπρίοις τοῖς Δικαιογένους, ἰδὼν γὰρ
@@ -1670,7 +1670,7 @@
                             <lb n="1455a 4"/>ρίσθησαν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1455a 5"/>τετάρτη δὲ ἡ ἐκ συλλογισμοῦ, οἷον ἐν Χοηφόροις,
                             <lb n="1455a 6"/>ὅτι ὅμοιός τις ἐλήλυθεν, ὅμοιος δὲ οὐθεὶς ἀλλ᾽ ἢ ὁ Ὀρέστης,
@@ -1683,7 +1683,7 @@
                             <lb n="1455a 13"/>αὐταῖς, καὶ γὰρ ἐξετέθησαν ἐνταῦθα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1455a 14"/>ἔστιν δέ τις καὶ συν-
                             <lb n="1455a 15"/>θετὴ ἐκ παραλογισμοῦ τοῦ θατέρου, οἷον ἐν τῷ Ὀδυσσεῖ τῷ
@@ -1692,7 +1692,7 @@
                             <lb n="1455a 18"/>ποιῆσαι παραλογισμός.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1455a 19"/>πασῶν δὲ βελτίστη ἀναγνώρισις ἡ ἐξ
                             <lb n="1455a 20"/>αὐτῶν τῶν πραγμάτων τῆς ἐκπλήξεως γιγνομένης δι᾽ εἰκό-
@@ -1702,7 +1702,7 @@
                             αἱ γὰρ τοιαῦται
                             <lb n="1455a 23"/>μόναι ἄνευ τῶν πεποιημένων σημείων καὶ δεραίων. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>δεύτεραι
                             <lb n="1455a 24"/>δὲ αἱ ἐκ συλλογισμοῦ.
                         </p>
@@ -1710,7 +1710,7 @@
                 </div>
                 <pb n="48"/>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="17">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1455a 25"/>Δεῖ δὲ τοὺς μύθους συνιστάναι καὶ τῇ λέξει συναπερ-
                             <lb n="1455a 26"/>γάζεσθαι ὅτι μάλιστα πρὸ ὀμμάτων τιθέμενον· οὕτω γὰρ
@@ -1719,7 +1719,7 @@
                             <lb n="1455a 29"/><del>τὸ</del> τὰ ὑπεναντία.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1455a 30"/>σημεῖον δὲ τούτου ὃ ἐπετιμᾶτο Καρκίνῳ.
                             <lb n="1455a 31"/>ὁ γὰρ Ἀμφιάραος ἐξ ἱεροῦ ἀνῄει, ὃ μὴ ὁρῶντ᾽ ἂν τὸν
@@ -1727,7 +1727,7 @@
                             <lb n="1455a 33"/>νάντων τοῦτο τῶν θεατῶν,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             ὅσα δὲ δυνατὸν καὶ τοῖς σχή-
                             <lb n="1455a 34"/>μασιν συναπεργαζόμενον· πιθανώτατοι γὰρ ἀπὸ τῆς αὐτῆς
@@ -1735,21 +1735,21 @@
                             <lb n="1455a 36"/>καὶ χαλεπαίνει ὁ ὀργιζόμενος ἀληθινώτατα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1455a 37"/>διὸ εὐφυοῦς ἡ
                             <lb n="1455a 38"/>ποιητική ἐστιν ἢ μανικοῦ· τούτων γὰρ οἱ μὲν εὔπλαστοι οἱ δὲ
                             <lb n="1455a 39"/>ἐκστατικοί εἰσιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             τούς τε λόγους καὶ τοὺς πεποιημένους
                             <lb n="1455b 1"/>δεῖ καὶ αὐτὸν ποιοῦντα ἐκτίθεσθαι καθόλου, εἶθ᾽ οὕτως ἐπεισ-
                             <lb n="1455b 2"/>οδιοῦν καὶ παρατείνειν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1455b 3"/>λέγω δὲ οὕτως ἂν θεωρεῖσθαι τὸ καθ-
                             <lb n="1455b 4"/>όλου, οἷον τῆς Ἰφιγενείας· τυθείσης τινὸς κόρης καὶ ἀφα-
@@ -1765,26 +1765,26 @@
                             <lb n="1455b 13"/>καὶ ἐντεῦθεν ἡ σωτηρία.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             μετὰ ταῦτα δὲ ἤδη ὑποθέντα τὰ
                             <lb n="1455b 14"/>ὀνόματα ἐπεισοδιοῦν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             ὅπως δὲ ἔσται οἰκεῖα τὰ ἐπεισόδια,
                             <lb n="1455b 15"/>οἷον ἐν τῷ Ὀρέστῃ ἡ μανία δι᾽ ἧς ἐλήφθη καὶ ἡ σω-
                             <lb n="1455b 16"/>τηρία διὰ τῆς καθάρσεως.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             ἐν μὲν οὖν τοῖς δράμασιν τὰ
                             <lb n="1455b 17"/>ἐπεισόδια σύντομα, ἡ δ᾽ ἐποποιία τούτοις μηκύνεται.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1455b 18"/>τῆς γὰρ
                             <lb n="1455b 19"/>Ὀδυσσείας <add>οὐ</add> μακρὸς ὁ λόγος ἐστίν· ἀποδημοῦντός τινος
@@ -1796,21 +1796,21 @@
                             <lb n="1455b 25"/>διέφθειρε.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             τὸ μὲν οὖν ἴδιον τοῦτο, τὰ δ᾽ ἄλλα ἐπεισόδια.
                         </p>
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="18">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1455b 26"/>Ἔστι δὲ πάσης τραγῳδίας τὸ μὲν δέσις τὸ δὲ λύσις, τὰ
                             <lb n="1455b 27"/>μὲν ἔξωθεν καὶ ἔνια τῶν ἔσωθεν πολλάκις ἡ δέσις, τὸ δὲ
                             <lb n="1455b 28"/>λοιπὸν ἡ λύσις—
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             λέγω δὲ δέσιν μὲν εἶναι τὴν ἀπ᾽ ἀρχῆς
                             <lb n="1455b 29"/>μέχρι τούτου τοῦ μέρους ὃ ἔσχατόν ἐστιν ἐξ οὗ μεταβαί-
@@ -1818,7 +1818,7 @@
                             <lb n="1455b 31"/>βάσεως μέχρι τέλους·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             ὥσπερ ἐν τῷ Λυγκεῖ τῷ Θεοδέκτου
                             <lb n="1455b 32"/>δέσις μὲν τά τε προπεπραγμένα καὶ ἡ τοῦ παιδίου λῆψις καὶ
@@ -1827,37 +1827,37 @@
                             <lb n="1455b 34"/>μέχρι τοῦ τέλους.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             τραγῳδίας δὲ εἴδη εἰσὶ τέσσαρα (τοσαῦτα
                             <lb n="1455b 35"/>γὰρ καὶ τὰ μέρη ἐλέχθη),
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             ἡ μὲν πεπλεγμένη, ἧς τὸ ὅλον
                             <lb n="1455b 36"/>ἐστὶν περιπέτεια καὶ ἀναγνώρισις,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             ἡ δὲ παθητική, οἷον οἵ τε
                             <lb n="1456a 1"/>Αἴαντες καὶ οἱ Ἰξίονες,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             ἡ δὲ ἠθική, οἷον αἱ Φθιώτιδες καὶ ὁ
                             <lb n="1456a 2"/>Πηλεύς·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             τὸ δὲ τέταρτον ὄψις, οἷον αἵ τε Φορκίδες καὶ Προ-
                             <lb n="1456a 3"/>μηθεὺς καὶ ὅσα ἐν ᾅδου.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             μάλιστα μὲν οὖν ἅπαντα δεῖ πει-
                             <lb n="1456a 4"/>ρᾶσθαι ἔχειν, εἰ δὲ μή, τὰ μέγιστα καὶ πλεῖστα, ἄλλως τε
@@ -1866,25 +1866,25 @@
                             <lb n="1456a 7"/>ἀξιοῦσι τὸν ἕνα ὑπερβάλλειν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1456a 8"/>δίκαιον δὲ καὶ τραγῳδίαν
                             <lb n="1456a 9"/>ἄλλην καὶ τὴν αὐτὴν λέγειν οὐδενὶ ἴσως τῷ μύθῳ· τοῦτο
                             <lb n="1456a 10"/>δέ, ὧν ἡ αὐτὴ πλοκὴ καὶ λύσις.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             πολλοὶ δὲ πλέξαντες εὖ
                             <lb n="1456a 11"/>λύουσι κακῶς·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             δεῖ δὲ ἄμφω ἀεὶ κρατεῖσθαι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             χρὴ δὲ ὅπερ
                             <lb n="1456a 12"/>εἴρηται πολλάκις μεμνῆσθαι καὶ μὴ ποιεῖν ἐποποιικὸν σύ-
@@ -1892,14 +1892,14 @@
                             <lb n="1456a 14"/>οἷον εἴ τις τὸν τῆς Ἰλιάδος ὅλον ποιοῖ μῦθον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             ἐκεῖ μὲν γὰρ
                             <lb n="1456a 15"/>διὰ τὸ μῆκος λαμβάνει τὰ μέρη τὸ πρέπον μέγεθος, ἐν
                             <lb n="1456a 16"/>δὲ τοῖς δράμασι πολὺ παρὰ τὴν ὑπόληψιν ἀποβαίνει.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             ση-
                             <lb n="1456a 17"/>μεῖον δέ, ὅσοι πέρσιν Ἰλίου ὅλην ἐποίησαν καὶ μὴ κατὰ
@@ -1909,35 +1909,35 @@
                         </p>
                     </div>
                     <pb n="54"/>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             <lb n="1456a 21"/>ἐν δὲ ταῖς περιπετείαις καὶ ἐν τοῖς
                             <lb n="1456a 22"/>ἁπλοῖς πράγμασι στοχάζονται ὧν βούλονται θαυμαστῶς·
                             <lb n="1456a 23"/>τραγικὸν γὰρ τοῦτο καὶ φιλάνθρωπον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p>
                             ἔστιν δὲ τοῦτο, ὅταν
                             <lb n="1456a 24"/>ὁ σοφὸς μὲν μετὰ πονηρίας <add>δ᾽</add> ἐξαπατηθῇ, ὥσπερ Σίσυ-
                             <lb n="1456a 25"/>φος, καὶ ὁ ἀνδρεῖος μὲν ἄδικος δὲ ἡττηθῇ·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             ἔστιν δὲ τοῦτο
                             <lb n="1456a 26"/>εἰκὸς ὥσπερ Ἀγάθων λέγει, εἰκὸς γὰρ γίνεσθαι πολλὰ
                             <lb n="1456a 27"/>καὶ παρὰ τὸ εἰκός.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>
                             καὶ τὸν χορὸν δὲ ἕνα δεῖ ὑπολα-
                             <lb n="1456a 28"/>βεῖν τῶν ὑποκριτῶν, καὶ μόριον εἶναι τοῦ ὅλου καὶ συναγω-
                             <lb n="1456a 29"/>νίζεσθαι μὴ ὥσπερ Εὐριπίδῃ ἀλλ᾽ ὥσπερ Σοφοκλεῖ.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             τοῖς
                             <lb n="1456a 30"/>δὲ λοιποῖς τὰ ᾀδόμενα <add>οὐδὲν</add> μᾶλλον τοῦ μύθου ἢ ἄλλης
@@ -1949,26 +1949,26 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="19">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1456a 35"/>Περὶ μὲν οὖν τῶν ἄλλων ἤδη εἴρηται, λοιπὸν δὲ περὶ
                             <lb n="1456a 36"/>λέξεως καὶ διανοίας εἰπεῖν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             τὰ μὲν οὖν περὶ τὴν διάνοιαν ἐν
                             <lb n="1456a 37"/>τοῖς περὶ ῥητορικῆς κείσθω· τοῦτο γὰρ ἴδιον μᾶλλον ἐκείνης
                             <lb n="1456a 38"/>τῆς μεθόδου.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             ἔστι δὲ κατὰ τὴν διάνοιαν ταῦτα, ὅσα ὑπὸ
                             <lb n="1456a 39"/>τοῦ λόγου δεῖ παρασκευασθῆναι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             μέρη δὲ τούτων τό τε ἀπο-
                             <lb n="1456b 1"/>δεικνύναι καὶ τὸ λύειν καὶ τὸ πάθη παρασκευάζειν (οἷον
@@ -1976,14 +1976,14 @@
                             <lb n="1456b 3"/>καὶ μικρότητα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1456b 4"/>δῆλον δὲ ὅτι καὶ ἐν τοῖς πράγμασιν ἀπὸ
                             <lb n="1456b 5"/>τῶν αὐτῶν ἰδεῶν δεῖ χρῆσθαι ὅταν ἢ ἐλεεινὰ ἢ δεινὰ ἢ
                             <lb n="1456b 6"/>μεγάλα ἢ εἰκότα δέῃ παρασκευάζειν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             πλὴν τοσοῦτον δια-
                             <lb n="1456b 7"/>φέρει, ὅτι τὰ μὲν δεῖ φαίνεσθαι ἄνευ διδασκαλίας, τὰ δὲ
@@ -1993,7 +1993,7 @@
                             <lb n="1456b 10"/>φαίνοιτο <add>ᾗ</add> δέοι καὶ μὴ διὰ τὸν λόγον;
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1456b 11"/>τῶν δὲ περὶ τὴν λέ-
                             <lb n="1456b 12"/>ξιν ἓν μέν ἐστιν εἶδος θεωρίας τὰ σχήματα τῆς λέξεως,
@@ -2003,7 +2003,7 @@
                             <lb n="1456b 16"/>ἄλλο τοιοῦτον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1456b 17"/>παρὰ γὰρ τὴν τούτων γνῶσιν ἢ ἄγνοιαν οὐδὲν
                             <lb n="1456b 18"/>εἰς τὴν ποιητικὴν ἐπιτίμημα φέρεται ὅ τι καὶ ἄξιον σπου-
@@ -2014,20 +2014,20 @@
                             <lb n="1456b 21"/>δε θεά”; τὸ γὰρ κελεῦσαι, φησίν, ποιεῖν τι ἢ μὴ ἐπίταξίς
                             <lb n="1456b 22"/>ἐστιν. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>διὸ παρείσθω ὡς ἄλλης καὶ οὐ τῆς ποιητικῆς ὂν
                             <lb n="1456b 23"/>θεώρημα.
                         </p>
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="20">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1456b 24"/>Τῆς δὲ λέξεως ἁπάσης τάδ᾽ ἐστὶ τὰ μέρη, στοιχεῖον
                             <lb n="1456b 25"/>συλλαβὴ σύνδεσμος ἄρθρον ὄνομα ῥῆμα πτῶσις λόγος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1456b 26"/>στοιχεῖον μὲν οὖν ἐστιν φωνὴ ἀδιαίρετος, οὐ πᾶσα δὲ
                             <lb n="1456b 27"/>ἀλλ᾽ ἐξ ἧς πέφυκε συνετὴ γίγνεσθαι φωνή· καὶ γὰρ τῶν
@@ -2035,7 +2035,7 @@
                             <lb n="1456b 29"/>χεῖον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1456b 30"/>ταύτης δὲ μέρη τό τε φωνῆεν καὶ τὸ ἡμίφωνον καὶ
                             <lb n="1456b 31"/>ἄφωνον.
@@ -2047,7 +2047,7 @@
                             <lb n="1456b 35"/>τῶν ἐχόντων τινὰ φωνὴν γινόμενον ἀκουστόν, οἷον τὸ Γ καὶ
                             <lb n="1456b 36"/>τὸ Δ.</p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p> ταῦτα δὲ διαφέρει σχήμασίν τε τοῦ στόματος καὶ
                             <lb n="1456b 37"/>τόποις καὶ δασύτητι καὶ ψιλότητι καὶ μήκει καὶ βραχύ-
                             <pb n="58"/>
@@ -2055,7 +2055,7 @@
                             <lb n="1457a 1"/>καθ᾽ ἕκαστον προσήκει θεωρεῖν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             συλλαβὴ
                             <lb n="1457a 2"/>δέ ἐστιν φωνὴ ἄσημος συνθετὴ ἐξ ἀφώνου καὶ φωνὴν ἔχον-
@@ -2065,7 +2065,7 @@
                             ἀλλὰ καὶ τούτων θεωρῆσαι τὰς διαφορὰς
                             <lb n="1457a 5"/>τῆς μετρικῆς ἐστιν.</p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p> σύνδεσμος δέ ἐστιν φωνὴ ἄσημος ἢ οὔ-
                             <lb n="1457a 6"/>τε κωλύει οὔτε ποιεῖ φωνὴν μίαν σημαντικὴν ἐκ πλειόνων
                             <lb n="1457a 7"/>φωνῶν πεφυκυῖαν συντίθεσθαι, ἣν μὴ ἁρμόττει ἐν ἀρχῇ λόγου
@@ -2074,7 +2074,7 @@
                             <lb n="1457a 10"/>φωνήν, <gap reason="lost"/>
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             ἄρθρον δ᾽ ἐστὶ φωνὴ ἄσημος ἢ λόγου ἀρχὴν ἢ
                             <lb n="1457a 11"/>τέλος ἢ διορισμὸν δηλοῖ <del>οἷον τὸ ἀμφί καὶ τὸ περί καὶ
@@ -2083,7 +2083,7 @@
                             <lb n="1457a 14"/>ἐπὶ τῶν ἄκρων καὶ ἐπὶ τοῦ μέσου.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1457a 15"/>ὄνομα δέ ἐστι φωνὴ
                             <lb n="1457a 16"/>συνθετὴ σημαντικὴ ἄνευ χρόνου ἧς μέρος οὐδέν ἐστι καθ᾽
@@ -2092,7 +2092,7 @@
                             <lb n="1457a 19"/>οὐ σημαίνει.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1457a 20"/>ῥῆμα δὲ φωνὴ συνθετὴ σημαντικὴ μετὰ χρό-
                             <lb n="1457a 21"/>νου ἧς οὐδὲν μέρος σημαίνει καθ᾽ αὑτό, ὥσπερ καὶ ἐπὶ τῶν
@@ -2101,7 +2101,7 @@
                             <lb n="1457a 24"/>παρόντα χρόνον τὸ δὲ τὸν παρεληλυθότα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1457a 25"/>πτῶσις δ᾽ ἐστὶν
                             <lb n="1457a 26"/>ὀνόματος ἢ ῥήματος ἡ μὲν κατὰ τὸ τούτου ἢ τούτῳ ση-
@@ -2111,13 +2111,13 @@
                             <lb n="1457a 30"/>ματος κατὰ ταῦτα τὰ εἴδη ἐστίν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1457a 31"/>λόγος δὲ φωνὴ συνθετὴ
                             <lb n="1457a 32"/>σημαντικὴ ἧς ἔνια μέρη καθ᾽ αὑτὰ σημαίνει τι
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             (οὐ γὰρ
                             <lb n="1457a 33"/>ἅπας λόγος ἐκ ῥημάτων καὶ ὀνομάτων σύγκειται, οἷον ὁ
@@ -2126,7 +2126,7 @@
                             <lb n="1457a 36"/>ζει Κλέων ὁ Κλέων.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1457a 37"/>εἷς δέ ἐστι λόγος διχῶς, ἢ γὰρ ὁ ἓν
                             <lb n="1457a 38"/>σημαίνων, ἢ ὁ ἐκ πλειόνων συνδέσμῳ, οἷον ἡ Ἰλιὰς μὲν
@@ -2137,13 +2137,13 @@
 
 <pb n="60"/>
         <div type="textpart" subtype="chapter" n="21">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="1">
             <p>
               <lb n="1457a 31"/>Ὀνόματος δὲ εἴδη τὸ μὲν ἁπλοῦν, ἁπλοῦν δὲ λέγω
               <lb n="1457a 32"/>μὴ ἐκ σημαινόντων σύγκειται, οἷον γῆ, τὸ δὲ διπλοῦν·
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="2">
             <p>
               τούτου
               <lb n="1457a 33"/>δὲ τὸ μὲν ἐκ σημαίνοντος καὶ ἀσήμου, πλὴν οὐκ ἐν τῷ
@@ -2151,7 +2151,7 @@
               <lb n="1457a 35"/>σύγκειται. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="3">
             <p>
               <lb n="1457a 35"/>εἴη δ᾽ ἂν καὶ τριπλοῦν καὶ τετραπλοῦν ὄνομα καὶ
               <lb n="1457a 36"/>πολλαπλοῦν, οἷον τὰ πολλὰ τῶν μεγαλειωτῶν, Ἑρμοκαϊ-
@@ -2159,27 +2159,27 @@
             </p>
           </div>
           <pb n="62"/>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="4">
             <p>
               ἅπαν δὲ ὄνομά ἐστιν ἢ κύριον ἢ γλώττα ἢ
               <lb n="1457b 2"/>μεταφορὰ ἢ κόσμος ἢ πεποιημένον ἢ ἐπεκτεταμένον ἢ ὑφῃ-
               <lb n="1457b 3"/>ρημένον ἐξηλλαγμένον.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="5">
             <p>
               λέγω δὲ κύριον μὲν ᾧ χρῶνται
               <lb n="1457b 4"/>ἕκαστοι,
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="6">
             <p>
               γλώτταν δὲ ᾧ ἕτεροι· ὥστε φανερὸν ὅτι καὶ γλῶτ-
               <lb n="1457b 5"/>ταν καὶ κύριον εἶναι δυνατὸν τὸ αὐτό, μὴ τοῖς αὐτοῖς δέ·
               <lb n="1457b 6"/>τὸ γὰρ σίγυνον Κυπρίοις μὲν κύριον, ἡμῖν δὲ γλῶττα.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="7">
             <p>
               με-
               <lb n="1457b 7"/>ταφορὰ δέ ἐστιν ὀνόματος ἀλλοτρίου ἐπιφορὰ ἢ ἀπὸ τοῦ
@@ -2187,21 +2187,21 @@
               <lb n="1457b 9"/>δους ἐπὶ εἶδος ἢ κατὰ τὸ ἀνάλογον.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="8">
             <p>
               λέγω δὲ ἀπὸ γένους μὲν
               <lb n="1457b 10"/>ἐπὶ εἶδος οἷον <quote>“νηῦς δέ μοι ἥδ᾽ ἕστηκεν·”</quote> τὸ γὰρ ὁρμεῖν ἐστιν
               <lb n="1457b 11"/>ἑστάναι τι.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="9">
             <p>
               ἀπ᾽ εἴδους δὲ ἐπὶ γένος <quote>“ἦ δὴ μυρί᾽ Ὀδυσ-
               <lb n="1457b 12"/>σεὺς ἐσθλὰ ἔοργεν·”</quote> τὸ γὰρ μυρίον πολύ ἐστιν, ᾧ νῦν ἀντὶ
               <lb n="1457b 13"/>τοῦ πολλοῦ κέχρηται.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="10">
             <p>
               ἀπ᾽ εἴδους δὲ ἐπὶ εἶδος οἷον <quote>“χαλκῷ
               <lb n="1457b 14"/>ἀπὸ ψυχὴν ἀρύσας”</quote> καὶ <quote>“τεμὼν ἀτειρέϊ χαλκῷ·”</quote> ἐνταῦθα
@@ -2209,7 +2209,7 @@
               <lb n="1457b 16"/>ἄμφω γὰρ ἀφελεῖν τί ἐστιν.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="11">
             <p>
               τῷ δὲ ἀνάλογον λέγω, ὅταν
               <lb n="1457b 17"/>ὁμοίως ἔχῃ τὸ δεύτερον πρὸς τὸ πρῶτον καὶ τὸ τέταρτον
@@ -2217,7 +2217,7 @@
               <lb n="1457b 19"/>ἀντὶ τοῦ τετάρτου τὸ δεύτερον.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="12">
             <p>
               καὶ ἐνίοτε προστιθέασιν ἀνθ᾽
               <lb n="1457b 20"/>οὗ λέγει πρὸς ὅ ἐστι.
@@ -2226,14 +2226,14 @@
               <lb n="1457b 21"/>Διόνυσον καὶ ἀσπὶς πρὸς Ἄρη· ἐρεῖ τοίνυν τὴν φιάλην ἀσπίδα
               <lb n="1457b 22"/>Διονύσου καὶ τὴν ἀσπίδα φιάλην Ἄρεως.</p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="13">
             <p> ἢ γῆρας πρὸς
               <lb n="1457b 23"/>βίον, καὶ ἑσπέρα πρὸς ἡμέραν· ἐρεῖ τοίνυν τὴν ἑσπέραν γῆ-
               <lb n="1457b 24"/>ρας ἡμέρας ἢ ὥσπερ Ἐμπεδοκλῆς, καὶ τὸ γῆρας ἑσπέραν βίου
               <lb n="1457b 25"/>ἢ δυσμὰς βίου.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="14">
             <p>
               ἐνίοις δ᾽ οὐκ ἔστιν ὄνομα κείμενον τῶν ἀνά-
               <lb n="1457b 26"/>λογον, ἀλλ᾽ οὐδὲν ἧττον ὁμοίως λεχθήσεται· οἷον τὸ τὸν
@@ -2243,27 +2243,27 @@
             </p>
           </div>
           <pb n="64"/>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="15">
             <p>
               <lb n="1457b 30"/> ἔστι δὲ τῷ τρόπῳ τούτῳ τῆς μεταφορᾶς χρῆσθαι
               <lb n="1457b 31"/>καὶ ἄλλως, προσαγορεύσαντα τὸ ἀλλότριον ἀποφῆσαι τῶν
               <lb n="1457b 32"/>οἰκείων τι,
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="16">
             <p>
               οἷον εἰ τὴν ἀσπίδα εἴποι φιάλην μὴ Ἄρεως ἀλλ᾽
               <lb n="1457b 33"/>ἄοινον. * *
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="17">
             <p>
               πεποιημένον δ᾽ ἐστὶν ὃ ὅλως μὴ καλούμενον ὑπὸ
               <lb n="1457b 34"/>τινῶν αὐτὸς τίθεται ὁ ποιητής, (δοκεῖ γὰρ ἔνια εἶναι τοιαῦτα)
               <lb n="1457b 35"/>οἷον τὰ κέρατα ἐρνύγας καὶ τὸν ἱερέα ἀρητῆρα.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="18">
             <p>
               <lb n="1458a 1"/>ἐπεκτεταμένον
               <lb n="1458a 2"/>δέ ἐστιν ἢ ἀφηρημένον τὸ μὲν ἐὰν φωνήεντι μακροτέρῳ
@@ -2271,66 +2271,66 @@
             
               <lb n="1458a 4"/>ἀφῃρημένον τι αὐτοῦ, </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="19">
             <p>ἐπεκτεταμένον μὲν οἷον τὸ πόλεως
               <lb n="1458a 5"/>πόληος καὶ τὸ Πηλείδου Πηληιάδεω, ἀφῃρημένον δὲ οἷον τὸ
               <lb n="1458a 6"/>κρῖ καὶ τὸ δῶ καὶ <quote>“μία γίνεται ἀμφοτέρων ὄψ.”</quote>
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="20">
             <p>
               ἐξηλ-
               <lb n="1458a 7"/>λαγμένον δ᾽ ἐστὶν ὅταν τοῦ ὀνομαζομένου τὸ μὲν καταλείπῃ
               <lb n="1458a 8"/>τὸ δὲ ποιῇ, οἷον τὸ <quote>“δεξιτερὸν κατὰ μαζόν”</quote> ἀντὶ τοῦ δεξιόν.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="21">
             <p>
               <lb n="1458a 9"/>αὐτῶν δὲ τῶν ὀνομάτων τὰ μὲν ἄρρενα τὰ δὲ θήλεα τὰ
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="22">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="22">
             <p>
-              <lb n="1458a 10"/>δὲ μεταξύ, ἄρρενα μὲν ὅσα τελευτᾷ εἰς τὸ Ν καὶ Ρ (καὶ Σ) καὶ
-              <lb n="1458a 11"/>το ὅσα ἐκ τούτου σύγκειται (ταῦτα δ᾽ ἐστὶν δύο, Ψ καὶ Ξ),
+              <lb n="1458a 9"/>δὲ μεταξύ, ἄρρενα μὲν ὅσα τελευτᾷ εἰς τὸ Ν καὶ Ρ <add>καὶ Σ</add> καὶ
+              <lb n="1458a 10"/> ὅσα ἐκ τούτου σύγκειται (ταῦτα δ᾽ ἐστὶν δύο, Ψ καὶ Ξ),
             
               θήλεα
               <lb n="1458a 12"/>δὲ ὅσα ἐκ τῶν φωνηέντων εἴς τε τὰ ἀεὶ μακρά, </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="23">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="23">
             <p>οἷον εἰς Η
               <lb n="1458a 13"/>καὶ Ω, καὶ τῶν ἐπεκτεινομένων εἰς Α·
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="24">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="24">
             <p>
               ὥστε ἴσα συμβαίνει
               <lb n="1458a 14"/>πλήθη εἰς ὅσα τὰ ἄρρενα καὶ τὰ θήλεα· τὸ γὰρ Ψ καὶ τὸ Ξ
-              <lb n="1458a 15"/>(τῷ Σ) ταὐτά ἐστιν.
+              <lb n="1458a 15"/><add>τῷ Σ</add> ταὐτά ἐστιν.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="25">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="25">
             <p>
               εἰς δὲ ἄφωνον οὐδὲν ὄνομα τελευτᾷ,
               <lb n="1458a 16"/>οὐδὲ εἰς φωνῆεν βραχύ.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="26">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909-grc1:21" n="26">
             <p>
               εἰς δὲ τὸ Ι τρία μόνον, μέλι κόμμι
               <lb n="1458a 17"/>πέπερι. εἰς δὲ τὸ Υ πέντε. τὰ δὲ μεταξὺ εἰς ταῦτα καὶ
-              <lb n="1458a 18"/>Ν (καὶ Ρ) καὶ Σ.
+              <lb n="1458a 18"/>Ν <add>καὶ Ρ</add> καὶ Σ.
             </p>
           </div>
         </div>
                 <pb n="66"/>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="22">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1458a 19"/>Λέξεως δὲ ἀρετὴ σαφῆ καὶ μὴ ταπεινὴν εἶναι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             σα-
                             <lb n="1458a 20"/>φεστάτη μὲν οὖν ἐστιν ἡ ἐκ τῶν κυρίων ὀνομάτων, ἀλλὰ
@@ -2338,14 +2338,14 @@
                             <lb n="1458a 22"/>Σθενέλου.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             σεμνὴ δὲ καὶ ἐξαλλάττουσα τὸ ἰδιωτικὸν ἡ τοῖς
                             <lb n="1458a 23"/>ξενικοῖς κεχρημένη· ξενικὸν δὲ λέγω γλῶτταν καὶ μετα-
                             <lb n="1458a 24"/>φορὰν καὶ ἐπέκτασιν καὶ πᾶν τὸ παρὰ τὸ κύριον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             ἀλλ᾽ ἄν
                             <lb n="1458a 25"/>τις <del>ἂν</del> ἅπαντα τοιαῦτα ποιήσῃ, ἢ αἴνιγμα ἔσται ἢ βαρβα-
@@ -2353,22 +2353,22 @@
                             <lb n="1458a 27"/>γλωττῶν, βαρβαρισμός.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             αἰνίγματός τε γὰρ ἰδέα αὕτη ἐστί,
-                            <lb n="1458a 28"/>τὸ λέγοντα ὑπάρχοντα ἀδύνατα συνάψαι· κατὰ μὲν οὖν
+                            <lb n="1458a 28"/>τὸ λέγοντα ὑπάρχοντα ἀδύνατα συνάψαι — κατὰ μὲν οὖν
                             <lb n="1458a 29"/>τὴν τῶν ὀνομάτων σύνθεσιν οὐχ οἷόν τε τοῦτο ποιῆσαι, κατὰ
-                            <lb n="1458a 30"/>δὲ τὴν μεταφορῶν ἐνδέχεται, οἷον <q>ἄνδρ᾽ εἶδον πυρὶ χαλκὸν
+                            <lb n="1458a 30"/>δὲ τὴν μεταφορῶν ἐνδέχεται — οἷον <q>ἄνδρ᾽ εἶδον πυρὶ χαλκὸν
                             <lb n="1458a 31"/>ἐπ᾽ ἀνέρι κολλήσαντα,</q> καὶ τὰ τοιαῦτα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1458a 32"/>ἐκ τῶν γλωττῶν
                             <lb n="1458a 33"/>βαρβαρισμός.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             δεῖ ἄρα κεκρᾶσθαί πως τούτοις· τὸ μὲν
                             <lb n="1458a 34"/>γὰρ μὴ ἰδιωτικὸν ποιήσει μηδὲ ταπεινόν, οἷον ἡ γλῶττα
@@ -2376,7 +2376,7 @@
                             <lb n="1458a 36"/>εἴδη, τὸ δὲ κύριον τὴν σαφήνειαν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1458b 1"/>οὐκ ἐλάχιστον δὲ μέρος
                             <lb n="1458b 2"/>συμβάλλεται εἰς τὸ σαφὲς τῆς λέξεως καὶ μὴ ἰδιωτικὸν
@@ -2386,40 +2386,40 @@
                             <lb n="1458b 6"/>νωνεῖν τοῦ εἰωθότος τὸ σαφὲς ἔσται.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1458b 7"/>ὥστε οὐκ ὀρθῶς ψέγου-
                             <lb n="1458b 8"/>σιν οἱ ἐπιτιμῶντες τῷ τοιούτῳ τρόπῳ τῆς διαλέκτου καὶ δια-
                             <lb n="1458b 9"/>κωμῳδοῦντες τὸν ποιητήν, οἷον Εὐκλείδης ὁ ἀρχαῖος, ὡς
                             <lb n="1458b 10"/>ῥᾴδιον ποιεῖν, εἴ τις δώσει ἐκτείνειν ἐφ᾽ ὁπόσον βούλεται
                             <pb n="68"/>
-                            <lb n="1458b 11"/>ἰαμβοποιήσας ἐν αὐτῇ τῇ λέξει <q>Ἐπιχάρην εἶδον Μαραθῶ-
-                            <lb n="1458b 12"/>νάδε βαδίζοντα,</q> καὶ <q>οὐκ ἄν γ᾽ ἐράμενος τὸν ἐκείνου ἐλ-
-                            <lb n="1458b 13"/>λέβορον.</q>
+                            <lb n="1458b 11"/>†ἰαμβοποιήσας ἐν αὐτῇ τῇ λέξει† <q>Ἐπιχάρην εἶδον Μαραθῶ-
+                            <lb n="1458b 12"/>νάδε βαδίζοντα,</q> καὶ <q>οὐκ ἄν γ᾽ ἐράμενος †τὸν ἐκείνου ἐλ-
+                            <lb n="1458b 13"/>λέβορον†.</q>
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1458b 14"/>τὸ μὲν οὖν φαίνεσθαί πως χρώμενον τούτῳ τῷ
                             <lb n="1458b 15"/>τρόπῳ γελοῖον· τὸ δὲ μέτριον κοινὸν ἁπάντων ἐστὶ τῶν με-
                             <lb n="1458b 16"/>ρῶν·
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             καὶ γὰρ μεταφοραῖς καὶ γλώτταις καὶ τοῖς ἄλλοις
                             <lb n="1458b 17"/>εἴδεσι χρώμενος ἀπρεπῶς καὶ ἐπίτηδες ἐπὶ τὰ γελοῖα τὸ
                             <lb n="1458b 18"/>αὐτὸ ἂν ἀπεργάσαιτο.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1458b 19"/>τὸ δὲ ἁρμοττόντως ὅσον διαφέρει ἐπὶ
                             <lb n="1458b 20"/>τῶν ἐπῶν θεωρείσθω ἐντιθεμένων τῶν ὀνομάτων εἰς τὸ μέ-
                             <lb n="1458b 21"/>τρον.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1458b 22"/>καὶ ἐπὶ τῆς γλώττης δὲ καὶ ἐπὶ τῶν μεταφορῶν καὶ
                             <lb n="1458b 23"/>ἐπὶ τῶν ἄλλων ἰδεῶν μετατιθεὶς ἄν τις τὰ κύρια ὀνόματα
@@ -2428,19 +2428,19 @@
                             <lb n="1458b 26"/>τος, ἀντὶ κυρίου εἰωθότος γλώτταν, τὸ μὲν φαίνεται καλὸν
                             <lb n="1458b 27"/>τὸ δ᾽ εὐτελές.
                             <lb n="1458b 28"/>Αἰσχύλος μὲν γὰρ ἐν τῷ Φιλοκτήτῃ ἐποίησε
-                            <lb n="1458b 29"/><quote>φαγέδαινα ἥ μου σάρκας ἐσθίει ποδός,</quote>
+                            <lb n="1458b 29"/><quote><l>φαγέδαινα ἥ μου σάρκας ἐσθίει ποδός,</l></quote>
                             <lb n="1458b 30"/>ὁ δὲ ἀντὶ τοῦ ἐσθίει τὸ θοινᾶται μετέθηκεν. καὶ
-                            <lb n="1458b 31"/><quote>νῦν δέ μ᾽ ἐὼν ὀλίγος τε καὶ οὐτιδανὸς καὶ ἀεικής,</quote>
+                            <lb n="1458b 31"/><quote><l>νῦν δέ μ᾽ ἐὼν ὀλίγος τε καὶ οὐτιδανὸς καὶ ἀεικής,</l></quote>
                             <lb n="1458b 32"/>εἴ τις λέγοι τὰ κύρια μετατιθεὶς
-                            <lb n="1458b 33"/><quote>νῦν δέ μ᾽ ἐὼν μικρός τε καὶ ἀσθενικὸς καὶ ἀειδής·</quote>
+                            <lb n="1458b 33"/><quote><l>νῦν δέ μ᾽ ἐὼν μικρός τε καὶ ἀσθενικὸς καὶ ἀειδής·</l></quote>
                             <lb n="1458b 34"/>καὶ
-                            <lb n="1458b 35"/><quote>δίφρον ἀεικέλιον καταθεὶς ὀλίγην τε τράπεζαν,</quote>
-                            <lb n="1458b 36"/><quote>δίφρον μοχθηρὸν καταθεὶς μικράν τε τράπεζαν</quote>
+                            <lb n="1458b 35"/><quote><l>δίφρον <del>τε</del> ἀεικέλιον καταθεὶς ὀλίγην τε τράπεζαν,</l>
+                            <lb n="1458b 36"/><l>δίφρον μοχθηρὸν καταθεὶς μικράν τε τράπεζαν</l></quote>
                             <pb n="70"/>
                             <lb n="1458b 37"/>καὶ τὸ <q>ἠιόνες βοόωσιν,</q> ἠιόνες κράζουσιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             ἔτι δὲ Ἀριφράδης
                             <lb n="1459a 1"/>τοὺς τραγῳδοὺς ἐκωμῴδει, ὅτι οὐδεὶς ἂν εἴποι ἐν τῇ δια-
@@ -2450,44 +2450,44 @@
                             <lb n="1459a 5"/>τοιαῦτα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             <lb n="1459a 6"/>διὰ γὰρ τὸ μὴ εἶναι ἐν τοῖς κυρίοις ποιεῖ τὸ μὴ
                             <lb n="1459a 7"/>ἰδιωτικὸν ἐν τῇ λέξει ἅπαντα τὰ τοιαῦτα· ἐκεῖνος δὲ τοῦτο
                             <lb n="1459a 8"/>ἠγνόει.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             <lb n="1459a 9"/>ἔστιν δὲ μέγα μὲν τὸ ἑκάστῳ τῶν εἰρημένων πρεπόν-
                             <lb n="1459a 10"/>τως χρῆσθαι, καὶ διπλοῖς ὀνόμασι καὶ γλώτταις, πολὺ δὲ
                             <lb n="1459a 11"/>μέγιστον τὸ μεταφορικὸν εἶναι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p>
                             <lb n="1459a 12"/>μόνον γὰρ τοῦτο οὔτε παρ᾽
                             <lb n="1459a 13"/>ἄλλου ἔστι λαβεῖν εὐφυΐας τε σημεῖόν ἐστι· τὸ γὰρ εὖ
                             <lb n="1459a 14"/>μεταφέρειν τὸ τὸ ὅμοιον θεωρεῖν ἐστιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             <lb n="1459a 15"/>τῶν δ᾽ ὀνομάτων τὰ
                             <lb n="1459a 16"/>μὲν διπλᾶ μάλιστα ἁρμόττει τοῖς διθυράμβοις, αἱ δὲ γλῶτ-
                             <lb n="1459a 17"/>ται τοῖς ἡρωικοῖς, αἱ δὲ μεταφοραὶ τοῖς ἰαμβείοις.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>
                             <lb n="1459a 18"/>καὶ ἐν
                             <lb n="1459a 19"/>μὲν τοῖς ἡρωικοῖς ἅπαντα χρήσιμα τὰ εἰρημένα, ἐν δὲ τοῖς
                             <lb n="1459a 20"/>ἰαμβείοις διὰ τὸ ὅτι μάλιστα λέξιν μιμεῖσθαι ταῦτα ἁρ-
-                            <lb n="1459a 21"/>μόττει τῶν ὀνομάτων ὅσοις κἂν ἐν λόγοις τις χρή-
+                            <lb n="1459a 21"/>μόττει τῶν ὀνομάτων ὅσοις κἂν <del>ὅσοις</del> ἐν λόγοις τις χρή-
                             <lb n="1459a 22"/>σαιτο· ἔστι δὲ τὰ τοιαῦτα τὸ κύριον καὶ μεταφορὰ καὶ κόσμος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             <lb n="1459a 23"/>περὶ μὲν οὖν τραγῳδίας καὶ τῆς ἐν τῷ πράττειν μιμήσεως
                             <lb n="1459a 24"/>ἔστω ἡμῖν ἱκανὰ τὰ εἰρημένα.
@@ -2495,7 +2495,7 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.bywater1909" n="23">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1459a 25"/>Περὶ δὲ τῆς διηγηματικῆς καὶ ἐν μέτρῳ μιμητικῆς,
                             <lb n="1459a 26"/>ὅτι δεῖ τοὺς μύθους καθάπερ ἐν ταῖς τραγῳδίαις συνιστάναι
@@ -2504,7 +2504,7 @@
                             <lb n="1459a 29"/>ποιῇ τὴν οἰκείαν ἡδονήν, δῆλον,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             καὶ μὴ ὁμοίας ἱστορίαις τὰς
                             <pb n="72"/>
@@ -2513,7 +2513,7 @@
                             <lb n="1459a 32"/>ἢ πλείους, ὧν ἕκαστον ὡς ἔτυχεν ἔχει πρὸς ἄλληλα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1459a 33"/>ὥσπερ
                             <lb n="1459a 34"/>γὰρ κατὰ τοὺς αὐτοὺς χρόνους ἥ τ᾽ ἐν Σαλαμῖνι ἐγένετο
@@ -2523,13 +2523,13 @@
                             <lb n="1459a 38"/>οὐδὲν γίνεται τέλος.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1459a 39"/>σχεδὸν δὲ οἱ πολλοὶ τῶν ποιητῶν τοῦτο
                             <lb n="1459a 40"/>δρῶσι.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             διὸ ὥσπερ εἴπομεν ἤδη καὶ ταύτῃ θεσπέσιος ἂν
                             <lb n="1459a 41"/>φανείη Ὅμηρος παρὰ τοὺς ἄλλους, τῷ μηδὲ τὸν πόλεμον
@@ -2541,14 +2541,14 @@
                             <lb n="1459a 47"/>λαμβάνει τὴν ποίησιν.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1459a 48"/>οἱ δ᾽ ἄλλοι περὶ ἕνα ποιοῦσι
                             <lb n="1459b 1"/>καὶ περὶ ἕνα χρόνον καὶ μίαν πρᾶξιν πολυμερή, οἷον ὁ τὰ
                             <lb n="1459b 2"/>Κύπρια ποιήσας καὶ τὴν μικρὰν Ἰλιάδα.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1459b 3"/>τοιγαροῦν ἐκ μὲν
                             <lb n="1459b 4"/>Ἰλιάδος καὶ Ὀδυσσείας μία τραγῳδία ποιεῖται ἑκατέρας
@@ -2562,23 +2562,23 @@
                <pb n="72"/>
               <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="24">
           
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="1">
             <p>
               <milestone unit="page" resp="Bekker" n="1459b"/>
               <milestone unit="line" resp="Bekker" n="8"/>
-              ἔτι δὲ τὰ εἴδη ταὐτὰ δεῖ ἔχειν τὴν ἐποποιίαν τῇ τραγῳδίᾳ, ἢ γὰρ ἁπλῆν ἢ πεπλεγμένην ἢ ἠθικὴν ἢ 
+              ἔτι δὲ <del>ἔτι δὲ</del> τὰ εἴδη ταὐτὰ δεῖ ἔχειν τὴν ἐποποιίαν τῇ τραγῳδίᾳ, ἢ γὰρ ἁπλῆν ἢ πεπλεγμένην ἢ ἠθικὴν ἢ 
               <milestone unit="line" resp="Bekker" n="10"/>
               παθητικήν·
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="2">
             <p>
               καὶ τὰ μέρη ἔξω μελοποιίας καὶ ὄψεως ταὐτά· καὶ γὰρ περιπετειῶν δεῖ καὶ ἀναγνωρίσεων καὶ παθημάτων· ἔτι τὰς διανοίας καὶ τὴν λέξιν ἔχειν καλῶς.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="3">
             <p>
               οἷς ἅπασιν Ὅμηρος κέχρηται καὶ πρῶτος καὶ ἱκανῶς. καὶ γὰρ τῶν ποιημάτων ἑκάτερον συνέστηκεν ἡ μὲν Ἰλιὰς ἁπλοῦν 
               <milestone unit="line" resp="Bekker" n="15"/>
@@ -2586,13 +2586,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="4">
             <p rend="align(indent)">
               διαφέρει δὲ κατά τε τῆς συστάσεως τὸ μῆκος ἡ ἐποποιία καὶ τὸ μέτρον.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="5">
             <p>
               τοῦ μὲν οὖν μήκους ὅρος ἱκανὸς ὁ εἰρημένος· δύνασθαι γὰρ δεῖ συνορᾶσθαι τὴν ἀρχὴν 
               <milestone unit="line" resp="Bekker" n="20"/>
@@ -2600,7 +2600,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="6">
             <p>
               ἔχει δὲ πρὸς τὸ ἐπεκτείνεσθαι τὸ μέγεθος πολύ τι ἡ ἐποποιία ἴδιον διὰ τὸ ἐν μὲν τῇ τραγῳδίᾳ μὴ ἐνδέχεσθαι ἅμα πραττόμενα 
               <milestone unit="line" resp="Bekker" n="25"/>
@@ -2608,7 +2608,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="7">
             <p>
               ὥστε τοῦτ’ ἔχει τὸ ἀγαθὸν εἰς μεγαλοπρέπειαν καὶ τὸ μεταβάλλειν τὸν 
               <milestone unit="line" resp="Bekker" n="30"/>
@@ -2616,13 +2616,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="8">
             <p>
               τὸ δὲ μέτρον τὸ ἡρωικὸν ἀπὸ τῆς πείρας ἥρμοκεν. εἰ γάρ τις ἐν ἄλλῳ τινὶ μέτρῳ διηγηματικὴν μίμησιν ποιοῖτο ἢ ἐν πολλοῖς, ἀπρεπὲς ἂν φαίνοιτο·
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="9">
             <p>
               τὸ γὰρ ἡρωικὸν στασιμώτατον καὶ 
               <milestone unit="line" resp="Bekker" n="35"/>
@@ -2630,7 +2630,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="10">
             <p>
               <milestone unit="page" resp="Bekker" n="1460a"/>
               <milestone unit="line" resp="Bekker" n="1"/>
@@ -2638,13 +2638,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="11">
             <p>
               ἔτι δὲ ἀτοπώτερον εἰ μιγνύοι τις αὐτά, ὥσπερ Χαιρήμων.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="12">
             <p>
               διὸ οὐδεὶς μακρὰν σύστασιν ἐν ἄλλῳ πεποίηκεν ἢ τῷ ἡρῴῳ, ἀλλ’ ὥσπερ εἴπομεν αὐτὴ ἡ φύσις διδάσκει τὸ ἁρμόττον αὐτῇ 
               <milestone unit="line" resp="Bekker" n="5"/>
@@ -2652,13 +2652,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="13">
             <p>
               Ὅμηρος δὲ ἄλλα τε πολλὰ ἄξιος ἐπαινεῖσθαι καὶ δὴ καὶ ὅτι μόνος τῶν ποιητῶν οὐκ ἀγνοεῖ ὃ δεῖ ποιεῖν αὐτόν.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="14">
             <p>
               αὐτὸν γὰρ δεῖ τὸν ποιητὴν ἐλάχιστα λέγειν· οὐ γάρ ἐστι κατὰ ταῦτα μιμητής. οἱ μὲν οὖν ἄλλοι αὐτοὶ μὲν δι’ ὅλου ἀγωνίζονται, μιμοῦνται δὲ ὀλίγα καὶ ὀλιγάκις· ὁ δὲ ὀλίγα 
               <milestone unit="line" resp="Bekker" n="10"/>
@@ -2666,7 +2666,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="15">
             <p>
               δεῖ μὲν οὖν ἐν ταῖς τραγῳδίαις ποιεῖν τὸ θαυμαστόν, μᾶλλον δ’ ἐνδέχεται ἐν 
               <milestone unit="line" resp="Bekker" n="13"/>
@@ -2674,7 +2674,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="16">
             <p>
               ἐπεὶ τὰ περὶ 
               <milestone unit="line" resp="Bekker" n="15"/>
@@ -2682,13 +2682,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="17">
             <p>
               τὸ δὲ θαυμαστὸν ἡδύ· σημεῖον δέ, πάντες γὰρ προστιθέντες ἀπαγγέλλουσιν ὡς χαριζόμενοι.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="18">
             <p>
               δεδίδαχεν δὲ μάλιστα Ὅμηρος καὶ τοὺς ἄλλους ψευδῆ λέγειν ὡς δεῖ. 
               <milestone unit="line" resp="Bekker" n="20"/>
@@ -2698,13 +2698,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="19">
             <p>
               προαιρεῖσθαί τε δεῖ ἀδύνατα εἰκότα μᾶλλον ἢ δυνατὰ ἀπίθανα·
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="20">
             <p>
               τούς τε λόγους μὴ συνίστασθαι ἐκ μερῶν ἀλόγων, ἀλλὰ μάλιστα μὲν μηδὲν ἔχειν ἄλογον, εἰ δὲ μή, ἔξω τοῦ μυθεύματος, ὥσπερ 
               <milestone unit="line" resp="Bekker" n="30"/>
@@ -2712,7 +2712,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="21">
             <p>
               ὥστε τὸ λέγειν ὅτι ἀνῄρητο ἂν ὁ μῦθος γελοῖον· ἐξ ἀρχῆς γὰρ οὐ δεῖ συνίστασθαι τοιούτους. ∞ἂν δὲ θῇ καὶ φαίνηται 
               <milestone unit="line" resp="Bekker" n="35"/>
@@ -2720,7 +2720,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="22">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="22">
             <p>
               ἐπεὶ καὶ τὰ ἐν Ὀδυσσείᾳ ἄλογα τὰ περὶ τὴν ἔκθεσιν ὡς οὐκ ἂν ἦν ἀνεκτὰ δῆλον ἂν 
               <milestone unit="page" resp="Bekker" n="1460b"/>
@@ -2729,7 +2729,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="23">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="23">
             <p>
               τῇ δὲ λέξει δεῖ διαπονεῖν ἐν τοῖς ἀργοῖς μέρεσιν καὶ μήτε ἠθικοῖς μήτε διανοητικοῖς· ἀποκρύπτει γὰρ πάλιν ἡ λίαν λαμπρὰ 
               <milestone unit="line" resp="Bekker" n="5"/>
@@ -2741,16 +2741,16 @@
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="25">
           <pb n="78"/>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="1">
             <p>
               <milestone unit="page" resp="Bekker" n="1460b"/>
               <lb n="1460b 6"/>Περὶ δὲ προβλημάτων καὶ λύσεων, ἐκ πόσων τε καὶ 
-              <lb n="1460b 7"/>ποίων <add>ἂν</add> εἰδῶν ἐστιν, ὧδ᾽ ἂν θεωροῦσιν γένοιτ᾽ ἂν φανερόν.
+              <lb n="1460b 7"/>ποίων <del>ἂν</del> εἰδῶν ἐστιν, ὧδ᾽ ἂν θεωροῦσιν γένοιτ᾽ ἂν φανερόν.
             </p>
           </div>
 
           <pb n="80"/>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="2">
             <p>
               <lb n="1460b 8"/>ἐπεὶ γάρ ἐστι μιμητὴς ὁ ποιητὴς ὡσπερανεὶ ζωγράφος ἤ τις
               <lb n="1460b 9"/>ἄλλος εἰκονοποιός, ἀνάγκη μιμεῖσθαι τριῶν ὄντων τὸν ἀριθ-
@@ -2759,13 +2759,13 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="3">
             <p>
               <lb n="1460b 11"/>ταῦτα δ᾽ ἐξαγγέλλεται λέξει ἢ καὶ
               <lb n="1460b 12"/>γλώτταις καὶ μεταφοραῖς· καὶ πολλὰ πάθη τῆς λέξεώς ἐστι, </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="4">
             <p>
               <lb n="1460b 13"/>δίδομεν γὰρ ταῦτα τοῖς ποιηταῖς.
            
@@ -2775,14 +2775,14 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="5">
             <p>
               <lb n="1460b 15"/>αὐτῆς δὲ τῆς ποιητικῆς διττὴ ἁμαρτία,
               <lb n="1460b 16"/>ἡ μὲν γὰρ καθ᾽ αὑτήν, ἡ δὲ κατὰ συμβεβηκός.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="6">
             <p>
               <lb n="1460b 17"/>εἰ μὲν γὰρ προείλετο μιμήσασθαι <gap reason="lost" extent="unknown"/> ἀδυναμίαν, αὐτῆς ἡ ἁμαρτία· εἰ
               <lb n="1460b 18"/>δὲ τῷ προελέσθαι μὴ ὀρθῶς, ἀλλὰ τὸν ἵππον ἄμφω τὰ
@@ -2792,7 +2792,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="7">
             <p>
               <lb n="1460b 22"/>ὥστε δεῖ τὰ ἐπιτιμήματα ἐν τοῖς
               <lb n="1460b 22"/>προβλήμασιν ἐκ τούτων ἐπισκοποῦντα λύειν.
@@ -2801,7 +2801,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="8">
             <p>
               <lb n="1460b 24"/>ἀλλ᾽ ὀρθῶς ἔχει, εἰ τυγχάνει τοῦ τέλους τοῦ αὐτῆς, (τὸ γὰρ
               <lb n="1460b 25"/>τέλος εἴρηται) εἰ οὕτως ἐκπληκτικώτερον ἢ αὐτὸ ἢ ἄλλο ποιεῖ
@@ -2809,7 +2809,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="9">
             <p>
               <lb n="1460b 26"/>εἰ μέντοι τὸ
               <lb n="1460b 27"/>τέλος ἢ μᾶλλον <add>ἢ μὴ</add> ἧττον ἐνεδέχετο ὑπάρχειν καὶ κατὰ
@@ -2818,7 +2818,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="10">
             <p>
               <lb n="1460b 29"/>ἔτι ποτέρων ἐστὶ τὸ
               <lb n="1460b 30"/>ἁμάρτημα, τῶν κατὰ τὴν τέχνην ἢ κατ᾽ ἄλλο συμβεβη-
@@ -2828,7 +2828,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="11">
             <p>
               <lb n="1460b 32"/>πρὸς δὲ τούτοις ἐὰν
               <lb n="1460b 33"/>ἐπιτιμᾶται ὅτι οὐκ ἀληθῆ, ἀλλ᾽ ἴσως δεῖ, οἷον καὶ Σοφοκλῆς
@@ -2837,20 +2837,20 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="12">
             <p>
               <lb n="1460b 36"/>εἰ δὲ μηδετέρως, ὅτι οὕτω φασίν, οἷον τὰ περὶ θεῶν·
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="13">
             <p>
               <lb n="1460b 37"/>ἴσως γὰρ οὔτε βέλτιον <del>οὔτε</del> λέγειν οὔτ᾽ ἀληθῆ, ἀλλ᾽ ἔτυχεν
               <lb n="1461a 1"/>ὥσπερ Ξενοφάνει· ἀλλ᾽ οὖν φασι.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="14">
             <p>
               <lb n="1461a 1"/>τὰ δὲ ἴσως οὐ βέλτιον
               <lb n="1461a 2"/>μέν, ἀλλ᾽ οὕτως εἶχεν, οἷον τὰ περὶ τῶν ὅπλων, <quote>ἔγχεα
@@ -2859,7 +2859,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="15">
             <p>
               <lb n="1461a 4"/>περὶ δὲ τοῦ καλῶς ἢ μὴ καλῶς
               <lb n="1461a 5"/>ἢ εἴρηται τινι ἢ πέπρακται, οὐ μόνον σκεπτέον εἰς αὐτὸ τὸ
@@ -2870,7 +2870,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="16">
             <p>
               <lb n="1461a 9"/>τὰ δὲ πρὸς τὴν
               <lb n="1461a 10"/>λέξιν ὁρῶντα δεῖ διαλύειν, οἷον γλώττῃ <quote>οὐρῆας μὲν πρῶ-
@@ -2883,7 +2883,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="17">
             <p>
               <pb n="84"/>
               <lb n="1461a 16"/>τὰ δὲ κατὰ μεταφορὰν εἴρηται, οἷον <quote>ἄλλοι μέν
@@ -2895,7 +2895,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="18">
             <p>
               <lb n="1461a 21"/>κατὰ
               <lb n="1461a 22"/>δὲ προσῳδίαν, ὥσπερ Ἱππίας ἔλυεν ὁ Θάσιος, τὸ <quote>δίδομεν
@@ -2903,7 +2903,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="19">
             <p>
               <lb n="1461a 23"/>τὰ δὲ διαιρέ-
               <lb n="1461a 24"/>σει, οἷον Ἐμπεδοκλῆς <quote>αἶψα δὲ θνήτ᾽ ἐφύοντο, τὰ πρὶν μά-
@@ -2911,7 +2911,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="20">
             <p>
               <lb n="1461a 25"/>τὰ δὲ ἀμφιβολίᾳ,
               <lb n="1461a 26"/><quote>παρώχηκεν δὲ πλέω νύξ</quote>
@@ -2919,7 +2919,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="21">
             <p>
               <lb n="1461a 27"/>τὰ δὲ κατὰ τὸ ἔθος τῆς
               <lb n="1461a 28"/>λέξεως. τὸν κεκραμένον οἶνόν
@@ -2930,7 +2930,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="22">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="22">
             <p>
               <lb n="1461a 32"/>δεῖ δὲ καὶ ὅταν ὄνομά
               <lb n="1461a 33"/>τι ὑπεναντίωμά τι δοκῇ σημαίνειν, ἐπισκοπεῖν ποσαχῶς ἂν
@@ -2938,13 +2938,13 @@
               <lb n="1461a 35"/>κεον ἔγχος</quote> τὸ ταύτῃ κωλυθῆναι ποσαχῶς ἐνδέχεται</p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="23">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="23">
             <p> ὡδι ἢ
               <lb n="1461a 36"/><add>ὡδὶ</add> ὡς μάλιστ᾽ ἄν τις ὑπολάβοι κατὰ τὴν καταντικρὺ 
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="24">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="24">
             <p>
               <lb n="1461a 37"/>ἢ ὡς
               <pb n="86"/>
@@ -2954,7 +2954,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="25">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="25">
             <p>
               <lb n="1461b 3"/>τοῦ-
               <lb n="1461b 4"/>το δὲ πέπονθε τὰ περὶ Ἰκάριον.
@@ -2969,21 +2969,21 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="26">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="26">
             <p>
               <lb n="1461b 10"/>ὅλως δὲ τὸ ἀδύνατον μὲν πρὸς τὴν
               <lb n="1461b 11"/>ποίησιν ἢ πρὸς τὸ βέλτιον ἢ πρὸς τὴν δόξαν δεῖ ἀνάγειν.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="27">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="27">
             <p>
               <lb n="1461b 12"/>πρός τε γὰρ τὴν ποίησιν αἱρετώτερον πιθανὸν ἀδύνατον ἢ
               <lb n="1461b 13"/>ἀπίθανον καὶ δυνατόν· 
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="28">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="28">
             <p>
               <lb n="1461b 13"/><gap reason="lost" extent="unknown"/> τοιούτους εἶναι οἵους Ζεύξις
               <lb n="1461b 14"/>ἔγραφεν, ἀλλὰ βέλτιον· τὸ γὰρ παράδειγμα δεῖ ὑπερέ-
@@ -2991,14 +2991,14 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="29">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="29">
             <p>
               <lb n="1461b 15"/>πρὸς <gap reason="lost" extent="unknown"/> φασιν τἄλογα· οὕτω τε καὶ ὅτι ποτὲ οὐκ ἄλο-
               <lb n="1461b 16"/>γόν ἐστιν· εἰκὸς γὰρ καὶ παρὰ τὸ εἰκὸς γίνεσθαι.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="30">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="30">
             <p>
               <lb n="1461b 17"/>τὰ δ᾽ ὑπε-
               <lb n="1461b 18"/>ναντίως εἰρημένα οὕτω σκοπεῖν ὥσπερ οἱ ἐν τοῖς λόγοις
@@ -3007,7 +3007,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="31">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="31">
             <p>
               <lb n="1461b 21"/>ὀρθὴ δ᾽ ἐπιτίμησις καὶ ἀλογίᾳ καὶ μοχθηρίᾳ, ὅταν μὴ ἀνάγ-
               <lb n="1461b 22"/>κης οὔσης μηθὲν χρήσηται τῷ ἀλόγῳ, ὥσπερ Εὐριπίδης τῷ
@@ -3015,7 +3015,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="32">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:25" n="32">
             <p>
               <lb n="1461b 24"/>τὰ μὲν οὖν ἐπιτιμήματα ἐκ πέντε εἰδῶν φέρουσιν· ἢ γὰρ ὡς
               <lb n="1461b 25"/>ἀδύνατα ἢ ὡς ἄλογα ἢ ὡς βλαβερὰ ἢ ὡς ὑπεναντία ἢ ὡς
@@ -3027,14 +3027,14 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="26">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="1">
             <p>
               <lb n="1461b 28"/>Πότερον δὲ βελτίων ἡ ἐποποιικὴ μίμησις ἢ ἡ τραγική, 
               <lb n="1461b 29"/>διαπορήσειεν ἄν τις.
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="2">
             <p>
               <lb n="1461b 29"/>εἰ γὰρ ἡ ἧττον φορτικὴ βελτίων, τοιαύ-
               <lb n="1461b 30"/>τη δ᾽ ἡ πρὸς βελτίους θεατάς ἐστιν ἀεί, λίαν δῆλον ὅτι ἡ
@@ -3042,7 +3042,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="3">
             <p>
               <lb n="1461b 31"/>ὡς γὰρ οὐκ αἰσθανομένων
               <lb n="1461b 32"/>ἂν μὴ αὐτὸς προσθῇ, πολλὴν κίνησιν κινοῦνται, οἷον οἱ φαῦλοι
@@ -3051,7 +3051,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="4">
             <p>
               <lb n="1461b 35"/>ἡ μὲν οὖν τραγῳδία
               <lb n="1461b 36"/>τοιαύτη ἐστίν, ὡς καὶ οἱ πρότερον τοὺς ὑστέρους αὐτῶν ᾤοντο
@@ -3062,7 +3062,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="5">
             <p>
               <lb n="1462a 2"/>τὴν μὲν οὖν πρὸς θεατὰς ἐπιεικεῖς
               <lb n="1462a 3"/>φασιν εἶναι <add>οἳ</add> οὐδὲν δέονται τῶν σχημάτων, τὴν δὲ τραγι-
@@ -3070,7 +3070,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="6">
             <p>
               <lb n="1462a 5"/>πρῶτον μὲν οὐ τῆς ποιητικῆς ἡ κατηγορία ἀλλὰ τῆς ὑποκριτι-
               <lb n="1462a 6"/>κῆς, ἐπεὶ ἔστι περιεργάζεσθαι τοῖς σημείοις καὶ ῥαψῳδοῦντα,
@@ -3079,7 +3079,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="7">
             <p>
               <lb n="1462a 9"/>εἶτα οὐδὲ κίνησις ἅπασα ἀποδοκιμαστέα,
               <lb n="1462a 10"/>εἴπερ μηδ᾽ ὄρχησις, ἀλλ᾽ ἡ φαύλων, ὅπερ καὶ Καλλιππίδῃ
@@ -3088,7 +3088,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="8">
             <p>
               <lb n="1462a 13"/>ἔτι ἡ τραγῳδία καὶ ἄνευ κινήσεως ποιεῖ τὸ αὐτῆς,
               <lb n="1462a 14"/>ὥσπερ ἡ ἐποποιία· διὰ γὰρ τοῦ ἀναγινώσκειν φανερὰ ὁποία
@@ -3098,14 +3098,14 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="9">
             <p>
               <lb n="1462a 17"/>ἔπειτα διότι πάντ᾽ ἔχει ὅσαπερ ἡ ἐπο-
               <lb n="1462a 18"/>ποιία 
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="10">
             <p>
               <lb n="1462a 18"/>(καὶ γὰρ τῷ μέτρῳ ἔξεστι χρῆσθαι), καὶ ἔτι οὐ μικρὸν
               <lb n="1462a 19"/>μέρος τὴν μουσικὴν καὶ τὰς ὄψεις, δι ἧς αἱ ἡδοναὶ συνίσταν-
@@ -3113,14 +3113,14 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="11">
             <p>
               <lb n="1462a 21"/>εἶτα καὶ τὸ ἐναργὲς ἔχει καὶ ἐν τῇ ἀναγνώ-
               <lb n="1462a 22"/>σει καὶ ἐπὶ τῶν ἔργων· 
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="12">
             <p>
               <lb n="1462a 23"/>ἔτι τὸ ἐν ἐλάττονι μήκει τὸ τέλος
               <lb n="1462b 1"/>τῆς μιμήσεως εἶναι (τὸ γὰρ ἀθροώτερον ἥδιον ἢ πολλῷ κεκρα-
@@ -3129,7 +3129,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="13">
             <p>
               <lb n="1462b 4"/>ἔτι ἧττον μία ἡ
               <lb n="1462b 5"/>μίμησις ἡ τῶν ἐποποιῶν (σημεῖον δέ, ἐκ γὰρ ὁποιασοῦν
@@ -3140,7 +3140,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="14">
             <p>
               <lb n="1462b 10"/>ὥσπερ ἡ Ἰλιὰς
               <lb n="1462b 11"/>ἔχει πολλὰ τοιαῦτα μέρη καὶ ἡ Ὀδύσσεια, καὶ καθ ἑαυτὰ
@@ -3149,7 +3149,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="15">
             <p>
               <lb n="1462b 14"/>εἰ οὖν τούτοις τε διαφέρει πᾶσιν καὶ ἔτι τῷ τῆς τέχνης
               <lb n="1462b 15"/>ἔργῳ (δεῖ γὰρ οὐ τὴν τυχοῦσαν ἡδονὴν ποιεῖν αὐτὰς ἀλλὰ
@@ -3158,7 +3158,7 @@
             </p>
           </div>
 
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:26" n="16">
             <p>
               <lb n="1462b 18"/>περὶ μὲν οὖν τραγῳδίας καὶ ἐποποιίας, καὶ αὐτῶν
               <lb n="1462b 19"/>καὶ τῶν εἰδῶν καὶ τῶν μερῶν, καὶ πόσα καὶ τί διαφέρει,

@@ -45,10 +45,10 @@
   </teiHeader>
   <text>
     <body>
-      <div type="edition" xml:lang="eng" n="urn:cts:greekLit:tlg0086.tlg034.bywater-eng1">
+      <div type="translation" xml:lang="eng" n="urn:cts:greekLit:tlg0086.tlg034.bywater-eng1">
         
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="1">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="1">
             <p>
               <pb n="1447a"/>
               <lb n="1447a 8"/>Our subject being Poetry, I propose to speak not only of the 
@@ -60,21 +60,21 @@
               <lb n="1447a 14"/>facts.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="2">
             <p>
               <lb n="1447a 14"/>Epic poetry and Tragedy, as also Comedy, 
               <lb n="1447a 15"/>Dithyrambic poetry, and most flute-playing and lyre-playing, 
               <lb n="1447a 16"/>are all, viewed as a whole, modes of imitation.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="3">
             <p>
               <lb n="1447a 17"/>But at the same time they differ from one another in three ways, 
               <lb n="1447a 18"/>either by a difference of kind in their means, or by differences 
               <lb n="1447a 19"/>in the objects, or in the manner of their imitations.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="4">
             <p>
               <lb n="1447a 19"/>Just as form and colour are used as means by some, 
               <lb n="1447a 20"/>who (whether by art or constant practice) imitate and portray 
@@ -84,14 +84,14 @@
               <lb n="1447a 24"/>-used, however, either singly or in certain combinations.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="5">
             <p>
               <lb n="1447a 24"/>A combination of rhythm and harmony alone is the means in 
               <lb n="1447a 25"/>flute-playing and lyre-playing, and any other arts there may 
               <lb n="1447a 26"/>be of the same description, e.g. imitative piping.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="6">
             <p>
               <lb n="1447a 26"/>Rhythm 
               <lb n="1447a 27"/>alone, without harmony, is the means in the dancer's imitations; 
@@ -99,7 +99,7 @@
               <lb n="1447a 29"/>men's characters, as well as what they do and suffer.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="7">
             <p>
               <lb n="1447a 29"/>There is further an art which imitates by language 
               <lb n="1447a 30"/>alone, without harmony, in prose or in verse, and if in verse, 
@@ -108,21 +108,21 @@
               <lb n="1447b 8"/>This form of imitation is to this day without a name.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="8">
             <p>
               <lb n="1447b 9"/>We have no 
               <lb n="1447b 10"/>common name for a mime of Sophron or Xenarchus and 
               <lb n="1447b 11"/>a Socratic Conversation;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="9">
             <p>
               <lb n="1447b 11"/>and we should still be without one 
               <lb n="1447b 12"/>even if the imitation in the two instances were in trimeters 
               <lb n="1447b 13"/>or elegiacs or some other kind of verse
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="10">
             <p>
               <lb n="1447b 13"/>-though it is the way 
               <lb n="1447b 14"/>with people to tack on 'poet' to the name of a metre, and 
@@ -132,7 +132,7 @@
               <lb n="1447b 18"/>in.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="11">
             <p>
               <lb n="1447b 18"/>Even if a theory of medicine or physical philosophy be 
               <lb n="1447b 19"/>put forth in a metrical form, it is usual to describe the writer 
@@ -142,7 +142,7 @@
               <lb n="1447b 23"/>physicist rather than a poet.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="12">
             <p>
               <lb n="1447b 23"/>We should be in the same 
               <lb n="1447b 24"/>position also, if the imitation in these instances were in all 
@@ -151,7 +151,7 @@
               <lb n="1447b 27"/>as a poet. So much, then, as to these arts.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="13">
             <p>
               <lb n="1447b 27"/>There are, 
               <lb n="1447b 28"/>lastly, certain other arts, which combine all the means 
@@ -162,7 +162,7 @@
               <lb n="1447b 33"/>one after the other.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:1" n="14">
             <p>
               <lb n="1447b 34"/>These elements of difference in the 
               <lb n="1447b 35"/>above arts I term the means of their imitation.
@@ -171,7 +171,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="2">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="1">
             <p>
               <pb n="1448a"/>
               <lb n="1448a 1"/>The objects the imitator represents are actions, with 
@@ -184,14 +184,14 @@
               <lb n="1448a 8"/>are;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="2">
             <p>
               <lb n="1448a 8"/>in the same way as, with the painters, the personages of 
               <lb n="1448a 9"/>Polygnotus are better than we are, those of Pauson worse, 
               <lb n="1448a 10"/>and those of Dionysius just like ourselves.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="3">
             <p>
               <lb n="1448a 11"/>It is clear 
               <lb n="1448a 12"/>that each of the above-mentioned arts will admit of these 
@@ -199,14 +199,14 @@
               <lb n="1448a 14"/>representing objects with this point of difference.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="4">
             <p>
               <lb n="1448a 14"/>Even in 
               <lb n="1448a 15"/>dancing, flute-playing, and lyre-playing such diversities are 
               <lb n="1448a 16"/>possible;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="5">
             <p>
               <lb n="1448a 16"/>and they are also possible in the nameless art that 
               <lb n="1448a 17"/>uses language, prose or verse without harmony, as its means; 
@@ -216,7 +216,7 @@
               <lb n="1448a 21"/>author of the Diliad, are beneath it.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="6">
             <p>
               <lb n="1448a 21"/>The same is true of 
               <lb n="1448a 22"/>the Dithyramb and the Nome: the personages may be 
@@ -225,7 +225,7 @@
               <lb n="1448a 25"/>Philoxenus.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:2" n="7">
             <p>
               <lb n="1448a 25"/>This difference it is that distinguishes Tragedy 
               <lb n="1448a 26"/>and Comedy also; the one would make its personages worse, 
@@ -235,13 +235,13 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="3">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="1">
             <p>
               <lb n="1448a 28"/>A third difference in these arts is in the manner in 
               <lb n="1448a 29"/>which each kind of object is represented.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="2">
             <p>
               <lb n="1448a 29"/>Given both the 
               <lb n="1448a 30"/>same means and the same kind of object for imitation, one 
@@ -252,14 +252,14 @@
               <lb n="1448a 35"/>as though they were actually doing the things described.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="3">
             <p>
               <lb n="1448a 36"/>As we said at the beginning, therefore, the differences in 
               <lb n="1448a 37"/>the imitation of these arts come under three heads, their 
               <lb n="1448a 38"/>means, their objects, and their manner.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="4">
             <p>
               <lb n="1448a 39"/>So that as an imitator Sophocles will be on one side akin 
               <lb n="1448a 40"/>to Homer, both portraying good men; and on another to 
@@ -269,7 +269,7 @@
               <lb n="1448a 44"/>act the story.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="5">
             <p>
               <lb n="1448a 45"/>Hence too both Tragedy and Comedy are 
               <lb n="1448a 46"/>claimed by the Dorians as their discoveries; Comedy by the 
@@ -280,7 +280,7 @@
               <lb n="1448a 51"/>also is claimed by certain of the Peloponnesian Dorians.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="6">
             <p>
               <lb n="1448a 52"/>In 
               <lb n="1448a 53"/>support of this claim they point to the words 'comedy' and 
@@ -294,7 +294,7 @@
               <lb n="1448b 2"/>act,' they say, is δρᾶν, whereas Athenians use πράττειν.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:3" n="7">
             <p>
               <lb n="1448b 3"/>So much, then, as to the number and nature of the points 
               <lb n="1448b 4"/>of difference in the imitation of these arts.
@@ -303,14 +303,14 @@
         </div>
 
 <div type="textpart" subtype="chapter" n="4">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <pb n="1448b"/>
                             <lb n="1448b 6"/>It is clear that the general origin of poetry was due to 
                             <lb n="1448b 7"/>two causes, each of them part of human nature. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1448b 7"/>Imitation 
                             <lb n="1448b 8"/>is natural to man from childhood, one of his advantages over 
@@ -319,7 +319,7 @@
                             <lb n="1448b 11"/>is also natural for all to delight in works of imitation. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1448b 12"/>The truth of this second point is shown by experience: though 
                             <lb n="1448b 13"/>the objects themselves may be painful to see, we delight to 
@@ -327,7 +327,7 @@
                             <lb n="1448b 15"/>forms for example of the lowest animals and of dead bodies. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1448b 16"/>The explanation is to be found in a further fact: to be 
                             <lb n="1448b 17"/>learning something is the greatest of pleasures not only to 
@@ -335,21 +335,21 @@
                             <lb n="1448b 19"/>small their capacity for it; 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1448b 19"/>the reason of the delight in seeing 
                             <lb n="1448b 20"/>the picture is that one is at the same time learning—gathering 
                             <lb n="1448b 21"/>the meaning of things, e.g. that the man there is so-and-so; 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1448b 21"/>for if one has not seen the thing before, one's pleasure will 
                             <lb n="1448b 22"/>not be in the picture as an imitation of it, but will be due to 
                             <lb n="1448b 23"/>the execution or colouring or some similar cause. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1448b 24"/>Imitation, then, being natural to us—as also the sense of harmony 
                             <lb n="1448b 25"/>and rhythm, the metres being obviously species of rhythms—
@@ -358,7 +358,7 @@
                             <lb n="1448b 28"/>that they created poetry out of their improvisations. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1448b 29"/>Poetry, however, soon broke up into two kinds according to the 
                             <lb n="1448b 30"/>differences of character in the individual poets; for 
@@ -368,14 +368,14 @@
                             <lb n="1448b 34"/>just as others did hymns and panegyrics. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1448b 33"/>We know of no 
                             <lb n="1448b 34"/>such poem by any of the pre-Homeric poets, though there 
                             <lb n="1448b 35"/>were probably many such writers among them; 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1448b 35"/>instances, 
                             <lb n="1448b 36"/>however, may be found from Homer downwards, e.g. his 
@@ -386,13 +386,13 @@
                             <lb n="1449a 1"/>hence our present term 'iambic,' because it was the 
                             <lb n="1449a 2"/>metre of their 'iambs' or invectives against one another. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1449a 3"/>The result was that the old poets became some of them 
                             <lb n="1449a 4"/>writers of heroic and others of iambic verse. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1449a 3"/>Homer's 
                             <lb n="1449a 4"/>position, however, is peculiar: just as he was in the serious 
@@ -405,7 +405,7 @@
                             <lb n="1449a 11"/>Iliad and Odyssey to our tragedies. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1449a 10"/>As soon, however, as 
                             <lb n="1449a 11"/>Tragedy and Comedy appeared in the field, those naturally 
@@ -419,7 +419,7 @@
                             <lb n="1449a 17"/>theoretically and in relation to the theatres, is a matter for 
                             <lb n="1449a 18"/>another inquiry.  </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>It certainly began in improvisations—as did 
                             <lb n="1449a 19"/>also Comedy; 
                         
@@ -430,13 +430,13 @@
                             <lb n="1449a 23"/>improving on whatever they had before them at each stage. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             <lb n="1449a 23"/>And many 
                             <lb n="1449a 24"/>changes having been made, Tragedy stopped when it had 
                             <lb n="1449a 25"/>found its own nature. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>The number of actors was first 
                             <lb n="1449a 26"/>increased to two by Aeschylus, who curtailed the business 
                             <lb n="1449a 27"/>of the Chorus, and made the dialogue, or spoken portion, 
@@ -444,7 +444,7 @@
                             <lb n="1449a 29"/>were due to Sophocles. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p>
                             <lb n="1449a 30"/>Further, there was the change in magnitude. From small plots 
                             <lb n="1449a 31"/>and ridiculous diction, because of its origin from satyr-drama, 
@@ -452,7 +452,7 @@
                        
                             <lb n="1449a 33"/>Its metre also changed from trochaic tetrameter to iambic.  </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             <lb n="1449a 34"/>The reason for their original use of the trochaic tetrameter 
                             <lb n="1449a 35"/>was that their poetry was satyric and more connected with 
@@ -463,14 +463,14 @@
                             <lb n="1449a 38"/>metre. The iambic, we know, is the most speakable of 
                             <lb n="1449a 39"/>metres, </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>as is shown by the fact that we very often fall into it 
                             <pb n="1449b"/>
                             <lb n="1449b 1"/>in conversation, whereas we rarely talk hexameters, and only 
                             <lb n="1449b 2"/>when we depart from the speaking tone of voice. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             <lb n="1449b 2"/>Another 
                             <lb n="1449b 3"/>change was a plurality of episodes or acts. As for the remaining 
@@ -478,7 +478,7 @@
                             <lb n="1449b 5"/>their introduction, these must be taken as said. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="21">
+                    <div type="textpart" subtype="subchapter" n="21">
                         <p>
                             <lb n="1449b 4"/>It would 
                             <lb n="1449b 5"/>probably be a long piece of work to go through the details. 
@@ -486,7 +486,7 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" n="5">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1449b 7"/>As for Comedy, it is (as has been observed) an imitation of 
                             <lb n="1449b 8"/>men worse than the average; worse, however, not as regards 
@@ -494,7 +494,7 @@
                             <lb n="1449b 10"/>kind, the Ridiculous, which is a species of the Ugly.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1449b 11"/>The Ridiculous may be defined as a mistake or deformity not 
                             <lb n="1449b 12"/>productive of pain or harm to others; the mask, for instance, 
@@ -502,7 +502,7 @@
                             <lb n="1449b 14"/>causing pain.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1449b 15"/>Though the successive changes in Tragedy and their authors are 
                             <lb n="1449b 16"/>not unknown, we cannot say the same of Comedy; its early 
@@ -510,7 +510,7 @@
                             <lb n="1449b 18"/>up in a serious way.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1449b 19"/>It was only at a late point in its progress that a chorus of 
                             <lb n="1449b 20"/>comedians was officially granted by the archon; they used 
@@ -520,20 +520,20 @@
                             <lb n="1449b 24"/>prologues, or a plurality of actors and the like, has remained unknown.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1449b 25"/>The invented Fable, or Plot, however, originated in Sicily, with 
                             <lb n="1449b 26"/>Epicharmus and Phormis;
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1449b 27"/>of Athenian poets Crates was the first to drop the Comedy 
                             <lb n="1449b 28"/>of invective and frame stories of a general and non-personal 
                             <lb n="1449b 29"/>nature, in other words, Fables or Plots.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1449b 30"/>Epic poetry, then, has been seen to agree with Tragedy to 
                             <lb n="1449b 31"/>this extent, that of being an imitation of serious subjects 
@@ -541,7 +541,7 @@
                             <lb n="1449b 33"/>that it is in one kind of verse and in narrative form;
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1449b 34"/>and (2) in its length—which is due to its action having 
                             <lb n="1449b 35"/>no fixed limit of time, whereas Tragedy endeavours to keep 
@@ -549,20 +549,20 @@
                             <lb n="1449b 37"/>something near that.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1449b 38"/>This, I say, is another point of difference between them, 
                             <lb n="1449b 39"/>though at first the practice in this respect was just the 
                             <lb n="1449b 40"/>same in tragedies as in epic poems.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1449b 41"/>They differ also (3) in their constituents, some being common 
                             <lb n="1449b 42"/>to both and others peculiar to Tragedy—
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1449b 43"/>hence a judge of good and bad in Tragedy is a judge of 
                             <lb n="1449b 44"/>that in epic poetry also. All the parts of an epic are included 
@@ -573,7 +573,7 @@
                 </div>
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="6">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="1">
             <p>
               <pb n="1449b"/>
               <lb n="1449b 21"/>Reserving hexameter poetry and Comedy for consideration 
@@ -582,7 +582,7 @@
               <lb n="1449b 24"/>resulting from what has been said.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="2">
             <p>
               <lb n="1449b 24"/>A tragedy, then, is the 
               <lb n="1449b 25"/>imitation of an action that is serious and also, as having 
@@ -592,21 +592,21 @@
               <lb n="1449b 29"/>its catharsis of such emotions.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="3">
             <p>
               <lb n="1449b 29"/>Here by 'language with 
               <lb n="1449b 30"/>pleasurable accessories' I mean that with rhythm and 
               <lb n="1449b 31"/>harmony or song superadded;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="4">
             <p>
               <lb n="1449b 31"/>and by 'the kinds separately' 
               <lb n="1449b 32"/>I mean that some portions are worked out with verse only, 
               <lb n="1449b 33"/>and others in turn with song.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="5">
             <p>
               <lb n="1449b 33"/>I. As they act the stories, it follows that in the first place 
               <lb n="1449b 34"/>the Spectacle (or stage-appearance of the actors) must be 
@@ -615,14 +615,14 @@
               <lb n="1449b 35"/>and in the second Melody and 
               <lb n="1449b 36"/>Diction, these two being the means of their imitation.  </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="6">
             <p>
               <lb n="1449b 37"/>Here by 'Diction' I mean merely this, the composition of 
               <lb n="1449b 38"/>the verses; and by 'Melody,' what is too completely un- 
               <lb n="1449b 39"/>derstood to require explanation.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="7">
             <p>
               <lb n="1449b 39"/>But further: the subject 
               <lb n="1450a 1"/>represented also is an action; and the action involves 
@@ -635,7 +635,7 @@
               <lb n="1450a 8"/>or failure in their lives.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="8">
             <p>
               <lb n="1450a 8"/>Now the action (that which was 
               <lb n="1450a 9"/>done) is represented in the play by the Fable or Plot. 
@@ -647,7 +647,7 @@
               <lb n="1450a 15"/>ating a general truth.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="9">
             <p>
               <lb n="1450a 15"/>There are six parts consequently of 
               <lb n="1450a 16"/>every tragedy, as a whole, that is, of such or such quality, 
@@ -655,14 +655,14 @@
               <lb n="1450a 18"/>and Melody;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="10">
             <p>
               <lb n="1450a 18"/>two of them arising from the means, one from 
               <lb n="1450a 19"/>the manner, and three from the objects of the dramatic 
               <lb n="1450a 20"/>imitation; and there is nothing else besides these six.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="11">
             <p>
               <lb n="1450a 20"/>Of 
               <lb n="1450a 21"/>these, its formative elements, then, not a few of the drama- 
@@ -670,7 +670,7 @@
               <lb n="1450a 23"/>Spectacle, Character, Fable, Diction, Melody, and Thought.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="12">
             <p>
               <lb n="1450a 23"/>II. The most important of the six is the combination of 
               <lb n="1450a 24"/>the incidents of the story. Tragedy is essentially an imita- 
@@ -680,7 +680,7 @@
               <lb n="1450a 28"/>activity, not a quality.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="13">
             <p>
               <lb n="1450a 28"/>Character gives us qualities, but it 
               <lb n="1450a 29"/>is in our actions-what we do that we are happy or the 
@@ -691,14 +691,14 @@
               <lb n="1450a 34"/>tragedy; and the end is everywhere the chief thing.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="14">
             <p>
               <lb n="1450a 34"/>Besides 
               <lb n="1450a 35"/>this, a tragedy is impossible without action, but there may 
               <lb n="1450a 36"/>be one without Character.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="15">
             <p>
               <lb n="1450a 36"/>The tragedies of most of the 
               <lb n="1450a 37"/>moderns are characterless-a defect common among poets 
@@ -707,7 +707,7 @@
               <lb n="1450a 40"/>strong in character, the work of Zeuxis is devoid of it.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="16">
             <p>
               <lb n="1450a 40"/>And 
               <lb n="1450a 41"/>again: one may string together a series of characteristic 
@@ -717,14 +717,14 @@
               <lb n="1450a 45"/>these respects, has a Plot, a combination of incidents, in it.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="17">
             <p>
               <lb n="1450a 45"/>And again: the most powerful elements of attraction in 
               <lb n="1450a 46"/>Tragedy, the Peripeties and Discoveries, are parts of the 
               <lb n="1450a 47"/>Plot.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="18">
             <p>
               <lb n="1450a 47"/>A further proof is in the fact that beginners succeed 
               <lb n="1450a 48"/>earlier with the Diction and Characters than with the con- 
@@ -732,14 +732,14 @@
               <lb n="1450a 50"/>all the early dramatists.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="19">
             <p>
               <lb n="1450a 50"/>We maintain, therefore, that the 
               <lb n="1450a 51"/>first essential, the life and soul, so to speak, of Tragedy 
               <lb n="1450a 52"/>is the Plot; and that the Characters come second-
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="20">
             <p>
               <lb n="1450a 52"/>compare 
               <lb n="1450a 53"/>the parallel in painting, where the most beautiful colours 
@@ -747,7 +747,7 @@
               <lb n="1450a 55"/>as a simple black-and-white sketch of a portrait.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="21">
             <p>
               <lb n="1450a 55"/>We main- 
               <lb n="1450a 56"/>tain that Tragedy is primarily an imitation of action, and 
@@ -755,7 +755,7 @@
               <lb n="1450a 58"/>the personal agents.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="22">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="22">
             <p>
               <lb n="1450a 58"/>Third comes the element of Thought, 
               <lb n="1450a 59"/>i. e. the power of saying whatever can be said, or what is 
@@ -764,13 +764,13 @@
               <lb n="1450a 60"/>This is what, in the speeches 
               <lb n="1450a 61"/>in Tragedy, falls under the arts of Politics and Rhetoric; </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="23">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="23">
             <p>
               <lb n="1450a 62"/>for the older poets make their personages discourse like 
               <lb n="1450a 63"/>statesmen, and the moderns like rhetoricians.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="24">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="24">
             <p>
               <lb n="1450a 63"/>One must 
               <lb n="1450a 64"/>not confuse it with Character. Character in a play is that 
@@ -780,14 +780,14 @@
               <lb n="1450a 68"/>indifferent subject.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="25">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="25">
             <p>
               <lb n="1450a 68"/>Thought, on the other hand, is shown 
               <lb n="1450a 69"/>in all they say when proving or disproving some particular 
               <lb n="1450a 70"/>point, or enunciating some universal proposition.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="26">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="26">
             <p>
               <lb n="1450a 70"/>Fourth 
               <lb n="1450a 71"/>among the literary elements is the Diction of the personages, 
@@ -796,13 +796,13 @@
               <lb n="1450a 74"/>with prose.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="27">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="27">
             <p>
               <lb n="1450a 74"/>As for the two remaining parts, the Melody 
               <lb n="1450b 1"/>is the greatest of the pleasurable accessories of Tragedy.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="28">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:6" n="28">
             <p>
               <lb n="1450b 1"/>The 
               <lb n="1450b 2"/>Spectacle, though an attraction, is the least artistic of all 
@@ -815,14 +815,14 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="7">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="1">
             <p>
               <lb n="1450b 7"/>Having thus distinguished the parts, let us now consider 
               <lb n="1450b 8"/>the proper construction of the Fable or Plot, as that is at 
               <lb n="1450b 9"/>once the first and the most important thing in Tragedy.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="2">
             <p>
               <lb n="1450b 10"/>We have laid it down that a tragedy is an imitation of an 
               <lb n="1450b 11"/>action that is complete in itself, as a whole of some magni- 
@@ -831,32 +831,32 @@
               <lb n="1450b 12"/>for a whole may be of no magnitude to speak of.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="3">
             <p>
               <lb n="1450b 13"/>Now a whole is that which has beginning, middle, and end.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="5">
             <p>
               <lb n="1450b 13"/>A beginning is that which is not itself necessarily after 
               <lb n="1450b 14"/>anything else, and which has naturally something else after 
               <lb n="1450b 15"/>it;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="5">
             <p>
               <lb n="1450b 15"/>an end is that which is naturally after something itself, 
               <lb n="1450b 16"/>either as its necessary or usual consequent, and with nothing 
               <lb n="1450b 17"/>else after it;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="6">
             <p>
               <lb n="1450b 17"/>and a middle, that which is by nature after 
               <lb n="1450b 18"/>one thing and has also another after it.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="7">
             <p>
               <lb n="1450b 19"/>A well-constructed 
               <lb n="1450b 20"/>Plot, therefore, cannot either begin or end at any point one 
@@ -864,14 +864,14 @@
               <lb n="1450b 22"/>described.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="8">
             <p>
               <lb n="1450b 23"/>Again: to be beautiful, a living creature, and 
               <lb n="1450b 24"/>every whole made up of parts, must not only present a 
               <lb n="1450b 25"/>certain order in its arrangement of parts, but also be of 
               <lb n="1450b 26"/>a certain definite magnitude. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="9">
             <p>Beauty is a matter of size 
               <lb n="1450b 27"/>and order, and therefore impossible either (1) in a very 
               <lb n="1450b 28"/>minute creature, since our perception becomes indistinct as 
@@ -882,7 +882,7 @@
               <lb n="1451a 2"/>of it is lost to the beholder.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="10">
             <p>
               <lb n="1451a 3"/>Just in the same way, then, 
               <lb n="1451a 4"/>as a beautiful whole made up of parts, or a beautiful living 
@@ -891,7 +891,7 @@
               <lb n="1451a 7"/>a length to be taken in by the memory.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="11">
             <p>
               <lb n="1451a 8"/>As for the limit 
               <lb n="1451a 9"/>of its length, so far as that is relative to public performances 
@@ -901,7 +901,7 @@
               <lb n="1451a 13"/>at one period.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:7" n="12">
             <p>
               <lb n="1451a 13"/>The limit, however, set by the actual nature 
               <lb n="1451a 14"/>of the thing is this: the longer the story, consistently with 
@@ -916,7 +916,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="8">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="1">
             <p>
               <lb n="1451a 21"/>The Unity of a Plot does not consist, as some suppose, 
               <lb n="1451a 22"/>in its having one man as its subject. An infinity of things 
@@ -925,7 +925,7 @@
               <lb n="1451a 25"/>man which cannot be made to form one action.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="2">
             <p>
               <lb n="1451a 26"/>One sees, 
               <lb n="1451a 27"/>therefore, the mistake of all the poets who have written 
@@ -934,7 +934,7 @@
               <lb n="1451a 30"/>must be one story.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="3">
             <p>
               <lb n="1451a 31"/>Homer, however, evidently understood 
               <lb n="1451a 32"/>this point quite well, whether by art or instinct, just in the 
@@ -948,7 +948,7 @@
               <lb n="1451a 40"/>subject of the Odyssey, as also of the Iliad.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:8" n="4">
             <p>
               <lb n="1451a 41"/>The truth is 
               <lb n="1451a 42"/>that, just as in the other imitative arts one imitation is always 
@@ -963,7 +963,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="9">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="1">
             <p>
               <pb n="1451b"/>
               <lb n="1451b 1"/>From what we have said it will be seen that the poet's 
@@ -972,7 +972,7 @@
               <lb n="1451b 4"/>being probable or necessary.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="2">
             <p>
               <lb n="1451b 5"/>The distinction between his- 
               <lb n="1451b 6"/>torian and poet is not in the one writing prose and the 
@@ -982,7 +982,7 @@
               <lb n="1451b 10"/>and the other a kind of thing that might be.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="3">
             <p>
               <lb n="1451b 11"/>Hence poetry 
               <lb n="1451b 12"/>is something more philosophic and of graver import than 
@@ -990,7 +990,7 @@
               <lb n="1451b 14"/>universals, whereas those of history are singulars.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="4">
             <p>
               <lb n="1451b 15"/>By a 
               <lb n="1451b 16"/>universal statement I mean one as to what such or such 
@@ -1000,7 +1000,7 @@
               <lb n="1451b 20"/>Alcibiades did or had done to him.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="5">
             <p>
               <lb n="1451b 21"/>In Comedy this has 
               <lb n="1451b 22"/>become clear by this time; it is only when their plot is 
@@ -1010,7 +1010,7 @@
               <lb n="1451b 26"/>iambic poets about particular persons.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="6">
             <p>
               <lb n="1451b 27"/>In Tragedy, how- 
               <lb n="1451b 28"/>ever, they still adhere to the historic names; and for this 
@@ -1020,7 +1020,7 @@
               <lb n="1451b 32"/>it would not have come to pass.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="7">
             <p>
               <lb n="1451b 33"/>Nevertheless even in 
               <lb n="1451b 34"/>Tragedy there are some plays with but one or two known 
@@ -1030,7 +1030,7 @@
               <lb n="1451b 38"/>tion; and it is no less delightful on that account.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="8">
             <p>
               <lb n="1451b 39"/>So that one 
               <lb n="1451b 40"/>must not aim at a rigid adherence to the traditional stories 
@@ -1039,7 +1039,7 @@
               <lb n="1451b 43"/>though they are a delight none the less to all.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="9">
             <p>
               <lb n="1451b 44"/>It is evident from the above that the poet must be more 
               <lb n="1451b 45"/>the poet of his stories or Plots than of his verses, inasmuch 
@@ -1047,7 +1047,7 @@
               <lb n="1451b 47"/>and it is actions that he imitates.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="10">
             <p>
               <lb n="1451b 48"/>And if he should come 
               <lb n="1451b 49"/>to take a subject from actual history, he is none the less 
@@ -1056,14 +1056,14 @@
               <lb n="1451b 52"/>it is in that aspect of them that he is their poet.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="11">
             <p>
               <lb n="1451b 53"/>Of simple Plots and actions the episodic are the worst. 
               <lb n="1451b 54"/>I call a Plot episodic when there is neither probability nor 
               <lb n="1451b 55"/>necessity in the sequence of its episodes.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="11b">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="11b">
             <p>
               <pb n="1452a"/>
               <lb n="1452a 1"/>Actions of this 
@@ -1074,13 +1074,13 @@
               <lb n="1452a 6"/>of incident.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="11c">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="11c">
             <p>
               <lb n="1452a 7"/>Tragedy, however, is an imitation not only of a complete 
               <lb n="1452a 8"/>action, but also of incidents arousing pity and fear.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="12">
             <p>
               <lb n="1452a 9"/>Such 
               <lb n="1452a 10"/>incidents have the very greatest effect on the mind when 
@@ -1095,7 +1095,7 @@
               <lb n="1452a 19"/>a meaning.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:9" n="13">
             <p>
               <lb n="1452a 20"/>A Plot, therefore, of this sort is necessarily 
               <lb n="1452a 21"/>finer than others.
@@ -1104,13 +1104,13 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="10">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="1">
             <p>
               <lb n="1452a 22"/>Plots are either simple or complex, since the actions they 
               <lb n="1452a 23"/>represent are naturally of this twofold description.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="2">
             <p>
               <lb n="1452a 24"/>The 
               <lb n="1452a 25"/>action, proceeding in the way defined, as one continuous 
@@ -1118,13 +1118,13 @@
               <lb n="1452a 27"/>takes place without Peripety or Discovery;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="3">
             <p>
               <lb n="1452a 27"/>and complex, 
               <lb n="1452a 28"/>when it involves one or the other, or both.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:10" n="4">
             <p>
               <lb n="1452a 29"/>These should 
               <lb n="1452a 30"/>each of them arise out of the structure of the Plot itself, 
@@ -1137,7 +1137,7 @@
 
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="11">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="1">
             <p>
               <pb n="1452a"/>
               <lb n="1452a 22"/>A Peripety is the change from one state of things within 
@@ -1146,7 +1146,7 @@
               <lb n="1452a 25"/>sequence of events;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="2">
             <p>
               <lb n="1452a 25"/>as it is for instance in Oedipus: here 
               <lb n="1452a 26"/>the opposite state of things is produced by the Messenger, 
@@ -1154,7 +1154,7 @@
               <lb n="1452a 28"/>as to his mother, reveals the secret of his birth.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="3">
             <p>
               <lb n="1452a 28"/>And in 
               <lb n="1452a 29"/>Lynceus: just as he is being led off for execution, with 
@@ -1163,21 +1163,21 @@
               <lb n="1452a 32"/>to death.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="4">
             <p>
               <lb n="1452a 32"/>A Discovery is, as the very word implies, a change 
               <lb n="1452a 33"/>from ignorance to knowledge, and thus to either love or hate, 
               <lb n="1452a 34"/>in the personages marked for good or evil fortune.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="5">
             <p>
               <lb n="1452a 34"/>The 
               <lb n="1452a 35"/>finest form of Discovery is one attended by Peripeties, like 
               <lb n="1452a 36"/>that which goes with the Discovery in Oedipus.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="6">
             <p>
               <lb n="1452a 36"/>There are 
               <lb n="1452a 37"/>no doubt other forms of it; what we have said may happen 
@@ -1186,7 +1186,7 @@
               <lb n="1452a 40"/>whether some one has done or not done something.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="7">
             <p>
               <lb n="1452a 40"/>But 
               <lb n="1452a 41"/>the form most directly connected with the Plot and the 
@@ -1199,7 +1199,7 @@
               <lb n="1452b 3"/>ending.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="8">
             <p>
               <lb n="1452b 3"/>The Discovery, then, being of persons, it may be that of one 
               <lb n="1452b 4"/>party only to the other, the latter being already known; 
@@ -1210,14 +1210,14 @@
               <lb n="1452b 9"/>to Iphigenia.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="9">
             <p>
               <lb n="1452b 9"/>Two parts of the Plot, then, Peripety and Discovery, are 
               <lb n="1452b 10"/>on matters of this sort.
            
               <lb n="1452b 10"/>A third part is Suffering;  </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:11" n="10">
             <p>which 
               <lb n="1452b 11"/>we may define as an action of a destructive or painful 
               <lb n="1452b 12"/>nature, such as murders on the stage, tortures, woundings, 
@@ -1227,7 +1227,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="12">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="1">
             <p>
               <lb n="1452b 14"/>The parts of Tragedy to be treated as formative elements in 
               <lb n="1452b 15"/>the whole were mentioned in a previous Chapter.
@@ -1237,55 +1237,55 @@
               <lb n="1452b 17"/>sections into which it is divided, a tragedy has the following 
               <lb n="1452b 18"/>parts: Prologue, Episode, Exode, </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="2">
             <p> and a choral portion, dis- 
               <lb n="1452b 19"/>tinguished into Parode and Stasimon;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="3">
             <p>
               <lb n="1452b 19"/>these two are common 
               <lb n="1452b 20"/>to all tragedies, whereas songs from the stage and Commoe 
               <lb n="1452b 21"/>are only found in some.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="4">
             <p>
               <lb n="1452b 21"/>The Prologue is all that precedes 
               <lb n="1452b 22"/>the Parode of the chorus;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="5">
             <p>
               <lb n="1452b 22"/>an Episode all that comes in 
               <lb n="1452b 23"/>between two whole choral songs;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="6">
             <p>
               <lb n="1452b 23"/>the Exode all that follows 
               <lb n="1452b 24"/>after the last choral song.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="7">
             <p>
               <lb n="1452b 24"/>In the choral portion the Parode 
               <lb n="1452b 25"/>is the whole first statement of the chorus;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="8">
             <p>
               <lb n="1452b 25"/>a Stasimon, 
               <lb n="1452b 26"/>a song of the chorus without anapaests or trochees;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="9">
             <p>
               <lb n="1452b 26"/>a 
               <lb n="1452b 27"/>Commos, a lamentation sung by chorus and actor in concert.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:12" n="10">
             <p>
               <lb n="1452b 27"/>The parts of Tragedy to be used as formative elements in 
               <lb n="1452b 28"/>the whole we have already mentioned; the above are its 
@@ -1296,7 +1296,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="13">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="1">
             <p>
               <lb n="1452b 31"/>The next points after what we have said above will be 
               <lb n="1452b 32"/>these: (1) What is the poet to aim at, and what is he to 
@@ -1319,14 +1319,14 @@
               <lb n="1453a 2"/>situation is not fear-inspiring or piteous, but simply odious 
               <lb n="1453a 3"/>to us. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="2">
             <p>
               The second is the most untragic that can be; it 
               <lb n="1453a 4"/>has no one of the requisites of Tragedy; it does not appeal 
               <lb n="1453a 5"/>either to the human feeling in us, or to our pity, or to our 
               <lb n="1453a 6"/>fears. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="3">
             <p>
               Nor on the other hand should (3) an extremely bad 
               <lb n="1453a 7"/>man be seen falling from happiness into misery.
@@ -1335,14 +1335,14 @@
               <lb n="1453a 8"/>story may arouse the human feeling in us, but it will not 
               <lb n="1453a 9"/>move us to either pity or fear; </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="4">
             <p>pity is occasioned by un- 
               <lb n="1453a 10"/>deserved misfortune, and fear by that of one like ourselves; 
               <lb n="1453a 11"/>so that there will be nothing either piteous or fear-inspiring 
               <lb n="1453a 12"/>in the situation.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="5">
             <p>
               <lb n="1453a 12"/>There remains, then, the intermediate 
               <lb n="1453a 13"/>kind of personage, a man not pre-eminently virtuous and 
@@ -1353,7 +1353,7 @@
               <lb n="1453a 18"/>of similar families.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="6">
             <p>
               <lb n="1453a 18"/>The perfect Plot, accordingly, must 
               <lb n="1453a 19"/>have a single, and not (as some tell us) a double issue; 
@@ -1364,7 +1364,7 @@
               <lb n="1453a 24"/>such as we have described, or better, not worse, than that.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="7">
             <p>
               <lb n="1453a 24"/>Fact also confirms our theory. Though the poets began 
               <lb n="1453a 25"/>by accepting any tragic story that came to hand, in these 
@@ -1374,13 +1374,13 @@
               <lb n="1453a 29"/>volved, as either agents or sufferers, in some deed of horror.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="8">
             <p>
               <lb n="1453a 29"/>The theoretically best tragedy, then, has a Plot of this 
               <lb n="1453a 30"/>description.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="9">
             <p>
               <lb n="1453a 30"/>The critics, therefore, are wrong, who blame 
               <lb n="1453a 31"/>Euripides for taking this line in his tragedies, and giving 
@@ -1388,7 +1388,7 @@
               <lb n="1453a 33"/>the right line to take.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="10">
             <p>
               <lb n="1453a 33"/>The best proof is this: on the 
               <lb n="1453a 34"/>stage, and in the public performances, such plays, properly 
@@ -1398,7 +1398,7 @@
               <lb n="1453a 38"/>of the dramatists.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="11">
             <p>
               <lb n="1453a 38"/>After this comes the construction of 
               <lb n="1453a 39"/>Plot which some rank first, one with a double story (like 
@@ -1406,13 +1406,13 @@
               <lb n="1453a 41"/>bad personages.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="12">
             <p>
               <lb n="1453a 41"/>It is ranked as first only through the 
               <lb n="1453a 42"/>weakness of the audiences; the poets merely follow their 
               <lb n="1453a 43"/>public, writing as its wishes dictate. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:13" n="13">
             <p>But the pleasure here 
               <lb n="1453a 44"/>is not that of Tragedy. It belongs rather to Comedy, where 
               <lb n="1453a 45"/>the bitterest enemies in the piece (e. g. Orestes and 
@@ -1423,7 +1423,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="14">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="1">
             <p>
               <pb n="1453b"/>
               <lb n="1453b 1"/>The tragic fear and pity may be aroused by the Spectacle; 
@@ -1432,7 +1432,7 @@
               <lb n="1453b 4"/>the better poet.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="2">
             <p>
               <lb n="1453b 4"/>The Plot in fact should be so framed 
               <lb n="1453b 5"/>that, even without seeing the things take place, he who 
@@ -1441,13 +1441,13 @@
               <lb n="1453b 8"/>mere recital of the story in Oedipus would have on one.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="3">
             <p>
               <lb n="1453b 8"/>To produce this same effect by means of the Spectacle is 
               <lb n="1453b 9"/>less artistic, and requires extraneous aid.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="4">
             <p>
               <lb n="1453b 9"/>Those, however, 
               <lb n="1453b 10"/>who make use of the Spectacle to put before us that 
@@ -1457,7 +1457,7 @@
               <lb n="1453b 14"/>proper pleasure.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="5">
             <p>
               <lb n="1453b 14"/>The tragic pleasure is that of pity and 
               <lb n="1453b 15"/>fear, and the poet has to produce it by a work of imitation; 
@@ -1465,7 +1465,7 @@
               <lb n="1453b 17"/>the incidents of his story.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="6">
             <p>
               <lb n="1453b 17"/>Let us see, then, what kinds of 
               <lb n="1453b 18"/>incident strike one as horrible, or rather as piteous.
@@ -1474,21 +1474,21 @@
               <lb n="1453b 19"/>deed of this description the parties must necessarily be either 
               <lb n="1453b 20"/>friends, or enemies, or indifferent to one another.  </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="7">
             <p>Now when 
               <lb n="1453b 21"/>enemy does it on enemy, there is nothing to move us to 
               <lb n="1453b 22"/>pity either in his doing or in his meditating the deed, except 
               <lb n="1453b 23"/>so far as the actual pain of the sufferer is concerned;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="8">
             <p>
               <lb n="1453b 23"/>and 
               <lb n="1453b 24"/>the same is true when the parties are indifferent to one 
               <lb n="1453b 25"/>another.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="9">
             <p>
               <lb n="1453b 25"/>Whenever the tragic deed, however, is done within 
               <lb n="1453b 26"/>the family—when murder or the like is done or meditated 
@@ -1497,14 +1497,14 @@
               <lb n="1453b 29"/>seek after.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="10">
             <p>
               <lb n="1453b 29"/>The traditional stories, accordingly, must be 
               <lb n="1453b 30"/>kept as they are, e.g. the murder of Clytaemnestra by 
               <lb n="1453b 31"/>Orestes and of Eriphyle by Alcmeon.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="11">
             <p>
               <lb n="1453b 31"/>At the same time 
               <lb n="1453b 32"/>even with these there is something left to the poet himself; 
@@ -1513,14 +1513,14 @@
               <lb n="1453b 33"/>Let 
               <lb n="1453b 34"/>us explain more clearly what we mean by 'the right way.'  </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="12">
             <p>
               <lb n="1453b 35"/>The deed of horror may be done by the doer knowingly 
               <lb n="1453b 36"/>and consciously, as in the old poets, and in Medea's murder 
               <lb n="1453b 37"/>of her children in Euripides.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="13">
             <p>
               <lb n="1453b 37"/>Or he may do it, but in 
               <lb n="1453b 38"/>ignorance of his relationship, and discover that afterwards, 
@@ -1529,21 +1529,21 @@
               <lb n="1453b 41"/>in Astydamas, or that of the Telegonus in Ulysses Wounded.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="14">
             <p>
               <lb n="1453b 41"/>A third possibility is for one meditating some deadly 
               <lb n="1453b 42"/>injury to another, in ignorance of his relationship, to make 
               <lb n="1453b 43"/>the discovery in time to draw back.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="15">
             <p>
               <lb n="1453b 43"/>These exhaust the 
               <lb n="1453b 44"/>possibilities, since the deed must necessarily be either done 
               <lb n="1453b 45"/>or not done, and either knowingly or unknowingly.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="16">
             <p>
               <lb n="1453b 45"/>The worst situation is when the personage is with full 
               <lb n="1453b 46"/>knowledge on the point of doing the deed, and leaves it 
@@ -1555,13 +1555,13 @@
               <lb n="1454a 3"/>Creon in Antigone.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="17">
             <p>
               <lb n="1454a 3"/>Next after this comes the actual per- 
               <lb n="1454a 4"/>petration of the deed meditated.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="18">
             <p>
               <lb n="1454a 4"/>A better situation than 
               <lb n="1454a 5"/>that, however, is for the deed to be done in ignorance, 
@@ -1570,7 +1570,7 @@
               <lb n="1454a 8"/>astound us.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="19">
             <p>
               <lb n="1454a 8"/>But the best of all is the last; what we have 
               <lb n="1454a 9"/>in Cresphontes, for example, where Merope, on the point 
@@ -1580,7 +1580,7 @@
               <lb n="1454a 13"/>point of giving her up to her enemy.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="20">
             <p>
               <lb n="1454a 13"/>This will explain why 
               <lb n="1454a 14"/>our tragedies are restricted (as we said just now) to such 
@@ -1591,7 +1591,7 @@
               <lb n="1454a 19"/>occurred.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:14" n="21">
             <p>
               <lb n="1454a 19"/>On the construction of the Plot, and the kind of Plot 
               <lb n="1454a 20"/>required for Tragedy, enough has now been said.
@@ -1600,14 +1600,14 @@
         </div>
 
   <div type="textpart" subtype="chapter" n="15">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <pb n="1454a"/>
                             <lb n="1454a 15"/>In the Characters there are four points to aim at. First 
                             <lb n="1454a 16"/>and foremost, that they shall be good. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1454a 17"/>There will be an 
                             <lb n="1454a 18"/>element of character in the play, if (as has been observed) 
@@ -1617,7 +1617,7 @@
                             <lb n="1454a 21"/>and a good element of character, if the purpose 
                             <lb n="1454a 22"/>so revealed is good. </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                         
                             <lb n="1454a 23"/>Such goodness is possible in every 
@@ -1626,7 +1626,7 @@
                             <lb n="1454a 26"/>being. 
                             </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                         
                             <lb n="1454a 27"/>The second point is to make them appropriate. The 
@@ -1636,7 +1636,7 @@
                             <lb n="1454a 30"/>priate in a female Character to be manly, or clever. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1454a 31"/>The 
                             <lb n="1454a 32"/>third is to make them like the reality, which is not the same 
@@ -1644,7 +1644,7 @@
                             <lb n="1454a 34"/>term. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1454a 35"/>The fourth is to make them consistent and the same 
                             <lb n="1454a 36"/>throughout; 
@@ -1654,27 +1654,27 @@
                             <lb n="1454a 39"/>should still be consistently inconsistent. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1454a 40"/>We have an in- 
                             <lb n="1454a 41"/>stance of baseness of character, not required for the story, 
                             <lb n="1454a 42"/>in the Menelaus in Orestes; 
                              </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1454a 43"/>of the incongruous and un- 
                             <lb n="1454a 44"/>befitting in the lamentation of Ulysses in Scylla, and in 
                             <lb n="1454a 45"/>the (clever) speech of Melanippe; 
                              </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1454a 46"/>and of inconsistency in 
                             <lb n="1454a 47"/>Iphigenia at Aulis, where Iphigenia the suppliant is utterly 
                             <lb n="1454a 48"/>unlike the later Iphigenia.  </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1454a 49"/>The right thing, however, is 
                             <lb n="1454a 50"/>in the Characters just as in the incidents of the play to 
@@ -1690,7 +1690,7 @@
                             <lb n="1454b 7"/>probable consequence of it. 
                             </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10b">
+                    <div type="textpart" subtype="subchapter" n="10b">
                         <p>
                             <lb n="1454b 8"/>From this one sees (to digress 
                             <lb n="1454b 9"/>for a moment) that the Dénouement also should arise out 
@@ -1699,7 +1699,7 @@
                             <lb n="1454b 12"/>Greeks in the Iliad. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10c">
+                    <div type="textpart" subtype="subchapter" n="10c">
                         <p>
                             <lb n="1454b 13"/>The artifice must be reserved for 
                             <lb n="1454b 14"/>matters outside the play for past events beyond human 
@@ -1708,7 +1708,7 @@
                             <lb n="1454b 17"/>to know everything. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10d">
+                    <div type="textpart" subtype="subchapter" n="10d">
                         <p>
                             <lb n="1454b 18"/>There should be nothing improbable 
                             <lb n="1454b 19"/>among the actual incidents. If it be unavoidable, however, 
@@ -1716,7 +1716,7 @@
                             <lb n="1454b 21"/>the Oedipus of Sophocles. 
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1454b 22"/>But to return to the Characters. 
                             <lb n="1454b 23"/>as Tragedy is an imitation of personages better than the 
@@ -1732,7 +1732,7 @@
                             <lb n="1454b 32"/>and Homer have represented Achilles. 
                             </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1454b 33"/>All these rules one must keep in mind throughout, and 
                             <lb n="1454b 34"/>further, those also for such points of stage-effect as directly 
@@ -1747,7 +1747,7 @@
   
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="16">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="1">
             <p>
               <pb n="1454b"/>
               <lb n="1454b 22"/>Discovery in general has been explained already. As 
@@ -1756,24 +1756,24 @@
               <lb n="1454b 25"/>through mere lack of invention, Discovery by signs or marks.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="2">
             <p>
               <lb n="1454b 25"/>Of these signs some are congenital, like the 'lance-head 
               <lb n="1454b 26"/>which the Earth-born have on them,'
-            </p>
-          </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="3">
-            <p>
+            
               <lb n="1454b 26"/>or 'stars,' such as 
               <lb n="1454b 27"/>Carcinus brings in in his Thyestes;
-            
+            </p>
+          </div>
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="3">
+            <p>
               <lb n="1454b 27"/>others acquired after birth 
               <lb n="1454b 28"/>—these latter being either marks on the body, e. g. scars, or 
               <lb n="1454b 29"/>external tokens, like necklaces, or to take another sort of 
               <lb n="1454b 30"/>instance, the ark in the Discovery in Tyro.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="4">
             <p>
               <lb n="1454b 30"/>Even these, 
               <lb n="1454b 31"/>however, admit of two uses, a better and a worse; the 
@@ -1781,14 +1781,14 @@
               <lb n="1454b 33"/>it is made in one way by the nurse and in another by the 
               <lb n="1454b 34"/>swineherds. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="5">
             <p>A Discovery using signs as a means of assu- 
               <lb n="1454b 35"/>rance is less artistic, as indeed are all such as imply reflexion; 
               <lb n="1454b 36"/>whereas one bringing them in all of a sudden, as in the 
               <lb n="1454b 37"/>Bath-story, is of a better order.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="6">
             <p>
               <lb n="1454b 32"/>Next after these are (2) 
               <lb n="1454b 33"/>Discoveries made directly by the poet; which are inartistic 
@@ -1799,14 +1799,14 @@
               <lb n="1454b 36"/>Orestes is made to say himself what the poet rather than 
               <lb n="1454b 37"/>the story demands. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="7">
             <p>This, therefore, is not far removed 
               <lb n="1454b 38"/>from the first-mentioned fault, since he might have presented 
               <lb n="1454b 39"/>certain tokens as well. Another instance is the 'shuttle's 
               <lb n="1454b 40"/>voice' in the Tereus of Sophocles.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="8">
             <p>
               <pb n="1455a"/>
               <lb n="1455a 1"/>(3) A third species is 
@@ -1818,7 +1818,7 @@
               <lb n="1455a 7"/>weeps; the Discovery of them being the result.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="9">
             <p>
               <lb n="1455a 7"/>(4) A fourth 
               <lb n="1455a 8"/>kind is Discovery through reasoning; e.g. in The Choephoroe: 
@@ -1833,7 +1833,7 @@
               <lb n="1455a 17"/>exposed there.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="10">
             <p>
               <lb n="1455a 14"/>(5) There is, too, a composite Discovery 
               <lb n="1455a 15"/>arising from bad reasoning on the side of the other party. 
@@ -1843,7 +1843,7 @@
               <lb n="1455a 19"/>though he had once seen it) was bad reasoning.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="11">
             <p>
               <lb n="1455a 17"/>(6) The 
               <lb n="1455a 18"/>best of all Discoveries, however, is that arising from the 
@@ -1855,7 +1855,7 @@
               <lb n="1455a 24"/>of signs and necklaces.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:16" n="12">
             <p>
               <lb n="1455a 21"/>Next after them come Discoveries 
               <lb n="1455a 22"/>through reasoning.
@@ -1864,7 +1864,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="17">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="1">
             <p>
               <lb n="1455a 22"/>At the time when he is constructing his Plots, and en- 
               <lb n="1455a 23"/>gaged on the Diction in which they are worked out, the 
@@ -1875,7 +1875,7 @@
               <lb n="1455a 28"/>incongruities.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="2">
             <p>
               <lb n="1455a 26"/>This is shown by what was censured in 
               <lb n="1455a 27"/>Carcinus, the return of Amphiaraus from the sanctuary; it 
@@ -1884,7 +1884,7 @@
               <lb n="1455a 30"/>incongruity of the incident offending the spectators.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="3">
             <p>
               <lb n="1455a 29"/>(2) As 
               <lb n="1455a 30"/>far as may be, too, the poet should even act his story with 
@@ -1895,7 +1895,7 @@
               <lb n="1455a 35"/>them at the moment.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="4">
             <p>
               <lb n="1455a 32"/>Hence it is that poetry demands 
               <lb n="1455a 33"/>a man with a special gift for it, or else one with a touch of 
@@ -1904,7 +1904,7 @@
               <lb n="1455a 36"/>emotion.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="5">
             <p>
               <pb n="1455b"/>
               <lb n="1455b 1"/>(3) His story, again, whether already made or of 
@@ -1913,7 +1913,7 @@
               <lb n="1455b 4"/>insertion of episodes.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="6">
             <p>
               <lb n="1455b 2"/>The following will show how the 
               <lb n="1455b 3"/>universal element in Iphigenia, for instance, may be viewed: 
@@ -1931,7 +1931,7 @@
               <lb n="1455b 15"/>sister was'; and the disclosure led to his salvation.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="7">
             <p>
               <lb n="1455b 12"/>This 
               <lb n="1455b 13"/>done, the next thing, after the proper names have been fixed 
@@ -1939,7 +1939,7 @@
               <lb n="1455b 15"/>incidents.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="8">
             <p>
               <lb n="1455b 13"/>One must mind, however, that the episodes are 
               <lb n="1455b 14"/>appropriate, like the fit of madness in Orestes, which led 
@@ -1947,13 +1947,13 @@
               <lb n="1455b 16"/>salvation.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="9">
             <p>
               <lb n="1455b 15"/>In plays, then, the episodes are short; in epic 
               <lb n="1455b 16"/>poetry they serve to lengthen out the poem.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="10">
             <p>
               <lb n="1455b 17"/>The argu- 
               <lb n="1455b 18"/>ment of the Odyssey is not a long one. A certain man has 
@@ -1967,7 +1967,7 @@
               <lb n="1455b 23"/>and the end is his salvation and 
               <lb n="1455b 24"/>their death. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:17" n="11">
             <p>This being all that is proper to the Odyssey, 
               <lb n="1455b 25"/>everything else in it is episode.
             </p>
@@ -1975,7 +1975,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="18">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="1">
             <p>
               <lb n="1455b 24"/>(4) There is a further point 
               <lb n="1455b 25"/>to be borne in mind. Every tragedy is in part Complication 
@@ -1984,7 +1984,7 @@
               <lb n="1455b 28"/>forming the Complication; and the rest the Dénouement.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="2">
             <p>
               <lb n="1455b 26"/>By Complication I mean all from the beginning of the story 
               <lb n="1455b 27"/>to the point just before the change in the hero's fortunes; 
@@ -1992,7 +1992,7 @@
               <lb n="1455b 29"/>the end.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="3">
             <p>
               <lb n="1455b 29"/>In the Lynceus of Theodectes, for instance, the 
               <lb n="1455b 30"/>Complication includes, together with the presupposed inci- 
@@ -2001,39 +2001,39 @@
               <lb n="1455b 33"/>to the end.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="4">
             <p>
               <lb n="1455b 32"/>(5) There are 
               <lb n="1455b 33"/>four distinct species of Tragedy-that being the number of 
               <lb n="1455b 34"/>the constituents also that have been mentioned:
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="5">
             <p>
               <lb n="1455b 33"/>first, the 
               <lb n="1455b 34"/>complex Tragedy, which is all Peripety and Discovery;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="6">
             <p>
               <pb n="1456a"/>
               <lb n="1456a 1"/>second, the Tragedy of suffering, e. g. the Ajaxes and Ixions;
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="7">
             <p>
               <lb n="1456a 1"/>third, the Tragedy of character, e.g. The Phthiotides and 
               <lb n="1456a 2"/>Peleus.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="8">
             <p>
               <lb n="1456a 2"/>The fourth constituent is that of 'Spectacle,' ex- 
               <lb n="1456a 3"/>emplified in The Phorcides, in Prometheus, and in all plays 
               <lb n="1456a 4"/>with the scene laid in the nether world.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="9">
             <p>
               <lb n="1456a 3"/>The poet's aim, 
               <lb n="1456a 4"/>then, should be to combine every element of interest, if 
@@ -2046,7 +2046,7 @@
               <lb n="1456a 11"/>of each one of his predecessors.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="10">
             <p>
               <lb n="1456a 7"/>Now it is right, when one speaks of a tragedy 
               <lb n="1456a 8"/>as the same or not the same as another, to do so on the 
@@ -2054,20 +2054,20 @@
               <lb n="1456a 10"/>or not the same Complication and Dénouement.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="11">
             <p>
               <lb n="1456a 9"/>Yet there 
               <lb n="1456a 10"/>are many dramatists who, after a good Complication, fail in 
               <lb n="1456a 11"/>the Dénouement.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="12">
             <p>
               <lb n="1456a 10"/>But it is necessary for both points of 
               <lb n="1456a 11"/>construction to be always duly mastered.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="13">
             <p>
               <lb n="1456a 10"/>(6) One should also re- 
               <lb n="1456a 11"/>member what has been said more than once, and not write 
@@ -2076,7 +2076,7 @@
               <lb n="1456a 14"/>the entire story of the Iliad.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="14">
             <p>
               <lb n="1456a 13"/>In the epic owing to its scale 
               <lb n="1456a 14"/>every part is treated at proper length;
@@ -2084,7 +2084,7 @@
               <lb n="1456a 15"/>with a drama, how- 
               <lb n="1456a 16"/>ever, on the same story the result is very disappointing. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="15">
             <p>
               <lb n="1456a 17"/>This is shown by the fact that all who have dramatized 
               <lb n="1456a 18"/>the fall of Ilium in its entirety, and not part by part, like 
@@ -2096,27 +2096,27 @@
               <lb n="1456a 20"/>to ruin even a play by Agathon.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="16">
             <p>
               <lb n="1456a 21"/>Yet in their Peripeties, as 
               <lb n="1456a 22"/>also in their simple plots, the poets I mean show wonderful 
               <lb n="1456a 23"/>skill in aiming at the kind of effect they desire-a tragic 
               <lb n="1456a 24"/>situation that arouses the human feeling in one, </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="17">
             <p>like the 
               <lb n="1456a 25"/>clever villain (e. g. Sisyphus) deceived, or the brave wrong- 
               <lb n="1456a 26"/>doer worsted.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="18">
             <p>
               <lb n="1456a 23"/>This is probable, however, only in Agathon's 
               <lb n="1456a 24"/>sense, when he speaks of the probability of even improbabilities 
               <lb n="1456a 25"/>coming to pass.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="19">
             <p>
               <lb n="1456a 25"/>(7) The Chorus too should be regarded as 
               <lb n="1456a 26"/>one of the actors; it should be an integral part of the 
@@ -2124,7 +2124,7 @@
               <lb n="1456a 28"/>in Sophocles rather than in Euripides.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:18" n="20">
             <p>
               <lb n="1456a 27"/>With the later poets, 
               <lb n="1456a 28"/>however, the songs in a play of theirs have no more to do 
@@ -2139,25 +2139,25 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="19">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="1">
             <p>
               <lb n="1456a 33"/>The Plot and Characters having been discussed, it remains 
               <lb n="1456a 34"/>to consider the Diction and Thought.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="2">
             <p>
               <lb n="1456a 34"/>As for the Thought, 
               <lb n="1456a 35"/>we may assume what is said of it in our Art of Rhetoric, 
               <lb n="1456a 36"/>as it belongs more properly to that department of inquiry.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="3">
             <p>
               <lb n="1456a 36"/>The Thought of the personages is shown in everything to 
               <lb n="1456a 37"/>be effected by their language- </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="4">
             <p>in every effort to prove or 
               <lb n="1456a 38"/>disprove, to arouse emotion (pity, fear, anger, and the like),
             
@@ -2165,7 +2165,7 @@
               <lb n="1456b 1"/>or to maximize or minimize things.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="5">
             <p>
               <lb n="1456b 2"/>It is clear, also, that 
               <lb n="1456b 3"/>their mental procedure must be on the same lines in their 
@@ -2173,7 +2173,7 @@
               <lb n="1456b 5"/>or horror, or have a look of importance or probability.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="6">
             <p>
               <lb n="1456b 4"/>The 
               <lb n="1456b 5"/>only difference is that with the act the impression has to 
@@ -2184,7 +2184,7 @@
               <lb n="1456b 10"/>anything he says?
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="7">
             <p>
               <lb n="1456b 8"/>As regards the Diction, one subject for inquiry under 
               <lb n="1456b 9"/>this head is the turns given to the language when spoken; 
@@ -2192,7 +2192,7 @@
               <lb n="1456b 11"/>statement and threat, question and answer, and so forth.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="8">
             <p>
               <lb n="1456b 13"/>The theory of such matters, however, belongs to Elocution 
               <lb n="1456b 14"/>and the professors of that art. Whether the poet knows 
@@ -2203,7 +2203,7 @@
               <lb n="1456b 19"/>to bid one do or not do, he tells us, is a command.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:19" n="9">
             <p>
               <lb n="1456b 18"/>Let us 
               <lb n="1456b 19"/>pass over this, then, as appertaining to another art, and 
@@ -2213,7 +2213,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="20">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="1">
             <p>
               <lb n="1456b 20"/>The Diction viewed as a whole is made up of the following 
               <lb n="1456b 21"/>parts: the Letter (or ultimate element), the Syllable, the 
@@ -2221,7 +2221,7 @@
               <lb n="1456b 23"/>the Speech.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="2">
             <p>
               <lb n="1456b 22"/>The Letter is an indivisible sound of a par- 
               <lb n="1456b 23"/>ticular kind, one that may become a factor in an intelligible 
@@ -2229,7 +2229,7 @@
               <lb n="1456b 25"/>but no one of these is a Letter in our sense of the term.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="3">
             <p>
               <lb n="1456b 25"/>These elementary sounds are either vowels, semivowels, or 
               <lb n="1456b 26"/>mutes. A vowel is a Letter having an audible sound without 
@@ -2241,7 +2241,7 @@
               <lb n="1456b 32"/>e.g. D and G.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="4">
             <p>
               <lb n="1456b 31"/>The Letters differ in various ways: as 
               <lb n="1456b 32"/>produced by different conformations or in different regions 
@@ -2252,7 +2252,7 @@
               <lb n="1456b 37"/>to the metricians.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="5">
             <p>
               <lb n="1456b 34"/>(2) A Syllable is a non-significant composite 
               <lb n="1456b 35"/>sound, made up of a mute and a Letter having a sound 
@@ -2261,7 +2261,7 @@
               <lb n="1456b 38"/>of the Syllable also belong to the theory of metre.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="6">
             <p>
               <pb n="1457a"/>
               <lb n="1457a 1"/>(3) A Conjunction is (a) a non-significant sound which, 
@@ -2274,14 +2274,14 @@
               <lb n="1457a 8"/><foreign xml:lang="grc">ἀμφί</foreign>, <foreign xml:lang="grc">περί</foreign>, etc.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="7">
             <p>
               <lb n="1457a 6"/>(4) An Article is a non-significant sound marking the 
               <lb n="1457a 7"/>beginning, end, or dividing-point of a Speech, its natural 
               <lb n="1457a 8"/>place being either at the extremities or in the middle.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="8">
             <p>
               <lb n="1457a 10"/>(5) A Noun or name is a composite significant sound not 
               <lb n="1457a 11"/>involving the idea of time, with parts which have no signi- 
@@ -2291,7 +2291,7 @@
               <lb n="1457a 15"/>instance, the <foreign xml:lang="grc">δῶρον</foreign> means nothing to us.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="9">
             <p>
               <lb n="1457a 14"/>(6) A Verb is a composite significant sound involving the 
               <lb n="1457a 15"/>idea of time, with parts which (just as in the Noun) have 
@@ -2301,7 +2301,7 @@
               <lb n="1457a 19"/>of time present or time past.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="10">
             <p>
               <lb n="1457a 18"/>(7) A Case of a Noun or Verb is when the word means 
               <lb n="1457a 19"/>'of' or 'to' a thing, and so forth, or for one or many 
@@ -2311,13 +2311,13 @@
               <lb n="1457a 23"/>of this last kind.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="11">
             <p>
               <lb n="1457a 23"/>(8) A Speech is a composite significant sound, some of 
               <lb n="1457a 24"/>the parts of which have a certain significance by themselves.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="12">
             <p>
               <lb n="1457a 24"/>It may be observed that a Speech is not always made up of 
               <lb n="1457a 25"/>Noun and Verb; it may be without a Verb, like the 
@@ -2326,7 +2326,7 @@
               <lb n="1457a 28"/>walks,' 'Cleon' is an instance of such a part.
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:20" n="13">
             <p>
               <lb n="1457a 28"/>A Speech is 
               <lb n="1457a 29"/>said to be one in two ways, either as signifying one thing, 
@@ -2339,14 +2339,14 @@
         </div>
 
 <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="21">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="1">
             <p>
               <pb n="1457a"/>
               <lb n="1457a 31"/>Nouns are of two kinds, either (1) simple, i. e. 
               <lb n="1457a 32"/>made up of non-significant parts, like the word <foreign xml:lang="grc">γῆ</foreign> 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="2">
             <p>
               <lb n="1457a 32"/>or (2) double; in the 
               <lb n="1457a 33"/>latter case the word may be made up either of a significant 
@@ -2354,14 +2354,14 @@
               <lb n="1457a 35"/>the compound), or of two significant parts. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="3">
             <p>
               <lb n="1457a 35"/>It is possible also 
               <lb n="1457a 36"/>to have triple, quadruple or higher compounds, like most of 
               <lb n="1457a 37"/>our amplified names; e.g. 'Hermocaïcoxanthus' and the like. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="4">
             <p>
               <pb n="1457b"/>
               <lb n="1457b 1"/>Whatever its structure, a Noun must always be either 
@@ -2371,13 +2371,13 @@
               <lb n="1457b 5"/>altered in form. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="5">
             <p>
               <lb n="1457b 3"/>By the ordinary word I mean that in 
               <lb n="1457b 4"/>general use in a country; 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="6">
             <p>
               <lb n="1457b 4"/>and by a strange word, one in 
               <lb n="1457b 5"/>use elsewhere. So that the same word may obviously be 
@@ -2386,7 +2386,7 @@
               <lb n="1457b 8"/>Cyprus, and a strange word with us. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="7">
             <p>
               <lb n="1457b 6"/>Metaphor consists 
               <lb n="1457b 7"/>in giving the thing a name that belongs to something else; 
@@ -2395,14 +2395,14 @@
               <lb n="1457b 10"/>of analogy. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="8">
             <p>
               <lb n="1457b 10"/>That from genus to species is exemplified 
               <lb n="1457b 11"/>in 'Here stands my ship'; for lying at anchor is the 
               <lb n="1457b 12"/>'standing' of a particular kind of thing. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="9">
             <p>
               <lb n="1457b 12"/>That from 
               <lb n="1457b 13"/>species to genus in 'Truly ten thousand good deeds has 
@@ -2411,7 +2411,7 @@
               <lb n="1457b 16"/>number.' 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="10">
             <p>
               <lb n="1457b 13"/>That from species to species in 'Drawing the 
               <lb n="1457b 14"/>life with the bronze,' and in 'Severing with the enduring 
@@ -2420,7 +2420,7 @@
               <lb n="1457b 17"/>away' something. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="11">
             <p>
               <lb n="1457b 16"/>That from analogy is possible whenever 
               <lb n="1457b 17"/>there are four terms so related that the second (B) is to the 
@@ -2428,7 +2428,7 @@
               <lb n="1457b 19"/>then metaphorically put B in lieu of D, and D in lieu of B. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="12">
             <p>
               <lb n="1457b 19"/>Now and then, too, they qualify the metaphor by adding 
               <lb n="1457b 20"/>on to it that to which the word it supplants is relative. 
@@ -2438,7 +2438,7 @@
               <lb n="1457b 24"/>as the 'cup of Ares' (B + C). 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="13">
             <p>
               <lb n="1457b 22"/>Or to take another instance: 
               <lb n="1457b 23"/>As old age (D) is to life (C), so is evening (B) to day (A). 
@@ -2447,7 +2447,7 @@
               <lb n="1457b 26"/>and old age (D) as the 'evening' or 'sunset of life' (B + C). 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="14">
             <p>
               <lb n="1457b 25"/>It 
               <lb n="1457b 26"/>may be that some of the terms thus related have no special 
@@ -2461,7 +2461,7 @@
               <lb n="1457b 34"/>flame' (D + A). 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="15">
             <p>
               <lb n="1457b 30"/>There is also another form of qualified 
               <lb n="1457b 31"/>metaphor. Having given the thing the alien name, one 
@@ -2469,14 +2469,14 @@
               <lb n="1457b 33"/>naturally associated with its new name. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="16">
             <p>
               <lb n="1457b 32"/>An instance of 
               <lb n="1457b 33"/>this would be to call the shield not the 'cup of Ares,' as 
               <lb n="1457b 34"/>in the former case, but a 'cup that holds no wine.' 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="17">
             <p>
               <lb n="1457b 33"/>A 
               <lb n="1457b 34"/>coined word is a name which, being quite unknown among 
@@ -2485,14 +2485,14 @@
               <lb n="1457b 37"/><foreign xml:lang="grc">ἀρητήρ</foreign> for priest. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="18">
             <p>
               <lb n="1457b 35"/>A word is said to be lengthened out, 
               <lb n="1457b 36"/>when it has a short vowel made long, or an extra syllable 
               <lb n="1457b 37"/>inserted; 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="19">
             <p>
               <pb n="1458a"/>
               <lb n="1458a 3"/>e.g. <foreign xml:lang="grc">πόληος</foreign> for <foreign xml:lang="grc">πόλεως</foreign>, <foreign xml:lang="grc">Πηληιάδεω</foreign> for <foreign xml:lang="grc">Πηλείδου</foreign>. It 
@@ -2500,47 +2500,47 @@
               <lb n="1458a 5"/>and <foreign xml:lang="grc">ὄψ</foreign> in <quote>μία γίνεται ἀμφοτέρων ὄψ.</quote>
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="20">
             <p>
               <lb n="1458a 5"/>It is an altered word, 
               <lb n="1458a 6"/>when part is left as it was and part is of the poet's making; 
               <lb n="1458a 7"/>e. g. <foreign xml:lang="grc">δεξιτερόν</foreign> for <foreign xml:lang="grc">δεξιόν</foreign>, in <quote>δεξιτερὸν κατὰ μαζόν.</quote>
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="21">
             <p>
               <lb n="1458a 8"/>The Nouns themselves (to whatever class they may belong) 
               <lb n="1458a 9"/>are either masculines, feminines, or intermediates (neuter). 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="22">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="22">
             <p>
               <lb n="1458a 9"/>All ending in N, P, Σ, or in the two compounds of this last, 
               <lb n="1458a 10"/>Ψ and Ξ, are masculines. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="23">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="23">
             <p>
               <lb n="1458a 11"/>All ending in the invariably long 
               <lb n="1458a 12"/>vowels, Η and Ω, and in Α among the vowels that may be 
               <lb n="1458a 13"/>long, are feminines. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="24">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="24">
             <p>
               <lb n="1458a 12"/>So that there is an equal number of 
               <lb n="1458a 13"/>masculine and feminine terminations, as Ψ and Ξ are the 
               <lb n="1458a 14"/>same as Σ, and need not be counted. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="25">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="25">
             <p>
               <lb n="1458a 14"/>There is no Noun, 
               <lb n="1458a 15"/>however, ending in a mute or in either of the two short 
               <lb n="1458a 16"/>vowels, Ε and Ο. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="26">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:21" n="26">
             <p>
               <lb n="1458a 15"/>Only three (<foreign xml:lang="grc">μέλι</foreign>, <foreign xml:lang="grc">κόμμι</foreign>, <foreign xml:lang="grc">πέπερι</foreign>) end in 
               <lb n="1458a 16"/>Ι, and five in Υ. The intermediates, or neuters, end in the 
@@ -2550,20 +2550,20 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="22">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="1">
             <p>
               <lb n="1458a 18"/>The perfection of Diction is for it to be at once clear 
               <lb n="1458a 19"/>and not mean. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="2">
             <p>
               <lb n="1458a 19"/>The clearest indeed is that made up of 
               <lb n="1458a 20"/>the ordinary words for things, but it is mean, as is shown 
               <lb n="1458a 21"/>by the poetry of Cleophon and Sthenelus. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="3">
             <p>
               <lb n="1458a 21"/>On the other 
               <lb n="1458a 22"/>hand the Diction becomes distinguished and non-prosaic 
@@ -2572,14 +2572,14 @@
               <lb n="1458a 25"/>ordinary modes of speech. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="4">
             <p>
               <lb n="1458a 23"/>But a whole statement in such 
               <lb n="1458a 24"/>terms will be either a riddle or a barbarism, a riddle, if made 
               <lb n="1458a 25"/>up of metaphors, a barbarism, if made up of strange words. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="5">
             <p>
               <lb n="1458a 26"/>The very nature indeed of a riddle is this, to describe a 
               <lb n="1458a 27"/>fact in an impossible combination of words (which cannot 
@@ -2588,13 +2588,13 @@
               <lb n="1458a 30"/>on another with fire,' and the like. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="6">
             <p>
               <lb n="1458a 31"/>The corresponding 
               <lb n="1458a 32"/>use of strange words results in a barbarism. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="7">
             <p>
               <lb n="1458a 31"/>A certain 
               <lb n="1458a 32"/>admixture, accordingly, of unfamiliar terms is necessary. 
@@ -2604,7 +2604,7 @@
               <lb n="1458a 36"/>requisite clearness. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="8">
             <p>
               <pb n="1458b"/>
               <lb n="1458b 1"/>What helps most, however, to render 
@@ -2612,7 +2612,7 @@
               <lb n="1458b 3"/>lengthened, curtailed, and altered forms of words. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="9">
             <p>
               <lb n="1458b 5"/>It is not right, then, to condemn these modes of speech, 
               <lb n="1458b 6"/>and ridicule the poet for using them, as some have done; 
@@ -2623,14 +2623,14 @@
               <lb n="1458b 11"/>and <quote>οὐκ ἄν γ᾽ ἐράμενος τὸν ἐκείνου ἐλλέβορον</quote> as verses. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="10">
             <p>
               <lb n="1458b 12"/>A too 
               <lb n="1458b 13"/>apparent use of these licences has certainly a ludicrous 
               <lb n="1458b 14"/>effect, 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="11">
             <p>
               <lb n="1458b 13"/>but they are not alone in that; the rule of moderation 
               <lb n="1458b 14"/>applies to all the constituents of the poetic vocabulary; 
@@ -2639,13 +2639,13 @@
               <lb n="1458b 17"/>to provoking laughter. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="12">
             <p>
               <lb n="1458b 15"/>The proper use of them is a very 
               <lb n="1458b 16"/>different thing. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="13">
             <p>
               <lb n="1458b 17"/>To realize the difference one should take 
               <lb n="1458b 18"/>an epic verse and see how it reads when the normal words 
@@ -2668,7 +2668,7 @@
               <lb n="1458b 35"/>Or <quote>ἠιόνες βοόωσιν</quote> into <quote>ἠιόνες κράζουσιν.</quote>
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="14">
             <p>
               <lb n="1458b 31"/>Add to this that 
               <lb n="1458b 32"/>Ariphrades used to ridicule the tragedians for introducing ex- 
@@ -2678,14 +2678,14 @@
               <lb n="1459a 1"/>Ἀχιλλέως</quote>), and the like. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="15">
             <p>
               <lb n="1459a 3"/>The mere fact of their not being in 
               <lb n="1459a 4"/>ordinary speech gives the Diction a non-prosaic character; 
             
               <lb n="1459a 4"/>but Ariphrades was unaware of that. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="16">
             <p>It is a great thing, 
               <lb n="1459a 5"/>indeed, to make a proper use of these poetical forms, as 
               <lb n="1459a 6"/>also of compounds and strange words. 
@@ -2693,21 +2693,21 @@
               <lb n="1459a 5"/>But the greatest 
               <lb n="1459a 6"/>thing by far is to be a master of metaphor. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="17">
             <p>It is the one 
               <lb n="1459a 7"/>thing that cannot be learnt from others; and it is also 
               <lb n="1459a 8"/>a sign of genius, since a good metaphor implies an intuitive 
               <lb n="1459a 9"/>perception of the similarity in dissimilars. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="18">
             <p>
               <lb n="1459a 8"/>Of the kinds of words we have enumerated it may be 
               <lb n="1459a 9"/>observed that compounds are most in place in the dithyramb, 
               <lb n="1459a 10"/>strange words in heroic, and metaphors in iambic poetry. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="19">
             <p>
               <lb n="1459a 10"/>Heroic poetry, indeed, may avail itself of them all. But in 
               <lb n="1459a 11"/>iambic verse, which models itself as far as possible on the 
@@ -2716,7 +2716,7 @@
               <lb n="1459a 14"/>word, the metaphor, and the ornamental equivalent. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:22" n="20">
             <p>
               <lb n="1459a 14"/>Let this, then, suffice as an account of Tragedy, the art 
               <lb n="1459a 15"/>imitating by means of action on the stage.
@@ -2725,7 +2725,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="23">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="1">
             <p>
               <lb n="1459a 17"/>As for the poetry which merely narrates, or imitates by 
               <lb n="1459a 18"/>means of versified language (without action), it is evident 
@@ -2738,7 +2738,7 @@
               <lb n="1459a 25"/>creature. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="2">
             <p>
               <lb n="1459a 21"/>Nor should one suppose that there is anything 
               <lb n="1459a 22"/>like them in our usual histories. 
@@ -2748,7 +2748,7 @@
               <lb n="1459a 26"/>in that to one or more persons, however disconnected the 
               <lb n="1459a 27"/>several events may have been. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="3">
             <p>Just as two events may 
               <lb n="1459a 28"/>take place at the same time, e.g. the sea-fight off Salamis 
               <lb n="1459a 29"/>and the battle with the Carthaginians in Sicily, without 
@@ -2757,13 +2757,13 @@
               <lb n="1459a 32"/>one end as their common issue. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="4">
             <p>
               <lb n="1459a 29"/>Nevertheless most of our 
               <lb n="1459a 30"/>epic poets, one may say, ignore the distinction. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="5">
             <p>
               <lb n="1459a 30"/>Herein, then, to repeat what we have said before, we have 
               <lb n="1459a 31"/>a further proof of Homer's marvellous superiority to the 
@@ -2778,7 +2778,7 @@
               <lb n="1459a 40"/>to relieve the uniformity of his narrative. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="6">
             <p>
               <pb n="1459b"/>
               <lb n="1459b 1"/>As for the other 
@@ -2787,7 +2787,7 @@
               <lb n="1459b 4"/>parts in it. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23" n="7">
             <p>
               <lb n="1459b 2"/>This last is what the authors of the 
               <lb n="1459b 3"/>Cypria and Little Iliad have done. And the result is that, 
@@ -2803,7 +2803,7 @@
         </div>
 
         <div type="textpart" subtype="chapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2" n="24">
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="1">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="1">
             <p>
               <lb n="1459b 8"/>II. Besides this, Epic poetry must divide into the same 
               <lb n="1459b 9"/>species as Tragedy; 
@@ -2811,7 +2811,7 @@
               <lb n="1459b 9"/>it must be either simple or complex, 
               <lb n="1459b 10"/>a story of character or one of suffering. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="2">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="2">
             <p>Its parts, too, 
               <lb n="1459b 11"/>with the exception of Song and Spectacle, must be the 
               <lb n="1459b 12"/>same, as it requires Peripeties, Discoveries, and scenes of 
@@ -2820,7 +2820,7 @@
               <lb n="1459b 12"/>Lastly, the Thought and Diction 
               <lb n="1459b 13"/>in it must be good in their way. </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="3">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="3">
             <p>All these elements appear 
               <lb n="1459b 14"/>in Homer first; and he has made due use of them. His 
               <lb n="1459b 15"/>two poems are each examples of construction, the Iliad 
@@ -2830,13 +2830,13 @@
               <lb n="1459b 19"/>they surpass all other poems. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="4">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="4">
             <p>
               <lb n="1459b 17"/>There is, however, a difference in the Epic as compared 
               <lb n="1459b 18"/>with Tragedy, (1) in its length, and (2) in its metre. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="5">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="5">
             <p>
               <lb n="1459b 18"/>(1) As 
               <lb n="1459b 19"/>to its length, the limit already suggested will suffice: it must 
@@ -2846,7 +2846,7 @@
               <lb n="1459b 23"/>long as the series of tragedies offered for one hearing. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="6">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="6">
             <p>
               <lb n="1459b 22"/>For the extension of its length epic poetry has a special 
               <lb n="1459b 23"/>advantage, of which it makes large use. In a play one 
@@ -2858,7 +2858,7 @@
               <lb n="1459b 29"/>to the subject, increase the body of the poem. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="7">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="7">
             <p>
               <lb n="1459b 28"/>This then 
               <lb n="1459b 29"/>is a gain to the Epic, tending to give it grandeur, and also 
@@ -2867,7 +2867,7 @@
               <lb n="1459b 32"/>to ruin tragedies on the stage. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="8">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="8">
             <p>
               <lb n="1459b 31"/>(2) As for its metre, the 
               <lb n="1459b 32"/>heroic has been assigned it from experience; 
@@ -2877,14 +2877,14 @@
               <lb n="1459b 36"/>the other metres, the incongruity of the thing would be 
               <lb n="1459b 37"/>apparent.  </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="9">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="9">
             <p>The heroic in fact is the gravest and weightiest 
               <lb n="1459b 38"/>of metres—which is what makes it more tolerant than the 
               <lb n="1459b 39"/>rest of strange words and metaphors, that also being a point 
               <lb n="1459b 40"/>in which the narrative form of poetry goes beyond all others. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="10">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="10">
             <p>
               <pb n="1460a"/>
               <lb n="1460a 1"/>The iambic and trochaic, on the other hand, are metres of 
@@ -2892,14 +2892,14 @@
               <lb n="1460a 3"/>the other that of the dance. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="11">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="11">
             <p>
               <lb n="1460a 1"/>Still more unnatural would it 
               <lb n="1460a 2"/>appear, if one were to write an epic in a medley of metres, 
               <lb n="1460a 3"/>as Chaeremon did. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="12">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="12">
             <p>
               <lb n="1460a 3"/>Hence it is that no one has ever written 
               <lb n="1460a 4"/>a long story in any but heroic verse; nature herself, as we 
@@ -2907,7 +2907,7 @@
               <lb n="1460a 6"/>a story. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="13">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="13">
             <p>
               <lb n="1460a 5"/>Homer, admirable as he is in every other respect, is 
               <lb n="1460a 6"/>especially so in this, that he alone among epic poets is not 
@@ -2915,7 +2915,7 @@
               <lb n="1460a 8"/>the poem. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="14">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="14">
             <p>
               <lb n="1460a 7"/>The poet should say very little in propria persona, 
               <lb n="1460a 8"/>as he is no imitator when doing that. Whereas the other 
@@ -2926,7 +2926,7 @@
               <lb n="1460a 13"/>with distinctive characteristics. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="15">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="15">
             <p>
               <lb n="1460a 11"/>The marvellous is certainly required in Tragedy. The 
               <lb n="1460a 12"/>Epic, however, affords more opening for the improbable, 
@@ -2934,7 +2934,7 @@
               <lb n="1460a 14"/>are not visibly before one. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="16">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="16">
             <p>
               <lb n="1460a 14"/>The scene of the pursuit of 
               <lb n="1460a 15"/>Hector would be ridiculous on the stage—the Greeks halting 
@@ -2942,14 +2942,14 @@
               <lb n="1460a 17"/>stop them; but in the poem the absurdity is overlooked. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="17">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="17">
             <p>
               <lb n="1460a 17"/>The marvellous, however, is a cause of pleasure, as is shown 
               <lb n="1460a 18"/>by the fact that we all tell a story with additions, in the 
               <lb n="1460a 19"/>belief that we are doing our hearers a pleasure. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="18">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="18">
             <p>
               <lb n="1460a 18"/>Homer more than any other has taught the rest of us the 
               <lb n="1460a 19"/>art of framing lies in the right way. I mean the use of 
@@ -2964,13 +2964,13 @@
               <lb n="1460a 28"/>from the Bath-story in the Odyssey. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="19">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="19">
             <p>
               <lb n="1460a 26"/>A likely impossibility is always preferable to an uncon- 
               <lb n="1460a 27"/>vincing possibility. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="20">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="20">
             <p>
               <lb n="1460a 27"/>The story should never be made up of 
               <lb n="1460a 28"/>improbable incidents; there should be nothing of the sort 
@@ -2982,7 +2982,7 @@
               <lb n="1460a 34"/>on the way, in The Mysians. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="21">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="21">
             <p>
               <lb n="1460a 33"/>So that it is ridiculous to say 
               <lb n="1460a 34"/>that one's Plot would have been spoilt without them, since 
@@ -2992,7 +2992,7 @@
               <lb n="1460a 38"/>absurdity as well as a fault of art. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="22">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="22">
             <p>
               <lb n="1460a 35"/>Even in the Odyssey 
               <lb n="1460a 36"/>the improbabilities in the setting-ashore of Ulysses would be 
@@ -3001,7 +3001,7 @@
               <lb n="1460a 39"/>their absurdity. 
             </p>
           </div>
-          <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="23">
+          <div type="textpart" subtype="subchapter" xml:base="urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:24" n="23">
             <p>
               <pb n="1460b"/>
               <lb n="1460b 2"/>Elaborate Diction, however, is required 
@@ -3014,7 +3014,7 @@
         </div>
 
 <div type="textpart" subtype="chapter" n="25">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <pb n="1460b"/>
                             <lb n="1460b 6"/>As regards Problems and their Solutions, one may see 
@@ -3022,7 +3022,7 @@
                             <lb n="1460b 8"/>proceed by viewing the matter in the following way.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1460b 8"/>(1) The 
                             <lb n="1460b 9"/>poet being an imitator just like the painter or other maker 
@@ -3032,7 +3032,7 @@
                             <lb n="1460b 13"/>been, or as they ought to be.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1460b 13"/>(2) All this he does in 
                             <lb n="1460b 14"/>language, with an admixture, it may be, of strange words 
@@ -3040,7 +3040,7 @@
                             <lb n="1460b 16"/>words,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1460b 16"/>since the use of these is conceded in poetry.
                             <lb n="1460b 17"/>(3) It is to be remembered, too, that there is not the same kind 
@@ -3048,14 +3048,14 @@
                             <lb n="1460b 19"/>art.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1460b 19"/>There is, however, within the limits of poetry itself 
                             <lb n="1460b 20"/>a possibility of two kinds of error, the one directly, the 
                             <lb n="1460b 21"/>other only accidentally connected with the art.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1460b 22"/>If the poet meant to describe the thing correctly, and failed through 
                             <lb n="1460b 23"/>lack of power of expression, his art itself is at fault. But 
@@ -3068,7 +3068,7 @@
                             <lb n="1460b 30"/>in the essentials of the poetic art.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1460b 31"/>These, therefore, must 
                             <lb n="1460b 32"/>be the premisses of the Solutions in answer to the criticisms 
@@ -3078,7 +3078,7 @@
                             <lb n="1460b 36"/>are faults.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1460b 37"/>But from another point of view they are justifiable, 
                             <lb n="1460b 38"/>if they serve the end of poetry itself—if (to assume what we 
@@ -3087,7 +3087,7 @@
                             <lb n="1460b 41"/>an instance in point.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1460b 42"/>If, however, the poetic end might 
                             <lb n="1460b 43"/>have been as well or better attained without sacrifice of 
@@ -3096,7 +3096,7 @@
                             <lb n="1460b 46"/>entirely free from error.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1460b 47"/>One may ask, too, whether the 
                             <lb n="1460b 48"/>error is in a matter directly or only accidentally connected 
@@ -3105,7 +3105,7 @@
                             <lb n="1460b 51"/>to produce an unrecognizable picture of one.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1460b 52"/>II. If the poet's description be criticized as not true to 
                             <lb n="1460b 53"/>fact, one may urge perhaps that the object ought to be as 
@@ -3118,18 +3118,18 @@
                             <lb n="1460b 59"/>in accordance with opinion.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1460b 60"/>The tales about Gods, for 
                             <lb n="1460b 61"/>instance, may be as wrong </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>as Xenophanes thinks, neither 
                             <lb n="1460b 62"/>true nor the better thing to say; but they are certainly in 
                             <lb n="1460b 63"/>accordance with opinion.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             <lb n="1460b 64"/>Of other statements in poetry 
                             <lb n="1460b 65"/>one may perhaps say, not that they are better than the 
@@ -3139,7 +3139,7 @@
                             <lb n="1460b 69"/>as it is still with the Illyrians.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             <lb n="1460b 70"/>As for the question whether 
                             <lb n="1460b 71"/>something said or done in a poem is morally right or not, 
@@ -3151,7 +3151,7 @@
                             <lb n="1460b 77"/>evil.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             <lb n="1460b 78"/>III. Other criticisms one must meet by considering the 
                             <lb n="1460b 79"/>language of the poet: (1) by the assumption of a strange 
@@ -3165,7 +3165,7 @@
                             <lb n="1460b 87"/>quicker.’
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="17">
+                    <div type="textpart" subtype="subchapter" n="17">
                         <p>
                             <lb n="1460b 88"/>(2) Other expressions in Homer may be explained 
                             <lb n="1460b 89"/>as metaphorical; e.g. in <quote xml:lang="grc">ἄλλοι μέν ῥα θεοί τε καὶ ἀνέρες εἶδον 
@@ -3177,27 +3177,27 @@
                             <lb n="1460b 95"/>‘alone.’
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="18">
+                    <div type="textpart" subtype="subchapter" n="18">
                         <p>
                             <lb n="1460b 96"/>(3) A change, as Hippias suggested, in the mode 
                             <lb n="1460b 97"/>of reading a word will solve the difficulty in <quote xml:lang="grc">δίδομεν δέ οἱ</quote>, 
                             <lb n="1460b 98"/>and <quote xml:lang="grc">τὸ μὲν οὗ καταπύθεται ὄμβρῳ</quote>.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="19">
+                    <div type="textpart" subtype="subchapter" n="19">
                         <p>
                             <lb n="1460b 99"/>(4) Other difficulties may 
                             <lb n="1460b 100"/>be solved by another punctuation; e.g. in Empedocles, <quote xml:lang="grc">αἶψα 
                             <lb n="1460b 101"/>δὲ θνήτ᾽ ἐφύοντο, τὰ πρὶν μάθον ἀθάνατα ζωρά τε πρὶν κέκρητο</quote>.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="20">
+                    <div type="textpart" subtype="subchapter" n="20">
                         <p>
                             <lb n="1460b 102"/>(5) Or by the assumption of an equivocal term, as in <quote xml:lang="grc">παρῴ- 
                             <lb n="1460b 103"/>χηκεν δὲ πλέω νύξ</quote>, where <quote xml:lang="grc">πλέω</quote> is equivocal.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="21">
+                    <div type="textpart" subtype="subchapter" n="21">
                         <p>
                             <lb n="1460b 104"/>(6) Or by an 
                             <lb n="1460b 105"/>appeal to the custom of language. Wine-and-water we 
@@ -3210,7 +3210,7 @@
                             <lb n="1460b 112"/>metaphor.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="22">
+                    <div type="textpart" subtype="subchapter" n="22">
                         <p>
                             <lb n="1460b 113"/>But whenever also a word seems to imply some 
                             <lb n="1460b 114"/>contradiction, it is necessary to reflect how many ways there 
@@ -3219,12 +3219,12 @@
                             <lb n="1460b 117"/>the possible senses of ‘was stopped there’—
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="23">
+                    <div type="textpart" subtype="subchapter" n="23">
                         <p>
                             <lb n="1460b 118"/>whether by 
                             <lb n="1460b 119"/>taking it in this sense </p>
                     </div>
-                    <div type="textpart" subtype="section" n="24">
+                    <div type="textpart" subtype="subchapter" n="24">
                         <p>or in that one will best avoid the fault 
                             <lb n="1460b 120"/>of which Glaucon speaks:
                         
@@ -3235,7 +3235,7 @@
                             <lb n="1460b 125"/>statement conflicts with their own notion of things.’
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="25">
+                    <div type="textpart" subtype="subchapter" n="25">
                         <p>
                             <lb n="1460b 126"/>This 
                             <lb n="1460b 127"/>is how Homer's silence about Icarius has been treated. 
@@ -3248,27 +3248,27 @@
                             <lb n="1460b 134"/>of the critics that has given rise to the Problem.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="26">
+                    <div type="textpart" subtype="subchapter" n="26">
                         <p>
                             <lb n="1460b 135"/>Speaking generally, one has to justify (1) the Impossible 
                             <lb n="1460b 136"/>by reference to the requirements of poetry, or to the better, 
                             <lb n="1460b 137"/>or to opinion.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="27">
+                    <div type="textpart" subtype="subchapter" n="27">
                         <p>
                             <lb n="1460b 138"/>For the purposes of poetry a convincing 
                             <lb n="1460b 139"/>impossibility is preferable to an unconvincing possibility;
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="28">
+                    <div type="textpart" subtype="subchapter" n="28">
                         <p>
                             <lb n="1460b 140"/>and if men such as Zeuxis depicted be impossible, the 
                             <lb n="1460b 141"/>answer is that it is better they should be like that, as the 
                             <lb n="1460b 142"/>artist ought to improve on his model.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="29">
+                    <div type="textpart" subtype="subchapter" n="29">
                         <p>
                             <lb n="1460b 143"/>(2) The Improbable 
                             <lb n="1460b 144"/>one has to justify either by showing it to be in accordance 
@@ -3277,7 +3277,7 @@
                             <lb n="1460b 147"/>also against probability.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="30">
+                    <div type="textpart" subtype="subchapter" n="30">
                         <p>
                             <lb n="1460b 148"/>(3) The contradictions found in 
                             <lb n="1460b 149"/>the poet's language one should first test as one does 
@@ -3288,7 +3288,7 @@
                             <lb n="1460b 154"/>a man of sound sense assumes as true.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="31">
+                    <div type="textpart" subtype="subchapter" n="31">
                         <p>
                             <lb n="1460b 155"/>But there is no 
                             <lb n="1460b 156"/>possible apology for improbability of Plot or depravity of 
@@ -3297,7 +3297,7 @@
                             <lb n="1460b 159"/>in Medea and the baseness of Menelaus in Orestes.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="32">
+                    <div type="textpart" subtype="subchapter" n="32">
                         <p>
                             <lb n="1460b 160"/>The objections, then, of critics start with faults of five 
                             <lb n="1460b 161"/>kinds: the allegation is always that something is either (1) 
@@ -3309,13 +3309,13 @@
                     </div>
                 </div>
                 <div type="textpart" subtype="chapter" n="26">
-                    <div type="textpart" subtype="section" n="1">
+                    <div type="textpart" subtype="subchapter" n="1">
                         <p>
                             <lb n="1460b 166"/>The question may be raised whether the epic or the tragic 
                             <lb n="1460b 167"/>is the higher form of imitation.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="2">
+                    <div type="textpart" subtype="subchapter" n="2">
                         <p>
                             <lb n="1460b 168"/>It may be argued that, if 
                             <lb n="1460b 169"/>the less vulgar is the higher, and the less vulgar is always 
@@ -3323,7 +3323,7 @@
                             <lb n="1460b 171"/>any and every one is of a very vulgar order.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="3">
+                    <div type="textpart" subtype="subchapter" n="3">
                         <p>
                             <lb n="1460b 172"/>It is a belief 
                             <lb n="1460b 173"/>that their public cannot see the meaning, unless they add 
@@ -3333,7 +3333,7 @@
                             <lb n="1460b 177"/>the conductor, if Scylla is the subject of the piece.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="4">
+                    <div type="textpart" subtype="subchapter" n="4">
                         <p>
                             <lb n="1460b 178"/>Tragedy, 
                             <lb n="1460b 179"/>then, is said to be an art of this order—to be in fact just 
@@ -3345,7 +3345,7 @@
                             <lb n="1460b 185"/>actors.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="5">
+                    <div type="textpart" subtype="subchapter" n="5">
                         <p>
                             <lb n="1460b 186"/>The one, accordingly, is said to address a cultivated 
                             <lb n="1460b 187"/>audience, which does not need the accompaniment of gesture; 
@@ -3353,7 +3353,7 @@
                             <lb n="1460b 189"/>a vulgar art, it must clearly be lower than the Epic.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="6">
+                    <div type="textpart" subtype="subchapter" n="6">
                         <p>
                             <lb n="1460b 190"/>The answer to this is twofold. In the first place, one 
                             <lb n="1460b 191"/>may urge (1) that the censure does not touch the art of the 
@@ -3363,7 +3363,7 @@
                             <lb n="1460b 195"/>Mnasitheus of Opus.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="7">
+                    <div type="textpart" subtype="subchapter" n="7">
                         <p>
                             <lb n="1460b 196"/>(2) That one should not condemn 
                             <lb n="1460b 197"/>all movement, unless one means to condemn even the dance, 
@@ -3372,7 +3372,7 @@
                             <lb n="1460b 200"/>on others, that their women are not like gentlewomen.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="8">
+                    <div type="textpart" subtype="subchapter" n="8">
                         <p>
                             <lb n="1460b 201"/>(3) 
                             <lb n="1460b 202"/>That Tragedy may produce its effect even without movement 
@@ -3383,13 +3383,13 @@
                             <lb n="1462a 3"/>inferiority is no necessary part of it.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="9">
+                    <div type="textpart" subtype="subchapter" n="9">
                         <p>
                             <lb n="1462a 4"/>In the second place, one must remember (1) that Tragedy 
                             <lb n="1462a 5"/>has everything that the Epic has
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="10">
+                    <div type="textpart" subtype="subchapter" n="10">
                         <p>
                             <lb n="1462a 5"/>(even the epic metre being 
                             <lb n="1462a 6"/>admissible), together with a not inconsiderable addition in 
@@ -3397,14 +3397,14 @@
                             <lb n="1462a 8"/>of the drama) and the Spectacle.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="11">
+                    <div type="textpart" subtype="subchapter" n="11">
                         <p>
                             <lb n="1462a 9"/>(2) That its reality of 
                             <lb n="1462a 10"/>presentation is felt in the play as read, as well as in the 
                             <lb n="1462a 11"/>play as acted.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="12">
+                    <div type="textpart" subtype="subchapter" n="12">
                         <p>
                             <lb n="1462a 12"/>(3) That the tragic imitation requires less 
                             <lb n="1462a 13"/>space for the attainment of its end; (the more concentrated 
@@ -3414,7 +3414,7 @@
                             <lb n="1462a 17"/>lines of the Iliad);
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="13">
+                    <div type="textpart" subtype="subchapter" n="13">
                         <p>
                             <lb n="1462a 18"/>(4) That there is less unity in the 
                             <lb n="1462a 19"/>imitation of the epic poets, as is proved by the fact that 
@@ -3426,7 +3426,7 @@
                             <lb n="1462a 25"/>up of a plurality of actions,
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="14">
+                    <div type="textpart" subtype="subchapter" n="14">
                         <p>
                             <lb n="1462a 26"/>in the same way as the Iliad 
                             <lb n="1462a 27"/>and Odyssey have many such parts, each one of them in 
@@ -3435,7 +3435,7 @@
                             <lb n="1462a 30"/>them is as nearly as possible one action.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="15">
+                    <div type="textpart" subtype="subchapter" n="15">
                         <p>
                             <lb n="1462a 31"/>If, then, Tragedy is superior in these respects, and also 
                             <lb n="1462a 32"/>besides these, in its poetic effect (since the two forms of 
@@ -3445,7 +3445,7 @@
                             <lb n="1462a 36"/>the higher form of art.
                         </p>
                     </div>
-                    <div type="textpart" subtype="section" n="16">
+                    <div type="textpart" subtype="subchapter" n="16">
                         <p>
                             <lb n="1462a 37"/>So much for Tragedy and Epic poetry—for these two 
                             <lb n="1462a 38"/>arts in general and their species; the number and nature of 

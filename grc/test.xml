@@ -16,12 +16,12 @@
   </teiHeader>
   <text>
     <body>
-      <pb n="174" />
+      
       <div type="textpart" subtype="chapter" n="6">
         <div type="textpart" subtype="section" n="1450b">
           
           <div type="textpart" subtype="commline" n="1450b9">
-            <p>
+            <p><pb n="174" />
               <s><hi rend="sup">b</hi>9 <foreign xml:lang="grc">ὁποῖά τις.</foreign></s>
               <gloss>This (the reading of <hi rend="sup">o</hi>) is very rightly retained by <persName>Vahlen</persName>, who translates the clause by <quote><foreign xml:lang="lat">quod aperiat voluntatem, qualia quis in quibus apertum non est aut appetat aut fugiat</foreign></quote>; the explanation is added to show that <foreign xml:lang="grc">προαίρεσις</foreign> is to be taken in a wide sense, which may include aversion as well as desire. For an explanatory clause of this form <foreign xml:lang="lat">comp.</foreign> <cit><bibl>16, 1455b10</bibl></cit> <quote><foreign xml:lang="grc">συνελογίσαντο τὴν εἱμαρμένην ὅτι ἐν τούτῳ εἵμαρτο ἀποθανεῖν</foreign></quote>, and <cit><bibl><persName>Plato</persName> <title>Rep.</title> 535 A</bibl></cit> <quote><foreign xml:lang="grc">μέμνησαι οὖν τὴν προτέραν ἐκλογὴν τῶν ἀρχόντων, οἷους ἐξελέξαμεν ;</foreign></quote> <foreign xml:lang="grc">ἐν οἷς οὐκ ἔστι δῆλον</foreign> is added because there are situations in which the moral purpose of the agent is too obvious to require to be revealed in an 'ethical' speech; see <cit><bibl>19, 1456 b7</bibl></cit> for a parallel statement on the subject of <foreign xml:lang="grc">διάνοια</foreign>.</gloss>
             </p>

@@ -1,28 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title>Aristotle's Poetics: Butcher Translation</title>
-        <author>Aristotle</author>
-        <editor>Butcher, S. H. (Samuel Henry), 1850-1910.</editor>
+        <title>Poetics</title>
+        <author>Aristotle</author> 
+        <editor role="translator">S. H. (Samuel Henry) Butcher, 1850-1910.</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+         </respStmt>
+        <funder n="org:NEH">The National Endowment for the Humanities</funder>
       </titleStmt>
-      <editionStmt>
-        <edition>4th ed., [reprinted with corrections]</edition>
-      </editionStmt>
+      
       <publicationStmt>
-        <publisher>Macmillan</publisher>
-        <pubPlace>London</pubPlace>
-        <date>1911</date>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Digital Library Project</authority>
+        <date type="release" when="2026" cert="high">Perseus 2.0</date>
+        <idno type="filename">tlg0086.tlg034.butcher1911-eng2.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+        </availability>
       </publicationStmt>
+      
       <sourceDesc>
-        <p>Digitized from the Butcher 1911 edition, following the Bekker lineation of the 1831 Berlin edition.</p>
+        <biblStruct>
+          <monogr>
+            <author>Aristotle</author>
+            <title>Aristotle's Poetics</title>
+            <editor role="translator">S. H. Butcher</editor>
+            <edition>4th ed., [reprinted with corrections]</edition>
+            <imprint>
+              <publisher>Macmillan</publisher>
+              <pubPlace>London</pubPlace>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+          
+          <note>Digitized from the Butcher 1911 edition, following the Bekker lineation of the 1831 Berlin edition.</note>
+        </biblStruct>
       </sourceDesc>
     </fileDesc>
+    
+    <encodingDesc>
+      <editorialDecl>
+        <p>Text formatted to synchronize with the canonical layout mapping framework of the Perseus Digital Library Project.</p>
+      </editorialDecl>
+      <refsDecl n="CTS">
+        <cRefPattern matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])" n="chapter">
+          <p>This pointer pattern extracts chapters</p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
+    </profileDesc>
+    		<revisionDesc>
+			<change when="2026-05-22" who="GRC">Updated the file.</change>
+
+		</revisionDesc>
+
   </teiHeader>
   <text xml:lang="eng">
     <body>
-      <div type="chapter" n="1">
-        <div type="section" n="1">
+      <div type="translation" n="urn:cts:greekLit:tlg0086.tlg034.butcher1911-eng2" xml:lang="eng">
+
+      <div type="textpart" subtype="chapter" n="1">
+        <div type="textpart" subtype="subchapter" n="1">
           <pb n="1447a"/>
           <p>
             <lb n="8"/>I propose to treat of Poetry in itself and of its various
@@ -35,7 +87,7 @@
             <lb n="15"/>first.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="16"/>Epic poetry and Tragedy, Comedy also and Dithyrambic
             <lb n="17"/>poetry, and the music of the flute and of the lyre in
@@ -43,14 +95,14 @@
             <lb n="19"/>modes of imitation.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="20"/>They differ, however, from one another in three respects,—the
             <lb n="21"/>medium, the objects, the manner or mode of imitation,
             <lb n="22"/>being in each case distinct.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="23"/>For as there are persons who, by conscious art or mere
             <lb n="24"/>habit, imitate and represent various objects through the
@@ -60,7 +112,7 @@
             <lb n="28"/>or combined.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="29"/>Thus in the music of the flute and of the lyre, 'harmony'
             <lb n="30"/>and rhythm alone are employed; also in other arts, such
@@ -68,14 +120,14 @@
             <lb n="32"/>similar to these.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="33"/>In dancing, rhythm alone is used without 'harmony';
             <lb n="34"/>for even dancing imitates character, emotion, and action,
             <lb n="35"/>by rhythmical movement.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <pb n="1447b"/>
           <p>
             <lb n="1"/>There is another art which imitates by means of language
@@ -84,20 +136,20 @@
             <lb n="4"/>kind—but this has hitherto been without a name.
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="5"/>For there is no common term we could apply to the
             <lb n="6"/>mimes of Sophron and Xenarchus and the Socratic
             <lb n="7"/>dialogues on the one hand;
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="8"/>and, on the other, to poetic imitations in iambic, elegiac,
             <lb n="9"/>or any similar metre.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="10"/>People do, indeed, add the word 'maker' or 'poet' to the
             <lb n="11"/>name of the metre, and speak of elegiac poets, or epic
@@ -106,7 +158,7 @@
             <lb n="14"/>indiscriminately to the name.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="15"/>Even when a treatise on medicine or natural science is
             <lb n="16"/>brought out in verse, the name of poet is by custom given
@@ -116,7 +168,7 @@
             <lb n="20"/>poet.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="21"/>On the same principle, even if a writer in his poetic
             <lb n="22"/>imitation were to combine all metres, as Chaeremon did in
@@ -125,7 +177,7 @@
             <lb n="25"/>poet. So much then for these distinctions.
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="26"/>There are, again, some arts which employ all the means
             <lb n="27"/>above mentioned, namely, rhythm, tune, and metre. Such
@@ -134,15 +186,15 @@
             <lb n="30"/>μέρος.
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="31"/>Such, then, are the differences of the arts with respect
             <lb n="32"/>to the medium of imitation.
           </p>
         </div>
       </div>
-      <div type="chapter" n="2">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="2">
+        <div type="textpart" subtype="subchapter" n="1">
           <pb n="1448a"/>
           <p>
             <lb n="1"/>Since the objects of imitation are men in action, and
@@ -154,14 +206,14 @@
             <lb n="7"/>are.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="8"/>It is the same in painting. Polygnotus depicted men as
             <lb n="9"/>nobler than they are, Pauson as less noble, Dionysius
             <lb n="10"/>drew them true to life.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="11"/>Now it is evident that each of the modes of imitation
             <lb n="12"/>above mentioned will exhibit these differences, and
@@ -169,13 +221,13 @@
             <lb n="14"/>distinct.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="15"/>Such diversities may be found even in dancing, flute-playing,
             <lb n="16"/>and lyre-playing.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="17"/>So again in language, whether prose or verse
             <lb n="18"/>unaccompanied by music. Homer, for example, makes
@@ -185,14 +237,14 @@
             <lb n="22"/>are.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="23"/>The same thing holds good of Dithyrambs and Nomes;
             <lb n="24"/>here too one may portray different types, as Timotheus
             <lb n="25"/>and Philoxenus differed in representing their Cyclopes.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="26"/>The same distinction marks off Tragedy from Comedy;
             <lb n="27"/>for Comedy aims at representing men as worse, Tragedy
@@ -200,14 +252,14 @@
           </p>
         </div>
       </div>
-      <div type="chapter" n="3">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="3">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="29"/>There is still a third difference—the manner in which
             <lb n="30"/>each of these objects may be imitated.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="31"/>For the medium being the same, and the objects the same,
             <lb n="32"/>the poet may imitate by narration—in which case he can
@@ -216,14 +268,14 @@
             <lb n="35"/>characters as living and moving before us.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="36"/>These, then, as we said at the beginning, are the three
             <lb n="37"/>differences which distinguish artistic imitation,—the
             <lb n="38"/>medium, the objects, and the manner.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="39"/>So that from one point of view, Sophocles is an imitator
             <lb n="40"/>of the same kind as Homer—for both imitate higher types
@@ -232,7 +284,7 @@
             <lb n="43"/>doing.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="44"/>Hence, some say, the name of 'drama' is given to such
             <lb n="45"/>poems, as representing action. For the same reason the
@@ -247,7 +299,7 @@
             <lb n="54"/>language.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <pb n="1448b"/>
           <p>
             <lb n="1"/>The outlying villages, they say, are by them called κῶμαι,
@@ -259,7 +311,7 @@
             <lb n="7"/>Athenian, πράττειν.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="8"/>About the differences, then, of imitation, their number
             <lb n="9"/>and nature, let this suffice.
@@ -267,14 +319,14 @@
         </div>
       </div>
 
-<div type="chapter" n="4">
-  <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="4">
+  <div type="textpart" subtype="subchapter" n="1">
     <p>
       <lb n="1448b 4"/>Poetry in general seems to have sprung from two
       <lb n="1448b 5"/>causes, each of them lying deep in our nature.
     </p>
   </div>
-  <div type="section" n="2">
+  <div type="textpart" subtype="subchapter" n="2">
     <p>
       <lb n="1448b 5"/>First, the instinct of imitation is implanted in man 
       <lb n="1448b 6"/>from childhood, one difference between him and other 
@@ -283,7 +335,7 @@
       <lb n="1448b 9"/>lessons; and no less universal is the pleasure felt in things imitated.
     </p>
   </div>
-  <div type="section" n="3">
+  <div type="textpart" subtype="subchapter" n="3">
     <p>
       <lb n="1448b 9"/>We have evidence of this in the facts of experience. 
       <lb n="1448b 10"/>Objects which in themselves we view with pain, we 
@@ -291,7 +343,7 @@
       <lb n="1448b 12"/>fidelity: such as the forms of the most ignoble animals and of dead bodies.
     </p>
   </div>
-  <div type="section" n="4">
+  <div type="textpart" subtype="subchapter" n="4">
     <p>
       <lb n="1448b 12"/>The cause of this again is, that to 
       <lb n="1448b 13"/>learn gives the liveliest pleasure, not only to philosophers 
@@ -299,21 +351,21 @@
       <lb n="1448b 15"/>learning is more limited.
     </p>
   </div>
-  <div type="section" n="5">
+  <div type="textpart" subtype="subchapter" n="5">
     <p>
       <lb n="1448b 15"/>Thus the reason why men enjoy seeing a likeness is, that 
       <lb n="1448b 16"/>in contemplating it they find themselves learning or 
       <lb n="1448b 17"/>inferring, and saying perhaps, 'Ah, that is he.'
     </p>
   </div>
-  <div type="section" n="6">
+  <div type="textpart" subtype="subchapter" n="6">
     <p>
       <lb n="1448b 17"/>For if you happen not to have seen the original, 
       <lb n="1448b 18"/>the pleasure will be due not to the imitation as 
       <lb n="1448b 19"/>such, but to the execution, the colouring, or some such other cause.
     </p>
   </div>
-  <div type="section" n="7">
+  <div type="textpart" subtype="subchapter" n="7">
     <p>
       <lb n="1448b 20"/>Imitation, then, is one instinct of our nature. Next, 
       <lb n="1448b 21"/>there is the instinct for 'harmony' and rhythm, metres 
@@ -323,7 +375,7 @@
       <lb n="1448b 24"/>special aptitudes, till their rude improvisations gave birth to Poetry.
     </p>
   </div>
-  <div type="section" n="8">
+  <div type="textpart" subtype="subchapter" n="8">
     <p>
       <lb n="1448b 24"/>Poetry now diverged in two directions, according to 
       <lb n="1448b 25"/>the individual character of the writers. The graver 
@@ -331,13 +383,13 @@
       <lb n="1448b 27"/>good men. The more trivial sort imitated the actions of meaner persons, at first composing satires, as the former did hymns to the gods and the praises of famous men.
     </p>
   </div>
-  <div type="section" n="9">
+  <div type="textpart" subtype="subchapter" n="9">
     <p>
       <lb n="1448b 28"/>A poem of the satirical kind cannot indeed be put down to 
       <lb n="1448b 29"/>any author earlier than Homer; though many such writers probably there were.
     </p>
   </div>
-  <div type="section" n="10">
+  <div type="textpart" subtype="subchapter" n="10">
     <p>
       <lb n="1448b 29"/>But from Homer onward, instances 
       <lb n="1448b 30"/>can be cited, his own Margites, for example, and other 
@@ -345,13 +397,13 @@
       <lb n="1448b 32"/>here introduced; hence the measure is still called the iambic or lampooning measure, being that in which people lampooned one another.
     </p>
   </div>
-  <div type="section" n="11">
+  <div type="textpart" subtype="subchapter" n="11">
     <p>
       <lb n="1448b 33"/>Thus the older poets were distinguished as 
       <lb n="1448b 34"/>writers of heroic or of iambic verse.
     </p>
   </div>
-  <div type="section" n="12">
+  <div type="textpart" subtype="subchapter" n="12">
     <p>
       <lb n="1448b 34"/>As, in the serious style, Homer is pre-eminent among 
       <lb n="1448b 35"/>poets, for he alone combined dramatic form with 
@@ -362,7 +414,7 @@
       <lb n="1449a 2"/>do to Tragedy.
     </p>
   </div>
-  <div type="section" n="13">
+  <div type="textpart" subtype="subchapter" n="13">
     <p>
       <lb n="1449a 3"/>But when Tragedy and Comedy came 
       <lb n="1449a 4"/>to light, the two classes of poets still followed their 
@@ -371,7 +423,7 @@
       <lb n="1449a 7"/>since the drama was a larger and higher form of art.
     </p>
   </div>
-  <div type="section" n="14">
+  <div type="textpart" subtype="subchapter" n="14">
     <p>
       <lb n="1449a 7"/>Whether Tragedy has as yet perfected its proper types 
       <lb n="1449a 8"/>or not; and whether it is to be judged in itself, or 
@@ -384,12 +436,12 @@
       <lb n="1449a 14"/>new element that showed itself was in turn developed.
     </p>
   </div>
-  <div type="section" n="15">
+  <div type="textpart" subtype="subchapter" n="15">
     <p>
       <lb n="1449a 14"/>Having passed through many changes, it found its natural form, and there it stopped.
     </p>
   </div>
-  <div type="section" n="16">
+  <div type="textpart" subtype="subchapter" n="16">
     <p>
       <lb n="1449a 15"/>Aeschylus first introduced a second actor; he 
       <lb n="1449a 16"/>diminished the importance of the Chorus, and assigned 
@@ -397,14 +449,14 @@
       <lb n="1449a 18"/>the number of actors to three, and added scene-painting.
     </p>
   </div>
-  <div type="section" n="17">
+  <div type="textpart" subtype="subchapter" n="17">
     <p>
       <lb n="1449a 19"/>Moreover, it was not till late that the short plot was 
       <lb n="1449a 20"/>discarded for one of greater compass, and the grotesque 
       <lb n="1449a 21"/>diction of the earlier satyric form for the stately manner of Tragedy.
     </p>
   </div>
-  <div type="section" n="18">
+  <div type="textpart" subtype="subchapter" n="18">
     <p>
       <lb n="1449a 22"/>The iambic measure then replaced the trochaic 
       <lb n="1449a 23"/>tetrameter, which was originally employed when the 
@@ -413,14 +465,14 @@
       <lb n="1449a 26"/>Nature herself discovered the appropriate measure.
     </p>
   </div>
-  <div type="section" n="19">
+  <div type="textpart" subtype="subchapter" n="19">
     <p>
       <lb n="1449a 26"/>For the iambic is, of all measures, the most colloquial: 
       <lb n="1449a 27"/>we see it in the fact that conversational speech runs 
       <lb n="1449a 28"/>into iambic lines more frequently than into any other kind of verse; while alexandrines are rare, and only occur when we depart from the natural tone of utterance.
     </p>
   </div>
-  <div type="section" n="20">
+  <div type="textpart" subtype="subchapter" n="20">
     <p>
       <lb n="1449a 28"/>The additions to the number of 'episodes' 
       <pb n="20"/>
@@ -428,22 +480,22 @@
       <lb n="1449a 30"/>tells, must be taken as already described;
     </p>
   </div>
-  <div type="section" n="21">
+  <div type="textpart" subtype="subchapter" n="21">
     <p>
       <lb n="1449a 30"/>for to go through the details of their introduction would, 
       <lb n="1449a 31"/>doubtless, be a large undertaking.
     </p>
   </div>
 </div>
-<div type="chapter" n="5">
-  <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="5">
+  <div type="textpart" subtype="subchapter" n="1">
     <p>
       <lb n="1449a 31"/>Comedy is, as we have said, an imitation of characters 
       <lb n="1449a 32"/>of a lower type—not, however, in the full sense of the 
       <lb n="1449a 33"/>word bad, the Ludicrous being merely a subdivision of the ugly.
     </p>
   </div>
-  <div type="section" n="2">
+  <div type="textpart" subtype="subchapter" n="2">
     <p>
       <lb n="1449a 33"/>It consists in some defect or ugliness which 
       <lb n="1449a 34"/>is not painful or destructive. To take an obvious 
@@ -451,7 +503,7 @@
       <lb n="1449a 36"/>not imply pain.
     </p>
   </div>
-  <div type="section" n="3">
+  <div type="textpart" subtype="subchapter" n="3">
     <p>
       <lb n="1449a 37"/>The successive changes through which Tragedy passed, 
       <lb n="1449a 38"/>and the authors of these changes, are well known, whereas 
@@ -460,7 +512,7 @@
       <lb n="1449b 2"/>treated seriously. It was late before the Archon granted a comic chorus to a poet; the performers were till then voluntary.
     </p>
   </div>
-  <div type="section" n="4">
+  <div type="textpart" subtype="subchapter" n="4">
     <p>
       <lb n="1449b 3"/>Comedy had already taken definite shape 
       <lb n="1449b 4"/>when comic poets, distinctively so called, are heard of. 
@@ -468,20 +520,20 @@
       <lb n="1449b 6"/>the number of actors, these and other similar details remain unknown.
     </p>
   </div>
-  <div type="section" n="5">
+  <div type="textpart" subtype="subchapter" n="5">
     <p>
       <lb n="1449b 6"/>As for the plot, it came originally 
       <lb n="1449b 7"/>from Sicily;
     </p>
   </div>
-  <div type="section" n="6">
+  <div type="textpart" subtype="subchapter" n="6">
     <p>
       <lb n="1449b 8"/>but of Athenian writers Crates was the 
       <lb n="1449b 9"/>first who, abandoning the 'iambic' or lampooning form, 
       <lb n="1449b 10"/>generalised his themes and plots.
     </p>
   </div>
-  <div type="section" n="7">
+  <div type="textpart" subtype="subchapter" n="7">
     <p>
       <lb n="1449b 10"/>Epic poetry agrees with Tragedy in so far as it is an 
       <lb n="1449b 11"/>imitation in verse of characters of a higher type. They 
@@ -489,27 +541,27 @@
       <lb n="1449b 13"/>metre, and is narrative in form.
     </p>
   </div>
-  <div type="section" n="8">
+  <div type="textpart" subtype="subchapter" n="8">
     <p>
       <lb n="1449b 13"/>They differ, again, 
       <lb n="1449b 14"/>in their length: for Tragedy endeavours, as far as 
       <lb n="1449b 15"/>possible, to confine itself within a single revolution of the sun, or but slightly to exceed this limit;
     </p>
   </div>
-  <div type="section" n="9">
+  <div type="textpart" subtype="subchapter" n="9">
     <p>
       <lb n="1449b 15"/>whereas the 
       <lb n="1449b 16"/>Epic action has no limits of time. This, then, is a 
       <lb n="1449b 17"/>second point of difference; though at first the same freedom was admitted in Tragedy as in Epic poetry.
     </p>
   </div>
-  <div type="section" n="10">
+  <div type="textpart" subtype="subchapter" n="10">
     <p>
       <lb n="1449b 17"/>Of their constituent parts some are common to both, 
       <lb n="1449b 18"/>some peculiar to Tragedy:
     </p>
   </div>
-  <div type="section" n="11">
+  <div type="textpart" subtype="subchapter" n="11">
     <p>
       <lb n="1449b 18"/>whoever, therefore, knows 
       <lb n="1449b 19"/>what is good or bad Tragedy, knows also about Epic 
@@ -518,15 +570,15 @@
     </p>
   </div>
 </div>
-<div type="chapter" n="6">
-  <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="6">
+  <div type="textpart" subtype="subchapter" n="1">
     <p>
       <lb n="1449b 21"/>Of the poetry which imitates in hexameter verse, and 
       <lb n="1449b 22"/>of Comedy, we will speak hereafter. Let us now discuss 
       <lb n="1449b 23"/>Tragedy, resuming its formal definition, as resulting from what has been already said.
     </p>
   </div>
-  <div type="section" n="2">
+  <div type="textpart" subtype="subchapter" n="2">
     <p>
       <lb n="1449b 24"/>Tragedy, then, is an imitation of an action that is 
       <lb n="1449b 25"/>serious, complete, and of a certain magnitude; in 
@@ -535,20 +587,20 @@
       <lb n="1449b 28"/>play; in the form of action, not of narrative; through pity and fear effecting the proper purgation of these emotions.
     </p>
   </div>
-  <div type="section" n="3">
+  <div type="textpart" subtype="subchapter" n="3">
     <p>
       <lb n="1449b 28"/>By 
       <lb n="1449b 29"/>'language embellished,' I mean language into which rhythm, 'harmony,' and song enter.
     </p>
   </div>
-  <div type="section" n="4">
+  <div type="textpart" subtype="subchapter" n="4">
     <p>
       <lb n="1449b 29"/>By 'the several kinds 
       <lb n="1449b 30"/>in separate parts,' I mean, that some parts are rendered 
       <lb n="1449b 31"/>through the medium of verse alone, others again with the aid of song.
     </p>
   </div>
-  <div type="section" n="5">
+  <div type="textpart" subtype="subchapter" n="5">
     <p>
       <lb n="1449b 32"/>Now as tragic imitation implies persons acting, it neces- 
       <lb n="1449b 33"/>sarily follows, in the first place, that Spectacular equip- 
@@ -556,7 +608,7 @@
       <lb n="1449b 35"/>for these are the medium of imitation.
     </p>
   </div>
-  <div type="section" n="6">
+  <div type="textpart" subtype="subchapter" n="6">
     <p>
       <lb n="1449b 35"/>By 'Diction' 
       <pb n="24"/>
@@ -564,7 +616,7 @@
       <lb n="1449b 37"/>as for 'Song,' it is a term whose sense every one understands.
     </p>
   </div>
-  <div type="section" n="7">
+  <div type="textpart" subtype="subchapter" n="7">
     <p>
       <lb n="1449b 38"/>Again, Tragedy is the imitation of an action; and an 
       <lb n="1449b 39"/>action implies personal agents, who necessarily possess 
@@ -575,7 +627,7 @@
       <lb n="1450a 3"/>causes from which actions spring, and on actions again all success or failure depends.
     </p>
   </div>
-  <div type="section" n="8">
+  <div type="textpart" subtype="subchapter" n="8">
     <p>
       <lb n="1450a 3"/>Hence, the Plot is the 
       <lb n="1450a 4"/>imitation of the action—for by plot I here mean the 
@@ -584,28 +636,28 @@
       <lb n="1450a 7"/>the agents. Thought is required wherever a statement is proved, or, it may be, a general truth enunciated.
     </p>
   </div>
-  <div type="section" n="9">
+  <div type="textpart" subtype="subchapter" n="9">
     <p>
       <lb n="1450a 7"/>Every Tragedy, therefore, must have six parts, which 
       <lb n="1450a 8"/>parts determine its quality—namely, Plot, Character, 
       <lb n="1450a 9"/>Diction, Thought, Spectacle, Song.
     </p>
   </div>
-  <div type="section" n="10">
+  <div type="textpart" subtype="subchapter" n="10">
     <p>
       <lb n="1450a 10"/>Two of the parts con- 
       <lb n="1450a 11"/>stitute the medium of imitation, one the manner, and three 
       <lb n="1450a 12"/>the objects of imitation. And these complete the list.
     </p>
   </div>
-  <div type="section" n="11">
+  <div type="textpart" subtype="subchapter" n="11">
     <p>
       <lb n="1450a 12"/>These elements have been employed, we may say, by the 
       <lb n="1450a 13"/>poets to a man; in fact, every play contains Spectacular 
       <lb n="1450a 14"/>elements as well as Character, Plot, Diction, Song, and Thought.
     </p>
   </div>
-  <div type="section" n="12">
+  <div type="textpart" subtype="subchapter" n="12">
     <p>
       <lb n="1450a 15"/>But most important of all is the structure of the 
       <pb n="26"/>
@@ -614,7 +666,7 @@
       <lb n="1450a 18"/>and its end is a mode of action, not a quality. Now character determines men's qualities, but it is by their actions that they are happy or the reverse.
     </p>
   </div>
-  <div type="section" n="13">
+  <div type="textpart" subtype="subchapter" n="13">
     <p>
       <lb n="1450a 19"/>Dramatic action, therefore, is not with a view to the 
       <lb n="1450a 20"/>representation of character: character comes in as 
@@ -622,13 +674,13 @@
       <lb n="1450a 22"/>the plot are the end of a tragedy; and the end is the chief thing of all.
     </p>
   </div>
-  <div type="section" n="14">
+  <div type="textpart" subtype="subchapter" n="14">
     <p>
       <lb n="1450a 23"/>Again, without action there cannot be a tragedy; 
       <lb n="1450a 24"/>there may be without character.
     </p>
   </div>
-  <div type="section" n="15">
+  <div type="textpart" subtype="subchapter" n="15">
     <p>
       <lb n="1450a 24"/>The tragedies of most of our 
       <lb n="1450a 25"/>modern poets fail in the rendering of character; and 
@@ -637,7 +689,7 @@
       <lb n="1450a 28"/>and Polygnotus. Polygnotus delineates character well: the style of Zeuxis is devoid of ethical quality.
     </p>
   </div>
-  <div type="section" n="16">
+  <div type="textpart" subtype="subchapter" n="16">
     <p>
       <lb n="1450a 28"/>Again, if you string 
       <lb n="1450a 29"/>together a set of speeches expressive of character, and 
@@ -646,28 +698,28 @@
       <lb n="1450a 32"/>with a play which, however deficient in these respects, yet has a plot and artistically constructed incidents.
     </p>
   </div>
-  <div type="section" n="17">
+  <div type="textpart" subtype="subchapter" n="17">
     <p>
       <lb n="1450a 32"/>Besides which, the most powerful elements of emotional 
       <lb n="1450a 33"/>interest in Tragedy—Peripeteia or Reversal of the 
       <lb n="1450a 34"/>Situation, and Recognition scenes—are parts of the plot.
     </p>
   </div>
-  <div type="section" n="18">
+  <div type="textpart" subtype="subchapter" n="18">
     <p>
       <lb n="1450a 34"/>A further proof is, that novices in the art attain to finish 
       <lb n="1450a 35"/>of diction and precision of portraiture before they can 
       <lb n="1450a 36"/>construct the plot. It is the same with almost all the early poets.
     </p>
   </div>
-  <div type="section" n="19">
+  <div type="textpart" subtype="subchapter" n="19">
     <p>
       <lb n="1450a 38"/>The Plot, then, is the first principle, and, as it were, 
       <pb n="28"/>
       <lb n="1450a 39"/>the soul of a tragedy: Character holds the second place.
     </p>
   </div>
-  <div type="section" n="20">
+  <div type="textpart" subtype="subchapter" n="20">
     <p>
       <lb n="1450a 39"/>A 
       <lb n="1450b 1"/>similar fact is seen in painting. The most beautiful 
@@ -675,13 +727,13 @@
       <lb n="1450b 3"/>pleasure as the chalk outline of a portrait.
     </p>
   </div>
-  <div type="section" n="21">
+  <div type="textpart" subtype="subchapter" n="21">
     <p>
       <lb n="1450b 3"/>Thus Tragedy is the 
       <lb n="1450b 4"/>imitation of an action, and of the agents mainly with a view to the action.
     </p>
   </div>
-  <div type="section" n="22">
+  <div type="textpart" subtype="subchapter" n="22">
     <p>
       <lb n="1450b 4"/>Third in order is Thought, that is, the 
       <lb n="1450b 5"/>faculty of saying what is possible and pertinent in 
@@ -689,13 +741,13 @@
       <lb n="1450b 7"/>function of the political art and of the art of rhetoric: and so indeed the older poets make their characters speak the language of civic life;
     </p>
   </div>
-  <div type="section" n="23">
+  <div type="textpart" subtype="subchapter" n="23">
     <p>
       <lb n="1450b 7"/>the 
       <lb n="1450b 8"/>poets of our time, the language of the rhetoricians.
     </p>
   </div>
-  <div type="section" n="24">
+  <div type="textpart" subtype="subchapter" n="24">
     <p>
       <lb n="1450b 8"/>Character is that which reveals moral 
       <lb n="1450b 9"/>purpose, showing what kind of things a man chooses or 
@@ -703,14 +755,14 @@
       <lb n="1450b 11"/>manifest, or in which the speaker does not choose or avoid anything whatever, are not expressive of character.
     </p>
   </div>
-  <div type="section" n="25">
+  <div type="textpart" subtype="subchapter" n="25">
     <p>
       <lb n="1450b 11"/>Thought, on the other hand, is found where something is 
       <lb n="1450b 12"/>proved to be or not to be, or a general maxim is 
       <lb n="1450b 13"/>enunciated.
     </p>
   </div>
-  <div type="section" n="26">
+  <div type="textpart" subtype="subchapter" n="26">
     <p>
       <lb n="1450b 13"/>Fourth among the elements enumerated comes 
       <lb n="1450b 14"/>Diction; by which I mean, as has been already said, the 
@@ -718,13 +770,13 @@
       <lb n="1450b 16"/>the same both in verse and prose.
     </p>
   </div>
-  <div type="section" n="27">
+  <div type="textpart" subtype="subchapter" n="27">
     <p>
       <lb n="1450b 16"/>Of the remaining elements 
       <lb n="1450b 17"/>Song holds the chief place among the embellishments.
     </p>
   </div>
-  <div type="section" n="28">
+  <div type="textpart" subtype="subchapter" n="28">
     <p>
       <lb n="1450b 17"/>The 
       <lb n="1450b 18"/>Spectacle has, indeed, an emotional attraction of its 
@@ -736,8 +788,8 @@
   </div>
 </div>
 
-<div type="chapter" n="7">
-        <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="7">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <pb n="1450b"/>
             <lb n="1450b 21"/>These principles being established, let us now discuss
@@ -745,7 +797,7 @@
             <lb n="1450b 23"/>and most important thing in Tragedy.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1450b 24"/>Now, according to our definition, Tragedy is an
             <lb n="1450b 25"/>imitation of an action that is complete, and whole, and
@@ -753,40 +805,40 @@
             <lb n="1450b 27"/>is wanting in magnitude.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1450b 27"/>A whole is that which has
             <lb n="1450b 28"/>a beginning, a middle, and an end.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1450b 28"/>A beginning is that
             <lb n="1450b 29"/>which does not itself follow anything by causal necessity,
             <lb n="1450b 30"/>but after which something naturally is or comes to be.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1450b 30"/>An end, on the contrary, is that which itself naturally
             <lb n="1450b 31"/>follows some other thing, either by necessity, or as a rule,
             <lb n="1450b 32"/>but has nothing following it.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1450b 32"/>A middle is that which
             <lb n="1450b 33"/>follows something as some other thing follows it.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1450b 33"/>A well
             <lb n="1450b 34"/>constructed plot, therefore, must neither begin nor end
             <lb n="1450b 35"/>at haphazard, but conform to these principles.
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1450b 35"/>Again, a beautiful object, whether it be a living
             <lb n="1450b 36"/>organism or any whole composed of parts, must not
@@ -794,7 +846,7 @@
             <lb n="1450b 38"/>also be of a certain magnitude;
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1450b 38"/>for beauty depends on
             <lb n="1450b 39"/>magnitude and order. Hence a very small animal
@@ -807,7 +859,7 @@
             <lb n="1451a 6"/>long.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1451a 3"/>As, therefore, in the case of animate bodies and
             <lb n="1451a 4"/>organisms a certain magnitude is necessary, and a magni-
@@ -816,7 +868,7 @@
             <lb n="1451a 7"/>which can be easily embraced by the memory.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1451a 6"/>The
             <lb n="1451a 7"/>limit of length in relation to dramatic competition and
@@ -827,7 +879,7 @@
             <lb n="1451a 12"/>done.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1451a 9"/>But the limit as fixed by the nature of the
             <lb n="1451a 10"/>drama itself is this: — the greater the length, the
@@ -841,8 +893,8 @@
           </p>
         </div>
       </div>
-      <div type="chapter" n="8">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="8">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1451a 16"/>Unity of plot does not, as some persons think, consist
             <lb n="1451a 17"/>in the unity of the hero. For infinitely various are the
@@ -851,7 +903,7 @@
             <lb n="1451a 20"/>out of which we cannot make one action.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1451a 19"/>Hence the
             <lb n="1451a 20"/>error, as it appears, of all poets who have composed a
@@ -860,7 +912,7 @@
             <lb n="1451a 23"/>Heracles must also be a unity.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1451a 22"/>But Homer, as in all
             <lb n="1451a 23"/>else he is of surpassing merit, here too — whether from
@@ -874,7 +926,7 @@
             <lb n="1451a 31"/>sense of the word is one.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1451a 30"/>As therefore, in the other
             <lb n="1451a 31"/>imitative arts, the imitation is one when the object imitated
@@ -888,8 +940,8 @@
           </p>
         </div>
       </div>
-      <div type="chapter" n="9">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="9">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1451a 36"/>It is, moreover, evident from what has been said,
             <lb n="1451a 37"/>that it is not the function of the poet to relate what
@@ -897,7 +949,7 @@
             <lb n="1451b 1"/>according to the law of probability or necessity.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <pb n="1451b"/>
             <lb n="1451b 1"/>The
@@ -909,14 +961,14 @@
             <lb n="1451b 7"/>happen.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1451b 5"/>Poetry, therefore, is a more philosophical and
             <lb n="1451b 6"/>a higher thing than history: for poetry tends to express
             <lb n="1451b 7"/>the universal, history the particular.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1451b 8"/>By the universal
             <lb n="1451b 9"/>I mean how a person of a certain type will on occasion
@@ -925,7 +977,7 @@
             <lb n="1451b 12"/>aims in the names she attaches to the personages.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1451b 11"/>The
             <lb n="1451b 12"/>particular is — for example — what Alcibiades did or
@@ -935,7 +987,7 @@
             <lb n="1451b 16"/>the lampooners who write about particular individuals.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1451b 15"/>But tragedians still keep to real names, the reason being
             <lb n="1451b 16"/>that what is possible is credible: what has not happened
@@ -944,7 +996,7 @@
             <lb n="1451b 19"/>have happened.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1451b 19"/>Still there are even some tragedies in
             <lb n="1451b 20"/>which there are only one or two well known names, the rest
@@ -953,13 +1005,13 @@
             <lb n="1451b 23"/>are fictitious, and yet they give none the less pleasure.
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1451b 23"/>We must not, therefore, at all costs keep to the received
             <lb n="1451b 24"/>legends, which are the usual subjects of Tragedy.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1451b 25"/>Indeed,
             <lb n="1451b 26"/>it would be absurd to attempt it; for even subjects that
@@ -970,7 +1022,7 @@
             <lb n="1451b 31"/>imitates are actions.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1451b 29"/>And even if he chances to take
             <lb n="1451b 30"/>an historical subject, he is none the less a poet; for
@@ -980,14 +1032,14 @@
             <lb n="1451b 34"/>their poet or maker.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1451b 33"/>Of all plots and actions the epeisodic
             <lb n="1451b 34"/>are the worst. I call a plot 'epeisodic' in which the episodes or
             <lb n="1451b 35"/>acts succeed one another without probable or necessary sequence.
           </p>
         </div>
-        <div type="section" n="11b">
+        <div type="textpart" subtype="subchapter" n="11b">
           <p>
             <lb n="1451b 36"/>Bad poets compose such pieces by their own fault, good
             <lb n="1451b 37"/>poets, to please the players; for, as they write show
@@ -996,7 +1048,7 @@
             <lb n="1452a 1"/>tinuity.
           </p>
         </div>
-        <div type="section" n="11c">
+        <div type="textpart" subtype="subchapter" n="11c">
           <p>
             <pb n="1452a"/>
             <lb n="1452a 1"/>But again, Tragedy is an imitation not only of a
@@ -1006,7 +1058,7 @@
             <lb n="1452a 5"/>same time, they follow as cause and effect.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1452a 4"/>The tragic
             <lb n="1452a 5"/>wonder will then be greater than if they happened of
@@ -1017,22 +1069,22 @@
             <lb n="1452a 10"/>him. Such events seem not to be due to mere chance.
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1452a 10"/>Plots, therefore, constructed on these principles are
             <lb n="1452a 11"/>necessarily the best.
           </p>
         </div>
       </div>
-      <div type="chapter" n="10">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="10">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1452a 12"/>Plots are either Simple or Complex, for the actions
             <lb n="1452a 13"/>in real life, of which the plots are an imitation, obviously
             <lb n="1452a 14"/>show a similar distinction.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1452a 14"/>An action which is one and
             <lb n="1452a 15"/>continuous in the sense above defined, I call Simple, when
@@ -1040,14 +1092,14 @@
             <lb n="1452a 17"/>the Situation and without Recognition.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1452a 16"/>A Complex
             <lb n="1452a 17"/>action is one in which the change is accompanied by such
             <lb n="1452a 18"/>Reversal, or by Recognition, or by both.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1452a 18"/>These last should arise from the internal
             <lb n="1452a 19"/>structure of the plot, so that what follows should be the
@@ -1057,8 +1109,8 @@
           </p>
         </div>
       </div>
-<div type="chapter" n="11">
-        <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="11">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <pb n="1452a"/>
             <lb n="1452a 22"/>Reversal of the Situation is a change by which the action
@@ -1066,14 +1118,14 @@
             <lb n="1452a 24"/>probability or necessity.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1452a 24"/>Thus in the Oedipus, the messenger comes to cheer
             <lb n="1452a 25"/>Oedipus and free him from his alarms about his mother,
             <lb n="1452a 26"/>but by revealing who he is, he produces the opposite effect.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1452a 27"/>Again in the Lynceus, Lynceus is being led away to
             <lb n="1452a 28"/>his death, and Danaus goes with him, meaning to slay him;
@@ -1081,20 +1133,20 @@
             <lb n="1452a 30"/>is killed and Lynceus saved.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1452a 29"/>Recognition, as the name indicates, is a change from
             <lb n="1452a 30"/>ignorance to knowledge, producing love or hate between
             <lb n="1452a 31"/>the persons destined by the poet for good or bad fortune.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1452a 32"/>The best form of recognition is coincident with a Reversal
             <lb n="1452a 33"/>of the Situation, as in the Oedipus.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1452a 33"/>There are indeed other forms. Even inanimate things
             <lb n="1452a 34"/>of the most trivial kind may in a sense be objects of
@@ -1103,7 +1155,7 @@
             <lb n="1452a 37"/>done a thing or not. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1452a 36"/>But the recognition which is most intimately connected
             <lb n="1452a 37"/>with the plot and action is, as we have said, the recognition
@@ -1113,7 +1165,7 @@
             <lb n="1452b 3"/>those which, by our definition, Tragedy represents. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <pb n="1452b"/>
             <lb n="1452b 3"/>Recognition, then, being between persons, it may happen
@@ -1125,13 +1177,13 @@
             <lb n="1452b 8"/>make Orestes known to Iphigenia.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1452b 9"/>Two parts, then, of the Plot—Reversal of the Situation
             <lb n="1452b 10"/>and Recognition—turn upon surprises.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1452b 11"/>A third part is the Scene of Suffering. The Scene of
             <lb n="1452b 12"/>Suffering is a destructive or painful action, such as death
@@ -1140,8 +1192,8 @@
         </div>
       </div>
 
-      <div type="chapter" n="12">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="12">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1452b 14"/>[The parts of Tragedy which must be treated as elements
             <lb n="1452b 15"/>of the whole have been already mentioned.
@@ -1150,53 +1202,53 @@
             <lb n="1452b 18"/>Exode, Choric song; 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1452b 17"/>this last being divided into Parode and Stasimon. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1452b 17"/>These are common to all plays: peculiar to some are the
             <lb n="1452b 18"/>songs of actors from the stage and the Commoi. 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1452b 19"/>The Prologue is that entire part of a tragedy which
             <lb n="1452b 20"/>precedes the Parode of the Chorus. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1452b 20"/>The Episode is that entire part of a tragedy which is
             <lb n="1452b 21"/>between complete choric songs. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1452b 21"/>The Exode is that entire part of a tragedy which has no
             <lb n="1452b 22"/>choric song after it. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1452b 22"/>Of the Choric part the Parode is the first undivided
             <lb n="1452b 23"/>utterance of the Chorus: 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1452b 23"/>the Stasimon is a Choric ode without anapaests or
             <lb n="1452b 24"/>trochaic tetrameters: 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1452b 24"/>the Commos is a joint lamentation of Chorus and actors. 
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1452b 26"/>The parts of Tragedy which must be treated as elements
             <lb n="1452b 27"/>of the whole have been already mentioned. The quantitative
@@ -1206,15 +1258,15 @@
         </div>
       </div>
 
-      <div type="chapter" n="13">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="13">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1452b 28"/>As the sequel to what has already been said, we must
             <lb n="1452b 29"/>proceed to consider what the poet should aim at, and
             <lb n="1452b 30"/>what he should avoid, in constructing his plots; 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1452b 30"/>and by what means the specific effect of Tragedy will
             <lb n="1452b 31"/>be produced. A perfect tragedy should, as we have seen,
@@ -1227,7 +1279,7 @@
             <lb n="1453a 1"/>this moves neither pity nor fear; 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <pb n="1453a"/>
             <lb n="1453a 1"/>it merely shocks us. Nor, again, that of a bad man
@@ -1235,7 +1287,7 @@
             <lb n="1453a 3"/>more alien to the spirit of Tragedy; 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1453a 2"/>it possesses no single tragic quality; it neither satisfies
             <lb n="1453a 3"/>the moral sense nor calls forth pity or fear. 
@@ -1245,7 +1297,7 @@
             <lb n="1453a 6"/>fear; 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1453a 8"/>for pity is aroused by unmerited misfortune, fear by the
             <lb n="1453a 9"/>misfortune of a man like ourselves. Such an event,
@@ -1256,7 +1308,7 @@
             <lb n="1453a 14"/>or depravity, but by some error or frailty. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1453a 12"/>He must be one who is highly renowned and prosperous,
             <lb n="1453a 13"/>a personage like Oedipus, Thyestes, or other illustrious men
@@ -1266,7 +1318,7 @@
             <lb n="1453a 17"/>but, reversely, from good to bad. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1453a 18"/>It should come about as the result not of vice, but of
             <lb n="1453a 19"/>some great error or frailty, in a character either such as we
@@ -1276,7 +1328,7 @@
             <lb n="1453a 20"/>their way. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1453a 21"/>Now, the best tragedies are founded on the story of a
             <lb n="1453a 22"/>few houses, on the fortunes of Alcmaeon, Oedipus, Orestes,
@@ -1286,14 +1338,14 @@
             <lb n="1453a 25"/>art should be of this construction. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1453a 25"/>Hence they are in error who censure Euripides just because
             <lb n="1453a 26"/>he follows this principle in his plays, many of which
             <lb n="1453a 27"/>end unhappily. 
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1453a 27"/>It is, as we have said, the right ending. The best proof
             <lb n="1453a 28"/>is that on the stage and in dramatic competition, such
@@ -1303,7 +1355,7 @@
             <lb n="1453a 32"/>tragic of the poets. 
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1453a 32"/>In the second rank comes the kind of tragedy which
             <lb n="1453a 33"/>some place first. 
@@ -1311,14 +1363,14 @@
             <lb n="1453a 34"/>an opposite catastrophe for the good and for the bad. 
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1453a 34"/>It is accounted the best because of the weakness of the
             <lb n="1453a 35"/>spectators; for the poet is guided in what he writes by
             <lb n="1453a 36"/>the wishes of his audience. 
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1453a 37"/>The pleasure, however, thence derived is not the true tragic
             <lb n="1453a 38"/>pleasure. It is proper rather to Comedy, where those
@@ -1329,8 +1381,8 @@
         </div>
       </div>
 
-      <div type="chapter" n="14">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="14">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1453b 1"/>Fear and pity may be aroused by spectacular means;
             <lb n="1453b 2"/>but they may also result from the inner structure of the
@@ -1338,7 +1390,7 @@
             <lb n="1453b 4"/>poet.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1453b 3"/>For the plot ought to be so constructed that, even without
             <lb n="1453b 4"/>the aid of the eye, he who hears the tale told will thrill
@@ -1347,13 +1399,13 @@
             <lb n="1453b 7"/>the story of the Oedipus.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1453b 7"/>But to produce this effect by the mere spectacle is a
             <lb n="1453b 8"/>less artistic method, and dependent on extraneous aids. 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1453b 8"/>Those who employ spectacular means to create a sense
             <lb n="1453b 9"/>not of the terrible but only of the monstrous, are strangers
@@ -1362,7 +1414,7 @@
             <lb n="1453b 11"/>of pleasure, but only that which is proper to it. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1453b 11"/>And since the pleasure which the poet should afford is
             <lb n="1453b 12"/>that which comes from pity and fear through imitation,
@@ -1370,13 +1422,13 @@
             <lb n="1453b 14"/>incidents. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1453b 14"/>Let us then determine what are the circumstances which
             <lb n="1453b 15"/>strike us as terrible or pitiful. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1453b 15"/>Actions capable of this effect must happen between
             <lb n="1453b 16"/>persons who are either friends or enemies or indifferent
@@ -1386,12 +1438,12 @@
             <lb n="1453b 19"/>the suffering in itself is pitiful. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1453b 18"/>So again with indifferent persons. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <pb n="1453b"/>
             <lb n="1453b 19"/>But when the tragic incident occurs between those who
@@ -1402,28 +1454,28 @@
             <lb n="1453b 24"/>poet.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1453b 22"/>He may not indeed destroy the framework of the received
             <lb n="1453b 23"/>legends—the fact, for instance, that Clytemnestra was slain
             <lb n="1453b 24"/>by Orestes and Eriphyle by Alcmaeon— 
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1453b 25"/>but he ought to show invention of his own, and skilfully
             <lb n="1453b 26"/>handle the traditional material. 
             <lb n="1453b 26"/>Let us explain more clearly what is meant by skilful handling. 
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1453b 27"/>The action may be done consciously and with knowledge
             <lb n="1453b 28"/>of the persons, in the manner of the older poets. 
             <lb n="1453b 28"/>It is thus too that Euripides makes Medea slay her children. 
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1453b 29"/>Or, again, the deed of horror may be done, but done in
             <lb n="1453b 30"/>ignorance, and the tie of kinship or friendship be discovered
@@ -1434,7 +1486,7 @@
             <lb n="1453b 34"/>Alcmaeon of Astydamas, or Telegonus in the Wounded Odysseus. 
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1453b 34"/>Again, there is a third case,—&lt;to be about to act with
             <lb n="1453b 35"/>knowledge of the persons and then not to act. The fourth
@@ -1442,20 +1494,20 @@
             <lb n="1453b 37"/>through ignorance, and makes the discovery before it is done. 
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1453b 36"/>These are the only possible ways. For the deed must
             <lb n="1453b 37"/>either be done or not done, and that wittingly or unwittingly. 
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1453b 38"/>But of all these ways, to be about to act knowing the
             <lb n="1453b 39"/>persons, and then not to act, is the worst. 
             <lb n="1453b 39"/>It is shocking without being tragic, for no disaster follows. 
           </p>
         </div>
-        <div type="section" n="17">
+        <div type="textpart" subtype="subchapter" n="17">
           <p>
             <lb n="1454a 1"/>It is, therefore, never, or very rarely, found in poetry. 
             <lb n="1454a 1"/>One instance, however, is in the Antigone, where Haemon
@@ -1463,7 +1515,7 @@
             <lb n="1454a 2"/>The next and better way is that the deed should be perpetrated. 
           </p>
         </div>
-        <div type="section" n="18">
+        <div type="textpart" subtype="subchapter" n="18">
           <p>
             <pb n="1454a"/>
             <lb n="1454a 2"/>Still better, that it should be perpetrated in ignorance,
@@ -1472,7 +1524,7 @@
             <lb n="1454a 4"/>produces a startling effect. 
           </p>
         </div>
-        <div type="section" n="19">
+        <div type="textpart" subtype="subchapter" n="19">
           <p>
             <lb n="1454a 4"/>The last case is the best, as when in the Cresphontes
             <lb n="1454a 5"/>Merope is about to slay her son, but, recognising who he is,
@@ -1483,7 +1535,7 @@
             <lb n="1454a 8"/>the point of giving her up. 
           </p>
         </div>
-        <div type="section" n="20">
+        <div type="textpart" subtype="subchapter" n="20">
           <p>
             <lb n="1454a 9"/>This, then, is why a few families only, as has been already
             <lb n="1454a 10"/>observed, furnish the subjects of tragedy. 
@@ -1494,7 +1546,7 @@
             <lb n="1454a 13"/>houses whose history contains moving incidents like these. 
           </p>
         </div>
-        <div type="section" n="21">
+        <div type="textpart" subtype="subchapter" n="21">
           <p>
             <lb n="1454a 14"/>Enough has now been said concerning the structure of
             <lb n="1454a 15"/>the incidents, and the right kind of plot. 
@@ -1502,21 +1554,21 @@
         </div>
       </div>
 
-      <div type="chapter" n="15">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="15">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1454a 16"/>In respect of Character there are four things to be
             <lb n="1454a 17"/>aimed at. First, and most important, it must be good.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1454a 17"/>Now any speech or action that manifests moral purpose
             <lb n="1454a 18"/>of any kind will be expressive of character: the character
             <lb n="1454a 19"/>will be good if the purpose is good.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1454a 19"/>This rule is relative
             <lb n="1454a 20"/>to each class. Even a woman may be good, and also a
@@ -1525,7 +1577,7 @@
             <lb n="1454a 22"/>being, and the slave quite worthless.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1454a 22"/>The second thing
             <lb n="1454a 23"/>to aim at is propriety. There is a type of manly valour;
@@ -1533,7 +1585,7 @@
             <lb n="1454a 24"/>appropriate.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1454a 24"/>Thirdly, character must be true to life: for
             <pb n="1454a"/>
@@ -1541,34 +1593,34 @@
             <lb n="1454a 26"/>described.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1454a 26"/>The fourth point is consistency: for though
             <lb n="1454a 27"/>the subject of the imitation, who suggested the type,
             <lb n="1454a 28"/>be inconsistent, still he must be consistently inconsistent.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1454a 28"/>As an example of motiveless degradation of character, we
             <lb n="1454a 29"/>have Menelaus in the Orestes;
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1454a 29"/>of
             <lb n="1454a 30"/>character indecorous and inappropriate, the lament of Odysseus in
             <lb n="1454a 31"/>the Scylla, and the speech of Melanippe:
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1454a 31"/>of inconsistency, the
             <lb n="1454a 32"/>Iphigenia at Aulis, — for Iphigenia the suppliant in no
             <lb n="1454a 33"/>way resembles her later self.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1454a 33"/>In the portraiture of character, as in the structure of the
             <lb n="1454a 34"/>plot, the poet should always aim either at the necessary
@@ -1579,14 +1631,14 @@
             <lb n="1454a 38"/>sequence.
           </p>
         </div>
-        <div type="section" n="10b">
+        <div type="textpart" subtype="subchapter" n="10b">
           <p>
             <lb n="1454a 37"/>It is therefore evident that the unravelling
             <lb n="1454b 1"/>of the plot, no less than the complication, must arise out
             <lb n="1454b 2"/>of the plot itself,
           </p>
         </div>
-        <div type="section" n="10c">
+        <div type="textpart" subtype="subchapter" n="10c">
           <p>
             <pb n="1454b"/>
             <lb n="1454b 2"/>it must not be brought about by the
@@ -1600,7 +1652,7 @@
             <lb n="1454b 9"/>of seeing all things.
           </p>
         </div>
-        <div type="section" n="10d">
+        <div type="textpart" subtype="subchapter" n="10d">
           <p>
             <lb n="1454b 6"/>Within the action there must be
             <lb n="1454b 7"/>nothing irrational. If the irrational cannot be excluded,
@@ -1609,7 +1661,7 @@
             <lb n="1454b 9"/>the irrational element in the Oedipus of Sophocles.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1454b 8"/>Again, since Tragedy is an imitation of persons who
             <lb n="1454b 9"/>are above the common level, the example of good portrait-
@@ -1625,7 +1677,7 @@
             <lb n="1454b 16"/>Achilles is portrayed by Agathon and Homer.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1454b 15"/>These then are rules the poet should observe. Nor
             <lb n="1454b 16"/>should he neglect those appeals to the senses, which,
@@ -1636,8 +1688,8 @@
           </p>
         </div>
       </div>
-      <div type="chapter" n="16">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="16">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1454b 19"/>What Recognition is has been already explained.
             <lb n="1454b 20"/>We will now enumerate its kinds.
@@ -1645,14 +1697,14 @@
             <lb n="1454b 21"/>wit, is most commonly employed — recognition by signs.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1454b 21"/>Of these some are
             <lb n="1454b 22"/>congenital, such as 'the spear which the earth-born race bear on
             <lb n="1454b 23"/>their bodies,'
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1454b 22"/>or the stars
             <lb n="1454b 23"/>introduced by Carcinus in his Thyestes.
@@ -1663,7 +1715,7 @@
             <lb n="1454b 26"/>ark in the Tyro by which the discovery is effected.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1454b 25"/>Even
             <lb n="1454b 26"/>these admit of more or less skilful treatment.
@@ -1674,7 +1726,7 @@
             <lb n="1454b 29"/>herds.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1454b 28"/>The use of tokens for the express purpose of proof
             <lb n="1454b 29"/>— and, indeed, any formal proof with or without tokens
@@ -1684,7 +1736,7 @@
             <lb n="1454b 32"/>the Bath Scene in the Odyssey.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1454b 30"/>Next come the recognitions invented at will by the
             <lb n="1454b 31"/>poet, and on that account wanting in art.
@@ -1694,7 +1746,7 @@
             <lb n="1454b 33"/>She, indeed, makes herself known by the letter;
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1454b 33"/>but he, by speaking himself, and saying what the poet,
             <lb n="1454b 34"/>not what the plot requires.
@@ -1704,7 +1756,7 @@
             <lb n="1454b 37"/>Sophocles the 'voice of the shuttle.'
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1454b 36"/>The third kind depends on memory when the sight of
             <pb n="1455a"/>
@@ -1717,7 +1769,7 @@
             <lb n="1455a 5"/>and hence the recognition.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1455a 4"/>The fourth kind is by process of reasoning. Thus in
             <lb n="1455a 5"/>the Choëphori: — 'Some one resembling me has come:
@@ -1737,7 +1789,7 @@
             <lb n="1455a 14"/>we are doomed to die, for here we were cast forth.'
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1455a 12"/>Again, there is a composite kind of recognition involving
             <lb n="1455a 13"/>false inference on the part of one of the characters, as in
@@ -1750,7 +1802,7 @@
             <lb n="1455a 19"/>would recognize the bow — is false inference.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1455a 16"/>But, of all recognitions, the best is that which arises
             <lb n="1455a 17"/>from the incidents themselves, where the startling dis-
@@ -1763,15 +1815,15 @@
             <lb n="1455a 21"/>of tokens or amulets.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1455a 20"/>Next
             <lb n="1455a 21"/>come the recognitions by process of reasoning.
           </p>
         </div>
       </div>
-      <div type="chapter" n="17">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="17">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1455a 22"/>In constructing the plot and working it out with
             <lb n="1455a 23"/>the proper diction, the poet should place the scene,
@@ -1782,7 +1834,7 @@
             <lb n="1455a 27"/>with it, and be most unlikely to overlook inconsistencies.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1455a 26"/>The need of such a rule is shown by the fault found in
             <lb n="1455a 27"/>Carcinus.
@@ -1793,7 +1845,7 @@
             <lb n="1455a 30"/>the audience being offended at the oversight.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1455a 29"/>Again, the poet should work out his play, to the
             <lb n="1455a 30"/>best of his power, with appropriate gestures; for
@@ -1802,7 +1854,7 @@
             <lb n="1455a 32"/>natural sympathy with the characters they represent;
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1455a 32"/>and one who is agitated storms, one who is angry rages,
             <lb n="1455a 33"/>with the most life-like reality.
@@ -1813,7 +1865,7 @@
             <lb n="1455a 34"/>in the other, he is lifted out of his proper self.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1455b 1"/>As for the story, whether the poet takes it ready
             <lb n="1455b 2"/>made or constructs it for himself, he should first sketch
@@ -1821,7 +1873,7 @@
             <lb n="1455b 4"/>amplify in detail.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1455b 2"/>The general plan may be illustrated by
             <lb n="1455b 3"/>the Iphigenia. A young girl is sacrificed;
@@ -1847,13 +1899,13 @@
             <lb n="1455b 15"/>and by that remark he is saved.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1455b 12"/>After this, the names being once given, it remains
             <lb n="1455b 13"/>to fill in the episodes.
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1455b 13"/>We must see that they are
             <lb n="1455b 14"/>relevant to the action.
@@ -1862,13 +1914,13 @@
             <lb n="1455b 16"/>and his deliverance by means of the purificatory rite.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1455b 15"/>In the drama the episodes are short, but it is these that
             <lb n="1455b 16"/>give extension to Epic poetry.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1455b 16"/>Thus the story of the
             <pb n="1455b"/>
@@ -1886,7 +1938,7 @@
             <lb n="1455b 24"/>himself preserved while he destroys them.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1455b 23"/>This is the
             <lb n="1455b 24"/>essence of the plot; the rest is episode.
@@ -1894,15 +1946,15 @@
         </div>
       </div>
 
- <div type="chapter" n="18">
-        <div type="section" n="1">
+ <div type="textpart" subtype="chapter" n="18">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <pb n="1455b"/>
             <lb n="1455b 24"/>Every tragedy falls into two parts, Complication
             <lb n="1455b 25"/>and Unravelling or Dénouement.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1455b 25"/>Incidents extraneous
             <lb n="1455b 26"/>to the action are frequently combined with a portion of
@@ -1914,7 +1966,7 @@
             <lb n="1455b 32"/>beginning of the change to the end.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1455b 32"/>Thus, in the
             <lb n="1455b 33"/>Lynceus of Theodectes, the Complication consists of the
@@ -1923,39 +1975,39 @@
             <lb n="1455b 35"/>from the accusation of murder to the end.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1455b 33"/>There are four kinds of Tragedy,
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1455b 35"/>the Complex, depend-
             <lb n="1455b 35"/>ing entirely on Reversal of the Situation and Recognition;
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <pb n="1456a"/>
             <lb n="1456a 1"/>the Pathetic (where the motive is passion), such as the
             <lb n="1456a 2"/>tragedies on Ajax and Ixion;
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1456a 1"/>the Ethical (where the
             <lb n="1456a 2"/>motives are ethical), such as the Phthiotides and the
             <lb n="1456a 2"/>Peleus.
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1456a 2"/>The fourth kind is the Simple. &lt;We here
             <lb n="1456a 3"/>exclude the purely spectacular element&gt;, exemplified by
             <lb n="1456a 4"/>the Phorcides, the Prometheus, and scenes laid in Hades.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1456a 4"/>The poet should endeavour, if possible, to combine all
             <lb n="1456a 5"/>poetic elements; or failing that, the greatest number and
@@ -1966,24 +2018,24 @@
             <lb n="1456a 7"/>several lines of excellence.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1456a 7"/>In speaking of a tragedy as the same or different, the
             <lb n="1456a 8"/>best test to take is the plot. Identity exists where the
             <lb n="1456a 9"/>Complication and Unravelling are the same.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1456a 10"/>Many poets tie the knot well, but unravel it ill.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1456a 10"/>Both arts, however, should always be mastered.
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1456a 10"/>Again, the poet should remember what has been often
             <lb n="1456a 11"/>said, and not make an Epic structure into a Tragedy—
@@ -1992,7 +2044,7 @@
             <lb n="1456a 14"/>out of the entire story of the Iliad.
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1456a 13"/>In the Epic poem,
             <lb n="1456a 14"/>owing to its length, each part assumes its proper
@@ -2000,7 +2052,7 @@
             <lb n="1456a 16"/>answering to the poet's expectation.
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1456a 15"/>The proof is that
             <lb n="1456a 16"/>the poets who have dramatised the whole story of the
@@ -2010,7 +2062,7 @@
             <lb n="1456a 20"/>meet with poor success on the stage. Even Agathon
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1456a 18"/>has been known to fail from this one defect. In his
             <lb n="1456a 19"/>Reversals of the Situation, however, he shows a marvellous
@@ -2018,14 +2070,14 @@
             <lb n="1456a 21"/>tragic effect that satisfies the moral sense.
           </p>
         </div>
-        <div type="section" n="17">
+        <div type="textpart" subtype="subchapter" n="17">
           <p>
             <lb n="1456a 21"/>This effect is
             <lb n="1456a 22"/>produced when the clever rogue, like Sisyphus, is out-
             <lb n="1456a 23"/>witted, or the brave villain defeated.
           </p>
         </div>
-        <div type="section" n="18">
+        <div type="textpart" subtype="subchapter" n="18">
           <p>
             <lb n="1456a 23"/>Such an event is
             <lb n="1456a 24"/>probable in Agathon's sense of the word: 'it is probable,'
@@ -2033,7 +2085,7 @@
             <lb n="1456a 25"/>probability.'
           </p>
         </div>
-        <div type="section" n="19">
+        <div type="textpart" subtype="subchapter" n="19">
           <p>
             <lb n="1456a 25"/>The Chorus too should be regarded as one of the
             <lb n="1456a 26"/>actors; it should be an integral part of the whole, and
@@ -2041,7 +2093,7 @@
             <lb n="1456a 28"/>of Sophocles.
           </p>
         </div>
-        <div type="section" n="20">
+        <div type="textpart" subtype="subchapter" n="20">
           <p>
             <lb n="1456a 28"/>As for the later poets, their choral songs
             <lb n="1456a 29"/>pertain as little to the subject of the piece as to that of
@@ -2053,227 +2105,227 @@
           </p>
         </div>
       </div>
-<div type="chapter" n="19">
-        <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="19">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1456a 33"/>It remains to speak of Diction and Thought, the
-            <lb n="1456a 34"/>other parts of Tragedy having been already discussed. [cite: 11]
+            <lb n="1456a 34"/>other parts of Tragedy having been already discussed. 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1456a 34"/>Concerning Thought, we may assume what is said in
             <lb n="1456a 35"/>the Rhetoric, to which inquiry the subject more strictly
-            <lb n="1456a 36"/>belongs. [cite: 12]
+            <lb n="1456a 36"/>belongs. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1456a 36"/>Under Thought is included every effect which
-            <lb n="1456a 37"/>has to be produced by speech, [cite: 13]
+            <lb n="1456a 37"/>has to be produced by speech, 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1456a 37"/>the subdivisions being,—
             <lb n="1456a 38"/>proof and refutation;
             <pb n="1456b"/>
-            <lb n="1456b 1"/>the excitation of the feelings, such as pity, fear, anger, and the like; [cite: 14]
-            <lb n="1456b 2"/>the suggestion of importance or its opposite. [cite: 44]
+            <lb n="1456b 1"/>the excitation of the feelings, such as pity, fear, anger, and the like; 
+            <lb n="1456b 2"/>the suggestion of importance or its opposite. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1456b 2"/>Now, it is evident that
             <lb n="1456b 3"/>the dramatic incidents must be treated from the same
             <lb n="1456b 4"/>points of view as the dramatic speeches, when the object
-            <lb n="1456b 5"/>is to evoke the sense of pity, fear, importance, or probability. [cite: 44]
+            <lb n="1456b 5"/>is to evoke the sense of pity, fear, importance, or probability. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1456b 5"/>The only difference is, that the incidents
             <lb n="1456b 6"/>should speak for themselves without verbal exposition;
-            <lb n="1456b 7"/>while the effects aimed at in speech should be produced by the speaker, and as a result of the speech. [cite: 44]
-            <lb n="1456b 8"/>For what were the business of a speaker, if the Thought were revealed quite apart from what he says? [cite: 45]
+            <lb n="1456b 7"/>while the effects aimed at in speech should be produced by the speaker, and as a result of the speech. 
+            <lb n="1456b 8"/>For what were the business of a speaker, if the Thought were revealed quite apart from what he says? 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1456b 8"/>Next, as regards Diction. One branch of the inquiry
-            <lb n="1456b 9"/>treats of the Modes of Utterance. [cite: 46]
+            <lb n="1456b 9"/>treats of the Modes of Utterance. 
             <lb n="1456b 10"/>But this province of knowledge belongs to the art of Delivery and to
             <lb n="1456b 11"/>the masters of that science.
             <lb n="1456b 12"/>It includes, for instance, —what is a command, a prayer, a statement,
-            <lb n="1456b 13"/>a threat, a question, an answer, and so forth. [cite: 46]
+            <lb n="1456b 13"/>a threat, a question, an answer, and so forth. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1456b 13"/>To know or not to know these things involves no serious
-            <lb n="1456b 14"/>censure upon the poet's art. [cite: 47]
+            <lb n="1456b 14"/>censure upon the poet's art. 
             <lb n="1456b 15"/>For who can admit the fault imputed
             <lb n="1456b 16"/>to Homer by Protagoras,—that in the words, 'Sing,
             <lb n="1456b 17"/>goddess, of the wrath,' he gives a command under the
-            <lb n="1456b 18"/>idea that he utters a prayer? For to tell some one to do a thing or not to do it is, he says, a command. [cite: 48]
+            <lb n="1456b 18"/>idea that he utters a prayer? For to tell some one to do a thing or not to do it is, he says, a command. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1456b 19"/>We may, therefore, pass this over as an inquiry that belongs
-            <lb n="1456b 20"/>to another art, not to poetry. [cite: 49]
+            <lb n="1456b 20"/>to another art, not to poetry. 
           </p>
         </div>
       </div>
-      <div type="chapter" n="20">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="20">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
-            <lb n="1456b 22"/>[Language in general includes the following parts :- [cite: 221]
-            <lb n="1456b 23"/>Letter, Syllable, Connecting word, Noun, Verb, Inflexion [cite: 221]
-            <lb n="1456b 24"/>or Case, Sentence or Phrase.] [cite: 221]
+            <lb n="1456b 22"/>[Language in general includes the following parts :- 
+            <lb n="1456b 23"/>Letter, Syllable, Connecting word, Noun, Verb, Inflexion 
+            <lb n="1456b 24"/>or Case, Sentence or Phrase.] 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
-            <lb n="1456b 25"/>A Letter is an indivisible sound, yet not every such [cite: 222]
-            <lb n="1456b 26"/>sound, but only one which can form part of a group of [cite: 222]
+            <lb n="1456b 25"/>A Letter is an indivisible sound, yet not every such 
+            <lb n="1456b 26"/>sound, but only one which can form part of a group of 
             <pb n="1457a"/>
-            <lb n="1457a 1"/>sounds. [cite: 247]
-            <lb n="1457a 1"/>For even brutes utter indivisible sounds, none [cite: 247]
-            <lb n="1457a 2"/>of which I call a letter. [cite: 247]
+            <lb n="1457a 1"/>sounds. 
+            <lb n="1457a 1"/>For even brutes utter indivisible sounds, none 
+            <lb n="1457a 2"/>of which I call a letter. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
-            <lb n="1456b 28"/>The sound I mean may be [cite: 248]
-            <lb n="1456b 29"/>either a vowel, a semi-vowel, or a mute. [cite: 248]
-            <lb n="1456b 29"/>A vowel is [cite: 249]
-            <lb n="1456b 30"/>that which without impact of tongue or [cite: 249]
-            <lb n="1456b 30"/>lip has an [cite: 249]
-            <lb n="1456b 31"/>audible sound. [cite: 249]
-            <lb n="1456b 31"/>A semi-vowel, that which [cite: 250]
-            <lb n="1456b 32"/>with such [cite: 250]
-            <lb n="1456b 32"/>impact has an audible sound, as S and R. A mute, [cite: 250]
-            <lb n="1456b 33"/>that which with such impact has by itself no sound, [cite: 250]
-            <lb n="1456b 33"/>but joined to a vowel sound becomes audible, as G and [cite: 250]
-            <lb n="1456b 34"/>D. [cite: 250]
+            <lb n="1456b 28"/>The sound I mean may be 
+            <lb n="1456b 29"/>either a vowel, a semi-vowel, or a mute. 
+            <lb n="1456b 29"/>A vowel is 
+            <lb n="1456b 30"/>that which without impact of tongue or 
+            <lb n="1456b 30"/>lip has an 
+            <lb n="1456b 31"/>audible sound. 
+            <lb n="1456b 31"/>A semi-vowel, that which 
+            <lb n="1456b 32"/>with such 
+            <lb n="1456b 32"/>impact has an audible sound, as S and R. A mute, 
+            <lb n="1456b 33"/>that which with such impact has by itself no sound, 
+            <lb n="1456b 33"/>but joined to a vowel sound becomes audible, as G and 
+            <lb n="1456b 34"/>D. 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
-            <lb n="1456b 34"/>These are distinguished according to the form [cite: 250]
-            <lb n="1456b 35"/>assumed by the mouth and the place where they are [cite: 250]
-            <lb n="1456b 36"/>produced; [cite: 250]
-            <lb n="1456b 35"/>according as they are aspirated or smooth, [cite: 251]
-            <lb n="1456b 36"/>long or short; [cite: 251]
-            <lb n="1456b 36"/>as they are acute, grave, or of an inter- [cite: 252]
-            <lb n="1456b 37"/>mediate tone; [cite: 252]
-            <lb n="1456b 37"/>which inquiry belongs in detail to the [cite: 253]
-            <lb n="1456b 38"/>writers on metre. [cite: 253]
+            <lb n="1456b 34"/>These are distinguished according to the form 
+            <lb n="1456b 35"/>assumed by the mouth and the place where they are 
+            <lb n="1456b 36"/>produced; 
+            <lb n="1456b 35"/>according as they are aspirated or smooth, 
+            <lb n="1456b 36"/>long or short; 
+            <lb n="1456b 36"/>as they are acute, grave, or of an inter- 
+            <lb n="1456b 37"/>mediate tone; 
+            <lb n="1456b 37"/>which inquiry belongs in detail to the 
+            <lb n="1456b 38"/>writers on metre. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
-            <lb n="1456b 37"/>A Syllable is a non-significant sound, composed of a [cite: 254]
-            <lb n="1456b 38"/>mute and a vowel: [cite: 254]
-            <lb n="1456b 39"/>for GR without A is a syllable, as [cite: 254]
-            <lb n="1456b 40"/>also with A, GRA. [cite: 254]
+            <lb n="1456b 37"/>A Syllable is a non-significant sound, composed of a 
+            <lb n="1456b 38"/>mute and a vowel: 
+            <lb n="1456b 39"/>for GR without A is a syllable, as 
+            <lb n="1456b 40"/>also with A, GRA. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
-            <lb n="1457a 1"/>A Connecting word is a non-significant sound, which [cite: 256]
-            <lb n="1457a 2"/>neither causes nor hinders the union of many sounds [cite: 256]
-            <lb n="1457a 3"/>into one significant sound; [cite: 256]
-            <lb n="1457a 3"/>it may be placed at either [cite: 257]
-            <lb n="1457a 4"/>end or in the middle of a sentence. [cite: 257]
+            <lb n="1457a 1"/>A Connecting word is a non-significant sound, which 
+            <lb n="1457a 2"/>neither causes nor hinders the union of many sounds 
+            <lb n="1457a 3"/>into one significant sound; 
+            <lb n="1457a 3"/>it may be placed at either 
+            <lb n="1457a 4"/>end or in the middle of a sentence. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
-            <lb n="1457a 4"/>Or, a non-significant [cite: 281]
-            <lb n="1457a 5"/>sound, which out of several sounds, each of them signi- [cite: 281]
-            <lb n="1457a 6"/>ficant, is capable of forming one significant sound, as [cite: 281]
-            <lb n="1457a 7"/>ἀμφί, περί, and the like. [cite: 281]
-            <lb n="1457a 7"/>Or, a non-significant sound, [cite: 282]
-            <lb n="1457a 8"/>which marks the beginning, end, or division of a sentence; [cite: 282]
-            <lb n="1457a 9"/>such, however, that it cannot correctly stand by itself at [cite: 283]
-            <lb n="1457a 10"/>the beginning of a sentence, -as μέν, ἤτοι, δέ. [cite: 283]
+            <lb n="1457a 4"/>Or, a non-significant 
+            <lb n="1457a 5"/>sound, which out of several sounds, each of them signi- 
+            <lb n="1457a 6"/>ficant, is capable of forming one significant sound, as 
+            <lb n="1457a 7"/>ἀμφί, περί, and the like. 
+            <lb n="1457a 7"/>Or, a non-significant sound, 
+            <lb n="1457a 8"/>which marks the beginning, end, or division of a sentence; 
+            <lb n="1457a 9"/>such, however, that it cannot correctly stand by itself at 
+            <lb n="1457a 10"/>the beginning of a sentence, -as μέν, ἤτοι, δέ. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
-            <lb n="1457a 11"/>A Noun is a composite significant sound, not marking [cite: 284]
-            <lb n="1457a 12"/>time, of which no part is in itself significant: [cite: 284]
-            <lb n="1457a 12"/>for in [cite: 284]
-            <lb n="1457a 13"/>double or compound words we do not employ the [cite: 284]
-            <lb n="1457a 14"/>separate parts as if each were in itself significant. Thus [cite: 284]
-            <lb n="1457a 15"/>in Theodorus, 'god-given,' the δῶρον or 'gift' is not in [cite: 285]
-            <lb n="1457a 16"/>itself significant. [cite: 285]
+            <lb n="1457a 11"/>A Noun is a composite significant sound, not marking 
+            <lb n="1457a 12"/>time, of which no part is in itself significant: 
+            <lb n="1457a 12"/>for in 
+            <lb n="1457a 13"/>double or compound words we do not employ the 
+            <lb n="1457a 14"/>separate parts as if each were in itself significant. Thus 
+            <lb n="1457a 15"/>in Theodorus, 'god-given,' the δῶρον or 'gift' is not in 
+            <lb n="1457a 16"/>itself significant. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
-            <lb n="1457a 16"/>A Verb is a composite significant sound, marking [cite: 286]
-            <lb n="1457a 17"/>time, in which, as in the noun, no part is in itself signi- [cite: 286]
-            <lb n="1457a 18"/>ficant. [cite: 286]
-            <lb n="1457a 18"/>For 'man,' or 'white' does not express the idea [cite: 287]
-            <lb n="1457a 19"/>of 'when'; [cite: 287]
-            <lb n="1457a 20"/>but 'he walks,' or 'he has walked' does [cite: 288]
-            <lb n="1457a 21"/>connote time, present or past. [cite: 288]
+            <lb n="1457a 16"/>A Verb is a composite significant sound, marking 
+            <lb n="1457a 17"/>time, in which, as in the noun, no part is in itself signi- 
+            <lb n="1457a 18"/>ficant. 
+            <lb n="1457a 18"/>For 'man,' or 'white' does not express the idea 
+            <lb n="1457a 19"/>of 'when'; 
+            <lb n="1457a 20"/>but 'he walks,' or 'he has walked' does 
+            <lb n="1457a 21"/>connote time, present or past. 
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
-            <lb n="1457a 21"/>Inflexion belongs both to the noun and verb, and [cite: 289]
-            <lb n="1457a 22"/>expresses either the relation 'of,' 'to,' or the like; [cite: 289]
-            <lb n="1457a 23"/>or [cite: 290]
-            <lb n="1457a 24"/>that of number, whether one or many, as 'man' or [cite: 290]
-            <lb n="1457a 25"/>'men'; [cite: 290]
-            <lb n="1457a 25"/>or the modes or tones in actual delivery, e.g. a [cite: 291]
-            <lb n="1457a 26"/>question or a command. 'Did he go?' [cite: 291]
-            <lb n="1457a 27"/>and 'go' are [cite: 292]
-            <lb n="1457a 28"/>verbal inflexions of this kind. [cite: 292]
+            <lb n="1457a 21"/>Inflexion belongs both to the noun and verb, and 
+            <lb n="1457a 22"/>expresses either the relation 'of,' 'to,' or the like; 
+            <lb n="1457a 23"/>or 
+            <lb n="1457a 24"/>that of number, whether one or many, as 'man' or 
+            <lb n="1457a 25"/>'men'; 
+            <lb n="1457a 25"/>or the modes or tones in actual delivery, e.g. a 
+            <lb n="1457a 26"/>question or a command. 'Did he go?' 
+            <lb n="1457a 27"/>and 'go' are 
+            <lb n="1457a 28"/>verbal inflexions of this kind. 
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
-            <lb n="1457a 28"/>A Sentence or Phrase is a composite significant [cite: 293]
-            <lb n="1457a 29"/>sound, some at least of whose parts are in themselves [cite: 293]
-            <lb n="1457a 30"/>significant; [cite: 293]
-            <lb n="1457a 30"/>for not every such group of words consists [cite: 294]
-            <lb n="1457a 31"/>of verbs and nouns—the definition of man,' for example [cite: 294]
-            <lb n="1457a 32"/>—but it may dispense even with the verb. [cite: 294]
+            <lb n="1457a 28"/>A Sentence or Phrase is a composite significant 
+            <lb n="1457a 29"/>sound, some at least of whose parts are in themselves 
+            <lb n="1457a 30"/>significant; </p>
+        </div>
+        <div type="textpart" subtype="subchapter" n="12">
+          <p>
+            <lb n="1457a 30"/>for not every such group of words consists 
+            <lb n="1457a 31"/>of verbs and nouns—the definition of man,' for example 
+            <lb n="1457a 32"/>—but it may dispense even with the verb. 
+          
+            <lb n="1457a 32"/>Still it will 
+            <lb n="1457a 33"/>always have some significant part, as 'in walking,' or 
+            <lb n="1457a 34"/>'Cleon son of Cleon'. 
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
-            <lb n="1457a 32"/>Still it will [cite: 295]
-            <lb n="1457a 33"/>always have some significant part, as 'in walking,' or [cite: 321]
-            <lb n="1457a 34"/>'Cleon son of Cleon'. [cite: 321]
-          </p>
-        </div>
-        <div type="section" n="13">
-          <p>
-            <lb n="1457a 34"/>A sentence or phrase may form [cite: 322]
-            <lb n="1457a 35"/>a unity in two ways, either as signifying one thing, or [cite: 322]
-            <lb n="1457a 36"/>as consisting of several parts linked together. [cite: 322]
-            <lb n="1457a 37"/>Thus the [cite: 323]
-            <lb n="1457a 38"/>Iliad is one by the linking together of parts, the definition [cite: 323]
-            <lb n="1457a 39"/>of man by the unity of the thing signified.] [cite: 323]
+            <lb n="1457a 34"/>A sentence or phrase may form 
+            <lb n="1457a 35"/>a unity in two ways, either as signifying one thing, or 
+            <lb n="1457a 36"/>as consisting of several parts linked together. 
+            <lb n="1457a 37"/>Thus the 
+            <lb n="1457a 38"/>Iliad is one by the linking together of parts, the definition 
+            <lb n="1457a 39"/>of man by the unity of the thing signified.] 
           </p>
         </div>
       </div>
 
-<div type="chapter" n="21">
-        <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="21">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1457a 35"/>Words are of two kinds, simple and double. By
             <lb n="1457a 36"/>simple I mean those composed of non-significant elements,
             <lb n="1457a 37"/>such as γῆ. 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1457a 36"/>By double or compound, those composed
             <lb n="1457a 37"/>either of a significant and non-significant element
@@ -2281,7 +2333,7 @@
             <lb n="1457a 39"/>or of elements that are both significant. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1457a 40"/>A word may likewise be triple, quadruple, or multiple in form, like
             <pb n="1457b"/>
@@ -2289,20 +2341,20 @@
             <lb n="1457b 1"/>&lt;who prayed to Father Zeus&gt;.' 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1457b 1"/>Every word is either current, or strange, or meta-
             <lb n="1457b 2"/>phorical, or ornamental, or newly-coined, or lengthened,
             <lb n="1457b 3"/>or contracted, or altered. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1457b 4"/>By a current or proper word I mean one which is
             <lb n="1457b 5"/>in general use among a people; 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1457b 5"/>by a strange word, one
             <lb n="1457b 6"/>which is in use in another country. 
@@ -2314,7 +2366,7 @@
             <lb n="1457b 9"/>strange one. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1457b 8"/>Metaphor is the application of an alien name by
             <lb n="1457b 9"/>transference either from genus to species, or from species
@@ -2322,14 +2374,14 @@
             <lb n="1457b 11"/>proportion. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1457b 11"/>Thus from genus to species, as: 'There lies
             <lb n="1457b 12"/>my ship'; 
             <lb n="1457b 12"/>for lying at anchor is a species of lying. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1457b 13"/>From species to genus, as: 'Verily ten thousand noble
             <lb n="1457b 14"/>deeds hath Odysseus wrought'; 
@@ -2338,7 +2390,7 @@
             <lb n="1457b 16"/>number generally. 
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1457b 15"/>From species to species, as: 'With
             <lb n="1457b 16"/>blade of bronze drew away the life,' and 'Cleft the water
@@ -2348,7 +2400,7 @@
             <lb n="1457b 19"/>again for ἀρύσαι, —each being a species of taking away. 
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1457b 18"/>Analogy or proportion is when the second term is to the
             <lb n="1457b 19"/>first as the fourth to the third. 
@@ -2356,7 +2408,7 @@
             <lb n="1457b 21"/>fourth for the second, or the second for the fourth. 
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1457b 21"/>Sometimes too we qualify the metaphor by adding the
             <lb n="1457b 22"/>term to which the proper word is relative. 
@@ -2367,7 +2419,7 @@
             <lb n="1457b 25"/>shield 'the cup of Ares.' 
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1457b 24"/>Or, again, as old age is to life,
             <lb n="1457b 25"/>so is evening to day. 
@@ -2376,7 +2428,7 @@
             <lb n="1457b 27"/>life,' or, in the phrase of Empedocles, 'life's setting sun.' 
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1457b 27"/>For some of the terms of the proportion there is at times
             <lb n="1457b 28"/>no word in existence; 
@@ -2390,7 +2442,7 @@
             <lb n="1457b 33"/>the god-created light.' 
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1457b 32"/>There is another way in which
             <lb n="1457b 33"/>this kind of metaphor may be employed. 
@@ -2399,13 +2451,13 @@
             <lb n="1457b 35"/>proper attributes; 
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1457b 34"/>as if we were to call the shield, not
             <lb n="1457b 35"/>'the cup of Ares,' but 'the wineless cup.' 
           </p>
         </div>
-        <div type="section" n="17">
+        <div type="textpart" subtype="subchapter" n="17">
           <p>
             <lb n="1457b 35"/>&lt;An ornamental word ... &gt; 
             <lb n="1457b 35"/>A newly-coined word is one which has never been
@@ -2415,7 +2467,7 @@
             <lb n="1457b 38"/>for ἱερεύς, 'priest.' 
           </p>
         </div>
-        <div type="section" n="18">
+        <div type="textpart" subtype="subchapter" n="18">
           <p>
             <pb n="1458a"/>
             <lb n="1458a 1"/>A word is lengthened when its own vowel is exchanged
@@ -2424,14 +2476,14 @@
             <lb n="1458a 3"/>word is contracted when some part of it is removed. 
           </p>
         </div>
-        <div type="section" n="19">
+        <div type="textpart" subtype="subchapter" n="19">
           <p>
             <lb n="1458a 3"/>Instances of lengthening are, —πόληος for πόλεως, and
             <lb n="1458a 4"/>Πηληιάδεω for Πηλείδου: of contraction, — κρῖ, δῶ, and
             <lb n="1458a 5"/>ὄψ, as in μία γίνεται ἀμφοτέρων ὄψ. 
           </p>
         </div>
-        <div type="section" n="20">
+        <div type="textpart" subtype="subchapter" n="20">
           <p>
             <lb n="1458a 6"/>An altered word is one in which part of the ordinary
             <lb n="1458a 7"/>form is left unchanged, and part is re-cast; 
@@ -2439,40 +2491,40 @@
             <lb n="1458a 8"/>τερὸν κατὰ μαζόν, δεξιτερόν is for δεξιόν. 
           </p>
         </div>
-        <div type="section" n="21">
+        <div type="textpart" subtype="subchapter" n="21">
           <p>
             <lb n="1458a 8"/>[Nouns in themselves are either masculine, feminine,
             <lb n="1458a 9"/>or neuter. 
           </p>
         </div>
-        <div type="section" n="22">
+        <div type="textpart" subtype="subchapter" n="22">
           <p>
             <lb n="1458a 9"/>Masculine are such as end in ν, ρ, ς, or in
             <lb n="1458a 10"/>some letter compounded with ς, — these being two,
             <lb n="1458a 11"/>ψ and ξ. 
           </p>
         </div>
-        <div type="section" n="23">
+        <div type="textpart" subtype="subchapter" n="23">
           <p>
             <lb n="1458a 11"/>Feminine, such as end in vowels that are always
             <lb n="1458a 12"/>long, namely η and ω, and of vowels that admit of
             <lb n="1458a 13"/>lengthening—those in α. 
           </p>
         </div>
-        <div type="section" n="24">
+        <div type="textpart" subtype="subchapter" n="24">
           <p>
             <lb n="1458a 12"/>Thus the number of letters in
             <lb n="1458a 13"/>which nouns masculine and feminine end is the same; 
             <lb n="1458a 14"/>for ψ and ξ are equivalent to endings in ς. 
           </p>
         </div>
-        <div type="section" n="25">
+        <div type="textpart" subtype="subchapter" n="25">
           <p>
             <lb n="1458a 14"/>No noun ends
             <lb n="1458a 15"/>in a mute or a vowel short by nature. 
           </p>
         </div>
-        <div type="section" n="26">
+        <div type="textpart" subtype="subchapter" n="26">
           <p>
             <lb n="1458a 15"/>Three only end in
             <lb n="1458a 16"/>ι, μέλι, κόμμι, πέπερι: five end in υ. Neuter nouns
@@ -2481,14 +2533,14 @@
           </p>
         </div>
       </div>
-      <div type="chapter" n="22">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="22">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1458a 18"/>The perfection of style is to be clear without being
             <lb n="1458a 19"/>mean. 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1458a 18"/>The clearest style is that which uses only current
             <lb n="1458a 19"/>or proper words; 
@@ -2496,7 +2548,7 @@
             <lb n="1458a 20"/>the poetry of Cleophon and of Sthenelus. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1458a 21"/>That diction, on the other hand, is lofty and raised above the common-
             <lb n="1458a 22"/>place which employs unusual words. 
@@ -2505,7 +2557,7 @@
             <lb n="1458a 24"/>anything, in short, that differs from the normal idiom. 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1458a 23"/>Yet a style wholly composed of such words is either a
             <lb n="1458a 24"/>riddle or a jargon; 
@@ -2513,7 +2565,7 @@
             <lb n="1458a 26"/>a jargon, if it consists of strange (or rare) words. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1458a 26"/>For the
             <lb n="1458a 27"/>essence of a riddle is to express true facts under im-
@@ -2526,13 +2578,13 @@
             <lb n="1458a 31"/>others of the same kind. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1458a 30"/>A diction that is made up of
             <lb n="1458a 31"/>strange (or rare) terms is a jargon. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1458a 31"/>A certain infusion,
             <lb n="1458a 32"/>therefore, of these elements is necessary to style; 
@@ -2543,7 +2595,7 @@
             <lb n="1458a 36"/>words will make it perspicuous. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <pb n="1458b"/>
             <lb n="1458b 1"/>But nothing contributes
@@ -2557,7 +2609,7 @@
             <lb n="1458b 5"/>formity with usage will give perspicuity. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1458b 5"/>The critics,
             <lb n="1458b 6"/>therefore, are in error who censure these licenses of
@@ -2573,7 +2625,7 @@
             <lb n="1458b 11"/>οὐκ ἄν ἐράμενος τὸν ἐκείνου ἐλλέβορον. 
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1458b 12"/>To employ such license at all obtrusively is, no doubt,
             <lb n="1458b 13"/>grotesque; 
@@ -2581,7 +2633,7 @@
             <lb n="1458b 13"/>must be moderation. 
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1458b 13"/>Even metaphors, strange (or rare)
             <lb n="1458b 14"/>words, or any similar forms of speech, would produce
@@ -2589,7 +2641,7 @@
             <lb n="1458b 16"/>express purpose of being ludicrous. 
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1458b 15"/>How great a differ-
             <lb n="1458b 16"/>ence is made by the appropriate use of lengthening, may
@@ -2597,7 +2649,7 @@
             <lb n="1458b 18"/>in the verse. 
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1458b 17"/>So, again, if we take a strange (or rare)
             <lb n="1458b 18"/>word, a metaphor, or any similar mode of expression,
@@ -2626,7 +2678,7 @@
             <lb n="1458b 31"/>Or, for ἠμόνες βοόωσιν, ἠιόνες κράζουσιν. 
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1458b 31"/>Again, Ariphrades ridiculed the tragedians for using
             <lb n="1458b 32"/>phrases which no one would employ in ordinary speech :
@@ -2636,7 +2688,7 @@
             <lb n="1459a 2"/>᾿Αχιλλέως, and the like. 
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1459a 2"/>It is precisely because such
             <lb n="1459a 3"/>phrases are not part of the current idiom that they
@@ -2645,7 +2697,7 @@
             <lb n="1459a 4"/>to see. 
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1459a 4"/>It is a great matter to observe propriety in these
             <lb n="1459a 5"/>several modes of expression, as also in compound words,
@@ -2654,7 +2706,7 @@
             <lb n="1459a 6"/>thing by far is to have a command of metaphor. 
           </p>
         </div>
-        <div type="section" n="17">
+        <div type="textpart" subtype="subchapter" n="17">
           <p>
             <lb n="1459a 6"/>This
             <lb n="1459a 7"/>alone cannot be imparted by another; 
@@ -2663,14 +2715,14 @@
             <lb n="1459a 9"/>resemblances. 
           </p>
         </div>
-        <div type="section" n="18">
+        <div type="textpart" subtype="subchapter" n="18">
           <p>
             <lb n="1459a 8"/>Of the various kinds of words, the compound are
             <lb n="1459a 9"/>best adapted to dithyrambs, rare words to heroic poetry,
             <lb n="1459a 10"/>metaphors to iambic. 
           </p>
         </div>
-        <div type="section" n="19">
+        <div type="textpart" subtype="subchapter" n="19">
           <p>
             <lb n="1459a 10"/>In heroic poetry, indeed, all
             <lb n="1459a 11"/>these varieties are serviceable. 
@@ -2682,15 +2734,15 @@
             <lb n="1459a 15"/>phorical, the ornamental. 
           </p>
         </div>
-        <div type="section" n="20">
+        <div type="textpart" subtype="subchapter" n="20">
           <p>
             <lb n="1459a 15"/>Concerning Tragedy and imitation by means of
             <lb n="1459a 16"/>action this may suffice. 
           </p>
         </div>
       </div>
-<div type="chapter" n="23">
-        <div type="section" n="1">
+<div type="textpart" subtype="chapter" n="23">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <pb n="1459a"/>
             <lb n="1459a 17"/>As to that poetic imitation which is narrative in
@@ -2700,35 +2752,35 @@
             <lb n="1459a 21"/>action, whole and complete, with a beginning, a middle,
             <lb n="1459a 22"/>and an end. It will thus resemble a living organism
             <lb n="1459a 23"/>in all its unity, and produce the pleasure proper to
-            <lb n="1459a 24"/>it. [cite: 4, 5, 6]
+            <lb n="1459a 24"/>it. 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1459a 21"/>It will differ in structure from historical composi-
             <lb n="1459a 22"/>tions, which of necessity present not a single action,
             <lb n="1459a 23"/>but a single period, and all that happened within
             <lb n="1459a 24"/>that period to one person or to many, little connected
-            <lb n="1459a 25"/>together as the events may be. [cite: 7]
+            <lb n="1459a 25"/>together as the events may be. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1459a 24"/>For as the sea-fight at 2
             <lb n="1459a 25"/>Salamis and the battle with the Carthaginians in Sicily
             <lb n="1459a 26"/>took place at the same time, but did not tend to any one
             <lb n="1459a 27"/>result, so in the sequence of events, one thing sometimes
             <lb n="1459a 28"/>follows another, and yet no single result is thereby
-            <lb n="1459a 29"/>produced. [cite: 8]
+            <lb n="1459a 29"/>produced. 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1459a 29"/>Such is the practice, we may say, of
-            <lb n="1459a 30"/>most poets. [cite: 9]
+            <lb n="1459a 30"/>most poets. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1459a 30"/>Here again, then, as has been already 3
             <lb n="1459a 31"/>observed, the transcendent excellence of Homer is
@@ -2741,19 +2793,19 @@
             <lb n="1459a 38"/>cidents. As it is, he detaches a single portion, and
             <lb n="1459a 39"/>admits as episodes many events from the general story
             <lb n="1459a 40"/>of the war—such as the Catalogue of the ships and
-            <lb n="1459a 41"/>others—thus diversifying the poem. [cite: 10, 11, 12, 13, 14]
+            <lb n="1459a 41"/>others—thus diversifying the poem. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1459a 37"/>All other poets take a single hero, a single
             <lb n="1459a 38"/>period, or an action single indeed, but with a multiplicity
             <lb n="1459a 39"/>of parts. Thus did the
             <pb n="1459b"/>
-            <lb n="1459b 1"/>author of the Cypria and of the Little Iliad. [cite: 15, 16, 43]
+            <lb n="1459b 1"/>author of the Cypria and of the Little Iliad. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1459b 2"/>For this 4
             <lb n="1459b 3"/>reason the Iliad and the Odyssey each furnish the
@@ -2762,13 +2814,13 @@
             <lb n="1459b 6"/>for eight—the Award of the Arms, the Philoctetes, the
             <lb n="1459b 7"/>Neoptolemus, the Eurypylus, the Mendicant Odysseus,
             <lb n="1459b 8"/>the Laconian Women, the Fall of Ilium, the Departure
-            <lb n="1459b 9"/>of the Fleet. [cite: 43, 44]
+            <lb n="1459b 9"/>of the Fleet. 
           </p>
         </div>
       </div>
 
-      <div type="chapter" n="24">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="24">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <pb n="1459b"/>
             <lb n="1459b 8"/>Again, Epic poetry must have as many kinds as
@@ -2776,7 +2828,7 @@
             <lb n="1459b 10"/>or 'pathetic.'
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1459b 10"/>The parts also, with the exception of
             <lb n="1459b 11"/>song and spectacle, are the same;
@@ -2785,7 +2837,7 @@
             <lb n="1459b 13"/>Suffering.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1459b 12"/>Moreover, the thoughts and the diction must
             <lb n="1459b 13"/>be artistic.
@@ -2798,13 +2850,13 @@
             <lb n="1459b 16"/>Moreover, in diction and thought they are supreme.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1459b 17"/>Epic poetry differs from Tragedy in the scale on
             <lb n="1459b 18"/>which it is constructed, and in its metre.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1459b 18"/>As regards
             <lb n="1459b 19"/>scale or length, we have already laid down an adequate
@@ -2816,7 +2868,7 @@
             <lb n="1459b 23"/>tragedies presented at a single sitting.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1459b 23"/>Epic poetry has, however, a great—a special—
             <lb n="1459b 24"/>capacity for enlarging its dimensions, and we can see the
@@ -2832,7 +2884,7 @@
             <lb n="1459b 29"/>add mass and dignity to the poem.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1459b 29"/>The Epic has here
             <lb n="1459b 30"/>an advantage, and one that conduces to grandeur of
@@ -2843,7 +2895,7 @@
             <lb n="1459b 33"/>on the stage.
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1459b 33"/>As for the metre, the heroic measure has proved its
             <lb n="1459b 34"/>fitness by the test of experience.
@@ -2852,7 +2904,7 @@
             <lb n="1459b 36"/>posed, it would be found incongruous.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1459b 36"/>For of all
             <lb n="1459b 37"/>measures the heroic is the stateliest and the most
@@ -2862,7 +2914,7 @@
             <lb n="1459b 39"/>narrative form of imitation stands alone.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1460a 1"/>On the other
             <lb n="1460a 2"/>hand, the iambic and the trochaic tetrameter are stirring
@@ -2870,13 +2922,13 @@
             <lb n="1460a 4"/>expressive of action.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1460a 2"/>Still more absurd would it be to
             <lb n="1460a 3"/>mix together different metres, as was done by Chaeremon.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1460a 3"/>Hence no one has ever composed a poem on a great scale
             <lb n="1460a 4"/>in any other than heroic verse.
@@ -2884,14 +2936,14 @@
             <lb n="1460a 6"/>have said, teaches the choice of the proper measure.
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1460a 7"/>Homer, admirable in all respects, has the special merit
             <lb n="1460a 8"/>of being the only poet who rightly appreciates the part
             <lb n="1460a 9"/>he should take himself.
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1460a 9"/>The poet should speak as little
             <lb n="1460a 10"/>as possible in his own person, for it is not this that makes
@@ -2905,7 +2957,7 @@
             <lb n="1460a 15"/>character of his own.
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1460a 14"/>The element of the wonderful is required in Tragedy.
             <lb n="1460a 15"/>The irrational, on which the wonderful depends for its
@@ -2913,7 +2965,7 @@
             <lb n="1460a 17"/>the person acting is not seen.
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1460a 18"/>Thus, the pursuit of
             <lb n="1460a 19"/>Hector would be ludicrous if placed upon the stage—the
@@ -2923,7 +2975,7 @@
             <lb n="1460a 21"/>absurdity passes unnoticed.
           </p>
         </div>
-        <div type="section" n="17">
+        <div type="textpart" subtype="subchapter" n="17">
           <p>
             <lb n="1460a 22"/>Now the wonderful is
             <lb n="1460a 23"/>pleasing: as may be inferred from the fact that every
@@ -2931,7 +2983,7 @@
             <lb n="1460a 25"/>knowing that his hearers like it.
           </p>
         </div>
-        <div type="section" n="18">
+        <div type="textpart" subtype="subchapter" n="18">
           <p>
             <lb n="1460a 24"/>It is Homer who
             <lb n="1460a 25"/>has chiefly taught other poets the art of telling lies
@@ -2948,7 +3000,7 @@
             <lb n="1460a 33"/>second to be true, falsely infers the truth of the first.
           </p>
         </div>
-        <div type="section" n="19">
+        <div type="textpart" subtype="subchapter" n="19">
           <p>
             <lb n="1460a 35"/>There is an example of this in the Bath Scene of the
             <lb n="1460a 36"/>Odyssey.
@@ -2956,7 +3008,7 @@
             <lb n="1460a 36"/>possibilities to improbable possibilities.
           </p>
         </div>
-        <div type="section" n="20">
+        <div type="textpart" subtype="subchapter" n="20">
           <p>
             <lb n="1460a 36"/>The tragic plot
             <lb n="1460a 37"/>must not be composed of irrational parts. Everything
@@ -2970,7 +3022,7 @@
             <lb n="1460a 42"/>to Mysia and is still speechless.
           </p>
         </div>
-        <div type="section" n="21">
+        <div type="textpart" subtype="subchapter" n="21">
           <p>
             <lb n="1460a 42"/>The plea that otherwise
             <lb n="1460a 43"/>the plot would have been ruined, is ridiculous;
@@ -2978,7 +3030,7 @@
             <lb n="1460b 1"/>plot should not in the first instance be constructed.
           </p>
         </div>
-        <div type="section" n="22">
+        <div type="textpart" subtype="subchapter" n="22">
           <p>
             <lb n="1460b 1"/>But once the irrational has been introduced and an air
             <lb n="1460b 2"/>of likelihood imparted to it, we must accept it in spite of
@@ -2991,7 +3043,7 @@
             <lb n="1460b 4"/>with which the poet invests it.
           </p>
         </div>
-        <div type="section" n="23">
+        <div type="textpart" subtype="subchapter" n="23">
           <p>
             <lb n="1460b 5"/>The diction should be elaborated in the pauses of
             <lb n="1460b 6"/>the action, where there is no expression of character
@@ -3001,15 +3053,15 @@
           </p>
         </div>
       </div>
-      <div type="chapter" n="25">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="25">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <lb n="1460b 6"/>With respect to critical difficulties and their solu-
             <lb n="1460b 7"/>tions, the number and nature of the sources from which
             <lb n="1460b 8"/>they may be drawn may be thus exhibited.
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1460b 8"/>The poet being an imitator, like a painter or any
             <lb n="1460b 9"/>other artist, must of necessity imitate one of three
@@ -3017,7 +3069,7 @@
             <lb n="1460b 11"/>said or thought to be, or things as they ought to be.
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1460b 12"/>The vehicle of expression is language, either current
             <lb n="1460b 13"/>terms or, it may be, rare words or metaphors.
@@ -3026,21 +3078,21 @@
             <lb n="1460b 16"/>concede to the poets.
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <lb n="1460b 13"/>Add to this, that the standard of
             <lb n="1460b 14"/>correctness is not the same in poetry and politics, any
             <lb n="1460b 15"/>more than in poetry and any other art.
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1460b 15"/>Within the art of
             <lb n="1460b 16"/>poetry itself there are two kinds of faults, those
             <lb n="1460b 17"/>which touch its essence, and those which are accidental.
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1460b 18"/>If a poet has chosen to imitate something, &lt;but has
             <lb n="1460b 19"/>imitated it incorrectly&gt; through want of capacity, the
@@ -3052,7 +3104,7 @@
             <lb n="1460b 22"/>any other art—the error is not essential to the poetry.
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1460b 22"/>These are the points of view from which we should
             <lb n="1460b 23"/>consider and answer the objections raised by the
@@ -3063,7 +3115,7 @@
             <lb n="1460b 25"/>an error;
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1460b 25"/>but the error may be justified, if the end
             <lb n="1460b 26"/>of the art be thereby attained (the end being that
@@ -3073,7 +3125,7 @@
             <lb n="1460b 27"/>A case in point is the pursuit of Hector.
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1460b 28"/>If, however, the end might have been as well, or
             <lb n="1460b 29"/>better, attained without violating the special rules of the
@@ -3081,7 +3133,7 @@
             <lb n="1460b 31"/>error should, if possible, be avoided.
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1460b 30"/>Again, does the error touch the essentials of the
             <lb n="1460b 31"/>poetic art, or some accident of it?
@@ -3090,7 +3142,7 @@
             <lb n="1460b 34"/>than to paint it inartistically.
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1460b 34"/>Further, if it be objected that the description is not
             <lb n="1460b 35"/>true to fact, the poet may perhaps reply,—'But the
@@ -3100,7 +3152,7 @@
             <lb n="1460b 37"/>they are. In this way the objection may be met.
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1460b 37"/>If,
             <lb n="1460b 38"/>however, the representation be of neither kind, the poet
@@ -3109,7 +3161,7 @@
             <lb n="1460b 41"/>applies to tales about the gods.
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <lb n="1460b 41"/>It may well be that
             <lb n="1460b 42"/>these stories are not higher than fact nor yet true to
@@ -3117,7 +3169,7 @@
             <lb n="1461a 2"/>them. But anyhow, 'this is what is said.'
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1461a 2"/>Again, a
             <lb n="1461a 3"/>description may be no better than the fact: 'still, it was
@@ -3128,7 +3180,7 @@
             <lb n="1461a 7"/>custom then, as it now is among the Illyrians.
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1461a 6"/>Again, in examining whether what has been said or
             <lb n="1461a 7"/>done by some one is poetically right or not, we must
@@ -3141,7 +3193,7 @@
             <lb n="1461a 14"/>be to secure a greater good, or avert a greater evil.
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1461a 12"/>Other difficulties may be resolved by due regard to
             <lb n="1461a 13"/>the usage of language.
@@ -3160,7 +3212,7 @@
             <lb n="1461a 26"/>it stronger' as for hard drinkers, but 'mix it quicker.'
           </p>
         </div>
-        <div type="section" n="17">
+        <div type="textpart" subtype="subchapter" n="17">
           <p>
             <lb n="1461a 19"/>Sometimes an expression is metaphorical, as 'Now all
             <lb n="1461a 20"/>gods and men were sleeping through the night,'—while at
@@ -3176,7 +3228,7 @@
             <lb n="1461a 30"/>only one.
           </p>
         </div>
-        <div type="section" n="18">
+        <div type="textpart" subtype="subchapter" n="18">
           <p>
             <lb n="1461a 26"/>Again, the solution may depend upon accent or
             <lb n="1461a 27"/>breathing.
@@ -3185,7 +3237,7 @@
             <lb n="1461a 30"/>καταπύθεται ὄμβρῳ.
           </p>
         </div>
-        <div type="section" n="19">
+        <div type="textpart" subtype="subchapter" n="19">
           <p>
             <lb n="1461a 29"/>Or again, the question may be solved by punctuation,
             <lb n="1461a 30"/>as in Empedocles, 'Of a sudden things became mortal
@@ -3193,13 +3245,13 @@
             <lb n="1461a 32"/>mixed before mixed.'
           </p>
         </div>
-        <div type="section" n="20">
+        <div type="textpart" subtype="subchapter" n="20">
           <p>
             <lb n="1461a 32"/>Or again, by ambiguity of meaning, ας παρῴχηκεν δὲ πλέω νύξ, where the word πλέω
             <lb n="1461a 33"/>is ambiguous.
           </p>
         </div>
-        <div type="section" n="21">
+        <div type="textpart" subtype="subchapter" n="21">
           <p>
             <lb n="1461a 34"/>Or by the usage of language.
             <lb n="1461a 35"/>Thus any mixed
@@ -3213,14 +3265,14 @@
             <lb n="1461a 43"/>as a metaphor.
           </p>
         </div>
-        <div type="section" n="22">
+        <div type="textpart" subtype="subchapter" n="22">
           <p>
             <lb n="1461a 40"/>Again, when a word seems to involve some incon-
             <lb n="1461a 41"/>sistency of meaning, we should consider how many
             <lb n="1461a 42"/>senses it may bear in the particular passage.
           </p>
         </div>
-        <div type="section" n="23">
+        <div type="textpart" subtype="subchapter" n="23">
           <p>
             <lb n="1461a 42"/>For
             <lb n="1461a 43"/>example: 'there was stayed the spear of bronze'—we
@@ -3228,7 +3280,7 @@
             <lb n="1461b 2"/>checked there.'
           </p>
         </div>
-        <div type="section" n="24">
+        <div type="textpart" subtype="subchapter" n="24">
           <p>
             <lb n="1461b 3"/>The true mode of interpretation is the
             <lb n="1461b 4"/>precise opposite of what Glaucon mentions.
@@ -3241,7 +3293,7 @@
             <lb n="1461b 5"/>own fancy.
           </p>
         </div>
-        <div type="section" n="25">
+        <div type="textpart" subtype="subchapter" n="25">
           <p>
             <lb n="1461b 7"/>The question about Icarius has been treated
             <lb n="1461b 8"/>in this fashion. The critics imagine he was a Lacedae-
@@ -3258,21 +3310,21 @@
             <lb n="1461b 13"/>plausibility to the objection.
           </p>
         </div>
-        <div type="section" n="26">
+        <div type="textpart" subtype="subchapter" n="26">
           <p>
             <lb n="1461b 13"/>In general, the impossible must be justified by
             <lb n="1461b 14"/>reference to artistic requirements, or to the higher
             <lb n="1461b 15"/>reality, or to received opinion.
           </p>
         </div>
-        <div type="section" n="27">
+        <div type="textpart" subtype="subchapter" n="27">
           <p>
             <lb n="1461b 16"/>With respect to the
             <lb n="1461b 17"/>requirements of art, a probable impossibility is to be
             <lb n="1461b 18"/>preferred to a thing improbable and yet possible.
           </p>
         </div>
-        <div type="section" n="28">
+        <div type="textpart" subtype="subchapter" n="28">
           <p>
             <lb n="1461b 18"/>Again,
             <lb n="1461b 19"/>it may be impossible that there should be men such as
@@ -3282,7 +3334,7 @@
             <lb n="1461b 21"/>reality.'
           </p>
         </div>
-        <div type="section" n="29">
+        <div type="textpart" subtype="subchapter" n="29">
           <p>
             <lb n="1461b 21"/>To justify the irrational, we appeal to what is
             <lb n="1461b 22"/>commonly said to be.
@@ -3292,7 +3344,7 @@
             <lb n="1461b 24"/>to probability.'
           </p>
         </div>
-        <div type="section" n="30">
+        <div type="textpart" subtype="subchapter" n="30">
           <p>
             <lb n="1461b 23"/>Things that sound contradictory should be examined
             <lb n="1461b 24"/>by the same rules as in dialectical refutation—whether
@@ -3303,7 +3355,7 @@
             <lb n="1461b 28"/>tacitly assumed by a person of intelligence.
           </p>
         </div>
-        <div type="section" n="31">
+        <div type="textpart" subtype="subchapter" n="31">
           <p>
             <lb n="1461b 27"/>The element of the irrational, and, similarly, depravity
             <lb n="1461b 28"/>of character, are justly censured when there is no inner
@@ -3313,7 +3365,7 @@
             <lb n="1461b 29"/>the badness of Menelaus in the Orestes.
           </p>
         </div>
-        <div type="section" n="32">
+        <div type="textpart" subtype="subchapter" n="32">
           <p>
             <lb n="1461b 31"/>Thus, there are five sources from which critical
             <lb n="1461b 32"/>objections are drawn.
@@ -3326,22 +3378,22 @@
         </div>
       </div>
 
-      <div type="chapter" n="26">
-        <div type="section" n="1">
+      <div type="textpart" subtype="chapter" n="26">
+        <div type="textpart" subtype="subchapter" n="1">
           <p>
             <pb n="1461b"/>
             <lb n="1461b 36"/>The question may be raised whether the Epic or
             <lb n="1461b 37"/>Tragic mode of imitation is the higher. 
           </p>
         </div>
-        <div type="section" n="2">
+        <div type="textpart" subtype="subchapter" n="2">
           <p>
             <lb n="1461b 38"/>If the more refined art is the higher, and the more refined in every
             <lb n="1461b 39"/>case is that which appeals to the better sort of audience,
             <lb n="1461b 40"/>it is quite clear that the art which is all-mimetic is low. 
           </p>
         </div>
-        <div type="section" n="3">
+        <div type="textpart" subtype="subchapter" n="3">
           <p>
             <lb n="1461b 41"/>For as if the audience were not quick enough to apprehend without
             <lb n="1461b 42"/>something being added, the actors perform many movements, like bad
@@ -3349,7 +3401,7 @@
             <lb n="1461b 44"/>or pull at the leader of the chorus if they are playing the 'Scylla.' 
           </p>
         </div>
-        <div type="section" n="4">
+        <div type="textpart" subtype="subchapter" n="4">
           <p>
             <pb n="1462a"/>
             <lb n="1462a 1"/>Now Tragedy is just such an art. 
@@ -3360,14 +3412,14 @@
             <lb n="1462a 6"/>stands, we are told, to the Epic. 
           </p>
         </div>
-        <div type="section" n="5">
+        <div type="textpart" subtype="subchapter" n="5">
           <p>
             <lb n="1462a 7"/>The one art, they say, appeals to a refined audience
             <lb n="1462a 8"/>who do not need gestures; the other, to a lower class. 
             <lb n="1462a 9"/>If, then, it is low, it is evidently the inferior. 
           </p>
         </div>
-        <div type="section" n="6">
+        <div type="textpart" subtype="subchapter" n="6">
           <p>
             <lb n="1462a 10"/>Now, in the first place, this censure attaches
             <lb n="1462a 11"/>not to the poetic but to the actor's art; for it
@@ -3376,14 +3428,14 @@
             <lb n="1462a 14"/>Opuntian. 
           </p>
         </div>
-        <div type="section" n="7">
+        <div type="textpart" subtype="subchapter" n="7">
           <p>
             <lb n="1462a 15"/>Again, not all movement is to be condemned, any more than
             <lb n="1462a 16"/>all dancing, but only the movement of low people, which is the criticism
             <lb n="1462a 17"/>passed on Callippides and in the present day on others, that their women are not like gentlewomen. 
           </p>
         </div>
-        <div type="section" n="8">
+        <div type="textpart" subtype="subchapter" n="8">
           <p>
             <lb n="1462a 18"/>Moreover, Tragedy does its work even without help from
             <lb n="1462a 19"/>the action, just as much as Epic poetry; 
@@ -3392,25 +3444,25 @@
             <lb n="1462a 22"/>essential to it. 
           </p>
         </div>
-        <div type="section" n="9">
+        <div type="textpart" subtype="subchapter" n="9">
           <p>
             <lb n="1462a 23"/>Secondly, Tragedy has all that the Epic has, 
           </p>
         </div>
-        <div type="section" n="10">
+        <div type="textpart" subtype="subchapter" n="10">
           <p>
             <lb n="1462a 24"/>and it may even use the Epic metre; 
             <lb n="1462a 25"/>and, besides, it has as no small part music
             <lb n="1462a 26"/>and spectacle, through which the pleasures are most vividly felt. 
           </p>
         </div>
-        <div type="section" n="11">
+        <div type="textpart" subtype="subchapter" n="11">
           <p>
             <lb n="1462a 27"/>Moreover, it has vividness of impression in reading as well as in
             <lb n="1462a 28"/>representation. 
           </p>
         </div>
-        <div type="section" n="12">
+        <div type="textpart" subtype="subchapter" n="12">
           <p>
             <lb n="1462a 29"/>Then, again, Tragedy has the advantage in that the imitation is completed
             <lb n="1462b 1"/>within narrower limits; for the concentrated effect is more
@@ -3418,7 +3470,7 @@
             <lb n="1462b 3"/>What, for example, would be the effect of the Oedipus of Sophocles if it were cast into a form as long as the Iliad? 
           </p>
         </div>
-        <div type="section" n="13">
+        <div type="textpart" subtype="subchapter" n="13">
           <p>
             <pb n="1462b"/>
             <lb n="1462b 4"/>Once more, the Epic imitation has less unity; 
@@ -3429,7 +3481,7 @@
             <lb n="1462b 9"/>I mean when the poem is made up of several actions, 
           </p>
         </div>
-        <div type="section" n="14">
+        <div type="textpart" subtype="subchapter" n="14">
           <p>
             <lb n="1462b 10"/>as is the Iliad and Odyssey, which have
             <lb n="1462b 11"/>many such parts, each of them having a certain magnitude of its own. 
@@ -3437,7 +3489,7 @@
             <lb n="1462b 13"/>the highest degree attainable, an imitation of a single action. 
           </p>
         </div>
-        <div type="section" n="15">
+        <div type="textpart" subtype="subchapter" n="15">
           <p>
             <lb n="1462b 14"/>If, then, Tragedy is superior to Epic poetry in all these respects,
             <lb n="1462b 15"/>and, moreover, fulfils its specific function—for it should produce not
@@ -3445,7 +3497,7 @@
             <lb n="1462b 17"/>is clearly the higher art, as it attains its end more perfectly than the Epic. 
           </p>
         </div>
-        <div type="section" n="16">
+        <div type="textpart" subtype="subchapter" n="16">
           <p>
             <lb n="1462b 18"/>This may suffice for our discussion of Tragedy and Epic poetry,
             <lb n="1462b 19"/>their respective kinds and parts, their number and their differences;
@@ -3453,6 +3505,7 @@
             <lb n="1462b 21"/>critics and the answers to them. 
           </p>
         </div>
+      </div>
       </div>
     </body>
   </text>
