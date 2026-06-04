@@ -151,7 +151,7 @@
 3	καὶ	καί	ADV	d--------	_	4	advmod	_	gloss=also|Ref=1.1.4
 4	χρώμασι	χρῶμα	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	8	obl	_	gloss=with-colors|Ref=1.1.4
 5	καὶ	καί	CCONJ	b--------	_	6	cc	_	gloss=and|Ref=1.1.4
-6	σχήμασι	σχῆμα	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	4	conj	_	gloss=shapes|Ref=1.1.4
+6	σχήμασι	σχῆμα	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	4	conj	_	gloss=with-shapes|Ref=1.1.4
 7	πολλὰ	πολύς	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	gloss=many-things|Ref=1.1.4
 8	μιμοῦνταί	μιμέομαι	VERB	v3ppie---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	advcl	_	gloss=they-imitate|Ref=1.1.4
 9	τινες	τις	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	gloss=some-people|Ref=1.1.4
