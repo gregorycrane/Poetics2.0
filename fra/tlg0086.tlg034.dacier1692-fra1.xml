@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="fre">
+    <fileDesc>
+      <titleStmt>
+        <title>La poëtique d'Aristote, traduite en françois. Avec des remarques.</title>
+        <author>Aristote</author>
+        <respStmt>
+          <resp>Traduit par</resp>
+          <name>André Dacier</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Gemini Digital Philology AI</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Chez C. Barbin</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="1692">1692</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Aristotle</author>
+          <title>La poëtique d'Aristote, traduite en françois. Avec des remarques.</title>
+          <editor role="translator">Dacier, André, 1651-1722</editor>
+          <pubPlace>Paris</pubPlace>
+          <publisher>C. Barbin</publisher>
+          <date>1692</date>
+          <extent>xxiv, [8], 501 p. 26 cm.</extent>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fre">French</language>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="translation" xml:lang="fre" n="urn:cts:greekLit:tlg0086.tlg034.dacier-fre1">
+        
+        <div type="textpart" subtype="chapter" n="1">
+          <pb n="1"/>
+          <head>
+            200 LA POETIQUE D'ARISTOTE. CHAPITRE PREMIER. Deffein de l'Auteur. Toutes les differentes eſpeces de Poësie ne font que des imitations. Les differences qu'il y a entr'elles, &amp; les moyens dont elles ſe ſervent pour parvenir à leur fin. Etenduë du mot Epopée. Abus où l'on est tombé en caracteriſant les Poëtes par la nature de leurs vers.
+          </head>
+
+          <div type="textpart" subtype="subchapter" n="1">
+            <p>
+              <milestone unit="card" n="1"/>
+              1. <choice><sic>A YANT</sic><corr>AYANT</corr></choice> deffein de traiter de la Poësie en general, de ſes differentes eſpeces, &amp; des effets de chacune d'elles en particulier ; d'expliquer le nombre &amp; la qualité de toutes ſes parties; de montrer de quelle maniere il faut <choice><sic>conftituer</sic><corr>conſtituer</corr></choice> un ſujet pour faire un bon Poëme,
+              <pb n="2"/>
+              2 LA POETIQUE 1 &amp; de ne rien oublier de ce qui concerne cet Art, j'imiteray la Nature, &amp; commenceray d'abord par les premiers traits.
+            </p>
+          </div>
+
+          <div type="textpart" subtype="subchapter" n="2">
+            <p>
+              <milestone unit="card" n="2"/>
+              2 L'Epopée &amp; la Tragédie; la Comedie &amp; les Dithyrambes; la plupart des airs de flute &amp; des pieces de lyre, &amp;c. ne font que de pures imitations. <choice><sic>Îl</sic><corr>Il</corr></choice> y a pourtant entre tous ces Arts trois differences <choice><sic>effentielles</sic><corr>eſſentielles</corr></choice>. La premiere regarde le moyen, la ſeconde le ſujet, &amp; la troiſieme la maniere. Car comme les Peintres imitent pluſieurs choſes avec des figures &amp; des couleurs, ou par le ſecours de l'Art, ou par l'habitude ſeule, ou en joignant les deux enſemble; de meſme dans tous les Arts dont je viens de parler, les Maîtres font leur imitation avec le nombre, le diſcours, &amp; l'harmonie enſemble ou feparément.
+            </p>
+          </div>
+
+          <div type="textpart" subtype="subchapter" n="3">
+            <p>
+              <milestone unit="card" n="3"/>
+              3. Le jeu de la flute, celuy de la lyre, &amp; s'il y en a encore quelque autre de meſme nature comme celuy du chalumeau, employent tous le nombre &amp; l'harmonie.
+            </p>
+          </div>
+
+          <div type="textpart" subtype="subchapter" n="4">
+            <p>
+              <milestone unit="card" n="4"/>
+              4. Les Danſeurs ne ſe ſervent que du nombre ſeul: car par le moyen des nombres ou des cadences figurées, ils imitent les mœurs, les paſſions &amp; les actions.
+            </p>
+          </div>
+
+          <div type="textpart" subtype="subchapter" n="5">
+            <p>
+              <milestone unit="card" n="5"/>
+              5. L'Epopée ſe ſert du diſcours en profe ou en vers, ſoit qu'elle mêle pluſieurs fortes de vers ou qu'elle ſe contente d'une ſeule eſpece, comme elle l'a fait juſqu'à preſent.
+            </p>
+          </div>
+
+          <div type="textpart" subtype="subchapter" n="6">
+            <p>
+              <milestone unit="card" n="6"/>
+              6. Je donne au mot Epopée une ſignification 
+              <pb n="3"/>
+             fort étenduë : car autrement nous n'aurions pas de mot géneral qui comprît les Mimes de Sophron, &amp; ceux de Xenarchus, les dialogues de Socrate &amp; toutes les autres imitations qu'on pourroit faire ſoit en vers ïambes, ou en vers élegiaques, ou en quelque autre forte de vers. Il eſt vray que les hommes <choice><sic>diftinguent</sic><corr>diſtinguent</corr></choice> ordinairement les Poëtes par la ſeule différence de leurs vers, en appellant les uns Poëtes Elegiaques, &amp; les autres Poëtes Epiques ou Heroïques, ſans avoir aucun égard à la nature de leur imitation; juſques-là même qu'ils donneront le nom de Poëte Epique ou Heroïque à celuy qui traitera de la Phyſique ou de la Medecine en vers hexamètres. Cependant il n'y a rien de commun entre Homere &amp; Empedocle que les vers : voilà pourquoy il ſeroit bien plus juſte d'appeller le premier un Poëte, &amp; le ſecond un Phyſicien. En effet ſi quelqu'un <choice><sic>s'a- viſoit</sic><corr>s'aviſoit</corr></choice> de faire un poëme en meſlant enſemble toutes les differentes fortes de vers, comme Cheremon fit ſon Centaure, on ſeroit reduit par cette méthode à ne pouvoir luy donner le nom de Poëte. En voilà aſſez fur ce ſujet.
+            </p>
+          </div>
+
+          <div type="textpart" subtype="subchapter" n="7">
+            <p>
+              <milestone unit="card" n="7"/>
+              7. Les Dithyrambes, les Nomes, la Tragedie &amp; la Comedie employent également les trois moyens dont j'ay parlé, le nombre, le vers &amp; l'harmonie, c'est-à-dire la musique, avec cette difference que les uns les employent tous enſemble &amp; les autres ſéparément. Voila quant aux moyens dont ces Arts ſe ſervent pour faire leur imitation.
+            </p>
+          </div>
+        </div>
+
+        <div type="textpart" subtype="chapter" n="2">
+    <pb n="16"/>
+    <head>CHAPITRE SECOND.</head>
+    <head type="sub">Des ſujets de l'imitation: de leur difference &amp; de celle qu'elle produit dans ceux qui imitent, &amp; dans leur imitation. Du different caractere d'Homere, de Cleophon, d'Egemon, de Nicochares, de Timothée &amp; de Philoxene.</head>
+    
+    <div type="textpart" subtype="subchapter" n="1">
+        <milestone unit="card" n="1448a"/>
+        <p>
+            <choice><sic>C O M M E</sic><corr>COMME</corr></choice> tous ceux qui imitent, imitent des actions, &amp; qu'il eſt <choice><sic>impoffi- ble</sic><corr>impoſſible</corr></choice> que ces actions ne <choice><sic>foient</sic><corr>ſoient</corr></choice> ou bonnes ou mauvaiſes, car les mœurs ne peuvent être <choice><sic>diftinguées</sic><corr>diſtinguées</corr></choice> que par ces deux qualitez, &amp; les hommes ne different entre eux que par la vertu ou par le vice, il s'enfuit <choice><sic>neceſſaire- ment</sic><corr>neceſſairement</corr></choice> de là que les Poëtes dans leur imitation font les hommes ou meilleurs par rapport à nous, ou plus méchans, ou ſemblables, tout de même que les Peintres. En effet Polygnotus peignoit les hommes meilleurs; <choice><sic>Pauſon</sic><corr>Pauſon</corr></choice> les peignoit plus méchans, &amp; Denys les faiſoit ſemblables. Et il eſt évident que ces differences ne peuvent pas manquer de ſe trouver dans chacune des imitations dont on vient de parler qui font toutes differentes par les differens ſujets qu'elles <choice><sic>reprefentent</sic><corr>repreſentent</corr></choice>.
+        </p>
+    </div>
+    
+    <div type="textpart" subtype="subchapter" n="2">
+        <p>
+            2. Les mêmes differences ſe trouvent auſſi dans la 
+            <pb n="17"/>
+            danſe, dans les airs de flute, dans les pieces de lyre &amp; de tous les autres <choice><sic>inftrumens</sic><corr>inſtrumens</corr></choice>, &amp; dans tous les ouvrages en proſe ou en vers. Par exemple, Homere a fait les hommes meilleurs, Cleophon les a fait tels qu'ils font, &amp; Egemon de Thaſos qui a été l'inventeur des parodies, &amp; Nicochares Auteur de la Deliade les ont fait plus méchans. Il en <choice><sic>eft</sic><corr>eſt</corr></choice> de même des Poëtes qui ont compoſé des Dithyrambes &amp; des Nomes. C'eſt ainſi que Timothée &amp; que Philoxene ont imité les Perſes &amp; les Cyclopes dans les pieces qui portent ce nom. Et c'eſt cela même qui <choice><sic>conftitue</sic><corr>conſtitue</corr></choice> la difference qui <choice><sic>eft</sic><corr>eſt</corr></choice> entre la Tragedie &amp; la Comedie, car la premiere <choice><sic>repreſente</sic><corr>repreſente</corr></choice> les hommes meilleurs &amp; l'autre les <choice><sic>repreſente</sic><corr>repreſente</corr></choice> plus méchans.
+        </p>
+    </div>
+</div>
+
+
+<div type="textpart" subtype="chapter" n="3">
+    <pb n="23"/>
+    <head>CHAPITRE TROISIEME.</head>
+    <head type="sub">De la maniére dont on fait les imitations ; la difference qu'elle met entre les ſujets qu'on imite. En quoy Sophocle reſſemble à Homere &amp; à Ariſtophane. Prétenſions des Doriens contre les Atheniens, ſur la Tragedie &amp; ſur la Comedie.</head>
+    
+    <div type="textpart" subtype="subchapter" n="1">
+        <milestone unit="card" n="1448a"/>
+        <p>
+            <choice><sic>LA</sic><corr>LA</corr></choice> troifiéme difference conſiſte en la maniére dont on fait des imitations, car avec les mêmes choſes, on peut imiter les mêmes ſujets, &amp; les rendre pourtant trés-differens par la maniére, ſoit en faiſant un recit, ou en <choice><sic>joüant ſoy-même</sic><corr>joüant ſoy-meſme</corr></choice> quelqu'autre perſonnage, comme Homere l'a pratiqué heureuſement; ſoit ſans changer de perſonnage, en demeurant toûjours le même, ſoit enfin en faiſant toûjours agir ceux qu'on imite.
+        </p>
+    </div>
+    
+    <div type="textpart" subtype="subchapter" n="2">
+        <p>
+            2. Tout ce qui s'appelle imitation ne peut recevoir, comme je l'ay dit au commencement, que les trois differences dont j'ay parlé &amp; que j'expliqueray par ces trois mots avec quoy, quoy, &amp; comment. De ſorte qu'au ſecond égard Sophocle reſſemble à Homere dans ſon imitation, car ils imitent tous deux les gens les plus conſiderables; &amp; au troifiéme il reſſemble
+            <pb n="24"/>
+            à <choice><sic>Ariftophane</sic><corr>Ariſtophane</corr></choice>, parce que comme luy il imite des perſonnages, &amp; qu'il les imite en agiſſant. C'eſt de là meſme qu'on a ſoûtenu que les pieces de Theatre devoient eſtre appellées dramatiques, du mot drame, qui ſignifie action. Ce qui a donné lieu aux Doriens, de s'attribuer l'invention de la Tragedie &amp; de la Comedie. Car les Megariens de ce pays ont pris la Comedie pour leur partage, ſoûtenant qu'elle eſt née dans leur état populaire. Les Megariens de Sicile l'ont auſſi revendiquée, parce que le Poëte Epicharmus, plus ancien que Chionides, &amp; que Magnes, étoit Sicilien. Et quelques Doriens du Peloponeſe ſe ſont attribuez l'une &amp; l'autre, &amp; ont fondé leurs prétentions ſur les noms mêmes. Premierement pour ce qui eſt de la Comedie, ils ſoûtiennent que les bourgs, que les Atheniens appellent Demoi, ſont appellez chez eux Comai, ce qui prouve, diſent-ils, que la Comedie n'a pas été ainſi appellée du mot Comazein, comme le prétendent les Atheniens pour s'en faire honneur, mais de celuy de Comé, bourg, parce que les premiers Comediens n'étant pas receus dans la Ville, alloient joüer dans les bourgs. Ils <choice><sic>foûtiennent</sic><corr>ſoûtiennent</corr></choice> auſſi qu'au lieu que les Atheniens diſent prattein, pour dire faire, ils diſent chez eux dran, d'où eſt tiré le nom qu'on donne à toutes les pieces de Theatre qui ſont appellées dramata, des Drames, c'est-à-dire, des actions. Cela ſuffit pour les differences de l'imitation, leur nombre, &amp; leur nature.
+        </p>
+    </div>
+</div>
+
+
+<div type="textpart" subtype="chapter" n="4">
+    <pb n="30"/>
+    <head>CHAPITRE QUATRIEME.</head>
+    <head type="sub">Des cauſes de la Poësie. L'imitation naturelle aux hommes, auſſi-bien que le nombre &amp; l'harmonie. D'ou vient que la Peinture donne tant de plaiſir. Premiers eſſais de la Poësie. Comment elle changea de forme. Eloge d'Homere. Son Margites, quel Poëme c'étoit. Poëtes partagez en deux bandes. Homere a fait le premier des imitations dramatiques pour le Tragique &amp; pour le Comique, &amp; a ouvert le chemin aux Poëtes. Origine de la Tragedie &amp; de la Comedie. Accroiſſement de la premiere, &amp; par quels degrez elle parvint à la perfection où elle eſt. D'où vient qu'elle n'eut que tard la majeſté qui luy eſt convenable. Le premier vers dont elle ſe ſervit, &amp; pourquoy elle le changea enſuite.</head>
+    
+    <div type="textpart" subtype="subchapter" n="1">
+        <milestone unit="card" n="1448b"/>
+        <p>
+            <choice><sic>I L y a</sic><corr>IL y a</corr></choice> deux cauſes principales, &amp; toutes deux fort naturelles, qui ſemblent avoir produit la Poësie; la premiere eſt l'imitation, qualité née avec les hommes, car ils different des autres animaux, en ce qu'ils ſont tous trés-portez à l'imitation, que par ſon moyen ils apprennent les premiers élemens des ſciences, &amp; que toutes les imitations leur donnent un ſingulier plaiſir;
+            <pb n="31"/>
+            comme on peut le reconnoître tous les jours par ce qui nous arrive, quand nous regardons les ouvrages des Peintres; certains originaux, comme de bêtes affreuſes, ou d'hommes morts ou mourans, que nous n'ozerions voir dans la nature, ou que nous ne verrions qu'avec chagrin ou avec frayeur, nous les voyons agreablement dans la Peinture, &amp; plus ils ſont bien imitez, plus nous les regardons avec <choice><sic>plaiſır</sic><corr>plaiſir</corr></choice>. La raiſon de cela eſt que les <choice><sic>Philofophes</sic><corr>Philoſophes</corr></choice> ne ſont pas les ſeuls qui aiment à apprendre, &amp; que cette paſſion eſt également naturelle à tous les autres hommes, quoy qu'ils n'apprennent pas tous également. Ce qui fait qu'ils voyent la peinture avec tant de <choice><sic>fatiſfaction</sic><corr>ſatiſfaction</corr></choice>, c'eſt qu'en la regardant ils peuvent raiſonner &amp; apprendre. Par exemple, en voyant le portrait d'un homme de leur <choice><sic>connoiſſance</sic><corr>connoiſſance</corr></choice>, ils diſent, c'eſt un tel. Et ſi c'eſt le portrait d'un homme qu'ils n'ayent jamais vû, le plaiſir qu'ils ont alors ne vient pas de la beauté de l'imitation, mais de celle de l'art, ou du mélange &amp; de la vivacité des couleurs, ou de quelqu'autre choſe qui attache leurs yeux &amp; leur <choice><sic>eſprit</sic><corr>eſprit</corr></choice>.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="2">
+        <p>
+            2. Si l'imitation nous eſt naturelle, le nombre &amp; l'harmonie ne le ſont pas moins. Sous le mot de nombre, je comprens auſſi les vers, qui évidemment en ſont partie. Et voila les deux cauſes qui ont produit la Poësie. Car ceux qui ſe trouverent le plus de talent pour l'une &amp; pour l'autre, luy donnerent peu à peu la naiſſance, par des eſſais
+            <pb n="32"/>
+            faits ſur le champ. Mais elle changea bien-tôt de forme ſelon le different naturel des Poëtes, car ceux qui avoient le genie le plus élevé, chantoient les actions des plus grands perſonnages, &amp; ceux qui l'avoient le plus <choice><sic>rempant</sic><corr>rampant</corr></choice>, prenoient pour le ſujet de leurs chants les avantures des hommes les plus vils, dont ils <choice><sic>faifoient</sic><corr>faiſoient</corr></choice> des railleries piquantes, comme les premiers <choice><sic>faifoient</sic><corr>faiſoient</corr></choice> des Panegyriques &amp; des Hymnes.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="3">
+        <p>
+            3. Il ne nous reſte aucun Poëme de cette forte avant Homere, quoy qu'il y ait bien de l'apparence qu'il y en avoit pluſieurs, mais nous en avons du temps d'Homere. Par exemple, ſon Margites, &amp; beaucoup d'autres de même eſpece, où l'on a auſſi employé le vers ïambe, comme le plus propre pour les railleries &amp; pour les injures; c'eſt pourquoy on appelle preſentement ces Poëmes, des Poëmes iambiques, du nom de ce vers, parce que ce n'eſt que des invectives continuelles. Ainſi les premiers Poëtes ont été partagez en deux bandes, car les uns <choice><sic>faifoient</sic><corr>faiſoient</corr></choice> des vers heroïques, &amp; les autres des vers ïambes. Et comme Homere a tenu ſans contredit le premier rang dans le Genre heroïque &amp; tragique, car il eſt le ſeul qui merite le nom de Poëte, non ſeulement parce qu'il a bien écrit, mais encore parce qu'il a fait des imitations dramatiques, il a auſſi été le premier qui ait donné, comme un crayon de la Comedie, en changeant en plaiſanterie les railleries piquantes des premiers Poëtes. En effet ſon 
+            <pb n="33"/>
+            Margites a le même rapport avec la Comedie, que ſon Iliade &amp; ſon Odyſſée ont avec la Tragedie. Les autres Poëtes qui vinrent aprés luy, &amp; qui étoient naturellement portez à l'un ou à l'autre de ces deux genres de Poëſie, ſelon qu'ils avoient plus ou moins de force, s'attacherent, les uns à faire des Comedies au lieu de faire des ïambes, &amp; les autres quitterent les vers heroïques pour donner des Tragedies, ces deux dernieres fortes d'ouvrages leur ayant paru plus nobles, &amp; plus dignes de les occuper.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="4">
+        <p>
+            4. Or d'examiner preſentement ſi la Tragedie eſt dans ſa perfection, &amp; ſi elle a receu la forme qui luy convient, &amp; par rapport à elle, &amp; par rapport au theatre, ce n'eſt pas icy le lieu.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="5">
+        <milestone unit="card" n="1449a"/>
+        <p>
+            5. La Tragedie donc &amp; la Comedie, étant nées des impromptu dont j'ay parlé, car la premiere doit ſa naiſſance aux Dithyrambes qu'on chantoit en l'honneur de Bacchus, &amp; l'autre à ces chanſons obſcenes, qui autoriſées par la coûtume &amp; par les loix, ſe chantent encore de nôtre temps dans pluſieurs Villes, elles ont receu l'une &amp; l'autre leur accroiſſement peu à peu, chacun ajoûtant quelque choſe à leur beauté, à meſure que l'on découvroit ce qui convenoit à leur caractere.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="6">
+        <p>
+            6. Pour la Tragedie, aprés beaucoup de changemens elle ſe repoſa, quand elle eut tout ce qui luy étoit propre. <choice><sic>Efchyle</sic><corr>Eſchyle</corr></choice> fut le premier qui mit deux Acteurs ſur la ſcene, car il n'y en avoit qu'un avant
+            <pb n="34"/>
+            luy; il diminua les chants du chœur, &amp; inventa l'idée d'un principal perſonnage. Sophocle ajoûta un troifiéme Acteur aux deux d'<choice><sic>Eſchyle</sic><corr>Eſchyle</corr></choice>, &amp; orna la Scene de belles decorations. Enfin elle ne receut que fort tard la grandeur &amp; la gravité qui luy ſont convenables, car elle ne ſe deffit qu'avec peine de ſes petits ſujets &amp; de ſon ſtile burleſque, qu'elle avoit retenu de ces pieces ſatyriques, d'où elle ſortoit.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="7">
+        <p>
+            7. Le vers ïambe trimetre ſucceda au vers tetrametre, dont elle s'étoit toûjours ſervie, parce qu'elle étoit toute ſatyrique, &amp; pleine de danſes &amp; de mouvement. Mais aprés que la diction qui luy étoit propre fut établie, la Nature inventa ſans peine le genre de vers qui luy convenoit, car l'iambe eſt de tous les vers le plus propre pour la converſation, &amp; une marque trés-certaine de cela, c'eſt, que nous faiſons trés-ſouvent des vers ïambes en parlant les uns avec les autres, &amp; trés-rarement des hexametres, qui ne nous échapent jamais, que lorſque nous franchiſſons les bornes du diſcours ordinaire, &amp; que nous changeons d'harmonie &amp; de ton.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="8">
+        <p>
+            8. Le nombre des Epiſodes s'augmenta auſſi avec le temps, &amp; on vit naître peu à peu &amp; <choice><sic>fucceffive- ment</sic><corr>ſucceſſivement</corr></choice>, toutes les autres beautez de la Tragedie. Mais il ſuffit d'en avoir parlé en general, car ce ſeroit peut-être une entrepriſe, &amp; trop longue &amp; trop difficile que de traiter de chacune en particulier.
+        </p>
+    </div>
+</div>
+
+<div type="textpart" subtype="chapter" n="5">
+    <pb n="55"/>
+    <head>CHAPITRE CINQUIE'ME.</head>
+    <head type="sub">Définition de la Comedie. Ce que c'eſt que le ridicule: Pourquoy la Comedie fut cultivée plus tard que la Tragedie; c'étoit au Magiſtrat à donner les chœurs. Quels Poëtes furent les premiers qui formerent des ſujets de Comedie. Conformité &amp; difference de l'Epopée avec la Tragedie. Quelle doit être la durée de l'action de ces deux Poëmes. Ceux qui jugeront bien de la Tragedie, jugeront bien du Poëme Epique, mais ceux qui jugeront bien du Poëme Epique, ne ſeront pas toûjours capables de bien juger de la Tragedie, &amp; pourquoy?</head>
+    
+    <div type="textpart" subtype="subchapter" n="1">
+        <milestone unit="card" n="1449a"/>
+        <p>
+            <choice><sic>LA</sic><corr>LA</corr></choice> Comedie eſt, comme je l'ay déja dit, une imitation des plus méchans hommes. Quand je dis méchans, ce n'eſt pas dans toutes ſortes de vices, mais ſeulement dans le ridicule: car le ridicule eſt proprement un defaut, une difformité ſans douleur, &amp; qui ne va point à la deſtruction du ſujet où il ſe trouve. Par exemple, ſans aller plus loin, nous appellons un viſage ridicule, un viſage defagreable, &amp; tout contrefait ſans aucune douleur.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="2">
+        <milestone unit="card" n="1449b"/>
+        <p>
+            2. Les changemens qui ſont arrivez à la Tragedie 
+            <pb n="56"/>
+            ont été ſenſibles, &amp; on en a connu les Auteurs, mais la Comedie a été inconnuë, parce qu'elle ne fut pas cultivée dés le commencement, comme la Tragedie, car le <choice><sic>Magiftrat</sic><corr>Magiſtrat</corr></choice> ne commença que fort tard à donner des chœurs comiques. Ceux qui joüoient alors étoient des Acteurs libres &amp; volontaires, qui joüoient pour eux, &amp; ſans ordre du <choice><sic>Magiftrat</sic><corr>Magiſtrat</corr></choice>. Depuis que la Comedie eut commencé à prendre quelque forme, on ſçait les Poëtes qui y ont travaillé, mais on ignore ceux qui ont employé les premiers des maſques, fait des prologues, augmenté le nombre des Acteurs, &amp; ajoûté toutes les autres choſes que nous y voyons aujourd'huy.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="3">
+        <p>
+            3. Epicharmus &amp; Phormys s'aviſerent les premiers de former des ſujets, &amp; par conſequent cette maniére vint de Sicile. Crates fut le premier des Atheniens qui la ſuivit en renonçant aux railleries groſſieres qui regnoient auparavant.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="4">
+        <p>
+            4. L'Epopée a cela de commun avec la Tragedie, qu'elle eſt un diſcours en vers, &amp; une imitation des actions des plus grands perſonnages. Et elle eſt differente, en ce qu'elle n'employe qu'une ſeule &amp; même ſorte de vers, qu'elle eſt une pure narration, &amp; qu'elle a plus d'étenduë: car la Tragedie tâche autant qu'il eſt poſſible, de ſe renfermer dans le tour d'un ſoleil, ou de changer peu ce temps, au lieu qu'il n'y a point de temps preſcrit à l'Epopée. Mais il faut dire auſſi, qu'il n'y en avoit 
+            <pb n="57"/>
+            pas non plus pour la Tragedie dans ſes commencemens.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="5">
+        <p>
+            5. Celuy qui jugera bien d'une Tragedie, &amp; qui connoîtra bien ſeurement ſi elle eſt bonne ou mauvaiſe, pourra auſſi juger d'une Epopée, car toutes les parties de l'Epopée ſe trouvent dans la Tragedie, mais toutes celles de la Tragedie ne ſe trouvent pas dans l'Epopée.
+        </p>
+    </div>
+</div>
+
+<div type="textpart" subtype="chapter" n="5">
+    <pb n="55"/>
+    <head>CHAPITRE CINQUIE'ME.</head>
+    <head type="sub">Définition de la Comedie. Ce que c'eſt que le ridicule: Pourquoy la Comedie fut cultivée plus tard que la Tragedie; c'étoit au Magiſtrat à donner les chœurs. Quels Poëtes furent les premiers qui formerent des ſujets de Comedie. Conformité &amp; difference de l'Epopée avec la Tragedie. Quelle doit être la durée de l'action de ces deux Poëmes. Ceux qui jugeront bien de la Tragedie, jugeront bien du Poëme Epique, mais ceux qui jugeront bien du Poëme Epique, ne ſeront pas toûjours capables de bien juger de la Tragedie, &amp; pourquoy?</head>
+    
+    <div type="textpart" subtype="subchapter" n="1">
+        <milestone unit="card" n="1449a"/>
+        <p>
+            <choice><sic>LA</sic><corr>LA</corr></choice> Comedie eſt, comme je l'ay déja dit, une imitation des plus méchans hommes. Quand je dis méchans, ce n'eſt pas dans toutes ſortes de vices, mais ſeulement dans le ridicule: car le ridicule eſt proprement un defaut, une difformité ſans douleur, &amp; qui ne va point à la deſtruction du ſujet où il ſe trouve. Par exemple, ſans aller plus loin, nous appellons un viſage ridicule, un viſage defagreable, &amp; tout contrefait ſans aucune douleur.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="2">
+        <milestone unit="card" n="1449b"/>
+        <p>
+            2. Les changemens qui ſont arrivez à la Tragedie 
+            <pb n="56"/>
+            ont été ſenſibles, &amp; on en a connu les Auteurs, mais la Comedie a été inconnuë, parce qu'elle ne fut pas cultivée dés le commencement, comme la Tragedie, car le <choice><sic>Magiftrat</sic><corr>Magiſtrat</corr></choice> ne commença que fort tard à donner des chœurs comiques. Ceux qui joüoient alors étoient des Acteurs libres &amp; volontaires, qui joüoient pour eux, &amp; ſans ordre du <choice><sic>Magiftrat</sic><corr>Magiſtrat</corr></choice>. Depuis que la Comedie eut commencé à prendre quelque forme, on ſçait les Poëtes qui y ont travaillé, mais on ignore ceux qui ont employé les premiers des maſques, fait des prologues, augmenté le nombre des Acteurs, &amp; ajoûté toutes les autres choſes que nous y voyons aujourd'huy.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="3">
+        <p>
+            3. Epicharmus &amp; Phormys s'aviſerent les premiers de former des ſujets, &amp; par conſequent cette maniére vint de Sicile. Crates fut le premier des Atheniens qui la ſuivit en renonçant aux railleries groſſieres qui regnoient auparavant.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="4">
+        <p>
+            4. L'Epopée a cela de commun avec la Tragedie, qu'elle eſt un diſcours en vers, &amp; une imitation des actions des plus grands perſonnages. Et elle eſt differente, en ce qu'elle n'employe qu'une ſeule &amp; même ſorte de vers, qu'elle eſt une pure narration, &amp; qu'elle a plus d'étenduë: car la Tragedie tâche autant qu'il eſt poſſible, de ſe renfermer dans le tour d'un ſoleil, ou de changer peu ce temps, au lieu qu'il n'y a point de temps preſcrit à l'Epopée. Mais il faut dire auſſi, qu'il n'y en avoit 
+            <pb n="57"/>
+            pas non plus pour la Tragedie dans ſes commencemens.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="5">
+        <p>
+            5. Celuy qui jugera bien d'une Tragedie, &amp; qui connoîtra bien ſeurement ſi elle eſt bonne ou mauvaiſe, pourra auſſi juger d'une Epopée, car toutes les parties de l'Epopée ſe trouvent dans la Tragedie, mais toutes celles de la Tragedie ne ſe trouvent pas dans l'Epopée.
+        </p>
+    </div>
+</div>
+
+<div type="textpart" subtype="chapter" n="6">
+    <!-- PAGE 70 -->
+    <pb n="70"/>
+    <head rend="center">CHAPITRE SIXIE'ME.</head>
+
+        <p>Définition de la Tragedie. Son effet de purger les paſſions. Son ſtyle. Les <choice><sic>fix</sic><corr>ſix</corr></choice> parties qui la compoſent. Les mœurs ſont le caractere des hommes, &amp; la ſource de leurs actions. Pourquoy la Tragedie eſt une imitation des actions, &amp; non pas des hommes ny de leurs mœurs. La fin que les hommes ſe propoſent, eſt toûjours une action &amp; non pas une qualité. La Tragedie peut ſubſiſter ſans mœurs. Ce qu'il y a de plus important &amp; de plus difficile dans la Tragedie. Ce que c'eſt que les mœurs, &amp; les diſcours qui ont ou qui n'ont pas des mœurs. Difference des anciens Orateurs à ceux du ſiecle d'Ariſtote. De la Muſique &amp; des Decorations.</p>
+
+
+    <div type="textpart" subtype="subchapter" n="1">
+        <p>
+            <num value="1">1.</num> NOus parlerons de l'Epopée &amp; de la Comedie dans la ſuite de ce diſcours, parlons preſentement de la Tragedie, &amp; donnons en d'abord une définition exacte, en ne faiſant que raſſembler ce qui en a déja été dit.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="2">
+        <p>
+            <num value="2">2.</num> La Tragedie eſt donc une imitation d'une action grave, entiere, &amp; qui a une juſte grandeur: Dont le ſtyle eſt agreable aſſaiſonné, mais differemment dans toutes ſes parties, &amp; qui, ſans le ſe<!-- PAGE 71 --><pb n="71"/>cours de la narration, par le moyen de la compaſſion &amp; de la terreur, acheve de purger en nous ces ſortes de paſſions, &amp; toutes les autres ſemblables.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="3">
+        <p>
+            <num value="3">3.</num> J'appelle, un ſtyle agreablement aſſaiſonné, un ſtyle qui a le nombre, le vers, &amp; l'harmonie, &amp; j'ajoûte, mais differemment dans toutes ſes parties, parce que le vers regne dans les unes, &amp; le nombre &amp; l'harmonie dans les autres.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="4">
+        <p>
+            <num value="4">4.</num> Cette imitation étant faite par des gens qui agiſſent, il s'enfuit de là neceſſairement, que la décoration de la Scene eſt en quelque ſorte une partie de la Tragedie, comme la melodie &amp; le diſcours avec quoy on fait cette imitation. J'appelle diſcours, la compoſition même des vers; &amp; melodie, la Muſique dont toute la force eſt connuë.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="5">
+        <p>
+            <num value="5">5.</num> Comme c'eſt une imitation de quelque action, &amp; que ceux qui agiſſent ſont neceſſairement tels, par les mœurs &amp; par les ſentimens, n'y ayant point d'autres caracteres qui puiſſent diſtinguer les actions, c'eſt une conſequence ſeure, que toutes les actions viennent de ces deux ſources, c'est-à-dire, des ſentimens &amp; des mœurs, &amp; que ce ſont les deux cauſes du bonheur &amp; du malheur des hommes.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="6">
+        <p>
+            <num value="6">6.</num> L'imitation d'une action, c'eſt proprement la fable, car j'appelle fable, la compoſition des choſes.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="7">
+        <p>
+            <num value="7">7.</num> Les mœurs ſont ce qui marque les qualitez de ceux qui agiſſent; &amp; les ſentimens ſont les diſcours, par leſquels ils font connoître quelque a<!-- PAGE 72 --><pb n="72"/>ction, ou découvrent leur penſée.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="8">
+        <p>
+            <num value="8">8.</num> La Tragedie a donc neceſſairement <choice><sic>fix</sic><corr>ſix</corr></choice> parties, la fable, les mœurs, la diction, les ſentimens, la décoration &amp; la muſique. De ces <choice><sic>fix</sic><corr>ſix</corr></choice>, il y en a deux qui regardent le moyen: Une qui regarde la maniere, &amp; trois qui regardent le ſujet ou la matiére de cette imitation.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="9">
+        <p>
+            <num value="9">9.</num> Il n'y a preſque point de Poëte, pour ainſi dire, qui n'employe ces <choice><sic>fix</sic><corr>ſix</corr></choice> parties dans ſes pieces Tragiques, il eſt vray auſſi qu'elles ſe trouvent dans toutes ſortes de ſujets.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="10">
+        <p>
+            <num value="10">10.</num> Mais la plus importante, c'eſt la fable, ou la compoſition des choſes. Car la Tragedie eſt une imitation, non pas des hommes, mais de leurs actions, de leur vie, &amp; de leur bonheur, ou de leur malheur, qui conſiſtent dans l'action. La fin même que les hommes ſe propoſent, eſt toûjours une action, &amp; non pas une qualité. On a telles ou telles qualitez par les mœurs, &amp; l'on eſt heureux ou malheureux par les actions. La Tragedie n'agit donc point pour imiter les mœurs, mais elle ajoûte les mœurs à cauſe des actions, de ſorte que les actions &amp; la fable ſont la fin de la Tragedie, or en toutes choſes, la fin eſt ce qu'il y a de plus important.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="11">
+        <p>
+            <num value="11">11.</num> Ajoûtez à cette verité qu'il n'y ſçauroit avoir de Tragedie ſans action, &amp; qu'il y en peut avoir ſans mœurs. En effet il n'y a point de mœurs dans les pieces de la pluſpart des Poëtes Modernes. On peut dire même en general, que l'on trouve entre preſque <!-- PAGE 73 --><pb n="73"/> tous nos Poëtes, la même difference qui eſt entre les Peintres Zeuxis &amp; Polygnote. Ce dernier exprimoit parfaitement les mœurs, &amp; on n'en trouve aucun indice dans les ouvrages de l'autre.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="12">
+        <p>
+            <num value="12">12.</num> D'ailleurs ſi quelqu'un s'aviſoit de faire une piece, où il y eût de ſuite pluſieurs diſcours, dans leſquels les mœurs ſeroient parfaitement exprimées, &amp; où il y auroit encore une belle diction &amp; de fort beaux ſentimens on peut aſſeurer qu'il n'auroit pas encore attrapé ce qui eſt le propre de la Tragedie. Au lieu qu'une piece qui ſeroit entierement inferieure à cette premiere dans toutes ſes parties, &amp; qui auroit un ſujet bien conſtitué &amp; bien conduit, en viendroit bien plûtôt &amp; plus heureuſement à bout.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="13">
+        <p>
+            <num value="12">12.</num> <!-- Misnumbered as 12 in source text --> Une quatriéme raiſon qui n'eſt pas moins eſſencielle que les precedentes, c'eſt que les moyens les plus efficaces dont la Tragedie ſe ſert pour toucher &amp; pour plaire, ce ſont les peripeties &amp; les reconnoiſſances, or les unes &amp; les autres ſont des parties du ſujet.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="14">
+        <p>
+            <num value="14">14.</num> Enfin une marque tres certaine de la verité de ce que je viens d'établir, c'eſt que ceux qui entreprenent de faire une Tragedie, trouvent bien plus de facilité à réuſſir dans le ſtyle &amp; dans les mœurs, qu'à bien bâtir le ſujet, &amp; c'eſt une <choice><sic>expetience</sic><corr>experience</corr></choice> que preſque tous les anciens Poëtes ont faite.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="15">
+        <p>
+            <num value="15">15.</num> Il eſt donc conſtant que le principal, &amp; <!-- PAGE 74 --><pb n="74"/> comme l'ame de la Tragedie, c'eſt le ſujet. Les mœurs viennent enſuite, &amp; il en eſt abſolument comme de la Peinture. Car ſi quelqu'un jettoit confuſément &amp; pêle-mêle, les plus belles couleurs ſur une toile, il ne feroit pas le même plaiſir que le ſimple crayon d'un portrait. En un mot la Tragedie eſt une imitation d'une action, &amp; par conſequent elle eſt principalement une imitation de perſonnes qui agiſſent.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="16">
+        <p>
+            <num value="16">16.</num> Aprés les mœurs viennent les ſentimens, c'est-à-dire, la faculté d'exprimer les choſes qui ſont du ſujet, &amp; celles qui luy conviennent. Or tout ce qui regarde le diſcours dépend de la Rhetorique &amp; de l'Uſage commun. Les anciens Orateurs parloient communement &amp; ſimplement, &amp; ceux d'aujourd'huy empruntent tous les ſecours de la Rhetorique.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="17">
+        <p>
+            <num value="17">17.</num> Les mœurs ſont ce qui découvre l'inclination de celuy qui parle, &amp; le parti qu'il prendra dans les choſes où il ne ſeroit pas aiſé de le reconnoître; c'eſt pourquoy tous les diſcours, qui ne font pas ſentir d'abord à quoy ſe reſoudra celuy qui parle, ſont ſans mœurs.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="18">
+        <p>
+            <num value="18">18.</num> Les ſentimens ſont, ce qui explique ce qui eſt ou ce qui n'eſt pas, en un mot ce qui fait connoître la penſée de celuy qui parle.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="19">
+        <p>
+            <num value="19">19.</num> La quatriéme choſe, &amp; qui regarde uniquement le diſcours, c'eſt la diction, qui eſt, comme je l'ay déja dit, l'explication des choſes par les ter<!-- PAGE 75 --><pb n="75"/>mes, &amp; qui a autant de force dans la proſe que dans les vers.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="20">
+        <p>
+            <num value="20">20.</num> Aprés la diction vient la muſique, qui eſt le plus grand de tous les agremens que la Tragedie puiſſe employer.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="21">
+        <p>
+            <num value="21">21.</num> La Décoration eſt auſſi fort divertiſſante, mais elle ne regarde pas proprement l'art du Poëte, &amp; ne fait point partie de la Poeſie, car la Tragedie ne laiſſe pas de conſerver toute ſa force, ſans repreſentation &amp; ſans Acteurs. Et d'ailleurs tout ce qui regarde la décoration, eſt bien plus du reſſort des Ouvriers &amp; des Ingenieurs, que de celuy des Poëtes.
+        </p>
+    </div>
+</div>
+<div type="textpart" n="7">
+    <!-- PAGE 103 -->
+    <pb n="103"/>
+    <head rend="center">CHAPITRE SEΡΤΙΕΜΕ.</head>
+  
+        <p>De la conſtitution du ſujet. Définition exacte des trois parties d'un tout entier &amp; parfait. En quoy conſiſte la beauté de tous les êtres qui ont des parties. Quelle doit être l'étenduë des ſujets des pieces dramatiques, &amp; la durée de leur repreſentation.</p>
+  
+
+    <div type="textpart" subtype="subchapter" n="1">
+        <p>
+            <num value="1">1.</num> CEs choſes étant expliquées, voyons quelle doit être la conſtitution du ſujet, puiſque c'eſt la premiere &amp; la principale partie de la Tragedie.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="2">
+        <p>
+            <num value="2">2.</num> Nous avons dit que la Tragedie eſt une imitation d'une action, qui fait un tout parfait &amp; entier, &amp; d'une juſte grandeur, car il y a telle choſe qui fait un tout, &amp; qui cependant n'a pas une juſte étenduë; j'appelle donc un tout, ce qui a un commencement, un milieu, &amp; une fin.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="3">
+        <p>
+            <num value="3">3.</num> Le commencement eſt ce qui ne ſuppoſe rien neceſſairement avant ſoy; &amp; qui exige aprés ſoy quelqu'autre choſe qui eſt, ou qui doit être. La fin eſt tout le contraire, car elle n'exige plus rien aprés ſoy, mais elle ſuppoſe neceſſairement quelque choſe qui la précede. Et le milieu, c'eſt ce qui ſuppoſe quelque choſe qui doit préceder, &amp; <!-- PAGE 104 --><pb n="104"/> qui exige quelqu'autre choſe qui doit ſuivre.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="4">
+        <p>
+            <num value="4">4.</num> Ceux donc qui veulent bien dreſſer un ſujet ne peuvent ny commencer ny finir par tout où il leur plaiſt, mais ils doivent ſuivre l'idée que nous leur avons donnée.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="5">
+        <p>
+            <num value="5">5.</num> Ajoûtez à cela que tout ce qu'il y a de beau parmy les hommes, &amp; parmy les autres êtres, ſi l'il eſt compoſé de parties, doit avoir non ſeulement un ordre, mais encore une grandeur juſte &amp; raiſonnable, car le beau conſiſte dans l'ordre &amp; dans la grandeur. C'eſt pourquoy rien de trop petit ne peut être beau, parce que la veuë ſe confond dans un objet qu'on voit en un moment preſque inſenſible. Rien de trop grand ne peut être beau non plus, parce qu'on ne le voit pas d'un coup d'œil, &amp; qu'en voyant ſes parties ſucceſſivement l'une aprés l'autre, le ſpectateur perd l'idée du tout, comme s'il voyoit un animal de dix mille ſtades. Ainſi donc comme tous les animaux &amp; tous les autres êtres, doivent avoir une étenduë, que l'œil puiſſe comprendre &amp; meſurer aiſement, &amp; tout-d'un-coup, de même il faut que le ſujet des pieces dramatiques ayt une étenduë que la memoire puiſſe embraſſer &amp; retenir ſans peine.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="6">
+        <p>
+            <num value="6">6.</num> Or la meſure préciſe de cette grandeur, pour ce qui regarde la durée de la repreſentation &amp; de l'attention du ſpectateur, ne peut être décidée par des regles certaines &amp; fixes, car s'il falloit joüer, par exemple, cent Tragedies dans un jour, il fau<!-- PAGE 105 --><pb n="105"/>droit meſurer le temps de chacune à la Clepſydre, comme on dit que cela ſe pratiquoit autrefois. Il faut donc la regler par la nature même de ce Poëme, &amp; aſſeurer que plus une piece aura d'étenduë, plus elle ſera belle dans ſa grandeur, pourvû qu'elle ne croiſſe que juſques à ce que le ſujet puiſſe être vû tout enſemble, ſans que la veuë s'égare ny ſe confonde. Ainſi donc on peut déterminer en general, que cette meſure dépend de la neceſſité, ou de la vray-ſemblance. C'eſt-à-dire, qu'une piece pour avoir ſa juſte étenduë, doit occuper autant de temps qu'il en faut ou neceſſairement ou vray-ſemblablement, pour bien amener tous les incidens, juſques à ce que le dénoüement expoſe le dernier bonheur, ou le dernier malheur des principaux Perſonnages. Car c'eſt là préciſément la juſte meſure de la grandeur.
+        </p>
+    </div>
+</div>
+
+<div type="textpart" subtype="chapter" n="8">
+    <!-- PAGE 117 -->
+    <pb n="117"/>
+    <head rend="center">CHAPITRE HUITIE'ME.</head>
+  
+        <p>De l'Unité du ſujet, &amp; en quoy elle conſiſte. Erreur de quelques anciens Poëtes ſur cette Unité. Comment Homere l'avoit connuë. Eloge de ce Poëte. Integrité de l'action. Et quelle doit être la liaiſon de toutes ſes parties.</p>
+
+
+    <div type="textpart" subtype="subchapter" n="1">
+        <p>
+            <num value="1">1.</num> LE ſujet doit être un, &amp; non pas, comme pluſieurs penſent, tiré d'une ſeule perſonne. Car, comme on voit tous les jours une infinité d'accidens de la plupart deſquels on ne peut rien faire qui ſoit un, il arrive de même que les actions d'un même homme, ſont en ſi grand nombre &amp; ſi differentes <choice><sic>entes</sic><corr>entre elles</corr></choice>, qu'on ne ſçauroit jamais les reduire à cette Unité, &amp; en faire une ſeule &amp; même action.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="2">
+        <p>
+            <num value="2">2.</num> C'eſt pourquoy il me ſemble que tous les Poëtes, qui ont fait l'Heracleide, ou la Theſeide, ou pluſieurs autres Poëmes ſemblables, ſe ſont fort trompez, car ils ont crû mal à propos que parce que Theſée eſt un, &amp; qu'Hercule eſt un, toute leur vie ne devoit faire qu'un ſeul ſujet, une ſeule fable, &amp; que l'unité du Héros faiſoit l'unité d'action.
+        </p>
+    </div>
+
+    <!-- PAGE 118 -->
+    <pb n="118"/>
+    <div type="textpart" subtype="subchapter" n="3">
+        <p>
+            <num value="3">3.</num> Homere, qui a excellé en tout ſur les autres Poëtes, me paroît avoir parfaitement connu ce défaut, ou par les lumiéres naturelles d'un heureux génie, ou par les regles de l'art, car en compoſant ſon <title>Odyſſée</title>, il n'y a pas fait entrer toutes les avantures d'Ulyſſe, par exemple, il n'a pas mêlé la bleſſure qu'il receut ſur le Parnaſſe, avec la folie qu'il feignit, lorſque les Grecs aſſembloient leur Armée, car de ce que l'une eſt ariſtee, il ne s'enſuit, ny neceſſairement ny vray-ſemblablement, que l'autre doive arriver auſſi; mais il a employé tout ce qui pouvoit avoir raport à une ſeule &amp; même action comme eſt celle de l'Odyſſée. Il en a uſé de même dans ſon <title>Iliade</title>.
+        </p>
+    </div>
+
+    <div type="textpart" subtype="subchapter" n="4">
+        <p>
+            <num value="4">4.</num> Comme donc dans toutes les autres imitations, ce que l'on imite eſt un, de même dans la Tragedie, puiſque la fable eſt l'imitation d'une action, il faut que cette action ſoit une &amp; toute entiere, &amp; que ſes parties differentes ſoient tellement liées les unes avec les autres, que ſi on en tranſpoſe, ou que l'on en ôte une ſeule, le tout ſoit entierement ou changé, ou détruit. Car tout ce qui peut être mis ou omis, ſans faire un changement ſenſible, ne peut être partie d'une action.
+        </p>
+    </div>
+</div>
+
+<div type="textpart" subtype="chapter" n="9">
+        <pb n="125"/>
+        <head>CHAPITRE NEUVIE'ME.</head>
+        
+          <p>Si le Poëte doit ſuivre la verité ou la vray-ſemblance. Difference du Poëte &amp; de l'Historien. Avantages de la Poësie ſur l'Histoire. Si la Tragedie peut inventer tous les noms de ſes perſonnages : Exemple, tiré de la Tragedie d'Agathon. S'il faut toûjours ſuivre les fables receues. Comment le Poëte est le maître de ſon ſujet. Si une Hiſtoire véritable peut être le ſujet d'une Tragedie. Fables Epiſodiques quelles, &amp; pourquoy les bons Poëtes ſont quelquefois tombez dans ce défaut. La ſurpriſe neceſſaire à la Tragedie. Comment la fable doit produire cette ſurpriſe. Hiſtoire de la Statuë de Mitys.</p>
+
+        <div type="textpart" subtype="subchapter" n="1">
+          <milestone unit="card" n="1451a"/>
+          <p><label>I.</label> PAr ce que nous venons de dire, il eſt aiſe de voir que ce n'eſt pas le propre du Poëte, de dire les choſes, comme elles ſont arrivées ; mais de les dire, comme elles ont pû ou dû arriver, neceſſairement ou <choice><sic>vray-femblablement</sic><corr>vray-ſemblablement</corr></choice>.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="2">
+          <milestone unit="card" n="1451b"/>
+          <pb n="126"/>
+          <p><label>2.</label> Car l'Hiſtorien &amp; le Poëte ne different pas entr'eux, en ce que l'un écrit en profe, &amp; l'autre en vers. En effet on pourroit fort bien mettre en vers, l'Histoire d'Herodote, &amp; elle ne ſeroit pas moins une Hiſtoire en vers, qu'elle l'eſt en proſe; mais ils different en ce que l'Hiſtorien écrit ce qui eſt arrivé, &amp; le Poëte ce qui a pû ou dû arriver. C'eſt pourquoy la Poëſie eſt plus grave &amp; plus morale que l'Hiſtoire, parce que la <choice><sic>Poësie</sic><corr>Poëſie</corr></choice> dit les <choice><sic>chofes</sic><corr>choſes</corr></choice> generales, &amp; l'<choice><sic>Histoire</sic><corr>Hiſtoire</corr></choice> raporte les choſes particu-lieres. Une choſe generale, c'eſt ce que tout homme d'un tel ou d'un tel caractére, a dû dire, ou faire vray-ſemblablement ou neceſſairement, ce qui est le but de la <choice><sic>Poëfie</sic><corr>Poëſie</corr></choice>, lors même, qu'elle impoſe les noms à ſes perſonnages. Une choſe particuliere; c'eſt ce qu'Alcibiade, par exemple, a fait, ou <choice><sic>fouffert</sic><corr>ſouffert</corr></choice>.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="3">
+          <p><label>3.</label> C'eſt ce qui est déja rendu ſenſible dans la Comedie, car les Poëtes comiques, aprés avoir dreſſé leur ſujet ſur la vray-ſemblance, <choice><sic>impofent</sic><corr>impoſent</corr></choice> aprés cela à leurs perſonnages tels noms qu'il leur plaît, &amp; n'imitent pas les Poëtes ſatyriques, qui ne s'attachent qu'aux choſes particulieres.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="4">
+          <p><label>4.</label> Il eſt vray que les Poëtes Tragiques ſe ſervent de véritables noms, mais la raiſon de cela eſt, que tout ce qui eſt poſſible eft croyable, car ce qui n'eſt pas arrivé, ne nous paroît pas toûjours poſſible; au lieu que nous ne ſçaurions douter, que ce qui a déja été fait, ne ſoit <choice><sic>poffible</sic><corr>poſſible</corr></choice> ſans difficulté, puiſqu'il n'auroit pas été, s'il n'eût été <choice><sic>poffible</sic><corr>poſſible</corr></choice>.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="5">
+          <pb n="127"/>
+          <p><label>5.</label> Il arrive neanmoins fort ſouvent, que dans les Tragedies, on ſe contente d'un ou de deux noms connus, &amp; que tous les autres font inventez. Il y a même des pieces où pas un mot n'eſt connu, comme dans la Tragedie d'Agathon, qu'il a appellée la Fleur, car dans cette piece, tous les noms ſont <choice><sic>ints</sic><corr>feints</corr></choice>, comme les choſes, &amp; elle ne laiſſe pas de plaire.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="6">
+          <p><label>6.</label> C'eſt pourquoy il n'eſt pas neceſſaire de s'attacher ſcrupuleuſement à ſuivre toûjours les fables receuës, d'où l'on tire ordinairement les ſujets des Tragedies. Cela ſeroit ridicule, car ce qui eſt connû, l'eſt ordinairement de peu de perſonnes, &amp; cependant il divertit tout le monde également.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="7">
+          <p><label>7.</label> Il eſt donc évident par là, que le Poëte doit être l'Auteur de ſon ſujet, encore plus que de ſes vers. Sur tout, puiſqu'il n'eſt Poëte que par l'imitation, &amp; qu'il imite des actions. Et quand même il luy arriveroit d'étaler ſur la Scene des incidens véritables, il n'en meriteroit pas moins le nom de Poëte, car rien n'empêche que les incidens, qui font arrivez véritablement, n'ayent toute la vray-ſemblance &amp; toute la poſſibilité que l'art demande, &amp; qui font qu'il en peut être regardé comme l'Auteur &amp; le Poëte.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="8">
+          <p><label>8.</label> De toutes les fables &amp; actions ſimples, les Epiſodiques font les plus imparfaites. J'appelle Epiſodique, une fable qui a des Epiſodes, qui ne font liez les uns avec les autres, ny vray-ſemblablement ny neceſſairement. Les méchans Poëtes tombent dans ce défaut par ignorance, &amp; les bons y tombent par trop de complaiſance pour les Acteurs, <pb n="128"/> car, comme il y a toûjours des jalouſies, entre les differentes Troupes de Comediens qui diſputent le prix, les Poëtes, pour faire paroître leurs Acteurs, allongent &amp; violentent leur ſujet, &amp; par conſequent ils font tres ſouvent forcez de corrompre la liaiſon de ſes parties.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="9">
+          <milestone unit="card" n="1452a"/>
+          <p><label>9.</label> La Tragedie n'eſt pas ſeulement l'imitation d'une action entiere; mais encore d'une action qui excite la terreur &amp; la <choice><sic>compaffion</sic><corr>compaſſion</corr></choice>. Or ces deux paſſions viennent de la ſurpriſe, quand les choſes naiſſent les unes des autres contre nôtre attente. Car le merveilleux ſe trouve bien plus dans celles là, que dans celles qui arrivent ſans deſſein &amp; à l'avanture, puiſque même de toutes les occaſions que la fortune conduit, celles qui paroiſſent arriver à deſſein, &amp; par une conduite particuliere, ſont toûjours plus ſurprenantes &amp; plus merveilleuſes, comme ce qui arriva à Argos par la Statuë de Mitys, qui tomba ſur ſon meurtrier, &amp; le tua ſur la place au milieu d'une grande Fête, car il ſemble que cela n'arrive point du tout par accident. Il s'enfuit donc de là neceſſairement, que les fables, où l'on obſervera cette conduite, feront toûjours les plus belles.</p>
+        </div>
+      </div>
+
+<div type="textpart" subtype="chapter" n="10">
+        <pb n="147"/>
+        <head>CHAPITRE DIXIEME.</head>
+          <p>Partage des fables en ſimples &amp; en implexes. Leur définition. Difference des incidens, qui viennent les uns aprés les autres, ou qui naiſſent les uns des autres.</p>
+
+        <div type="textpart" subtype="subchapter" n="1">
+          <milestone unit="card" n="1452a"/>
+          <p><label>1.</label> LEs fables ſont ſimples, ou implexes, car toutes les actions que les fables imitent, ont neceſſairement l'une ou l'autre de ces qualitez.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="2">
+          <p><label>2.</label> J'appelle <choice><sic>fimples</sic><corr>ſimples</corr></choice>, les actions qui étant continues &amp; unies, finiſſent ſans reconnoiſſance &amp; <choice><sic>fans</sic><corr>ſans</corr></choice> péripetie: Et J'appelle implexes, celles qui ont ou la péripetie ou la reconnoiſſance, ou toutes les deux.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="3">
+          <p><label>3.</label> Or l'une &amp; l'autre doivent naître de la conſtitution même du ſujet, de telle maniere, que ce qui précede les produiſe, ou neceſſairement ou <choice><sic>vray-femblablement</sic><corr>vray-ſemblablement</corr></choice>, car il y a une tres grande difference entre des incidens qui naiſſent les uns des autres, &amp; des incidens qui viennent ſimplement les uns aprés les autres.</p>
+        </div>
+      </div>
+
+
+      <div type="textpart" subtype="chapter" n="11">
+        <pb n="150"/>
+        <head>CHAPITRE ONΖΙΕΜΕ.</head>
+          <p>De la péripetie &amp; de la reconnoiſſance. Il y a pluſieurs ſortes de reconnoiſſances. Quelle eſt la plus parfaite, &amp; les conditions qu'elle doit avoir. Elle eſt ou ſimple ou double. Ce que c'eſt dans la fable que la paſſion.</p>
+
+        <div type="textpart" subtype="subchapter" n="1">
+          <milestone unit="card" n="1452a"/>
+          <p><label>1.</label> LA Péripetie eſt un changement de fortune en une fortune contraire, contre ce qu'on avoit attendu, &amp; ce changement arrive ou vray-ſemblablement ou neceſſairement, comme dans l'Edipe de Sophocle; car celuy qui vient pour luy annoncer une nouvelle agreable, &amp; qui doit le délivrer des frayeurs où le jette l'inceſte qu'il craint de commettre avec ſa mere, fait tout le contraire, en luy apprenant qui il eſt; &amp; comme dans le Lyncée de Theodecte, où Lyncée qu'on menoit à la mort, &amp; Danaus qui le ſuivoit pour l'immoler, changent tous deux de fortune car par la ſuite des incidens, il arrive que Danaus <choice><sic>fouffre</sic><corr>ſouffre</corr></choice> la mort qu'il préparoit à Lyncée, &amp; que Lyncée eſt ſauvé.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="2">
+          <milestone unit="card" n="1452b"/>
+          <pb n="151"/>
+          <p><label>2.</label> La reconnoiſſance eſt, comme ſon nom même le témoigne, un changement qui faiſant paſſer de l'ignorance à la connoiſſance, produit ou la haine ou l'amitié dans ceux que le Poëte a deſſein de rendre heureux ou malheureux.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="3">
+          <p><label>3.</label> La plus belle de toutes les reconnoiſſances eſt celle qui ſe trouve avec la Péripetie, comme dans l'Edipe.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="4">
+          <p><label>4.</label> Il y a pluſieurs autres ſortes de reconnoiſſances, car il arrive ſouvent qu'on reconnoît des choſes inanimées, &amp; ce qu'il y a de plus commun. On reconnoît <choice><sic>aufli</sic><corr>auſſi</corr></choice>, par exemple, ce qu'une perſonne a fait, ou ce qu'elle n'a pas fait. Mais celle dont je viens de parler eſt la plus propre à la fable &amp; à l'action, car cette reconnoiſſance accompagnée de la Péripetie, produira immanquablement, ou la compaſſion ou la terreur dont la Tragedie eſt l'imitation, comme nous l'avons établi pour fondement; elle produira encore le bonheur ou le malheur des principaux perſonnages.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="5">
+          <p><label>5.</label> Puis donc que la reconnoiſſance eſt la reconnoiſſance de certaines perſonnes, il faut qu'elle ſoit ou <choice><sic>fimple</sic><corr>ſimple</corr></choice>, ou double. La ſimple eſt quand une perſonne eſt reconnuë par une autre qu'elle connoît; &amp; la double, quand il faut que deux perſonnes qui ne ſe connoiſſent pas, viennent à ſe reconnoître, comme dans l'Iphigenie d'Euripide, où Oreſte reconnoît cette Princeſſe par le moyen d'une lettre, &amp; il faut une autre reconnoiſſance pour faire qu'Oreſte en ſoit connû.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="6">
+          <pb n="152"/>
+          <p><label>6.</label> Outre ces deux parties de la fable qui regardent le ſujet, il y en a encore une troiſiéme que j'appelle la <choice><sic>paffion</sic><corr>paſſion</corr></choice>. On a déja expliqué la reconnoiſſance, &amp; la péripetie. J'appelle paſſion, une action qui détruit quelque perſonnage, ou qui cauſe de violentes douleurs, comme ſont les morts évidentes &amp; certaines, les tourmens, les bleſſures, &amp; toutes les autres choſes ſemblables.</p>
+        </div>
+      </div>
+
+      <div type="textpart" subtype="chapter" n="12">
+        <pb n="158"/>
+        <head>CHAPITRE DOUZIEME.</head>
+     
+          <p>Des parties de quantité de la Tragedie, &amp; leur définition.</p>
+  
+
+        <div type="textpart" subtype="subchapter" n="1">
+          <milestone unit="card" n="1452b"/>
+          <p><label>1.</label> APRE's avoir expliqué les parties qui conſtituent la forme &amp; la qualité de la Tragedie, il faut parler de celles qui conſtituent ſa quantité, &amp; qui ſubſiſtent <choice><sic>feparément</sic><corr>ſeparément</corr></choice>.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="2">
+          <p><label>2.</label> La Tragedie a quatre parties principales, le Prologue, l'Epiſode, l'Exode, le Chœur. Et ce dernier ſe partage encore en trois parties, qu'on appelle Parodos, <choice><sic>Stafimon</sic><corr>Staſimon</corr></choice>, &amp; Commoi. Les deux premieres ſe trouvent dans toutes les pieces; mais la troifiéme n'a lieu qu'en certaines Tragedies, elle <choice><sic>eft</sic><corr>eſt</corr></choice> toûjours mêlée dans l'action, &amp; <choice><sic>eft</sic><corr>eſt</corr></choice> commune aux Acteurs &amp; au Chœur.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="3">
+          <p><label>3.</label> Le Prologue eſt toute cette partie entiere de la Tragedie, qui précede l'entrée du Chœur.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="4">
+          <p><label>4.</label> L'Epiſode, c'eſt tout ce qui <choice><sic>eft</sic><corr>eſt</corr></choice> entre les chants du Chœur.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="5">
+          <p><label>5.</label> L'Exode, eſt tout ce qui eſt dit, aprés que le Chœur a <choice><sic>ceffé</sic><corr>ceſſé</corr></choice> de chanter pour ne plus reprendre.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="6">
+          <p><label>6.</label> Le Parodos, eſt le premier diſcours de tout le Chœur.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="7">
+          <pb n="159"/>
+          <p><label>7.</label> Le Staſimon, eſt tout ce que le Chœur chante, quand il a pris <choice><sic>poffeffion</sic><corr>poſſeſſion</corr></choice> du Theatre, &amp; qu'il <choice><sic>s'eft</sic><corr>s’eſt</corr></choice>, comme incorporé dans l'action. Ce chant <choice><sic>eft</sic><corr>eſt</corr></choice> ſans <choice><sic>Anapefte</sic><corr>Anapeſte</corr></choice> &amp; <choice><sic>fans</sic><corr>ſans</corr></choice> Trochée.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="8">
+          <p><label>8.</label> Commoi, ce font les regrets que font enſemble le Chœur &amp; les Acteurs.</p>
+        </div>
+      </div>
+<div type="textpart" subtype="chapter" n="13">
+        <pb n="172"/>
+        <head>CHAPITRE TREΙΖΙΕΜΕ.</head>
+          <p>Les caractéres que la Tragedie doit choiſir pour être parfaite. Si elle doit étre ſimple ou double, &amp; avoir une Cataſtrophe heureuſe ou funeſte. Difference ſur cela du goût des premiers Atheniens &amp; de celuy des Atheniens du temps d'Ariftote. Dans quelles familles on prenoit le ſujet des plus belles pieces. Euripide défendu contre les Anciens qui l'accuſoient d'être trop Tragique. Le ſuccez de ſes pieces. Diſputes publiques des Poëtes. Une Tragedie pour être bonne doit emporter les ſuffrages des Sçavans &amp; des ignorans. Défauts d'Euripide. Tragedies doubles plus Comiques que Tragiques. Leur origine.</p>
+      
+
+        <div type="textpart" subtype="subchapter" n="1">
+          <milestone unit="card" n="1452b"/>
+          <p><label>1.</label> APre's avoir ſuffiſament expliqué toutes ces parties de la Tragedie, l'ordre veut que nous traitions des choſes qu'un Poëte doit ſuivre ou éviter dans la compoſition d'un ſujet, &amp; du chemin qu'il doit tenir pour arriver au but que ſe propoſe la Tragedie.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="2">
+          <p><label>2.</label> Puiſque la Tragedie, pour avoir toute la beauté dont elle eſt capable, doit être implexe &amp; non pas ſimple, &amp; qu'elle doit exciter la <choice><sic>compaffion</sic><corr>compaſſion</corr></choice> &amp; <pb n="173"/> la terreur, car nous avons déja dit que c'eſt le propre de cette forte d'imitation, c'eſt une conſequence neceſſaire qu'il ne faut pas choiſir un tres honnête homme pour le faire tomber de la proſperité dans l'adverſité, car au lieu d'exciter la terreur ou la compaſſion, cela ne fait que donner de l'horreur, &amp; eſt deteſté de tout le monde.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="3">
+          <p><label>3.</label> Il eſt évident encore qu'il ne faut pas prendre un méchant homme pour le faire paſſer d'un état malheureux à un état heureux &amp; tranquille, Il n'y a rien qui ſoit moins tragique, &amp; on ne voit là aucun des effets de la Tragedie, car outre que cela n'excite, ny la terreur ny la compaſſion, il ne fait aucun <choice><sic>plaifir</sic><corr>plaiſir</corr></choice>.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="4">
+          <p><label>4.</label> Bien plus, on ne doit pas repreſenter les malheurs d'un tres méchant homme. Véritablement une telle repreſentation peut faire quelque <choice><sic>plaifir</sic><corr>plaiſir</corr></choice>; mais elle ne produira ny la crainte ny la pitié, car la premiere naît des malheurs de nos ſemblables &amp; l'autre des miſeres de ceux qui méritoient un meilleur fort. Et par conſequent un tel ſujet n'a rien qui ſoit ny pitoyable ny terrible.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="5">
+          <milestone unit="card" n="1453a"/>
+          <p><label>5.</label> Il ne reſte donc que celuy qui tient le milieu, &amp; qui n'étant ny vicieux, ny juſte dans un ſouverain degré, ne s'attire pas non plus ſes malheurs par ſes méchancetez &amp; par ſes crimes. Il faut choiſir parmy ceux qui ſont dans une fortune éclatante, &amp; dans une grande réputation, quelque perſonnage illuſtre qui ſe ſoit rendu malheureux par quel-<pb n="174"/>que faute involontaire, comme Edipe, Thyeſte, &amp; tous les autres hommes celebres de ces deux familles.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="6">
+          <p><label>6.</label> Il s'enfuit de là neceſſairement, qu'une fable bien compoſée doit être ſimple &amp; non pas double, comme quelques gens l'ont prétendu, &amp; qu'elle doit plûtôt finir par le malheur que par le bonheur des principaux perſonnages, pourvû que ce malheur ſoit la ſuite de quelque grande faute, &amp; non pas l'effet d'une infigne méchanceté. En un mot ce doit être le malheur d'un homme qui ne ſoit, ny méchant ny bon, &amp; ſi on n'en trouve pas un qui ſoit précisément tel, il faut choiſir celuy qui eſt plûtôt bon que méchant.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="7">
+          <p><label>7.</label> Ce que nous voyons aujourd'huy eſt une preuve évidente de cette verité. Les Poëtes mettoient d'abord ſur le Theatre, avec ſuccez, toutes ſortes de ſujets; mais preſentement leurs plus belles pieces, &amp; celles qui réüſſiſſent le mieux ſans contredit ſont celles dont les ſujets ne ſont pris que dans un petit nombre de familles comme dans celles d'Alcmæon, d'Edipe, d'Oreſte, de Meleagre, de Thyeſte, de Telephus, &amp; de tous les autres qui ont fait ou ſouffert des choſes terribles. On peut donc aſſeurer que la plus belle Tragedie, ſelon les regles de l'Art, eſt celle où l'on a obſervé cette conduite.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="8">
+          <p><label>8.</label> C'eſt pourquoy tous ceux qui blâment Euripide de ce qu'il ſuit ces maximes dans ſes Tragedies, <pb n="175"/> &amp; que la plupart de ſes pieces ont une <choice><sic>Cataftrophe</sic><corr>Cataſtrophe</corr></choice> funeſte, ſe trompent infiniment. Au contraire cela eſt parfaitement bien, comme je l'ay déja dit. En voicy une preuve inconteſtable, c'eſt que dans les diſputes publiques, &amp; ſur le Theatre, ces ſortes de Tragedies paroiſſent toûjours les plus tragiques &amp; les plus touchantes, ſi rien d'étranger n'en trouble ou n'en gâte la répreſentation. Et le même Euripide, quoyque d'ailleurs peu exact &amp; peu châtié dans la conduite &amp; la diſpoſition de ſes ſujets, paroît pourtant le plus Tragique de tous les Poëtes.</p>
+        </div>
+
+        <div type="textpart" subtype="subchapter" n="9">
+          <milestone unit="card" n="1453b"/>
+          <p><label>9.</label> La Fable à laquelle je donne le ſecond rang, quoyque d'autres luy ayent donné le premier, c'eſt celle qui a une double conſtitution, comme l'Odyſſée, &amp; qui finit par une double Cataſtrophe, c'est-à-dire, par une Cataſtrophe qui eſt heureuſe pour les bons, &amp; funeſte pour les méchans. Ceux qui l'ont préferée à la premiere, l'ont fait apara-ment à cauſe de la foibleſſe des ſpectateurs, au goût &amp; aux ſouhaits deſquels les Poëtes ſe conforment d'ordinaire. Mais le <choice><sic>plaifir</sic><corr>plaiſir</corr></choice> que donne cette Fable n'eſt pas à beaucoup prés ſi propre à la Tragedie qu'à la Comedie; en effet on voit à la Comedie des ennemis auſſi irréconciliables qu'Oreſte &amp; qu'Egyſthe, devenir à la fin fort bons amis, &amp; ſe retirer ſans qu'il y ait de côté ny d'autre une goute de ſang répandu.</p>
+        </div>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
