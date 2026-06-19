@@ -37,25 +37,25 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fre">French</language>
+        <language ident="fra">French</language>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div type="translation" xml:lang="fre" n="urn:cts:greekLit:tlg0086.tlg034.dacier-fre1">
+      <div type="translation" xml:lang="fra" n="urn:cts:greekLit:tlg0086.tlg034.dacier-fra2">
         
         <div type="textpart" subtype="chapter" n="1">
           <pb n="1"/>
           <head>
-            200 LA POETIQUE D'ARISTOTE. CHAPITRE PREMIER. Deffein de l'Auteur. Toutes les differentes eſpeces de Poësie ne font que des imitations. Les differences qu'il y a entr'elles, &amp; les moyens dont elles ſe ſervent pour parvenir à leur fin. Etenduë du mot Epopée. Abus où l'on est tombé en caracteriſant les Poëtes par la nature de leurs vers.
+            200 LA POETIQUE D'ARISTOTE. CHAPITRE PREMIER. deſſein de l'Auteur. Toutes les differentes eſpeces de Poësie ne font que des imitations. Les differences qu'il y a entr'elles, &amp; les moyens dont elles ſe ſervent pour parvenir à leur fin. Etenduë du mot Epopée. Abus où l'on est tombé en caracteriſant les Poëtes par la nature de leurs vers.
           </head>
 
           <div type="textpart" subtype="subchapter" n="1">
             <p>
               <milestone unit="card" n="1"/>
-              1. <choice><sic>A YANT</sic><corr>AYANT</corr></choice> deffein de traiter de la Poësie en general, de ſes differentes eſpeces, &amp; des effets de chacune d'elles en particulier ; d'expliquer le nombre &amp; la qualité de toutes ſes parties; de montrer de quelle maniere il faut <choice><sic>conftituer</sic><corr>conſtituer</corr></choice> un ſujet pour faire un bon Poëme,
+              1. AYANT deſſein de traiter de la Poësie en general, de ſes differentes eſpeces, &amp; des effets de chacune d'elles en particulier ; d'expliquer le nombre &amp; la qualité de toutes ſes parties; de montrer de quelle maniere il faut <choice><sic>conftituer</sic><corr>conſtituer</corr></choice> un ſujet pour faire un bon Poëme,
               <pb n="2"/>
               2 LA POETIQUE 1 &amp; de ne rien oublier de ce qui concerne cet Art, j'imiteray la Nature, &amp; commenceray d'abord par les premiers traits.
             </p>
@@ -94,7 +94,7 @@
               <milestone unit="card" n="6"/>
               6. Je donne au mot Epopée une ſignification 
               <pb n="3"/>
-             fort étenduë : car autrement nous n'aurions pas de mot géneral qui comprît les Mimes de Sophron, &amp; ceux de Xenarchus, les dialogues de Socrate &amp; toutes les autres imitations qu'on pourroit faire ſoit en vers ïambes, ou en vers élegiaques, ou en quelque autre forte de vers. Il eſt vray que les hommes <choice><sic>diftinguent</sic><corr>diſtinguent</corr></choice> ordinairement les Poëtes par la ſeule différence de leurs vers, en appellant les uns Poëtes Elegiaques, &amp; les autres Poëtes Epiques ou Heroïques, ſans avoir aucun égard à la nature de leur imitation; juſques-là même qu'ils donneront le nom de Poëte Epique ou Heroïque à celuy qui traitera de la Phyſique ou de la Medecine en vers hexamètres. Cependant il n'y a rien de commun entre Homere &amp; Empedocle que les vers : voilà pourquoy il ſeroit bien plus juſte d'appeller le premier un Poëte, &amp; le ſecond un Phyſicien. En effet ſi quelqu'un <choice><sic>s'a- viſoit</sic><corr>s'aviſoit</corr></choice> de faire un poëme en meſlant enſemble toutes les differentes fortes de vers, comme Cheremon fit ſon Centaure, on ſeroit reduit par cette méthode à ne pouvoir luy donner le nom de Poëte. En voilà aſſez fur ce ſujet.
+             fort étenduë : car autrement nous n'aurions pas de mot géneral qui comprît les Mimes de Sophron, &amp; ceux de Xenarchus, les dialogues de Socrate &amp; toutes les autres imitations qu'on pourroit faire ſoit en vers ïambes, ou en vers élegiaques, ou en quelque autre ſorte de vers. Il eſt vray que les hommes <choice><sic>diftinguent</sic><corr>diſtinguent</corr></choice> ordinairement les Poëtes par la ſeule différence de leurs vers, en appellant les uns Poëtes Elegiaques, &amp; les autres Poëtes Epiques ou Heroïques, ſans avoir aucun égard à la nature de leur imitation; juſques-là même qu'ils donneront le nom de Poëte Epique ou Heroïque à celuy qui traitera de la Phyſique ou de la Medecine en vers hexamètres. Cependant il n'y a rien de commun entre Homere &amp; Empedocle que les vers : voilà pourquoy il ſeroit bien plus juſte d'appeller le premier un Poëte, &amp; le ſecond un Phyſicien. En effet ſi quelqu'un s'aviſoit de faire un poëme en meſlant enſemble toutes les differentes fortes de vers, comme Cheremon fit ſon Centaure, on ſeroit reduit par cette méthode à ne pouvoir luy donner le nom de Poëte. En voilà aſſez fur ce ſujet.
             </p>
           </div>
 
@@ -114,7 +114,7 @@
     <div type="textpart" subtype="subchapter" n="1">
         <milestone unit="card" n="1448a"/>
         <p>
-            <choice><sic>C O M M E</sic><corr>COMME</corr></choice> tous ceux qui imitent, imitent des actions, &amp; qu'il eſt <choice><sic>impoffi- ble</sic><corr>impoſſible</corr></choice> que ces actions ne <choice><sic>foient</sic><corr>ſoient</corr></choice> ou bonnes ou mauvaiſes, car les mœurs ne peuvent être <choice><sic>diftinguées</sic><corr>diſtinguées</corr></choice> que par ces deux qualitez, &amp; les hommes ne different entre eux que par la vertu ou par le vice, il s'enfuit <choice><sic>neceſſaire- ment</sic><corr>neceſſairement</corr></choice> de là que les Poëtes dans leur imitation font les hommes ou meilleurs par rapport à nous, ou plus méchans, ou ſemblables, tout de même que les Peintres. En effet Polygnotus peignoit les hommes meilleurs; <choice><sic>Pauſon</sic><corr>Pauſon</corr></choice> les peignoit plus méchans, &amp; Denys les faiſoit ſemblables. Et il eſt évident que ces differences ne peuvent pas manquer de ſe trouver dans chacune des imitations dont on vient de parler qui font toutes differentes par les differens ſujets qu'elles <choice><sic>reprefentent</sic><corr>repreſentent</corr></choice>.
+            COMME tous ceux qui imitent, imitent des actions, &amp; qu'il eſt <choice><sic>impoffi- ble</sic><corr>impoſſible</corr></choice> que ces actions ne <choice><sic>foient</sic><corr>ſoient</corr></choice> ou bonnes ou mauvaiſes, car les mœurs ne peuvent être <choice><sic>diftinguées</sic><corr>diſtinguées</corr></choice> que par ces deux qualitez, &amp; les hommes ne different entre eux que par la vertu ou par le vice, il s'enfuit <choice><sic>neceſſaire- ment</sic><corr>neceſſairement</corr></choice> de là que les Poëtes dans leur imitation font les hommes ou meilleurs par rapport à nous, ou plus méchans, ou ſemblables, tout de même que les Peintres. En effet Polygnotus peignoit les hommes meilleurs; <choice><sic>Pauſon</sic><corr>Pauſon</corr></choice> les peignoit plus méchans, &amp; Denys les faiſoit ſemblables. Et il eſt évident que ces differences ne peuvent pas manquer de ſe trouver dans chacune des imitations dont on vient de parler qui font toutes differentes par les differens ſujets qu'elles <choice><sic>reprefentent</sic><corr>repreſentent</corr></choice>.
         </p>
     </div>
     
@@ -122,7 +122,7 @@
         <p>
             2. Les mêmes differences ſe trouvent auſſi dans la 
             <pb n="17"/>
-            danſe, dans les airs de flute, dans les pieces de lyre &amp; de tous les autres <choice><sic>inftrumens</sic><corr>inſtrumens</corr></choice>, &amp; dans tous les ouvrages en proſe ou en vers. Par exemple, Homere a fait les hommes meilleurs, Cleophon les a fait tels qu'ils font, &amp; Egemon de Thaſos qui a été l'inventeur des parodies, &amp; Nicochares Auteur de la Deliade les ont fait plus méchans. Il en <choice><sic>eft</sic><corr>eſt</corr></choice> de même des Poëtes qui ont compoſé des Dithyrambes &amp; des Nomes. C'eſt ainſi que Timothée &amp; que Philoxene ont imité les Perſes &amp; les Cyclopes dans les pieces qui portent ce nom. Et c'eſt cela même qui <choice><sic>conftitue</sic><corr>conſtitue</corr></choice> la difference qui <choice><sic>eft</sic><corr>eſt</corr></choice> entre la Tragedie &amp; la Comedie, car la premiere <choice><sic>repreſente</sic><corr>repreſente</corr></choice> les hommes meilleurs &amp; l'autre les <choice><sic>repreſente</sic><corr>repreſente</corr></choice> plus méchans.
+            danſe, dans les airs de flute, dans les pieces de lyre &amp; de tous les autres <choice><sic>inftrumens</sic><corr>inſtrumens</corr></choice>, &amp; dans tous les ouvrages en proſe ou en vers. Par exemple, Homere a fait les hommes meilleurs, Cleophon les a fait tels qu'ils font, &amp; Egemon de Thaſos qui a été l'inventeur des parodies, &amp; Nicochares Auteur de la Deliade les ont fait plus méchans. Il en eſt de même des Poëtes qui ont compoſé des Dithyrambes &amp; des Nomes. C'eſt ainſi que Timothée &amp; que Philoxene ont imité les Perſes &amp; les Cyclopes dans les pieces qui portent ce nom. Et c'eſt cela même qui <choice><sic>conftitue</sic><corr>conſtitue</corr></choice> la difference qui <choice><sic>eft</sic><corr>eſt</corr></choice> entre la Tragedie &amp; la Comedie, car la premiere <choice><sic>repreſente</sic><corr>repreſente</corr></choice> les hommes meilleurs &amp; l'autre les <choice><sic>repreſente</sic><corr>repreſente</corr></choice> plus méchans.
         </p>
     </div>
 </div>
@@ -663,7 +663,7 @@
 
         <div type="textpart" subtype="subchapter" n="1">
           <milestone unit="card" n="1452b"/>
-          <p><label>1.</label> APre's avoir ſuffiſament expliqué toutes ces parties de la Tragedie, l'ordre veut que nous traitions des choſes qu'un Poëte doit ſuivre ou éviter dans la compoſition d'un ſujet, &amp; du chemin qu'il doit tenir pour arriver au but que ſe propoſe la Tragedie.</p>
+          <p><label>1.</label> Apres avoir ſuffiſament expliqué toutes ces parties de la Tragedie, l'ordre veut que nous traitions des choſes qu'un Poëte doit ſuivre ou éviter dans la compoſition d'un ſujet, &amp; du chemin qu'il doit tenir pour arriver au but que ſe propoſe la Tragedie.</p>
         </div>
 
         <div type="textpart" subtype="subchapter" n="2">
