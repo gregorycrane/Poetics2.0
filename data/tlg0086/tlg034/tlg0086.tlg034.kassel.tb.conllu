@@ -847,7 +847,7 @@
 35	ἐνεργοῦντας	ἐνεργέω	VERB	v-pppama-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	33	conj	_	gloss=doing|Ref=3.2
 36	†	†	PUNCT	u--------	_	38	punct	_	gloss=†|Ref=3.2
 37	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	38	det	_	gloss=the|Ref=3.2
-38	μιμουμένους	μιμέομαι	VERB	v-pppe	ma-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	31	appos	_	gloss=imitating-ones|Ref=3.2
+38	μιμουμένους	μιμέομαι	VERB	v-pppe ma-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	31	appos	_	gloss=imitating-ones|Ref=3.2
 39	†	†	PUNCT	u--------	_	38	punct	_	gloss=†|Ref=3.2
 40	.	.	PUNCT	u--------	_	10	punct	_	gloss=.|Ref=3.2
 
@@ -1205,7 +1205,7 @@
 8	,	,	PUNCT	u--------	_	10	punct	_	gloss=,|Ref=4.5
 9	ὅτι	ὅτι	SCONJ	c--------	_	10	mark	_	gloss=because|Ref=4.5
 10	συμβαίνει	συμβαίνει	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	gloss=it-happens|Ref=4.5
-11	θεωροῦντας	θεωροῦντας	VERB	v-pppam	a-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	gloss=beholding|Ref=4.5
+11	θεωροῦντας	θεωροῦντας	VERB	v-pppam a-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	gloss=beholding|Ref=4.5
 12	μανθάνειν	μανθάνειν	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	10	csubj	_	gloss=to-learn|Ref=4.5
 13	καὶ	καὶ	CCONJ	b--------	_	14	cc	_	gloss=and|Ref=4.5
 14	συλλογίζεσθαι	συλλογίζεσθαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	12	conj	_	gloss=to-infer|Ref=4.5
@@ -1878,30 +1878,30 @@
 # translation_lang = en
 # prose_translation = Comedy is, as we have said, an imitation of characters of a lower type, not, however, in the full sense of the word bad, but the ridiculous is a part of the ugly.
 # literal_translation = The but comedy is as-if we-said imitation of-meaner indeed, not however according-to all badness, but of-the ugly is the ridiculous part.
-1	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_  	gloss=the|Ref=5.1
-2	δὲ	δέ	CCONJ	b--------	_	6	cc	_  	gloss=but|Ref=5.1
-3	κωμῳδία	κωμῳδία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_  	gloss=comedy|Ref=5.1
-4	ἐστὶν	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_ 		gloss=is|Ref=5.1
-5	ὥσπερ	ὥσπερ	ADV	d--------	_	6	advmod	_ 		gloss=as-if|Ref=5.1
-6	εἴπομεν	εἶπον	VERB	v1paia---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_  	gloss=we-said|Ref=5.1
-7	μίμησις	μίμησις	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_  	gloss=imitation|Ref=5.1
-8	φαυλοτέρων	φαῦλος	ADJ	a-p---mgc	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur	7	nmod	_  	gloss=of-meaner|Ref=5.1
-9	μέν	μέν	ADV	d--------	_	6	advmod	_  	gloss=indeed|Ref=5.1
-10	,	,	PUNCT	u--------	_	11	punct	_  	gloss=,|Ref=5.1
-11	οὐ	οὐ	ADV	d--------	_	15	advmod	_  	gloss=not|Ref=5.1
-12	μέντοι	μέντοι	ADV	d--------	_	11	advmod	_  	gloss=however|Ref=5.1
-13	κατὰ	κατά	ADP	r--------	_	15	case	_  	gloss=according-to|Ref=5.1
-14	πᾶσαν	πᾶς	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	amod	_  	gloss=all|Ref=5.1
-15	κακίαν	κακία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_  	gloss=badness|Ref=5.1
-16	,	,	PUNCT	u--------	_	22	punct	_  	gloss=,|Ref=5.1
-17	ἀλλὰ	ἀλλά	CCONJ	b--------	_	22	cc	_  	gloss=but|Ref=5.1
-18	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_  	gloss=the|Ref=5.1
-19	αἰσχροῦ	αἰσχρός	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	22	nmod	_  	gloss=of-the-ugly|Ref=5.1
-20	ἐστι	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_  	gloss=is|Ref=5.1
-21	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_  	gloss=the|Ref=5.1
-22	γελοῖον	γελοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	conj	_  	gloss=ridiculous|Ref=5.1
-23	μόριον	μόριον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_  	gloss=part|Ref=5.1
-24	.	.	PUNCT	u--------	_	6	punct	_  	gloss=.|Ref=5.1
+1	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	gloss=the|Ref=5.1
+2	δὲ	δέ	CCONJ	b--------	_	6	cc	_	gloss=but|Ref=5.1
+3	κωμῳδία	κωμῳδία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	gloss=comedy|Ref=5.1
+4	ἐστὶν	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	gloss=is|Ref=5.1
+5	ὥσπερ	ὥσπερ	ADV	d--------	_	6	advmod	_	gloss=as-if|Ref=5.1
+6	εἴπομεν	εἶπον	VERB	v1paia---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	gloss=we-said|Ref=5.1
+7	μίμησις	μίμησις	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_	gloss=imitation|Ref=5.1
+8	φαυλοτέρων	φαῦλος	ADJ	a-p---mgc	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur	7	nmod	_	gloss=of-meaner|Ref=5.1
+9	μέν	μέν	ADV	d--------	_	6	advmod	_	gloss=indeed|Ref=5.1
+10	,	,	PUNCT	u--------	_	11	punct	_	gloss=,|Ref=5.1
+11	οὐ	οὐ	ADV	d--------	_	15	advmod	_	gloss=not|Ref=5.1
+12	μέντοι	μέντοι	ADV	d--------	_	11	advmod	_	gloss=however|Ref=5.1
+13	κατὰ	κατά	ADP	r--------	_	15	case	_	gloss=according-to|Ref=5.1
+14	πᾶσαν	πᾶς	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	gloss=all|Ref=5.1
+15	κακίαν	κακία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	gloss=badness|Ref=5.1
+16	,	,	PUNCT	u--------	_	22	punct	_	gloss=,|Ref=5.1
+17	ἀλλὰ	ἀλλά	CCONJ	b--------	_	22	cc	_	gloss=but|Ref=5.1
+18	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	gloss=the|Ref=5.1
+19	αἰσχροῦ	αἰσχρός	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	gloss=of-the-ugly|Ref=5.1
+20	ἐστι	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	gloss=is|Ref=5.1
+21	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	gloss=the|Ref=5.1
+22	γελοῖον	γελοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	conj	_	gloss=ridiculous|Ref=5.1
+23	μόριον	μόριον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	gloss=part|Ref=5.1
+24	.	.	PUNCT	u--------	_	6	punct	_	gloss=.|Ref=5.1
 
 # sentence_id = 55
 # document_id = 0086-034
@@ -1909,31 +1909,31 @@
 # translation_lang = en
 # prose_translation = For the ridiculous consists in some defect or ugliness which is not painful or destructive, as for instance the comic mask is ugly and distorted without being painful.
 # literal_translation = The for ridiculous is mistake certain and ugliness painless and not destructive, such-as immediately the ridiculous face ugly certain and distorted without of-pain.
-1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_  	gloss=the|Ref=5.2
-2	γὰρ	γάρ	ADV	d--------	_	4	advmod	_  	gloss=for|Ref=5.2
-3	γελοῖόν	γελοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_  	gloss=ridiculous|Ref=5.2
-4	ἐστιν	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_  	gloss=is|Ref=5.2
-5	ἁμάρτημά	ἁμάρτημα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	xcomp	_  	gloss=mistake|Ref=5.2
-6	τι	τις	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	det	_  	gloss=certain|Ref=5.2
-7	καὶ	καί	CCONJ	b--------	_	8	cc	_  	gloss=and|Ref=5.2
-8	αἶσχος	αἶσχος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	conj	_  	gloss=ugliness|Ref=5.2
-9	ἀνώδυνον	ἀνώδυνος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	amod	_  	gloss=painless|Ref=5.2
-10	καὶ	καί	CCONJ	b--------	_	12	cc	_  	gloss=and|Ref=5.2
-11	οὐ	οὐ	ADV	d--------	_	12	advmod	_  	gloss=not|Ref=5.2
-12	φθαρτικόν	φθαρτικός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	9	conj	_  	gloss=destructive|Ref=5.2
-13	,	,	PUNCT	u--------	_	17	punct	_  	gloss=,|Ref=5.2
-14	οἷον	οἷος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	17	advmod	_  	gloss=such-as|Ref=5.2
-15	εὐθὺς	εὐθύς	ADV	d--------	_	17	advmod	_  	gloss=immediately|Ref=5.2
-16	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_  	gloss=the|Ref=5.2
-17	γελοῖον	γελοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	advcl	_  	gloss=ridiculous|Ref=5.2
-18	πρόσωπον	πρόσωπον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_  	gloss=face|Ref=5.2
-19	αἰσχρόν	αἰσχρός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	17	xcomp	_  	gloss=ugly|Ref=5.2
-20	τι	τις	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	19	det	_  	gloss=certain|Ref=5.2
-21	καὶ	καί	CCONJ	b--------	_	22	cc	_  	gloss=and|Ref=5.2
-22	διεστραμμένον	διαστρέφω	VERB	v-srpenn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	conj	_  	gloss=distorted|Ref=5.2
-23	ἄνευ	ἄνευ	ADP	r--------	_	24	case	_  	gloss=without|Ref=5.2
-24	ὀδύνης	ὀδύνη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	19	obl	_  	gloss=of-pain|Ref=5.2
-25	.	.	PUNCT	u--------	_	4	punct	_  	gloss=.|Ref=5.2
+1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	gloss=the|Ref=5.2
+2	γὰρ	γάρ	ADV	d--------	_	4	advmod	_	gloss=for|Ref=5.2
+3	γελοῖόν	γελοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	gloss=ridiculous|Ref=5.2
+4	ἐστιν	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	gloss=is|Ref=5.2
+5	ἁμάρτημά	ἁμάρτημα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	xcomp	_	gloss=mistake|Ref=5.2
+6	τι	τις	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	det	_	gloss=certain|Ref=5.2
+7	καὶ	καί	CCONJ	b--------	_	8	cc	_	gloss=and|Ref=5.2
+8	αἶσχος	αἶσχος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	gloss=ugliness|Ref=5.2
+9	ἀνώδυνον	ἀνώδυνος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	gloss=painless|Ref=5.2
+10	καὶ	καί	CCONJ	b--------	_	12	cc	_	gloss=and|Ref=5.2
+11	οὐ	οὐ	ADV	d--------	_	12	advmod	_	gloss=not|Ref=5.2
+12	φθαρτικόν	φθαρτικός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	gloss=destructive|Ref=5.2
+13	,	,	PUNCT	u--------	_	17	punct	_	gloss=,|Ref=5.2
+14	οἷον	οἷος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	17	advmod	_	gloss=such-as|Ref=5.2
+15	εὐθὺς	εὐθύς	ADV	d--------	_	17	advmod	_	gloss=immediately|Ref=5.2
+16	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	gloss=the|Ref=5.2
+17	γελοῖον	γελοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	advcl	_	gloss=ridiculous|Ref=5.2
+18	πρόσωπον	πρόσωπον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	gloss=face|Ref=5.2
+19	αἰσχρόν	αἰσχρός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	17	xcomp	_	gloss=ugly|Ref=5.2
+20	τι	τις	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	19	det	_	gloss=certain|Ref=5.2
+21	καὶ	καί	CCONJ	b--------	_	22	cc	_	gloss=and|Ref=5.2
+22	διεστραμμένον	διαστρέφω	VERB	v-srpenn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	conj	_	gloss=distorted|Ref=5.2
+23	ἄνευ	ἄνευ	ADP	r--------	_	24	case	_	gloss=without|Ref=5.2
+24	ὀδύνης	ὀδύνη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	19	obl	_	gloss=of-pain|Ref=5.2
+25	.	.	PUNCT	u--------	_	4	punct	_	gloss=.|Ref=5.2
 
 # sentence_id = 56
 # document_id = 0086-034
@@ -2304,7 +2304,7 @@
 35	τοιούτων	τοιοῦτος	PRON	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	36	det	_	gloss=such|Ref=6.2
 36	παθημάτων	πάθημα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	37	nmod	_	gloss=sufferings|Ref=6.2
 37	κάθαρσιν	κάθαρσις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	32	obj	_	gloss=purgation|Ref=6.2
-38	.	.	PUNCT	u--------	_	4	punct	_	gloss=.	|Ref=6.2
+38	.	.	PUNCT	u--------	_	4	punct	_	gloss=. |Ref=6.2
 
 # sentence_id = 69
 # document_id = 0086-034
@@ -2600,7 +2600,7 @@
 23	παρὰ	παρά	ADP	r--------	_	24	case	_	gloss=beside|Ref=6.10
 24	ταῦτα	οὗτος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	25	obl	_	gloss=these|Ref=6.10
 25	οὐδέν	οὐδείς	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	conj	_	gloss=nothing|Ref=6.10
-26	.	.	PUNCT	u--------	_	7	punct	_	gloss=.	|Ref=6.10
+26	.	.	PUNCT	u--------	_	7	punct	_	gloss=. |Ref=6.10
 
 # sentence_id = 77
 # document_id = 0086-034
@@ -4720,7 +4720,7 @@
 5	εἶναι	εἰμί	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	cop	_	gloss=to-be|Ref=9.13
 6	καλλίους	καλός	ADJ	a-p---mac	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	gloss=more-beautiful|Ref=9.13
 7	μύθους	μῦθος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	nsubj	_	gloss=plots|Ref=9.13
-8	.	.	PUNCT	u--------	_	2	punct	_	gloss=.	|Ref=9.13
+8	.	.	PUNCT	u--------	_	2	punct	_	gloss=. |Ref=9.13
 
 # sentence_id = 124
 # document_id = 0086-034
@@ -12676,7 +12676,7 @@
 14	,	,	PUNCT	u--------	_	13	punct	_	gloss=,|Ref=25.1
 15	ὧδ’	ὧδε	ADV	d--------	_	18	advmod	_	gloss=thus|Ref=25.1
 16	ἂν	ἄν	ADV	g--------	_	18	advmod	_	gloss=would|Ref=25.1
-17	θεωροῦσιν	θεωρέω	VERB	v-pppam	d	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	gloss=considering|Ref=25.1
+17	θεωροῦσιν	θεωρέω	VERB	v-pppam d	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	gloss=considering|Ref=25.1
 18	γένοιτ’	γίγνομαι	VERB	v3saoa---	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	gloss=become|Ref=25.1
 19	ἂν	ἄν	ADV	g--------	_	18	advmod	_	gloss=would|Ref=25.1
 20	φανερόν	φανερός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	gloss=clear|Ref=25.1
